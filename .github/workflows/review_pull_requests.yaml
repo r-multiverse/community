@@ -28,13 +28,13 @@ jobs:
           OWNER: ${{ secrets.R_RELEASES_OWNER }}
         run: |
           install.packages("remotes")
-          remotes::install_github(file.path(Sys.getenv("OWNER"), "r.releases.utils"))
+          remotes::install_github("r-releases/r.releases.utils")
         shell: Rscript {0}
 
       - name: Review pull requests
         run: |
           r.releases.utils::review_pull_requests(
-            owner = ${{ secrets.R_RELEASES_OWNER }},
+            owner = "r-releases",
             repo = "r-releases"
           )
         shell: Rscript {0}
