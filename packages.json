@@ -1,0 +1,7 @@
+[
+  {
+    "package": "jsonlite",
+    "url": "https://github.com/jeroen/jsonlite",
+    "branch": "*release"
+  }
+]

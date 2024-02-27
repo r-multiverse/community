@@ -1,0 +1,57 @@
+name: build_universe
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  build_universe:
+    runs-on: ubuntu-latest
+
+    env:
+      GITHUB_PAT: ${{ secrets.R_RELEASES_TOKEN }}
+      R_KEEP_PKG_SOURCE: yes
+
+    steps:
+      - name: Check out the r-releases universe.
+        uses: actions/checkout@v4
+    
+      - name: Check out the r-releases universe.
+        uses: actions/checkout@v4
+        with:
+          repository: '${{ secrets.R_RELEASES_OWNER }}'
+          path: 'r-releases'
+    
+      - name: Configure Git.
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+
+      - name: Install R.
+        uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+
+      - name: Install r.releases.utils
+        env:
+          OWNER: ${{ secrets.R_RELEASES_OWNER }}
+        run: |
+          install.packages("remotes")
+          remotes::install_github(file.path(Sys.getenv("OWNER"), "r.releases.utils"))
+        shell: Rscript {0}
+
+      - name: Build packages.json
+        run: |
+          r.releases.utils::build_universe(
+            input = file.path("r-releases", "packages"),
+            output = "packages.json"
+          )
+        shell: Rscript {0}
+
+      - name: Deploy to main branch
+        if: github.event_name != 'pull_request'
+        uses: JamesIves/github-pages-deploy-action@v4.4.1
+        with:
+          clean: false
+          branch: main
+          folder: .
