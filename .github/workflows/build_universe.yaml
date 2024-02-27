@@ -35,7 +35,7 @@ jobs:
       - name: Install r.releases.utils
         run: |
           install.packages("remotes")
-          remotes::install_github("r-releases/r.releases.utils"))
+          remotes::install_github("r-releases/r.releases.utils")
         shell: Rscript {0}
 
       - name: Build packages.json
