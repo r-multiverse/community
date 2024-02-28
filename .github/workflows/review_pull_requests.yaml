@@ -6,7 +6,7 @@ on:
 
 jobs:
   review_pull_requests:
-    runs-on: ubuntu-latest
+    runs-on: macOS-latest
 
     steps:
       - name: Generate GitHub installation access token.
@@ -28,7 +28,8 @@ jobs:
         run: |
           install.packages(
             pkgs = "r.releases.utils",
-            repos = c("${{ github.repository_owner }}.r-universe.dev", "https://cloud.r-project.org")
+            repos = "${{ github.repository_owner }}.r-universe.dev",
+            type = "binary"
           )
         shell: Rscript {0}
 

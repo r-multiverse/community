@@ -6,7 +6,7 @@ on:
 
 jobs:
   build_universe:
-    runs-on: ubuntu-latest
+    runs-on: macOS-latest
 
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
@@ -31,7 +31,8 @@ jobs:
         run: |
           install.packages(
             pkgs = "r.releases.utils",
-            repos = c("${{ github.repository_owner }}.r-universe.dev", "https://cloud.r-project.org")
+            repos = "${{ github.repository_owner }}.r-universe.dev",
+            type = "binary"
           )
         shell: Rscript {0}
 
