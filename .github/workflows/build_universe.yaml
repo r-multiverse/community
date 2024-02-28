@@ -3,7 +3,7 @@ name: build_universe
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '20 * * * *'
 
 jobs:
   build_universe:
