@@ -26,8 +26,7 @@ jobs:
         env:
           GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          install.packages("remotes")
-          remotes::install_github("${{ github.repository_owner }}/r.releases.utils")
+          install.packages("r.releases.utils", repos = "${{ github.repository_owner }}.r-universe.dev")
         shell: Rscript {0}
 
       - name: Review pull requests
