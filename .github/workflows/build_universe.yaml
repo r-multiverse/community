@@ -31,7 +31,7 @@ jobs:
         run: |
           install.packages(
             pkgs = "r.releases.utils",
-            repos = "${{ github.repository_owner }}.r-universe.dev",
+            repos = "https://${{ github.repository_owner }}.r-universe.dev",
             type = "binary"
           )
         shell: Rscript {0}
