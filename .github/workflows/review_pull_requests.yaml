@@ -26,7 +26,10 @@ jobs:
         env:
           GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          install.packages("r.releases.utils", repos = "${{ github.repository_owner }}.r-universe.dev")
+          install.packages(
+            pkgs = "r.releases.utils",
+            repos = c("${{ github.repository_owner }}.r-universe.dev", "https://cloud.r-project.org")
+          )
         shell: Rscript {0}
 
       - name: Review pull requests
