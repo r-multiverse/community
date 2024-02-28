@@ -19,7 +19,7 @@ jobs:
       - name: Check out r-releases.
         uses: actions/checkout@v4
         with:
-          repository: 'r-releases/r-releases'
+          repository: '${{ github.repository_owner }}/r-releases'
           path: 'r-releases'
     
       - name: Configure Git.
@@ -32,16 +32,16 @@ jobs:
         with:
           use-public-rspm: true
 
-      - name: Install r.releases.utils
+      - name: Install helper R package.
         run: |
           install.packages("remotes")
-          remotes::install_github("r-releases/r.releases.utils")
+          remotes::install_github("${{ github.repository_owner }}/r.releases.utils")
         shell: Rscript {0}
 
       - name: Build packages.json
         run: |
           r.releases.utils::build_universe(
-            input = file.path("r-releases", "packages"),
+            input = file.path("${{ github.repository_owner }}", "packages"),
             output = "packages.json"
           )
         shell: Rscript {0}
