@@ -13,8 +13,8 @@ jobs:
         uses: actions/create-github-app-token@v1.8.1
         id: app-token
         with:
-          app-id: ${{ vars.APP_ID }}
-          private-key: ${{ secrets.PRIVATE_KEY }}
+          app-id: ${{ vars.R_RELEASES_APP_ID }}
+          private-key: ${{ secrets.R_RELEASES_APP_PRIVATE_KEY }}
           owner: ${{ github.repository_owner }}
 
       - name: Install R.
