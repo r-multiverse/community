@@ -10,6 +10,11 @@
     "branch": "*release"
   },
   {
+    "package": "BioCor",
+    "url": "https://github.com/llrs/BioCor",
+    "branch": "*release"
+  },
+  {
     "package": "bit",
     "url": "https://github.com/truecluster/bit",
     "branch": "*release"
