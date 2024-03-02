@@ -487,6 +487,11 @@
     "branch": "*release"
   },
   {
+    "package": "tidyr",
+    "url": "https://github.com/tidyverse/tidyr",
+    "branch": "*release"
+  },
+  {
     "package": "tinytex",
     "url": "https://github.com/rstudio/tinytex",
     "branch": "*release"
