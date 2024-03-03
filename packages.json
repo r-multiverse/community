@@ -5,6 +5,11 @@
     "branch": "*release"
   },
   {
+    "package": "base64enc",
+    "url": "https://github.com/cran/base64enc",
+    "branch": "*release"
+  },
+  {
     "package": "BaseSet",
     "url": "https://github.com/ropensci/BaseSet",
     "branch": "*release"
@@ -100,6 +105,11 @@
     "branch": "*release"
   },
   {
+    "package": "fontawesome",
+    "url": "https://github.com/rstudio/fontawesome",
+    "branch": "*release"
+  },
+  {
     "package": "fs",
     "url": "https://github.com/r-lib/fs",
     "branch": "*release"
@@ -137,6 +147,11 @@
   {
     "package": "highr",
     "url": "https://github.com/yihui/highr",
+    "branch": "*release"
+  },
+  {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools",
     "branch": "*release"
   },
   {
@@ -452,6 +467,11 @@
     "branch": "*release"
   },
   {
+    "package": "shiny",
+    "url": "https://github.com/rstudio/shiny",
+    "branch": "*release"
+  },
+  {
     "package": "stringi",
     "url": "https://github.com/gagolews/stringi",
     "branch": "*release"
@@ -524,6 +544,11 @@
   {
     "package": "xml2",
     "url": "https://github.com/r-lib/xml2",
+    "branch": "*release"
+  },
+  {
+    "package": "xtable",
+    "url": "https://github.com/cran/xtable",
     "branch": "*release"
   },
   {
