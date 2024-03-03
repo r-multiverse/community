@@ -463,6 +463,11 @@
     "branch": "*release"
   },
   {
+    "package": "rprojroot",
+    "url": "https://github.com/r-lib/rprojroot",
+    "branch": "*release"
+  },
+  {
     "package": "safetensors",
     "url": "https://github.com/mlverse/safetensors",
     "branch": "*release"
