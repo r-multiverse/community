@@ -1,5 +1,11 @@
 [
   {
+    "package": "arrow",
+    "url": "https://github.com/apache/arrow",
+    "subdir": "r",
+    "branch": "*release"
+  },
+  {
     "package": "askpass",
     "url": "https://github.com/r-lib/askpass",
     "branch": "*release"
@@ -57,6 +63,11 @@
   {
     "package": "cpp11",
     "url": "https://github.com/r-lib/cpp11",
+    "branch": "*release"
+  },
+  {
+    "package": "crayon",
+    "url": "https://github.com/r-lib/crayon",
     "branch": "*release"
   },
   {
@@ -247,134 +258,134 @@
   {
     "package": "paws",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws"
+    "subdir": "cran/paws",
+    "branch": "*release"
   },
   {
     "package": "paws.analytics",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.analytics"
+    "subdir": "cran/paws.analytics",
+    "branch": "*release"
   },
   {
     "package": "paws.application.integration",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.application.integration"
+    "subdir": "cran/paws.application.integration",
+    "branch": "*release"
   },
   {
     "package": "paws.business.applications",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.business.applications"
+    "subdir": "cran/paws.business.applications",
+    "branch": "*release"
   },
   {
     "package": "paws.common",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "paws.common"
+    "subdir": "paws.common",
+    "branch": "*release"
   },
   {
     "package": "paws.compute",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.compute"
+    "subdir": "cran/paws.compute",
+    "branch": "*release"
   },
   {
     "package": "paws.cost.management",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.cost.management"
+    "subdir": "cran/paws.cost.management",
+    "branch": "*release"
   },
   {
     "package": "paws.customer.engagement",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.customer.engagement"
+    "subdir": "cran/paws.customer.engagement",
+    "branch": "*release"
   },
   {
     "package": "paws.database",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.database"
+    "subdir": "cran/paws.database",
+    "branch": "*release"
   },
   {
     "package": "paws.developer.tools",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.developer.tools"
+    "subdir": "cran/paws.developer.tools",
+    "branch": "*release"
   },
   {
     "package": "paws.end.user.computing",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.end.user.computing"
+    "subdir": "cran/paws.end.user.computing",
+    "branch": "*release"
   },
   {
     "package": "paws.game.development",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.game.development"
+    "subdir": "cran/paws.game.development",
+    "branch": "*release"
   },
   {
     "package": "paws.internet.of.things",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.internet.of.things"
+    "subdir": "cran/paws.internet.of.things",
+    "branch": "*release"
   },
   {
     "package": "paws.machine.learning",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.machine.learning"
+    "subdir": "cran/paws.machine.learning",
+    "branch": "*release"
   },
   {
     "package": "paws.management",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.management"
+    "subdir": "cran/paws.management",
+    "branch": "*release"
   },
   {
     "package": "paws.media.services",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.media.services"
+    "subdir": "cran/paws.media.services",
+    "branch": "*release"
   },
   {
     "package": "paws.migration",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.migration"
+    "subdir": "cran/paws.migration",
+    "branch": "*release"
   },
   {
     "package": "paws.mobile",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.mobile"
+    "subdir": "cran/paws.mobile",
+    "branch": "*release"
   },
   {
     "package": "paws.networking",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.networking"
+    "subdir": "cran/paws.networking",
+    "branch": "*release"
   },
   {
     "package": "paws.robotics",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.robotics"
+    "subdir": "cran/paws.robotics",
+    "branch": "*release"
   },
   {
     "package": "paws.security.identity",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.security.identity"
+    "subdir": "cran/paws.security.identity",
+    "branch": "*release"
   },
   {
     "package": "paws.storage",
     "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.storage"
+    "subdir": "cran/paws.storage",
+    "branch": "*release"
   },
   {
     "package": "pillar",
