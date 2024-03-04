@@ -45,6 +45,9 @@ jobs:
           )
         shell: Rscript {0}
 
+      - name: Remove r-releases local repo
+        run: rm -rf r-releases
+        
       - name: Deploy to main branch
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4.5.0
