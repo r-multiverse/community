@@ -256,6 +256,11 @@
     "branch": "*release"
   },
   {
+    "package": "pak",
+    "url": "https://github.com/r-lib/pak",
+    "branch": "*release"
+  },
+  {
     "package": "paws",
     "url": "https://github.com/paws-r/paws",
     "subdir": "cran/paws",
@@ -415,6 +420,11 @@
   {
     "package": "processx",
     "url": "https://github.com/r-lib/processx",
+    "branch": "*release"
+  },
+  {
+    "package": "progress",
+    "url": "https://github.com/r-lib/progress",
     "branch": "*release"
   },
   {
