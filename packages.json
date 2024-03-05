@@ -10,6 +10,11 @@
     "branch": "*release"
   },
   {
+    "package": "assertthat",
+    "url": "https://github.com/hadley/assertthat",
+    "branch": "*release"
+  },
+  {
     "package": "base64enc",
     "url": "https://github.com/cran/base64enc",
     "branch": "*release"
@@ -100,8 +105,23 @@
     "branch": "*release"
   },
   {
+    "package": "DBI",
+    "url": "https://github.com/r-dbi/DBI",
+    "branch": "*release"
+  },
+  {
     "package": "desc",
     "url": "https://github.com/r-lib/desc",
+    "branch": "*release"
+  },
+  {
+    "package": "dplyr",
+    "url": "https://github.com/tidyverse/dplyr",
+    "branch": "*release"
+  },
+  {
+    "package": "duckdb",
+    "url": "https://github.com/duckdb/duckdb-r",
     "branch": "*release"
   },
   {
@@ -140,6 +160,11 @@
     "branch": "*release"
   },
   {
+    "package": "generics",
+    "url": "https://github.com/r-lib/generics",
+    "branch": "*release"
+  },
+  {
     "package": "ggplot2",
     "url": "https://github.com/tidyverse/ggplot2",
     "branch": "*release"
@@ -175,6 +200,11 @@
     "branch": "*release"
   },
   {
+    "package": "hms",
+    "url": "https://github.com/tidyverse/hms",
+    "branch": "*release"
+  },
+  {
     "package": "htmltools",
     "url": "https://github.com/rstudio/htmltools",
     "branch": "*release"
@@ -202,6 +232,11 @@
   {
     "package": "isoband",
     "url": "https://github.com/r-lib/isoband",
+    "branch": "*release"
+  },
+  {
+    "package": "jquerylib",
+    "url": "https://github.com/rstudio/jquerylib",
     "branch": "*release"
   },
   {
@@ -247,6 +282,11 @@
   {
     "package": "Matrix",
     "url": "https://github.com/cran/matrix",
+    "branch": "*release"
+  },
+  {
+    "package": "memoise",
+    "url": "https://github.com/r-lib/memoise",
     "branch": "*release"
   },
   {
@@ -487,6 +527,16 @@
     "branch": "*release"
   },
   {
+    "package": "RcppSimdJson",
+    "url": "https://github.com/cran/rcppsimdjson",
+    "branch": "*release"
+  },
+  {
+    "package": "reactlog",
+    "url": "https://github.com/rstudio/reactlog",
+    "branch": "*release"
+  },
+  {
     "package": "rlang",
     "url": "https://github.com/r-lib/rlang",
     "branch": "*release"
@@ -507,6 +557,11 @@
     "branch": "*release"
   },
   {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass",
+    "branch": "*release"
+  },
+  {
     "package": "scales",
     "url": "https://github.com/r-lib/scales",
     "branch": "*release"
@@ -519,6 +574,16 @@
   {
     "package": "shiny",
     "url": "https://github.com/rstudio/shiny",
+    "branch": "*release"
+  },
+  {
+    "package": "sodium",
+    "url": "https://github.com/r-lib/sodium",
+    "branch": "*release"
+  },
+  {
+    "package": "sourcetools",
+    "url": "https://github.com/cran/sourcetools",
     "branch": "*release"
   },
   {
@@ -562,6 +627,11 @@
     "branch": "*release"
   },
   {
+    "package": "tidyselect",
+    "url": "https://github.com/r-lib/tidyselect",
+    "branch": "*release"
+  },
+  {
     "package": "tinytex",
     "url": "https://github.com/rstudio/tinytex",
     "branch": "*release"
@@ -572,6 +642,11 @@
     "branch": "*release"
   },
   {
+    "package": "tzdb",
+    "url": "https://github.com/r-lib/tzdb",
+    "branch": "*release"
+  },
+  {
     "package": "utf8",
     "url": "https://github.com/patperry/r-utf8",
     "branch": "*release"
@@ -579,6 +654,11 @@
   {
     "package": "vctrs",
     "url": "https://github.com/r-lib/vctrs",
+    "branch": "*release"
+  },
+  {
+    "package": "vroom",
+    "url": "https://github.com/tidyverse/vroom",
     "branch": "*release"
   },
   {
