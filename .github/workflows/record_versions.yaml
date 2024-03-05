@@ -36,7 +36,8 @@ jobs:
           r.releases.utils::record_versions(
             input = manifest = "versions.json",
             issues = "version_issues.json",
-            repos = "https://${{ github.repository_owner }}.r-universe.dev"
+            repos = "https://${{ github.repository_owner }}.r-universe.dev",
+            check_hash = FALSE
           )
         shell: Rscript {0}
 
