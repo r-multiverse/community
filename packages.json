@@ -45,6 +45,11 @@
     "branch": "*release"
   },
   {
+    "package": "brio",
+    "url": "https://github.com/r-lib/brio",
+    "branch": "*release"
+  },
+  {
     "package": "bslib",
     "url": "https://github.com/rstudio/bslib",
     "branch": "*release"
@@ -542,6 +547,11 @@
     "branch": "*release"
   },
   {
+    "package": "rmarkdown",
+    "url": "https://github.com/rstudio/rmarkdown",
+    "branch": "*release"
+  },
+  {
     "package": "roxygen2",
     "url": "https://github.com/r-lib/roxygen2",
     "branch": "*release"
@@ -659,6 +669,11 @@
   {
     "package": "vroom",
     "url": "https://github.com/tidyverse/vroom",
+    "branch": "*release"
+  },
+  {
+    "package": "waldo",
+    "url": "https://github.com/r-lib/waldo",
     "branch": "*release"
   },
   {
