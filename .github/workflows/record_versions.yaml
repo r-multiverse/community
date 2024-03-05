@@ -1,4 +1,4 @@
-name: build_universe
+name: record_versions
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: '0 3 * * *'
 
 jobs:
-  build_universe:
+  record_versions:
     runs-on: macOS-latest
 
     env:
