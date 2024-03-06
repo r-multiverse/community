@@ -15,6 +15,11 @@
     "branch": "*release"
   },
   {
+    "package": "backports",
+    "url": "https://github.com/r-lib/backports",
+    "branch": "*release"
+  },
+  {
     "package": "base64enc",
     "url": "https://github.com/cran/base64enc",
     "branch": "*release"
@@ -22,6 +27,11 @@
   {
     "package": "BaseSet",
     "url": "https://github.com/ropensci/BaseSet",
+    "branch": "*release"
+  },
+  {
+    "package": "BiocManager",
+    "url": "https://github.com/Bioconductor/BiocManager",
     "branch": "*release"
   },
   {
@@ -52,6 +62,11 @@
   {
     "package": "brio",
     "url": "https://github.com/r-lib/brio",
+    "branch": "*release"
+  },
+  {
+    "package": "broom",
+    "url": "https://github.com/tidymodels/broom",
     "branch": "*release"
   },
   {
@@ -180,6 +195,11 @@
     "branch": "*release"
   },
   {
+    "package": "foreach",
+    "url": "https://github.com/cran/foreach",
+    "branch": "*release"
+  },
+  {
     "package": "fs",
     "url": "https://github.com/r-lib/fs",
     "branch": "*release"
@@ -262,6 +282,11 @@
   {
     "package": "isoband",
     "url": "https://github.com/r-lib/isoband",
+    "branch": "*release"
+  },
+  {
+    "package": "iterators",
+    "url": "https://github.com/cran/iterators",
     "branch": "*release"
   },
   {
