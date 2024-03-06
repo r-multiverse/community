@@ -14,6 +14,13 @@
     "hash_highest": "2a75324b61f52f7dabd6ce939ce22af7"
   },
   {
+    "package": "assertthat",
+    "version_current": "0.2.1",
+    "hash_current": "620ec03728c520b346b5111d809721a6",
+    "version_highest": "0.2.1",
+    "hash_highest": "620ec03728c520b346b5111d809721a6"
+  },
+  {
     "package": "base64enc",
     "version_current": "0.1-3",
     "hash_current": "c5ff8d23d40bcd542cd5dc2548d5d756",
@@ -54,6 +61,27 @@
     "hash_current": "c2282974f7d74ce3100494b619cd023f",
     "version_highest": "1.0-10",
     "hash_highest": "c2282974f7d74ce3100494b619cd023f"
+  },
+  {
+    "package": "brio",
+    "version_current": "1.1.4",
+    "hash_current": "3b828114a501eeaadd275509f5cc28d7",
+    "version_highest": "1.1.4",
+    "hash_highest": "3b828114a501eeaadd275509f5cc28d7"
+  },
+  {
+    "package": "bslib",
+    "version_current": "0.6.1",
+    "hash_current": "98a7cd9467f6802b51bc7e7933fd8246",
+    "version_highest": "0.6.1",
+    "hash_highest": "98a7cd9467f6802b51bc7e7933fd8246"
+  },
+  {
+    "package": "cachem",
+    "version_current": "1.0.8",
+    "hash_current": "55cf401dfacf40cc60ad417dd31dd9ce",
+    "version_highest": "1.0.8",
+    "hash_highest": "55cf401dfacf40cc60ad417dd31dd9ce"
   },
   {
     "package": "callr",
@@ -126,11 +154,32 @@
     "hash_highest": "7f0cc0012e6e84cdb1c6c66dcbf35ac9"
   },
   {
+    "package": "DBI",
+    "version_current": "1.2.2",
+    "hash_current": "ce98af980a92d09228a3228970ffcc84",
+    "version_highest": "1.2.2",
+    "hash_highest": "ce98af980a92d09228a3228970ffcc84"
+  },
+  {
     "package": "desc",
     "version_current": "1.4.3",
     "hash_current": "4c5e2efef76dc50ab1154ae1131a8a81",
     "version_highest": "1.4.3",
     "hash_highest": "4c5e2efef76dc50ab1154ae1131a8a81"
+  },
+  {
+    "package": "dplyr",
+    "version_current": "1.1.4",
+    "hash_current": "b9ce012a9bb1d89889f30d0221a22afd",
+    "version_highest": "1.1.4",
+    "hash_highest": "b9ce012a9bb1d89889f30d0221a22afd"
+  },
+  {
+    "package": "duckdb",
+    "version_current": "0.9.2-1",
+    "hash_current": "760e6741a38f9fcf4d5d06e39bce526f",
+    "version_highest": "0.9.2-1",
+    "hash_highest": "760e6741a38f9fcf4d5d06e39bce526f"
   },
   {
     "package": "ellipsis",
@@ -161,6 +210,13 @@
     "hash_highest": "5cddbd0372fb8878d09d4581abb0c47c"
   },
   {
+    "package": "filelock",
+    "version_current": "1.0.3",
+    "hash_current": "68a28b9bd57ce1ead686ea4750b1ea11",
+    "version_highest": "1.0.3",
+    "hash_highest": "68a28b9bd57ce1ead686ea4750b1ea11"
+  },
+  {
     "package": "fontawesome",
     "version_current": "0.5.2",
     "hash_current": "bd4d2ce1499ff99fcfe4414ddb648dbe",
@@ -173,6 +229,13 @@
     "hash_current": "49de0bbe35f71494b36de518e3f219fc",
     "version_highest": "1.6.3",
     "hash_highest": "49de0bbe35f71494b36de518e3f219fc"
+  },
+  {
+    "package": "generics",
+    "version_current": "0.1.3",
+    "hash_current": "357a041534df7a2653df2d0bf549609e",
+    "version_highest": "0.1.3",
+    "hash_highest": "357a041534df7a2653df2d0bf549609e"
   },
   {
     "package": "ggplot2",
@@ -224,6 +287,13 @@
     "hash_highest": "51073f560aadbcb1f91f3378defa1b9b"
   },
   {
+    "package": "hms",
+    "version_current": "1.1.3",
+    "hash_current": "48f88817e1e06ff07de3dabeebe07339",
+    "version_highest": "1.1.3",
+    "hash_highest": "48f88817e1e06ff07de3dabeebe07339"
+  },
+  {
     "package": "htmltools",
     "version_current": "0.5.6.1",
     "hash_current": "767116ee6816d1db867c4f502c80fedf",
@@ -266,11 +336,25 @@
     "hash_highest": "499e3f3c8ea5dd5708c9c38489704493"
   },
   {
+    "package": "jquerylib",
+    "version_current": "0.1.4",
+    "hash_current": "a699e257a573f508787ed632e806297d",
+    "version_highest": "0.1.4",
+    "hash_highest": "a699e257a573f508787ed632e806297d"
+  },
+  {
     "package": "jsonlite",
     "version_current": "1.8.8",
     "hash_current": "48e8ecfdba34b30e9c0232e73ef55e81",
     "version_highest": "1.8.8",
     "hash_highest": "48e8ecfdba34b30e9c0232e73ef55e81"
+  },
+  {
+    "package": "keyring",
+    "version_current": "1.3.2",
+    "hash_current": "374c154fc372c0aa88894c3bbbd791c0",
+    "version_highest": "1.3.2",
+    "hash_highest": "374c154fc372c0aa88894c3bbbd791c0"
   },
   {
     "package": "knitr",
@@ -320,6 +404,13 @@
     "hash_current": "ab11095f57536c212af541bb81321105",
     "version_highest": "1.6-5",
     "hash_highest": "ab11095f57536c212af541bb81321105"
+  },
+  {
+    "package": "memoise",
+    "version_current": "2.0.1",
+    "hash_current": "b8502b76825026cbf20902e6d48d1878",
+    "version_highest": "2.0.1",
+    "hash_highest": "b8502b76825026cbf20902e6d48d1878"
   },
   {
     "package": "mime",
@@ -373,7 +464,7 @@
   {
     "package": "paws.analytics",
     "version_current": "0.5.0",
-    "hash_current": "e99b8a8e96d8318a1195b2a3097a4a1c",
+    "hash_current": "8bf428cda167ad3094ea15a2a86030db",
     "version_highest": "0.5.0",
     "hash_highest": "e99b8a8e96d8318a1195b2a3097a4a1c"
   },
@@ -401,7 +492,7 @@
   {
     "package": "paws.compute",
     "version_current": "0.5.0",
-    "hash_current": "d522077dbe15fe5ea610d3ae14e7ee6c",
+    "hash_current": "b44063070af48bc48e7eff9d234f3170",
     "version_highest": "0.5.0",
     "hash_highest": "d522077dbe15fe5ea610d3ae14e7ee6c"
   },
@@ -492,7 +583,7 @@
   {
     "package": "paws.networking",
     "version_current": "0.5.0",
-    "hash_current": "f7555701d4f75f4877f6d62046d34c20",
+    "hash_current": "22fd97aabbfc786ee4e96a0fc177947d",
     "version_highest": "0.5.0",
     "hash_highest": "f7555701d4f75f4877f6d62046d34c20"
   },
@@ -506,14 +597,14 @@
   {
     "package": "paws.security.identity",
     "version_current": "0.5.0",
-    "hash_current": "2ea7f41a07cc53fd53dae4e9dd9f0cad",
+    "hash_current": "a1c8ee6a69a26a3068e8fbc1e3ea976d",
     "version_highest": "0.5.0",
     "hash_highest": "2ea7f41a07cc53fd53dae4e9dd9f0cad"
   },
   {
     "package": "paws.storage",
     "version_current": "0.5.0",
-    "hash_current": "4091f24d4d0c80199268c30f3a8c2b63",
+    "hash_current": "09ca6e7c54c12f18e815a261697265fd",
     "version_highest": "0.5.0",
     "hash_highest": "4091f24d4d0c80199268c30f3a8c2b63"
   },
@@ -623,11 +714,25 @@
     "hash_highest": "31c18d8690068e80f36738a59b6f3a38"
   },
   {
+    "package": "reactlog",
+    "version_current": "1.1.1",
+    "hash_current": "7131181a07ffefc87b92dacf3a195b6b",
+    "version_highest": "1.1.1",
+    "hash_highest": "7131181a07ffefc87b92dacf3a195b6b"
+  },
+  {
     "package": "rlang",
     "version_current": "1.1.3",
     "hash_current": "c6b0585573194670e5d3f44c496da220",
     "version_highest": "1.1.3",
     "hash_highest": "c6b0585573194670e5d3f44c496da220"
+  },
+  {
+    "package": "rmarkdown",
+    "version_current": "2.26",
+    "hash_current": "35bb559f92784d7b4d8aff5a390280a0",
+    "version_highest": "2.26",
+    "hash_highest": "35bb559f92784d7b4d8aff5a390280a0"
   },
   {
     "package": "roxygen2",
@@ -651,6 +756,13 @@
     "hash_highest": "4ab1eb934d022946705a037c869841ba"
   },
   {
+    "package": "sass",
+    "version_current": "0.4.8",
+    "hash_current": "21cb694dc0e1c4e3f4b421d1b1b4c149",
+    "version_highest": "0.4.8",
+    "hash_highest": "21cb694dc0e1c4e3f4b421d1b1b4c149"
+  },
+  {
     "package": "scales",
     "version_current": "1.3.0",
     "hash_current": "66ea9a1b8a441c22d8be0271515455a0",
@@ -665,11 +777,32 @@
     "hash_highest": "11b800fe5bb7aec367fa32c2e82cab25"
   },
   {
+    "package": "servr",
+    "version_current": "0.29",
+    "hash_current": "0eea4b48dbd09042f55a586dc8d665c4",
+    "version_highest": "0.29",
+    "hash_highest": "0eea4b48dbd09042f55a586dc8d665c4"
+  },
+  {
     "package": "shiny",
     "version_current": "1.8.0",
     "hash_current": "bb123c6db3dcbc8a01536304d5cdb2a0",
     "version_highest": "1.8.0",
     "hash_highest": "bb123c6db3dcbc8a01536304d5cdb2a0"
+  },
+  {
+    "package": "sodium",
+    "version_current": "1.2.1",
+    "hash_current": "24b43a7cee242dc3d476d771a500f2c8",
+    "version_highest": "1.2.1",
+    "hash_highest": "24b43a7cee242dc3d476d771a500f2c8"
+  },
+  {
+    "package": "sourcetools",
+    "version_current": "0.1.7-1",
+    "hash_current": "e2a47ca5fdc197a9dcb2a9ad07391e6a",
+    "version_highest": "0.1.7-1",
+    "hash_highest": "e2a47ca5fdc197a9dcb2a9ad07391e6a"
   },
   {
     "package": "stringi",
@@ -728,6 +861,13 @@
     "hash_highest": "2b21bf91c09b913cbab7b99cc9853aa4"
   },
   {
+    "package": "tidyselect",
+    "version_current": "1.2.0",
+    "hash_current": "fc9f81fe4056679c6c59e517172e368b",
+    "version_highest": "1.2.0",
+    "hash_highest": "fc9f81fe4056679c6c59e517172e368b"
+  },
+  {
     "package": "tinytex",
     "version_current": "0.49",
     "hash_current": "143bf5aba31eb70a1b8809e8a0fe1118",
@@ -740,6 +880,13 @@
     "hash_current": "904fb989965f2786abb287397e5acb4c",
     "version_highest": "0.12.0",
     "hash_highest": "904fb989965f2786abb287397e5acb4c"
+  },
+  {
+    "package": "tzdb",
+    "version_current": "0.3.0",
+    "hash_current": "5634ac0efc2d5f1a9b3cdadb0e02ea71",
+    "version_highest": "0.3.0",
+    "hash_highest": "5634ac0efc2d5f1a9b3cdadb0e02ea71"
   },
   {
     "package": "utf8",
@@ -756,11 +903,32 @@
     "hash_highest": "9957a1965e3827e238f9ceae3380fc38"
   },
   {
+    "package": "vroom",
+    "version_current": "1.6.5",
+    "hash_current": "d286c5a8dbe9a126e841068120e4cff5",
+    "version_highest": "1.6.5",
+    "hash_highest": "d286c5a8dbe9a126e841068120e4cff5"
+  },
+  {
+    "package": "waldo",
+    "version_current": "0.5.2",
+    "hash_current": "d69ec710e409107fab0b76adba968e45",
+    "version_highest": "0.5.2",
+    "hash_highest": "d69ec710e409107fab0b76adba968e45"
+  },
+  {
     "package": "withr",
     "version_current": "3.0.0",
     "hash_current": "866fd8241bf9cf82502be73e6261e340",
     "version_highest": "3.0.0",
     "hash_highest": "866fd8241bf9cf82502be73e6261e340"
+  },
+  {
+    "package": "xaringan",
+    "version_current": "0.29",
+    "hash_current": "c55980ba6f2d6a988726f63f3bd725ae",
+    "version_highest": "0.29",
+    "hash_highest": "c55980ba6f2d6a988726f63f3bd725ae"
   },
   {
     "package": "xfun",
