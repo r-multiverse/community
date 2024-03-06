@@ -532,11 +532,6 @@
     "branch": "*release"
   },
   {
-    "package": "RcppSimdJson",
-    "url": "https://github.com/cran/rcppsimdjson",
-    "branch": "*release"
-  },
-  {
     "package": "reactlog",
     "url": "https://github.com/rstudio/reactlog",
     "branch": "*release"
