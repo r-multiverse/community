@@ -28,7 +28,7 @@ jobs:
           GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
         run: |
           install.packages(
-            pkgs = "r.releases.utils",
+            pkgs = "r.releases.internals",
             repos = "https://${{ github.repository_owner }}.r-universe.dev",
             type = "binary"
           )
@@ -38,7 +38,7 @@ jobs:
         env:
           GITHUB_PAT: ${{ steps.app-token.outputs.token }}
         run: |
-          r.releases.utils::review_pull_requests(
+          r.releases.internals::review_pull_requests(
             owner = "${{ github.repository_owner }}",
             repo = "r-releases"
           )

@@ -22,7 +22,7 @@ jobs:
       - name: Install helper R package.
         run: |
           install.packages(
-            pkgs = "r.releases.utils",
+            pkgs = "r.releases.internals",
             repos = "https://${{ github.repository_owner }}.r-universe.dev",
             type = "binary"
           )
@@ -39,7 +39,7 @@ jobs:
 
       - name: Build packages.json
         run: |
-          r.releases.utils::build_universe(
+          r.releases.internals::build_universe(
             input = file.path("r-releases", "packages"),
             output = "packages.json"
           )
