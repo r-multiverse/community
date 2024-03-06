@@ -125,6 +125,11 @@
     "branch": "*release"
   },
   {
+    "package": "digest",
+    "url": "https://github.com/cran/digest",
+    "branch": "*release"
+  },
+  {
     "package": "distill",
     "url": "https://github.com/rstudio/distill",
     "branch": "*release"
@@ -512,6 +517,11 @@
     "branch": "*release"
   },
   {
+    "package": "png",
+    "url": "https://github.com/cran/png",
+    "branch": "*release"
+  },
+  {
     "package": "polars",
     "url": "https://github.com/pola-rs/r-polars",
     "branch": "*release"
@@ -584,6 +594,11 @@
   {
     "package": "rprojroot",
     "url": "https://github.com/r-lib/rprojroot",
+    "branch": "*release"
+  },
+  {
+    "package": "rstudioapi",
+    "url": "https://github.com/cran/rstudioapi",
     "branch": "*release"
   },
   {
@@ -674,6 +689,11 @@
   {
     "package": "tidyselect",
     "url": "https://github.com/r-lib/tidyselect",
+    "branch": "*release"
+  },
+  {
+    "package": "timechange",
+    "url": "https://github.com/cran/timechange",
     "branch": "*release"
   },
   {
