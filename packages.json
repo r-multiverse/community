@@ -40,6 +40,11 @@
     "branch": "*release"
   },
   {
+    "package": "bookdown",
+    "url": "https://github.com/rstudio/bookdown",
+    "branch": "*release"
+  },
+  {
     "package": "brew",
     "url": "https://github.com/cran/brew",
     "branch": "*release"
@@ -117,6 +122,16 @@
   {
     "package": "desc",
     "url": "https://github.com/r-lib/desc",
+    "branch": "*release"
+  },
+  {
+    "package": "distill",
+    "url": "https://github.com/rstudio/distill",
+    "branch": "*release"
+  },
+  {
+    "package": "downlit",
+    "url": "https://github.com/r-lib/downlit",
     "branch": "*release"
   },
   {
@@ -200,6 +215,11 @@
     "branch": "*release"
   },
   {
+    "package": "here",
+    "url": "https://github.com/r-lib/here",
+    "branch": "*release"
+  },
+  {
     "package": "highr",
     "url": "https://github.com/yihui/highr",
     "branch": "*release"
@@ -272,6 +292,11 @@
   {
     "package": "lifecycle",
     "url": "https://github.com/r-lib/lifecycle",
+    "branch": "*release"
+  },
+  {
+    "package": "lubridate",
+    "url": "https://github.com/tidyverse/lubridate",
     "branch": "*release"
   },
   {
@@ -482,6 +507,11 @@
     "branch": "*release"
   },
   {
+    "package": "plumber",
+    "url": "https://github.com/rstudio/plumber",
+    "branch": "*release"
+  },
+  {
     "package": "polars",
     "url": "https://github.com/pola-rs/r-polars",
     "branch": "*release"
@@ -607,6 +637,11 @@
     "branch": "*release"
   },
   {
+    "package": "swagger",
+    "url": "https://github.com/rstudio/swagger",
+    "branch": "*release"
+  },
+  {
     "package": "sys",
     "url": "https://github.com/jeroen/sys",
     "branch": "*release"
@@ -674,6 +709,11 @@
   {
     "package": "waldo",
     "url": "https://github.com/r-lib/waldo",
+    "branch": "*release"
+  },
+  {
+    "package": "webutils",
+    "url": "https://github.com/jeroen/webutils",
     "branch": "*release"
   },
   {
