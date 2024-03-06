@@ -582,6 +582,11 @@
     "branch": "*release"
   },
   {
+    "package": "servr",
+    "url": "https://github.com/yihui/servr",
+    "branch": "*release"
+  },
+  {
     "package": "shiny",
     "url": "https://github.com/rstudio/shiny",
     "branch": "*release"
@@ -679,6 +684,11 @@
   {
     "package": "withr",
     "url": "https://github.com/r-lib/withr",
+    "branch": "*release"
+  },
+  {
+    "package": "xaringan",
+    "url": "https://github.com/yihui/xaringan",
     "branch": "*release"
   },
   {
