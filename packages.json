@@ -50,6 +50,11 @@
     "branch": "*release"
   },
   {
+    "package": "blob",
+    "url": "https://github.com/tidyverse/blob",
+    "branch": "*release"
+  },
+  {
     "package": "bookdown",
     "url": "https://github.com/rstudio/bookdown",
     "branch": "*release"
@@ -87,6 +92,11 @@
   {
     "package": "cli",
     "url": "https://github.com/r-lib/cli",
+    "branch": "*release"
+  },
+  {
+    "package": "clipr",
+    "url": "https://github.com/mdlincoln/clipr",
     "branch": "*release"
   },
   {
@@ -130,8 +140,18 @@
     "branch": "*release"
   },
   {
+    "package": "datapasta",
+    "url": "https://github.com/milesmcbain/datapasta",
+    "branch": "*release"
+  },
+  {
     "package": "DBI",
     "url": "https://github.com/r-dbi/DBI",
+    "branch": "*release"
+  },
+  {
+    "package": "dbplyr",
+    "url": "https://github.com/tidyverse/dbplyr",
     "branch": "*release"
   },
   {
@@ -192,6 +212,11 @@
   {
     "package": "fontawesome",
     "url": "https://github.com/rstudio/fontawesome",
+    "branch": "*release"
+  },
+  {
+    "package": "forcats",
+    "url": "https://github.com/tidyverse/forcats",
     "branch": "*release"
   },
   {
@@ -260,6 +285,11 @@
     "branch": "*release"
   },
   {
+    "package": "htmlwidgets",
+    "url": "https://github.com/ramnathv/htmlwidgets",
+    "branch": "*release"
+  },
+  {
     "package": "httpuv",
     "url": "https://github.com/rstudio/httpuv",
     "branch": "*release"
@@ -297,6 +327,11 @@
   {
     "package": "jsonlite",
     "url": "https://github.com/jeroen/jsonlite",
+    "branch": "*release"
+  },
+  {
+    "package": "katex",
+    "url": "https://github.com/ropensci/katex",
     "branch": "*release"
   },
   {
@@ -557,6 +592,11 @@
     "branch": "*release"
   },
   {
+    "package": "profvis",
+    "url": "https://github.com/rstudio/profvis",
+    "branch": "*release"
+  },
+  {
     "package": "progress",
     "url": "https://github.com/r-lib/progress",
     "branch": "*release"
@@ -587,6 +627,11 @@
     "branch": "*release"
   },
   {
+    "package": "ragg",
+    "url": "https://github.com/r-lib/ragg",
+    "branch": "*release"
+  },
+  {
     "package": "rappdirs",
     "url": "https://github.com/r-lib/rappdirs",
     "branch": "*release"
@@ -599,6 +644,16 @@
   {
     "package": "reactlog",
     "url": "https://github.com/rstudio/reactlog",
+    "branch": "*release"
+  },
+  {
+    "package": "readr",
+    "url": "https://github.com/tidyverse/readr",
+    "branch": "*release"
+  },
+  {
+    "package": "reprex",
+    "url": "https://github.com/tidyverse/reprex",
     "branch": "*release"
   },
   {
@@ -687,6 +742,11 @@
     "branch": "*release"
   },
   {
+    "package": "systemfonts",
+    "url": "https://github.com/r-lib/systemfonts",
+    "branch": "*release"
+  },
+  {
     "package": "tarchetypes",
     "url": "https://github.com/ropensci/tarchetypes",
     "branch": "*release"
@@ -699,6 +759,11 @@
   {
     "package": "testthat",
     "url": "https://github.com/r-lib/testthat",
+    "branch": "*release"
+  },
+  {
+    "package": "textshaping",
+    "url": "https://github.com/r-lib/textshaping",
     "branch": "*release"
   },
   {
