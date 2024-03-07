@@ -21,6 +21,13 @@
     "hash_highest": "c6bc95d3a28076a5ce1d5997548b621419cc8d1d"
   },
   {
+    "package": "backports",
+    "version_current": "1.4.0",
+    "hash_current": "4fbd21cc0c0701140851a53c8beae35fabc07d1f",
+    "version_highest": "1.4.0",
+    "hash_highest": "4fbd21cc0c0701140851a53c8beae35fabc07d1f"
+  },
+  {
     "package": "base64enc",
     "version_current": "0.1-3",
     "hash_current": "62146a66eee6d106625091a153774a09da13ef55",
@@ -33,6 +40,13 @@
     "hash_current": "c1b64b9c12322d856441bc7cf67c6a43a93aa539",
     "version_highest": "0.9.0",
     "hash_highest": "c1b64b9c12322d856441bc7cf67c6a43a93aa539"
+  },
+  {
+    "package": "BiocManager",
+    "version_current": "1.30.22",
+    "hash_current": "e3c14acde73cfcf9196271df489022eabd5c1fd5",
+    "version_highest": "1.30.22",
+    "hash_highest": "e3c14acde73cfcf9196271df489022eabd5c1fd5"
   },
   {
     "package": "BioCor",
@@ -56,6 +70,20 @@
     "hash_highest": "53a5d8eaf9ef55554fd44f91396f51745dc8243d"
   },
   {
+    "package": "blob",
+    "version_current": "1.2.4",
+    "hash_current": "f6a500285f772cfde9eefdc55078aad55b99d51d",
+    "version_highest": "1.2.4",
+    "hash_highest": "f6a500285f772cfde9eefdc55078aad55b99d51d"
+  },
+  {
+    "package": "bookdown",
+    "version_current": "0.38",
+    "hash_current": "20448bd29305667a6e1025dd2ed49312aedaef4b",
+    "version_highest": "0.38",
+    "hash_highest": "20448bd29305667a6e1025dd2ed49312aedaef4b"
+  },
+  {
     "package": "brew",
     "version_current": "1.0-10",
     "hash_current": "719a6cec05a4d70a92ca708e0ec7edd653f28e55",
@@ -68,6 +96,13 @@
     "hash_current": "33fac30441014714a951ad820ab3fb948be04f06",
     "version_highest": "1.1.4",
     "hash_highest": "33fac30441014714a951ad820ab3fb948be04f06"
+  },
+  {
+    "package": "broom",
+    "version_current": "1.0.5",
+    "hash_current": "ccbc800f4119267e36c2fe87aaf63ce0740b0f4b",
+    "version_highest": "1.0.5",
+    "hash_highest": "ccbc800f4119267e36c2fe87aaf63ce0740b0f4b"
   },
   {
     "package": "bslib",
@@ -96,6 +131,13 @@
     "hash_current": "5403cd9368e5639844142a9860e22583a37e2db9",
     "version_highest": "3.6.2",
     "hash_highest": "5403cd9368e5639844142a9860e22583a37e2db9"
+  },
+  {
+    "package": "clipr",
+    "version_current": "0.8.0",
+    "hash_current": "807cdcdff6fb4ec770ce6b29fcb6dccd11d0626a",
+    "version_highest": "0.8.0",
+    "hash_highest": "807cdcdff6fb4ec770ce6b29fcb6dccd11d0626a"
   },
   {
     "package": "commonmark",
@@ -154,11 +196,32 @@
     "hash_highest": "d9f2a6f50932307c89fb7b03bd1a0ef4783fc26f"
   },
   {
+    "package": "data.table",
+    "version_current": "1.15.2",
+    "hash_current": "04caf18fbcabef946a6150143421210c670a9081",
+    "version_highest": "1.15.2",
+    "hash_highest": "04caf18fbcabef946a6150143421210c670a9081"
+  },
+  {
+    "package": "datapasta",
+    "version_current": "3.1.0",
+    "hash_current": "6d93bc9be0d1829274ca7391175542b1ff85ef64",
+    "version_highest": "3.1.0",
+    "hash_highest": "6d93bc9be0d1829274ca7391175542b1ff85ef64"
+  },
+  {
     "package": "DBI",
     "version_current": "1.2.2",
     "hash_current": "5a33b12fb44265edbc158033fd16ea52b20a0373",
     "version_highest": "1.2.2",
     "hash_highest": "5a33b12fb44265edbc158033fd16ea52b20a0373"
+  },
+  {
+    "package": "dbplyr",
+    "version_current": "2.4.0",
+    "hash_current": "a57629373c41a16dc5cc6deb692fe73bf586b699",
+    "version_highest": "2.4.0",
+    "hash_highest": "a57629373c41a16dc5cc6deb692fe73bf586b699"
   },
   {
     "package": "desc",
@@ -168,11 +231,39 @@
     "hash_highest": "ce2e18f20ca2e7b92a0198cdf6d7bb49b2e258b4"
   },
   {
+    "package": "digest",
+    "version_current": "0.6.34",
+    "hash_current": "a9e5fbf58921406af888f94f2682eb4a1c7d985d",
+    "version_highest": "0.6.34",
+    "hash_highest": "a9e5fbf58921406af888f94f2682eb4a1c7d985d"
+  },
+  {
+    "package": "distill",
+    "version_current": "1.6",
+    "hash_current": "6ffbec14186135b44007f6e9126635df8febb01b",
+    "version_highest": "1.6",
+    "hash_highest": "6ffbec14186135b44007f6e9126635df8febb01b"
+  },
+  {
+    "package": "downlit",
+    "version_current": "0.4.3",
+    "hash_current": "4429d115611e8fafd8bbd63b81e10c4a688c0af7",
+    "version_highest": "0.4.3",
+    "hash_highest": "4429d115611e8fafd8bbd63b81e10c4a688c0af7"
+  },
+  {
     "package": "dplyr",
     "version_current": "1.1.4",
     "hash_current": "74de24448833278fc03c8ba5f455aa7c888295b8",
     "version_highest": "1.1.4",
     "hash_highest": "74de24448833278fc03c8ba5f455aa7c888295b8"
+  },
+  {
+    "package": "dtplyr",
+    "version_current": "1.3.1",
+    "hash_current": "847dd142d51e2a3f28274ee1b72d2bed68494674",
+    "version_highest": "1.3.1",
+    "hash_highest": "847dd142d51e2a3f28274ee1b72d2bed68494674"
   },
   {
     "package": "duckdb",
@@ -222,6 +313,20 @@
     "hash_current": "aff5616a0e055ab0c3c0c7c6cc746460637241a8",
     "version_highest": "0.5.2",
     "hash_highest": "aff5616a0e055ab0c3c0c7c6cc746460637241a8"
+  },
+  {
+    "package": "forcats",
+    "version_current": "1.0.0",
+    "hash_current": "d8d99f08b965590f25de86cc5aeafd7631a141fd",
+    "version_highest": "1.0.0",
+    "hash_highest": "d8d99f08b965590f25de86cc5aeafd7631a141fd"
+  },
+  {
+    "package": "foreach",
+    "version_current": "1.5.2",
+    "hash_current": "d4bac0edb0db3ab7e5ee7eab172f1bfe0fa0c0b7",
+    "version_highest": "1.5.2",
+    "hash_highest": "d4bac0edb0db3ab7e5ee7eab172f1bfe0fa0c0b7"
   },
   {
     "package": "fs",
@@ -280,6 +385,13 @@
     "hash_highest": "3e53878094c1326e2db72937d8177b609f0c3f1f"
   },
   {
+    "package": "here",
+    "version_current": "1.0.1",
+    "hash_current": "822407a3ce9451843055408045b3515f55034a24",
+    "version_highest": "1.0.1",
+    "hash_highest": "822407a3ce9451843055408045b3515f55034a24"
+  },
+  {
     "package": "highr",
     "version_current": "0.10",
     "hash_current": "8005e92d2f6ee4aaff8cdf0b9cee3716b6065b88",
@@ -299,6 +411,13 @@
     "hash_current": "c53e84327cea82e3ce84373760a05584ca700d88",
     "version_highest": "0.5.6.1",
     "hash_highest": "c53e84327cea82e3ce84373760a05584ca700d88"
+  },
+  {
+    "package": "htmlwidgets",
+    "version_current": "1.6.2",
+    "hash_current": "cf04bf0a5dc1013668647db2f781e978df775d79",
+    "version_highest": "1.6.2",
+    "hash_highest": "cf04bf0a5dc1013668647db2f781e978df775d79"
   },
   {
     "package": "httpuv",
@@ -336,6 +455,13 @@
     "hash_highest": "ba34016460eb17939b90bb1d6156eefeaa1319b1"
   },
   {
+    "package": "iterators",
+    "version_current": "1.0.14",
+    "hash_current": "2715fa5c57242ed6c7b70ee8d97f8cf4a386824f",
+    "version_highest": "1.0.14",
+    "hash_highest": "2715fa5c57242ed6c7b70ee8d97f8cf4a386824f"
+  },
+  {
     "package": "jquerylib",
     "version_current": "0.1.4",
     "hash_current": "52770cbc436f7c1e5ac03c070096c437cc34dab6",
@@ -348,6 +474,13 @@
     "hash_current": "0134cba18366b1c51c6497f4f97273a8423d8d86",
     "version_highest": "1.8.8",
     "hash_highest": "0134cba18366b1c51c6497f4f97273a8423d8d86"
+  },
+  {
+    "package": "katex",
+    "version_current": "1.4.1",
+    "hash_current": "14dc12be027a7453a682cc0ee85196281f326d52",
+    "version_highest": "1.4.1",
+    "hash_highest": "14dc12be027a7453a682cc0ee85196281f326d52"
   },
   {
     "package": "keyring",
@@ -383,6 +516,13 @@
     "hash_current": "d89b88f431c40ae878ea1cc335014df06ec87708",
     "version_highest": "1.0.3",
     "hash_highest": "d89b88f431c40ae878ea1cc335014df06ec87708"
+  },
+  {
+    "package": "lubridate",
+    "version_current": "1.9.2",
+    "hash_current": "e330b63811a578b02a6ba3c61231412e8dbd37ba",
+    "version_highest": "1.9.2",
+    "hash_highest": "e330b63811a578b02a6ba3c61231412e8dbd37ba"
   },
   {
     "package": "magrittr",
@@ -644,6 +784,20 @@
     "hash_highest": "73d4c379ca30393870cdc4783567a1dcc05cee5b"
   },
   {
+    "package": "plumber",
+    "version_current": "1.2.1",
+    "hash_current": "65961e0b116e0fc69dcf755e6606c17c56777899",
+    "version_highest": "1.2.1",
+    "hash_highest": "65961e0b116e0fc69dcf755e6606c17c56777899"
+  },
+  {
+    "package": "png",
+    "version_current": "0.1-8",
+    "hash_current": "3a29c75792f912b6200d32471536cccf859372e8",
+    "version_highest": "0.1-8",
+    "hash_highest": "3a29c75792f912b6200d32471536cccf859372e8"
+  },
+  {
     "package": "polars",
     "version_current": "0.15.0",
     "hash_current": "97c09bc0a6fc3d166744dbddd037b49e8d8fc6c2",
@@ -656,6 +810,13 @@
     "hash_current": "b57dc281293ac8e92d9ec74541f42476509cff0e",
     "version_highest": "3.8.3",
     "hash_highest": "b57dc281293ac8e92d9ec74541f42476509cff0e"
+  },
+  {
+    "package": "profvis",
+    "version_current": "0.3.8",
+    "hash_current": "9beb0e62ae1addadb2f58cff9b41a4e1c05289fa",
+    "version_highest": "0.3.8",
+    "hash_highest": "9beb0e62ae1addadb2f58cff9b41a4e1c05289fa"
   },
   {
     "package": "progress",
@@ -700,6 +861,13 @@
     "hash_highest": "6cf7d4e3c5fd0c259bf8384e223d6a7498d5e449"
   },
   {
+    "package": "ragg",
+    "version_current": "1.2.7",
+    "hash_current": "d04ba0c95527d45df61fe954fe537b434f8c7924",
+    "version_highest": "1.2.7",
+    "hash_highest": "d04ba0c95527d45df61fe954fe537b434f8c7924"
+  },
+  {
     "package": "rappdirs",
     "version_current": "0.3.3",
     "hash_current": "032a1b6117077695f58127e4114e67d81769b699",
@@ -719,6 +887,20 @@
     "hash_current": "83a4958ecda0e362bfbe60858a014ceb9adb8a60",
     "version_highest": "1.1.1",
     "hash_highest": "83a4958ecda0e362bfbe60858a014ceb9adb8a60"
+  },
+  {
+    "package": "readr",
+    "version_current": "2.1.5",
+    "hash_current": "0311e29f586e51c62569f6a25da5a7af45b0f922",
+    "version_highest": "2.1.5",
+    "hash_highest": "0311e29f586e51c62569f6a25da5a7af45b0f922"
+  },
+  {
+    "package": "reprex",
+    "version_current": "2.1.0",
+    "hash_current": "717b5a8885d9ad624c5e0e082af602b33f73db62",
+    "version_highest": "2.1.0",
+    "hash_highest": "717b5a8885d9ad624c5e0e082af602b33f73db62"
   },
   {
     "package": "rlang",
@@ -747,6 +929,13 @@
     "hash_current": "fa39b5d436be085b0187a82672087070e9d456ef",
     "version_highest": "2.0.4",
     "hash_highest": "fa39b5d436be085b0187a82672087070e9d456ef"
+  },
+  {
+    "package": "rstudioapi",
+    "version_current": "0.15.0",
+    "hash_current": "67ae7ff82437556a3dc022007a774405a69ff9cb",
+    "version_highest": "0.15.0",
+    "hash_highest": "67ae7ff82437556a3dc022007a774405a69ff9cb"
   },
   {
     "package": "safetensors",
@@ -819,11 +1008,25 @@
     "hash_highest": "934018d8242be6f2fb5332a6d665132251bdb99a"
   },
   {
+    "package": "swagger",
+    "version_current": "3.33.1",
+    "hash_current": "961381cc8a42b3458cf48cee71ba02385e1daee0",
+    "version_highest": "3.33.1",
+    "hash_highest": "961381cc8a42b3458cf48cee71ba02385e1daee0"
+  },
+  {
     "package": "sys",
     "version_current": "3.3",
     "hash_current": "a59ce7c3f6fdd2f978f5073b9ec32a13a3e10834",
     "version_highest": "3.3",
     "hash_highest": "a59ce7c3f6fdd2f978f5073b9ec32a13a3e10834"
+  },
+  {
+    "package": "systemfonts",
+    "version_current": "1.0.5",
+    "hash_current": "2253b67e8b9852adb15da2b2d2e1be1409ce0207",
+    "version_highest": "1.0.5",
+    "hash_highest": "2253b67e8b9852adb15da2b2d2e1be1409ce0207"
   },
   {
     "package": "tarchetypes",
@@ -847,6 +1050,13 @@
     "hash_highest": "20377fbe9a6d5317927a7cfd901d586b899e17cd"
   },
   {
+    "package": "textshaping",
+    "version_current": "0.3.7",
+    "hash_current": "4530805f14d092aa94475fb452a77c0825a7ce69",
+    "version_highest": "0.3.7",
+    "hash_highest": "4530805f14d092aa94475fb452a77c0825a7ce69"
+  },
+  {
     "package": "tibble",
     "version_current": "3.2.1",
     "hash_current": "14a68c85804ec39aa73eea1439620ea297bc850d",
@@ -866,6 +1076,13 @@
     "hash_current": "fce2866dbca651b09a201b91c7df8332eb837819",
     "version_highest": "1.2.0",
     "hash_highest": "fce2866dbca651b09a201b91c7df8332eb837819"
+  },
+  {
+    "package": "timechange",
+    "version_current": "0.3.0",
+    "hash_current": "7fcdc193074d9d1a8c2aae274e0b66ab110ad2ce",
+    "version_highest": "0.3.0",
+    "hash_highest": "7fcdc193074d9d1a8c2aae274e0b66ab110ad2ce"
   },
   {
     "package": "tinytex",
@@ -915,6 +1132,13 @@
     "hash_current": "7bd70bb548db9ac64b8a50ecd509f8ca0490264d",
     "version_highest": "0.5.2",
     "hash_highest": "7bd70bb548db9ac64b8a50ecd509f8ca0490264d"
+  },
+  {
+    "package": "webutils",
+    "version_current": "1.1",
+    "hash_current": "835953ea30de789293082f7f4c1c0f45566fae21",
+    "version_highest": "1.1",
+    "hash_highest": "835953ea30de789293082f7f4c1c0f45566fae21"
   },
   {
     "package": "withr",
