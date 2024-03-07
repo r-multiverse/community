@@ -140,6 +140,11 @@
     "branch": "*release"
   },
   {
+    "package": "data.table",
+    "url": "https://github.com/cran/data.table",
+    "branch": "*release"
+  },
+  {
     "package": "datapasta",
     "url": "https://github.com/milesmcbain/datapasta",
     "branch": "*release"
@@ -177,6 +182,11 @@
   {
     "package": "dplyr",
     "url": "https://github.com/tidyverse/dplyr",
+    "branch": "*release"
+  },
+  {
+    "package": "dtplyr",
+    "url": "https://github.com/tidyverse/dtplyr",
     "branch": "*release"
   },
   {
