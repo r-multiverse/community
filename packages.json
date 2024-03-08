@@ -528,6 +528,11 @@
     "branch": "*release"
   },
   {
+    "package": "proffer",
+    "url": "https://github.com/r-prof/proffer",
+    "branch": "*release"
+  },
+  {
     "package": "progress",
     "url": "https://github.com/r-lib/progress",
     "branch": "*release"
