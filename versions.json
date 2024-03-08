@@ -98,6 +98,13 @@
     "hash_highest": "33fac30441014714a951ad820ab3fb948be04f06"
   },
   {
+    "package": "brms.mmrm",
+    "version_current": "0.1.0",
+    "hash_current": "0db8154ed6d0d95b38df16725db9a4ba69a663ff",
+    "version_highest": "0.1.0",
+    "hash_highest": "0db8154ed6d0d95b38df16725db9a4ba69a663ff"
+  },
+  {
     "package": "broom",
     "version_current": "1.0.5",
     "hash_current": "ccbc800f4119267e36c2fe87aaf63ce0740b0f4b",
@@ -1023,10 +1030,10 @@
   },
   {
     "package": "systemfonts",
-    "version_current": "1.0.5",
-    "hash_current": "2253b67e8b9852adb15da2b2d2e1be1409ce0207",
-    "version_highest": "1.0.5",
-    "hash_highest": "2253b67e8b9852adb15da2b2d2e1be1409ce0207"
+    "version_current": "1.0.6",
+    "hash_current": "a0e0b7961f4842f27b13f52d3e70eeff0d972c56",
+    "version_highest": "1.0.6",
+    "hash_highest": "a0e0b7961f4842f27b13f52d3e70eeff0d972c56"
   },
   {
     "package": "tarchetypes",
