@@ -830,10 +830,10 @@
   },
   {
     "package": "r.releases.internals",
-    "version_current": "0.0.10",
-    "hash_current": "acee9d12464afa12472679034303bb3864dd026c",
-    "version_highest": "0.0.10",
-    "hash_highest": "acee9d12464afa12472679034303bb3864dd026c"
+    "version_current": "0.0.11",
+    "hash_current": "925564333fa0692dfb5f31132731388fd0ffaa5b",
+    "version_highest": "0.0.11",
+    "hash_highest": "925564333fa0692dfb5f31132731388fd0ffaa5b"
   },
   {
     "package": "R6",
