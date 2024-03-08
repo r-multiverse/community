@@ -355,6 +355,11 @@
     "branch": "*release"
   },
   {
+    "package": "mmrm",
+    "url": "https://github.com/openpharma/mmrm",
+    "branch": "*release"
+  },
+  {
     "package": "nanonext",
     "url": "https://github.com/shikokuchuo/nanonext",
     "branch": "*release"
