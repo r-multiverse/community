@@ -1,4 +1,4 @@
-name: build_universe
+name: write_universe_manifest
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: '20 * * * *'
 
 jobs:
-  build_universe:
+  write_universe_manifest:
     runs-on: macOS-latest
 
     env:
