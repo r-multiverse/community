@@ -1,8 +1,7 @@
 [
   {
     "package": "arrow",
-    "url": "https://github.com/cran/arrow",
-    "branch": "*release"
+    "url": "https://github.com/cran/arrow"
   },
   {
     "package": "askpass",
@@ -21,8 +20,7 @@
   },
   {
     "package": "base64enc",
-    "url": "https://github.com/cran/base64enc",
-    "branch": "*release"
+    "url": "https://github.com/cran/base64enc"
   },
   {
     "package": "BaseSet",
@@ -41,13 +39,11 @@
   },
   {
     "package": "bit",
-    "url": "https://github.com/cran/bit",
-    "branch": "*release"
+    "url": "https://github.com/cran/bit"
   },
   {
     "package": "bit64",
-    "url": "https://github.com/cran/bit64",
-    "branch": "*release"
+    "url": "https://github.com/cran/bit64"
   },
   {
     "package": "bookdown",
@@ -56,8 +52,7 @@
   },
   {
     "package": "brew",
-    "url": "https://github.com/cran/brew",
-    "branch": "*release"
+    "url": "https://github.com/cran/brew"
   },
   {
     "package": "brio",
@@ -146,8 +141,7 @@
   },
   {
     "package": "digest",
-    "url": "https://github.com/cran/digest",
-    "branch": "*release"
+    "url": "https://github.com/cran/digest"
   },
   {
     "package": "distill",
@@ -176,13 +170,11 @@
   },
   {
     "package": "evaluate",
-    "url": "https://github.com/cran/evaluate",
-    "branch": "*release"
+    "url": "https://github.com/cran/evaluate"
   },
   {
     "package": "fansi",
-    "url": "https://github.com/cran/fansi",
-    "branch": "*release"
+    "url": "https://github.com/cran/fansi"
   },
   {
     "package": "fastmap",
@@ -316,8 +308,7 @@
   },
   {
     "package": "lattice",
-    "url": "https://github.com/cran/lattice",
-    "branch": "*release"
+    "url": "https://github.com/cran/lattice"
   },
   {
     "package": "lifecycle",
@@ -341,8 +332,7 @@
   },
   {
     "package": "Matrix",
-    "url": "https://github.com/cran/matrix",
-    "branch": "*release"
+    "url": "https://github.com/cran/matrix"
   },
   {
     "package": "memoise",
@@ -543,8 +533,7 @@
   },
   {
     "package": "png",
-    "url": "https://github.com/cran/png",
-    "branch": "*release"
+    "url": "https://github.com/cran/png"
   },
   {
     "package": "polars",
@@ -628,8 +617,7 @@
   },
   {
     "package": "rstudioapi",
-    "url": "https://github.com/cran/rstudioapi",
-    "branch": "*release"
+    "url": "https://github.com/cran/rstudioapi"
   },
   {
     "package": "safetensors",
@@ -668,8 +656,7 @@
   },
   {
     "package": "sourcetools",
-    "url": "https://github.com/cran/sourcetools",
-    "branch": "*release"
+    "url": "https://github.com/cran/sourcetools"
   },
   {
     "package": "stringi",
@@ -723,8 +710,7 @@
   },
   {
     "package": "timechange",
-    "url": "https://github.com/cran/timechange",
-    "branch": "*release"
+    "url": "https://github.com/cran/timechange"
   },
   {
     "package": "tinytex",
@@ -788,8 +774,7 @@
   },
   {
     "package": "xtable",
-    "url": "https://github.com/cran/xtable",
-    "branch": "*release"
+    "url": "https://github.com/cran/xtable"
   },
   {
     "package": "xts",
@@ -803,7 +788,6 @@
   },
   {
     "package": "zoo",
-    "url": "https://github.com/cran/zoo",
-    "branch": "*release"
+    "url": "https://github.com/cran/zoo"
   }
 ]
