@@ -140,20 +140,6 @@
     "branch": "*release"
   },
   {
-    "package": "digest",
-    "url": "https://github.com/cran/digest"
-  },
-  {
-    "package": "distill",
-    "url": "https://github.com/rstudio/distill",
-    "branch": "*release"
-  },
-  {
-    "package": "downlit",
-    "url": "https://github.com/r-lib/downlit",
-    "branch": "*release"
-  },
-  {
     "package": "dplyr",
     "url": "https://github.com/tidyverse/dplyr",
     "branch": "*release"
@@ -284,11 +270,6 @@
   {
     "package": "jsonlite",
     "url": "https://github.com/jeroen/jsonlite",
-    "branch": "*release"
-  },
-  {
-    "package": "katex",
-    "url": "https://github.com/ropensci/katex",
     "branch": "*release"
   },
   {
@@ -537,10 +518,6 @@
     "branch": "*release"
   },
   {
-    "package": "png",
-    "url": "https://github.com/cran/png"
-  },
-  {
     "package": "polars",
     "url": "https://github.com/pola-rs/r-polars",
     "branch": "*release"
@@ -548,11 +525,6 @@
   {
     "package": "processx",
     "url": "https://github.com/r-lib/processx",
-    "branch": "*release"
-  },
-  {
-    "package": "profvis",
-    "url": "https://github.com/rstudio/profvis",
     "branch": "*release"
   },
   {
@@ -619,10 +591,6 @@
     "package": "rprojroot",
     "url": "https://github.com/r-lib/rprojroot",
     "branch": "*release"
-  },
-  {
-    "package": "rstudioapi",
-    "url": "https://github.com/cran/rstudioapi"
   },
   {
     "package": "safetensors",
