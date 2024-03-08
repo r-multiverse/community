@@ -229,22 +229,16 @@
   },
   {
     "package": "digest",
-    "version_current": "0.6.34",
-    "hash_current": "a9e5fbf58921406af888f94f2682eb4a1c7d985d",
     "version_highest": "0.6.34",
     "hash_highest": "a9e5fbf58921406af888f94f2682eb4a1c7d985d"
   },
   {
     "package": "distill",
-    "version_current": "1.6",
-    "hash_current": "6ffbec14186135b44007f6e9126635df8febb01b",
     "version_highest": "1.6",
     "hash_highest": "6ffbec14186135b44007f6e9126635df8febb01b"
   },
   {
     "package": "downlit",
-    "version_current": "0.4.3",
-    "hash_current": "4429d115611e8fafd8bbd63b81e10c4a688c0af7",
     "version_highest": "0.4.3",
     "hash_highest": "4429d115611e8fafd8bbd63b81e10c4a688c0af7"
   },
@@ -464,8 +458,6 @@
   },
   {
     "package": "katex",
-    "version_current": "1.4.1",
-    "hash_current": "14dc12be027a7453a682cc0ee85196281f326d52",
     "version_highest": "1.4.1",
     "hash_highest": "14dc12be027a7453a682cc0ee85196281f326d52"
   },
@@ -559,6 +551,13 @@
     "hash_current": "dcd4f55477855a910df0d3c714b611913e71f0fc",
     "version_highest": "0.4.1",
     "hash_highest": "dcd4f55477855a910df0d3c714b611913e71f0fc"
+  },
+  {
+    "package": "mmrm",
+    "version_current": "0.3.11",
+    "hash_current": "a21054eacaf15164c5d10328e061db6a35d3aa5f",
+    "version_highest": "0.3.11",
+    "hash_highest": "a21054eacaf15164c5d10328e061db6a35d3aa5f"
   },
   {
     "package": "nanonext",
@@ -779,8 +778,6 @@
   },
   {
     "package": "png",
-    "version_current": "0.1-8",
-    "hash_current": "3a29c75792f912b6200d32471536cccf859372e8",
     "version_highest": "0.1-8",
     "hash_highest": "3a29c75792f912b6200d32471536cccf859372e8"
   },
@@ -800,8 +797,6 @@
   },
   {
     "package": "profvis",
-    "version_current": "0.3.8",
-    "hash_current": "9beb0e62ae1addadb2f58cff9b41a4e1c05289fa",
     "version_highest": "0.3.8",
     "hash_highest": "9beb0e62ae1addadb2f58cff9b41a4e1c05289fa"
   },
@@ -913,8 +908,6 @@
   },
   {
     "package": "rstudioapi",
-    "version_current": "0.15.0",
-    "hash_current": "67ae7ff82437556a3dc022007a774405a69ff9cb",
     "version_highest": "0.15.0",
     "hash_highest": "67ae7ff82437556a3dc022007a774405a69ff9cb"
   },
