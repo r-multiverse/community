@@ -39,9 +39,10 @@ jobs:
 
       - name: Build packages.json
         run: |
-          r.releases.internals::build_universe(
+          r.releases.internals::write_universe_manifest(
             input = file.path("r-releases", "packages"),
-            output = "packages.json"
+            output = "packages.json",
+            release_exceptions = "https://github.com/cran"
           )
         shell: Rscript {0}
 
