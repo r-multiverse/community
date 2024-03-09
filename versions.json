@@ -796,6 +796,13 @@
     "hash_highest": "b57dc281293ac8e92d9ec74541f42476509cff0e"
   },
   {
+    "package": "proffer",
+    "version_current": "0.1.6",
+    "hash_current": "fe81fa30c4f002721c6de16253697cad7aebf894",
+    "version_highest": "0.1.6",
+    "hash_highest": "fe81fa30c4f002721c6de16253697cad7aebf894"
+  },
+  {
     "package": "profvis",
     "version_highest": "0.3.8",
     "hash_highest": "9beb0e62ae1addadb2f58cff9b41a4e1c05289fa"
@@ -860,6 +867,13 @@
     "hash_current": "d08b46f47a9fc8b9ffea8a1ee84437d38af7e6f7",
     "version_highest": "1.0.12",
     "hash_highest": "d08b46f47a9fc8b9ffea8a1ee84437d38af7e6f7"
+  },
+  {
+    "package": "RcppSimdJson",
+    "version_current": "0.1.11",
+    "hash_current": "e1708dec0e053f29d485424a3262ca7d6729a51f",
+    "version_highest": "0.1.11",
+    "hash_highest": "e1708dec0e053f29d485424a3262ca7d6729a51f"
   },
   {
     "package": "reactlog",
