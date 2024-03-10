@@ -493,6 +493,11 @@
     "branch": "*release"
   },
   {
+    "package": "pingr",
+    "url": "https://github.com/r-lib/pingr",
+    "branch": "*release"
+  },
+  {
     "package": "pkgbuild",
     "url": "https://github.com/r-lib/pkgbuild",
     "branch": "*release"
