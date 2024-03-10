@@ -558,6 +558,10 @@
     "branch": "*release"
   },
   {
+    "package": "quadprog",
+    "url": "https://github.com/cran/quadprog"
+  },
+  {
     "package": "r.releases.internals",
     "url": "https://github.com/r-releases/r.releases.internals",
     "branch": "*release"
