@@ -40,6 +40,6 @@ jobs:
         run: |
           r.releases.internals::review_pull_requests(
             owner = "${{ github.repository_owner }}",
-            repo = "r-releases"
+            repo = "contributions"
           )
         shell: Rscript {0}
