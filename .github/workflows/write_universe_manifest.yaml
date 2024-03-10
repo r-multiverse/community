@@ -31,25 +31,25 @@ jobs:
       - name: Check out the r-releases.r-universe.dev.
         uses: actions/checkout@v4
     
-      - name: Check out r-releases.
+      - name: Check out contributions.
         uses: actions/checkout@v4
         with:
-          repository: '${{ github.repository_owner }}/r-releases'
+          repository: '${{ github.repository_owner }}/contributions'
           path: 'r-releases'
 
-      - name: Build packages.json
+      - name: Build packages.json.
         run: |
           r.releases.internals::write_universe_manifest(
-            input = file.path("r-releases", "packages"),
+            input = file.path("contributions", "packages"),
             output = "packages.json",
             release_exceptions = "https://github.com/cran"
           )
         shell: Rscript {0}
 
-      - name: Remove r-releases local repo
-        run: rm -rf r-releases
+      - name: Remove contributions local repo.
+        run: rm -rf contributions
         
-      - name: Deploy to main branch
+      - name: Deploy to main branch.
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4.5.0
         with:
