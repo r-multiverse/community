@@ -488,6 +488,11 @@
     "subdir": "cran/paws.storage"
   },
   {
+    "package": "PerformanceAnalytics",
+    "url": "https://github.com/braverock/PerformanceAnalytics",
+    "branch": "*release"
+  },
+  {
     "package": "pillar",
     "url": "https://github.com/r-lib/pillar",
     "branch": "*release"
