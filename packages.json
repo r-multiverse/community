@@ -14,6 +14,11 @@
     "branch": "*release"
   },
   {
+    "package": "audio.whisper",
+    "url": "https://github.com/bnosac/audio.whisper",
+    "branch": "*release"
+  },
+  {
     "package": "backports",
     "url": "https://github.com/r-lib/backports",
     "branch": "*release"
