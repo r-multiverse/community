@@ -601,6 +601,11 @@
     "branch": "*release"
   },
   {
+    "package": "releases",
+    "url": "https://github.com/r-releases/releases",
+    "branch": "*release"
+  },
+  {
     "package": "rlang",
     "url": "https://github.com/r-lib/rlang",
     "branch": "*release"
