@@ -735,11 +735,25 @@
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
+    "package": "PerformanceAnalytics",
+    "version_current": "2.0.4",
+    "hash_current": "691961b6a9d97cbc9c0660431f7bf0e9884cf03d",
+    "version_highest": "2.0.4",
+    "hash_highest": "691961b6a9d97cbc9c0660431f7bf0e9884cf03d"
+  },
+  {
     "package": "pillar",
     "version_current": "1.9.0",
     "hash_current": "ffaad6c68f0725ea12dff9e89d9e25d6edf8ddeb",
     "version_highest": "1.9.0",
     "hash_highest": "ffaad6c68f0725ea12dff9e89d9e25d6edf8ddeb"
+  },
+  {
+    "package": "pingr",
+    "version_current": "2.0.3",
+    "hash_current": "2c596cd36f89318be736bfda7979762c19d6db06",
+    "version_highest": "2.0.3",
+    "hash_highest": "2c596cd36f89318be736bfda7979762c19d6db06"
   },
   {
     "package": "pkgbuild",
@@ -836,11 +850,18 @@
     "hash_highest": "457087aefcdea1deea646b959bb6c4274821ee3b"
   },
   {
+    "package": "quadprog",
+    "version_current": "1.5-8",
+    "hash_current": "6a2fdd0144aa84ecaf0fb120aa2722899403abf9",
+    "version_highest": "1.5-8",
+    "hash_highest": "6a2fdd0144aa84ecaf0fb120aa2722899403abf9"
+  },
+  {
     "package": "r.releases.internals",
-    "version_current": "0.0.11",
-    "hash_current": "925564333fa0692dfb5f31132731388fd0ffaa5b",
-    "version_highest": "0.0.11",
-    "hash_highest": "925564333fa0692dfb5f31132731388fd0ffaa5b"
+    "version_current": "0.0.12",
+    "hash_current": "80baaf619decf6ef5715117a50f2a38168ef2745",
+    "version_highest": "0.0.12",
+    "hash_highest": "80baaf619decf6ef5715117a50f2a38168ef2745"
   },
   {
     "package": "R6",
