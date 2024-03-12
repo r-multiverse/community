@@ -21,6 +21,13 @@
     "hash_highest": "c6bc95d3a28076a5ce1d5997548b621419cc8d1d"
   },
   {
+    "package": "audio.whisper",
+    "version_current": "0.3.2",
+    "hash_current": "8d57d02bb956c783b4a88032976fb11b65409049",
+    "version_highest": "0.3.2",
+    "hash_highest": "8d57d02bb956c783b4a88032976fb11b65409049"
+  },
+  {
     "package": "backports",
     "version_current": "1.4.0",
     "hash_current": "4fbd21cc0c0701140851a53c8beae35fabc07d1f",
@@ -151,10 +158,10 @@
   },
   {
     "package": "coro",
-    "version_current": "1.0.3",
-    "hash_current": "8e65abb0e7e16fb7c7afb8be6263e522620c7663",
-    "version_highest": "1.0.3",
-    "hash_highest": "8e65abb0e7e16fb7c7afb8be6263e522620c7663"
+    "version_current": "1.0.4",
+    "hash_current": "13e673302f5b6311aadd0a78d29ea2fa8b944904",
+    "version_highest": "1.0.4",
+    "hash_highest": "13e673302f5b6311aadd0a78d29ea2fa8b944904"
   },
   {
     "package": "cpp11",
@@ -797,10 +804,10 @@
   },
   {
     "package": "polars",
-    "version_current": "0.15.0",
-    "hash_current": "97c09bc0a6fc3d166744dbddd037b49e8d8fc6c2",
-    "version_highest": "0.15.0",
-    "hash_highest": "97c09bc0a6fc3d166744dbddd037b49e8d8fc6c2"
+    "version_current": "0.15.1",
+    "hash_current": "c47431ca69622f79ed7a3f1d7bfee6075ffabfee",
+    "version_highest": "0.15.1",
+    "hash_highest": "c47431ca69622f79ed7a3f1d7bfee6075ffabfee"
   },
   {
     "package": "processx",
@@ -907,6 +914,13 @@
     "package": "readr",
     "version_highest": "2.1.5",
     "hash_highest": "0311e29f586e51c62569f6a25da5a7af45b0f922"
+  },
+  {
+    "package": "releases",
+    "version_current": "0.0.2",
+    "hash_current": "b51c7d71a6e97cce253b2b1a9653d30424d6c55b",
+    "version_highest": "0.0.2",
+    "hash_highest": "b51c7d71a6e97cce253b2b1a9653d30424d6c55b"
   },
   {
     "package": "reprex",
