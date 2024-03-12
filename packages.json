@@ -164,6 +164,11 @@
     "url": "https://github.com/cran/evaluate"
   },
   {
+    "package": "experDesign",
+    "url": "https://github.com/llrs/experDesign",
+    "branch": "*release"
+  },
+  {
     "package": "fansi",
     "url": "https://github.com/cran/fansi"
   },
