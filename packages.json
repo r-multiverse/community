@@ -665,6 +665,11 @@
     "url": "https://github.com/cran/sourcetools"
   },
   {
+    "package": "string2path",
+    "url": "https://github.com/yutannihilation/string2path",
+    "branch": "*release"
+  },
+  {
     "package": "stringi",
     "url": "https://github.com/gagolews/stringi",
     "branch": "*release"
