@@ -1,10 +1,10 @@
 [
   {
     "package": "arrow",
-    "version_current": "14.0.2.1",
-    "hash_current": "a626c1107be3b2591ae889375a2b0115b54d6400",
-    "version_highest": "14.0.2.1",
-    "hash_highest": "a626c1107be3b2591ae889375a2b0115b54d6400"
+    "version_current": "15.0.1",
+    "hash_current": "464677e9143115d95ce6be82f49f07e9dd5ca59e",
+    "version_highest": "15.0.1",
+    "hash_highest": "464677e9143115d95ce6be82f49f07e9dd5ca59e"
   },
   {
     "package": "askpass",
@@ -281,6 +281,13 @@
     "hash_current": "d2d1f3a15c41b476cc3012a695a2602d429eb170",
     "version_highest": "0.23",
     "hash_highest": "d2d1f3a15c41b476cc3012a695a2602d429eb170"
+  },
+  {
+    "package": "experDesign",
+    "version_current": "0.3.0",
+    "hash_current": "7e203f6314ff7482564da1d21a8b44983e9a62f3",
+    "version_highest": "0.3.0",
+    "hash_highest": "7e203f6314ff7482564da1d21a8b44983e9a62f3"
   },
   {
     "package": "fansi",
@@ -825,6 +832,8 @@
   },
   {
     "package": "profvis",
+    "version_current": "0.3.8",
+    "hash_current": "9beb0e62ae1addadb2f58cff9b41a4e1c05289fa",
     "version_highest": "0.3.8",
     "hash_highest": "9beb0e62ae1addadb2f58cff9b41a4e1c05289fa"
   },
@@ -865,10 +874,10 @@
   },
   {
     "package": "r.releases.internals",
-    "version_current": "0.0.12",
-    "hash_current": "80baaf619decf6ef5715117a50f2a38168ef2745",
-    "version_highest": "0.0.12",
-    "hash_highest": "80baaf619decf6ef5715117a50f2a38168ef2745"
+    "version_current": "0.0.13",
+    "hash_current": "8cf9967b938757752252ea782da65b42730cb6de",
+    "version_highest": "0.0.13",
+    "hash_highest": "8cf9967b938757752252ea782da65b42730cb6de"
   },
   {
     "package": "R6",
@@ -921,6 +930,13 @@
     "hash_current": "b51c7d71a6e97cce253b2b1a9653d30424d6c55b",
     "version_highest": "0.0.2",
     "hash_highest": "b51c7d71a6e97cce253b2b1a9653d30424d6c55b"
+  },
+  {
+    "package": "remotes",
+    "version_current": "2.4.2",
+    "hash_current": "2bc9f741952088310134bbd95030bc25d75c58d1",
+    "version_highest": "2.4.2",
+    "hash_highest": "2bc9f741952088310134bbd95030bc25d75c58d1"
   },
   {
     "package": "reprex",
@@ -1017,6 +1033,13 @@
     "hash_highest": "656f13972d67318fa7b4c790416cce409bac8c33"
   },
   {
+    "package": "string2path",
+    "version_current": "0.1.6",
+    "hash_current": "6c5d80d2a60cca71732cff6e4bee45b8ecccb247",
+    "version_highest": "0.1.6",
+    "hash_highest": "6c5d80d2a60cca71732cff6e4bee45b8ecccb247"
+  },
+  {
     "package": "stringi",
     "version_current": "1.8.3",
     "hash_current": "1bfae8df5c93f36772002a246b0879a7fac7e5eb",
@@ -1091,10 +1114,10 @@
   },
   {
     "package": "tidyselect",
-    "version_current": "1.2.0",
-    "hash_current": "fce2866dbca651b09a201b91c7df8332eb837819",
-    "version_highest": "1.2.0",
-    "hash_highest": "fce2866dbca651b09a201b91c7df8332eb837819"
+    "version_current": "1.2.1",
+    "hash_current": "5482dd6fc708dfc6d9947e2b99e1eaf5c44d00f2",
+    "version_highest": "1.2.1",
+    "hash_highest": "5482dd6fc708dfc6d9947e2b99e1eaf5c44d00f2"
   },
   {
     "package": "timechange",
