@@ -553,6 +553,11 @@
     "branch": "*release"
   },
   {
+    "package": "profvis",
+    "url": "https://github.com/rstudio/profvis",
+    "branch": "*release"
+  },
+  {
     "package": "progress",
     "url": "https://github.com/r-lib/progress",
     "branch": "*release"
@@ -608,6 +613,11 @@
   {
     "package": "releases",
     "url": "https://github.com/r-releases/releases",
+    "branch": "*release"
+  },
+  {
+    "package": "remotes",
+    "url": "https://github.com/r-lib/remotes",
     "branch": "*release"
   },
   {
