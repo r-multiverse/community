@@ -740,6 +740,11 @@
     "branch": "*release"
   },
   {
+    "package": "tidytensor",
+    "url": "https://github.com/oneilsh/tidytensor",
+    "branch": "*release"
+  },
+  {
     "package": "timechange",
     "url": "https://github.com/cran/timechange"
   },
