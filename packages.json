@@ -1,5 +1,9 @@
 [
   {
+    "package": "abind",
+    "url": "https://github.com/cran/abind"
+  },
+  {
     "package": "arrow",
     "url": "https://github.com/cran/arrow"
   },
@@ -98,6 +102,10 @@
     "package": "commonmark",
     "url": "https://github.com/r-lib/commonmark",
     "branch": "*release"
+  },
+  {
+    "package": "config",
+    "url": "https://github.com/cran/config"
   },
   {
     "package": "coro",
@@ -225,6 +233,11 @@
   {
     "package": "gtable",
     "url": "https://github.com/r-lib/gtable",
+    "branch": "*release"
+  },
+  {
+    "package": "here",
+    "url": "https://github.com/r-lib/here",
     "branch": "*release"
   },
   {
@@ -538,6 +551,10 @@
     "branch": "*release"
   },
   {
+    "package": "png",
+    "url": "https://github.com/cran/png"
+  },
+  {
     "package": "polars",
     "url": "https://github.com/pola-rs/r-polars",
     "branch": "*release"
@@ -611,6 +628,10 @@
     "url": "https://github.com/cran/RcppSimdJson"
   },
   {
+    "package": "RcppTOML",
+    "url": "https://github.com/cran/RcppTOML"
+  },
+  {
     "package": "reactlog",
     "url": "https://github.com/rstudio/reactlog",
     "branch": "*release"
@@ -623,6 +644,11 @@
   {
     "package": "remotes",
     "url": "https://github.com/r-lib/remotes",
+    "branch": "*release"
+  },
+  {
+    "package": "reticulate",
+    "url": "https://github.com/rstudio/reticulate",
     "branch": "*release"
   },
   {
@@ -720,8 +746,23 @@
     "branch": "*release"
   },
   {
+    "package": "tensorflow",
+    "url": "https://github.com/rstudio/tensorflow",
+    "branch": "*release"
+  },
+  {
     "package": "testthat",
     "url": "https://github.com/r-lib/testthat",
+    "branch": "*release"
+  },
+  {
+    "package": "tfautograph",
+    "url": "https://github.com/t-kalinowski/tfautograph",
+    "branch": "*release"
+  },
+  {
+    "package": "tfruns",
+    "url": "https://github.com/rstudio/tfruns",
     "branch": "*release"
   },
   {
@@ -787,6 +828,10 @@
     "package": "webutils",
     "url": "https://github.com/jeroen/webutils",
     "branch": "*release"
+  },
+  {
+    "package": "whisker",
+    "url": "https://github.com/cran/whisker"
   },
   {
     "package": "withr",
