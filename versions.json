@@ -1,5 +1,12 @@
 [
   {
+    "package": "abind",
+    "version_current": "1.4-5",
+    "hash_current": "7d7185af7c3b3c487be6dcd2a4a69224d596ff0a",
+    "version_highest": "1.4-5",
+    "hash_highest": "7d7185af7c3b3c487be6dcd2a4a69224d596ff0a"
+  },
+  {
     "package": "arrow",
     "version_current": "15.0.1",
     "hash_current": "464677e9143115d95ce6be82f49f07e9dd5ca59e",
@@ -155,6 +162,13 @@
     "hash_current": "1209f2deaee59da839e8484edac70c54cf8ce392",
     "version_highest": "1.9.1",
     "hash_highest": "1209f2deaee59da839e8484edac70c54cf8ce392"
+  },
+  {
+    "package": "config",
+    "version_current": "0.3.2",
+    "hash_current": "61f742fa9652079b9c210f156336a3e7f2cd5c04",
+    "version_highest": "0.3.2",
+    "hash_highest": "61f742fa9652079b9c210f156336a3e7f2cd5c04"
   },
   {
     "package": "coro",
@@ -385,6 +399,8 @@
   },
   {
     "package": "here",
+    "version_current": "1.0.1",
+    "hash_current": "822407a3ce9451843055408045b3515f55034a24",
     "version_highest": "1.0.1",
     "hash_highest": "822407a3ce9451843055408045b3515f55034a24"
   },
@@ -575,10 +591,10 @@
   },
   {
     "package": "nanonext",
-    "version_current": "0.13.3",
-    "hash_current": "43ce93c9b63349fe896358a8dd9159d8cb12b260",
-    "version_highest": "0.13.3",
-    "hash_highest": "43ce93c9b63349fe896358a8dd9159d8cb12b260"
+    "version_current": "0.13.4",
+    "hash_current": "252b92aa3e96d43d3569ca9fe264fb885b25a7a0",
+    "version_highest": "0.13.4",
+    "hash_highest": "252b92aa3e96d43d3569ca9fe264fb885b25a7a0"
   },
   {
     "package": "openssl",
@@ -806,6 +822,8 @@
   },
   {
     "package": "png",
+    "version_current": "0.1-8",
+    "hash_current": "3a29c75792f912b6200d32471536cccf859372e8",
     "version_highest": "0.1-8",
     "hash_highest": "3a29c75792f912b6200d32471536cccf859372e8"
   },
@@ -874,10 +892,10 @@
   },
   {
     "package": "r.releases.internals",
-    "version_current": "0.0.13",
-    "hash_current": "8cf9967b938757752252ea782da65b42730cb6de",
-    "version_highest": "0.0.13",
-    "hash_highest": "8cf9967b938757752252ea782da65b42730cb6de"
+    "version_current": "0.0.15",
+    "hash_current": "c686f0e9b806dc86205102633e349999b018c6b5",
+    "version_highest": "0.0.15",
+    "hash_highest": "c686f0e9b806dc86205102633e349999b018c6b5"
   },
   {
     "package": "R6",
@@ -888,6 +906,8 @@
   },
   {
     "package": "ragg",
+    "version_current": "1.2.7",
+    "hash_current": "d04ba0c95527d45df61fe954fe537b434f8c7924",
     "version_highest": "1.2.7",
     "hash_highest": "d04ba0c95527d45df61fe954fe537b434f8c7924"
   },
@@ -911,6 +931,13 @@
     "hash_current": "e1708dec0e053f29d485424a3262ca7d6729a51f",
     "version_highest": "0.1.11",
     "hash_highest": "e1708dec0e053f29d485424a3262ca7d6729a51f"
+  },
+  {
+    "package": "RcppTOML",
+    "version_current": "0.2.2",
+    "hash_current": "2a9f5c564f929305fe2b6a5e6ba31995db524311",
+    "version_highest": "0.2.2",
+    "hash_highest": "2a9f5c564f929305fe2b6a5e6ba31995db524311"
   },
   {
     "package": "reactlog",
@@ -942,6 +969,13 @@
     "package": "reprex",
     "version_highest": "2.1.0",
     "hash_highest": "717b5a8885d9ad624c5e0e082af602b33f73db62"
+  },
+  {
+    "package": "reticulate",
+    "version_current": "1.35.0",
+    "hash_current": "7267effa6ddcee235b8df027d1470d98beafdae4",
+    "version_highest": "1.35.0",
+    "hash_highest": "7267effa6ddcee235b8df027d1470d98beafdae4"
   },
   {
     "package": "rlang",
@@ -1081,10 +1115,17 @@
   },
   {
     "package": "targets",
-    "version_current": "1.5.1",
-    "hash_current": "e5c79bd729b18f8ad89c7d2f5b4e4a1e85dd293d",
-    "version_highest": "1.5.1",
-    "hash_highest": "e5c79bd729b18f8ad89c7d2f5b4e4a1e85dd293d"
+    "version_current": "1.6.0",
+    "hash_current": "83568e14276423cb398f1ac812a36a9353a54fa3",
+    "version_highest": "1.6.0",
+    "hash_highest": "83568e14276423cb398f1ac812a36a9353a54fa3"
+  },
+  {
+    "package": "tensorflow",
+    "version_current": "2.15.0",
+    "hash_current": "963f4f71c2d1a4b939d59d45e339a17b14187ec6",
+    "version_highest": "2.15.0",
+    "hash_highest": "963f4f71c2d1a4b939d59d45e339a17b14187ec6"
   },
   {
     "package": "testthat",
@@ -1097,6 +1138,20 @@
     "package": "textshaping",
     "version_highest": "0.3.7",
     "hash_highest": "4530805f14d092aa94475fb452a77c0825a7ce69"
+  },
+  {
+    "package": "tfautograph",
+    "version_current": "0.3.2",
+    "hash_current": "773d7072f1ea829eeb55985663bed532e58f3cb2",
+    "version_highest": "0.3.2",
+    "hash_highest": "773d7072f1ea829eeb55985663bed532e58f3cb2"
+  },
+  {
+    "package": "tfruns",
+    "version_current": "1.5.2",
+    "hash_current": "aa307712b170705be49a5d2393ff6db646db953a",
+    "version_highest": "1.5.2",
+    "hash_highest": "aa307712b170705be49a5d2393ff6db646db953a"
   },
   {
     "package": "tibble",
@@ -1118,6 +1173,13 @@
     "hash_current": "5482dd6fc708dfc6d9947e2b99e1eaf5c44d00f2",
     "version_highest": "1.2.1",
     "hash_highest": "5482dd6fc708dfc6d9947e2b99e1eaf5c44d00f2"
+  },
+  {
+    "package": "tidytensor",
+    "version_current": "1.0.0",
+    "hash_current": "14f5b87d2dfae20eb35cfd974adf660a4fd89980",
+    "version_highest": "1.0.0",
+    "hash_highest": "14f5b87d2dfae20eb35cfd974adf660a4fd89980"
   },
   {
     "package": "timechange",
@@ -1181,6 +1243,13 @@
     "hash_current": "835953ea30de789293082f7f4c1c0f45566fae21",
     "version_highest": "1.1",
     "hash_highest": "835953ea30de789293082f7f4c1c0f45566fae21"
+  },
+  {
+    "package": "whisker",
+    "version_current": "0.4.1",
+    "hash_current": "7f4363d0954cbcaf8b6013f17dd6beac92b2e9ac",
+    "version_highest": "0.4.1",
+    "hash_highest": "7f4363d0954cbcaf8b6013f17dd6beac92b2e9ac"
   },
   {
     "package": "withr",
