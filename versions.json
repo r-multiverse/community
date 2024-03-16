@@ -277,10 +277,10 @@
   },
   {
     "package": "duckdb",
-    "version_current": "0.9.2-1",
-    "hash_current": "a266e34358ef77ca8b8c430564cc5c3d0e3f9857",
-    "version_highest": "0.9.2-1",
-    "hash_highest": "a266e34358ef77ca8b8c430564cc5c3d0e3f9857"
+    "version_current": "0.10.0",
+    "hash_current": "6794b3f77f1b9fdfbf8585cf8d2960b049b4c799",
+    "version_highest": "0.10.0",
+    "hash_highest": "6794b3f77f1b9fdfbf8585cf8d2960b049b4c799"
   },
   {
     "package": "ellipsis",
@@ -1019,10 +1019,10 @@
   },
   {
     "package": "sass",
-    "version_current": "0.4.8",
-    "hash_current": "2e934ae1278f8350daeb17c60b4ad1fa8067f738",
-    "version_highest": "0.4.8",
-    "hash_highest": "2e934ae1278f8350daeb17c60b4ad1fa8067f738"
+    "version_current": "0.4.9",
+    "hash_current": "6f8f3e4f55f4028db7c539209efd38e5da3712d8",
+    "version_highest": "0.4.9",
+    "hash_highest": "6f8f3e4f55f4028db7c539209efd38e5da3712d8"
   },
   {
     "package": "scales",
