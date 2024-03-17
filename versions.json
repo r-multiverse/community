@@ -29,10 +29,10 @@
   },
   {
     "package": "audio.whisper",
-    "version_current": "0.3.2",
-    "hash_current": "8d57d02bb956c783b4a88032976fb11b65409049",
-    "version_highest": "0.3.2",
-    "hash_highest": "8d57d02bb956c783b4a88032976fb11b65409049"
+    "version_current": "0.3.3",
+    "hash_current": "f30c8b3d6b6f026322fbd62b7bdee2cab81817fa",
+    "version_highest": "0.3.3",
+    "hash_highest": "f30c8b3d6b6f026322fbd62b7bdee2cab81817fa"
   },
   {
     "package": "backports",
