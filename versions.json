@@ -605,10 +605,10 @@
   },
   {
     "package": "pak",
-    "version_current": "0.7.1",
-    "hash_current": "b3f305b9e4a2c39c647ec6e56de369590552e6bd",
-    "version_highest": "0.7.1",
-    "hash_highest": "b3f305b9e4a2c39c647ec6e56de369590552e6bd"
+    "version_current": "0.7.2",
+    "hash_current": "901ea514e56a894aa7e8d2ea89f6fa80c8b92dcd",
+    "version_highest": "0.7.2",
+    "hash_highest": "901ea514e56a894aa7e8d2ea89f6fa80c8b92dcd"
   },
   {
     "package": "paws",
@@ -787,10 +787,10 @@
   },
   {
     "package": "pkgbuild",
-    "version_current": "1.4.3",
-    "hash_current": "1a8608d00137063a154f93d7dedbea6480cb0313",
-    "version_highest": "1.4.3",
-    "hash_highest": "1a8608d00137063a154f93d7dedbea6480cb0313"
+    "version_current": "1.4.4",
+    "hash_current": "7738c4c627cc8d97236144156d2c1407e25ad4aa",
+    "version_highest": "1.4.4",
+    "hash_highest": "7738c4c627cc8d97236144156d2c1407e25ad4aa"
   },
   {
     "package": "pkgconfig",
@@ -836,10 +836,10 @@
   },
   {
     "package": "processx",
-    "version_current": "3.8.3",
-    "hash_current": "b57dc281293ac8e92d9ec74541f42476509cff0e",
-    "version_highest": "3.8.3",
-    "hash_highest": "b57dc281293ac8e92d9ec74541f42476509cff0e"
+    "version_current": "3.8.4",
+    "hash_current": "956591ada243ed04a6b76e2586c2a77fb6e4d8aa",
+    "version_highest": "3.8.4",
+    "hash_highest": "956591ada243ed04a6b76e2586c2a77fb6e4d8aa"
   },
   {
     "package": "proffer",
@@ -960,10 +960,10 @@
   },
   {
     "package": "remotes",
-    "version_current": "2.4.2",
-    "hash_current": "2bc9f741952088310134bbd95030bc25d75c58d1",
-    "version_highest": "2.4.2",
-    "hash_highest": "2bc9f741952088310134bbd95030bc25d75c58d1"
+    "version_current": "2.5.0",
+    "hash_current": "21594089e737ff5579ace1dcaf02db412eb6f9cd",
+    "version_highest": "2.5.0",
+    "hash_highest": "21594089e737ff5579ace1dcaf02db412eb6f9cd"
   },
   {
     "package": "reprex",
@@ -1188,10 +1188,10 @@
   },
   {
     "package": "tinytex",
-    "version_current": "0.49",
-    "hash_current": "24c7550ef8624a35fc7b02efef5091981e55eeca",
-    "version_highest": "0.49",
-    "hash_highest": "24c7550ef8624a35fc7b02efef5091981e55eeca"
+    "version_current": "0.50",
+    "hash_current": "bc72c1503d03479319efddd02f00bb876b1951d7",
+    "version_highest": "0.50",
+    "hash_highest": "bc72c1503d03479319efddd02f00bb876b1951d7"
   },
   {
     "package": "torch",
