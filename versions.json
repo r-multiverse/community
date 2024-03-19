@@ -892,10 +892,10 @@
   },
   {
     "package": "r.releases.internals",
-    "version_current": "0.0.15",
-    "hash_current": "c686f0e9b806dc86205102633e349999b018c6b5",
-    "version_highest": "0.0.15",
-    "hash_highest": "c686f0e9b806dc86205102633e349999b018c6b5"
+    "version_current": "0.0.16",
+    "hash_current": "09ef891ffe036f2d27808b329676d48b3d81dcf0",
+    "version_highest": "0.0.16",
+    "hash_highest": "09ef891ffe036f2d27808b329676d48b3d81dcf0"
   },
   {
     "package": "R6",
@@ -1108,10 +1108,10 @@
   },
   {
     "package": "tarchetypes",
-    "version_current": "0.7.12",
-    "hash_current": "c1ec0e494175de8342d328cf094db9e73163d9b3",
-    "version_highest": "0.7.12",
-    "hash_highest": "c1ec0e494175de8342d328cf094db9e73163d9b3"
+    "version_current": "0.8.0",
+    "hash_current": "16cedee612d027f28d000d34ad6aadd84a5ea3ff",
+    "version_highest": "0.8.0",
+    "hash_highest": "16cedee612d027f28d000d34ad6aadd84a5ea3ff"
   },
   {
     "package": "targets",
