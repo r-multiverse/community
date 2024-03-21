@@ -1,4 +1,4 @@
-name: write_universe_manifest
+name: aggregate_listings
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: '20 * * * *'
 
 jobs:
-  write_universe_manifest:
+  aggregate_listings:
     runs-on: macOS-latest
 
     env:
@@ -22,7 +22,7 @@ jobs:
       - name: Install helper R package.
         run: |
           install.packages(
-            pkgs = "r.releases.internals",
+            pkgs = "multiverse.internals",
             repos = "https://${{ github.repository_owner }}.r-universe.dev",
             type = "binary"
           )
@@ -39,7 +39,7 @@ jobs:
 
       - name: Build packages.json.
         run: |
-          r.releases.internals::write_universe_manifest(
+          multiverse.internals::aggregate_listings(
             input = file.path("contributions", "packages"),
             output = "packages.json",
             release_exceptions = "https://github.com/cran"
