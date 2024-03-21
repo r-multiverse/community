@@ -320,6 +320,11 @@
     "branch": "*release"
   },
   {
+    "package": "multitools",
+    "url": "https://github.com/r-multiverse/multitools",
+    "branch": "*release"
+  },
+  {
     "package": "multiverse.internals",
     "url": "https://github.com/r-multiverse/multiverse.internals",
     "branch": "*release"
