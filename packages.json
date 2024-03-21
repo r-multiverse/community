@@ -20,10 +20,6 @@
     "branch": "*release"
   },
   {
-    "package": "base64enc",
-    "url": "https://github.com/cran/base64enc"
-  },
-  {
     "package": "BaseSet",
     "url": "https://github.com/ropensci/BaseSet",
     "branch": "*release"
@@ -324,6 +320,11 @@
     "branch": "*release"
   },
   {
+    "package": "multiverse.internals",
+    "url": "https://github.com/r-multiverse/multiverse.internals",
+    "branch": "*release"
+  },
+  {
     "package": "nanonext",
     "url": "https://github.com/shikokuchuo/nanonext",
     "branch": "*release"
@@ -419,11 +420,6 @@
     "branch": "*release"
   },
   {
-    "package": "multiverse.internals",
-    "url": "https://github.com/r-multiverse/multiverse.internals",
-    "branch": "*release"
-  },
-  {
     "package": "R6",
     "url": "https://github.com/r-lib/R6",
     "branch": "*release"
@@ -446,6 +442,11 @@
   {
     "package": "reactlog",
     "url": "https://github.com/rstudio/reactlog",
+    "branch": "*release"
+  },
+  {
+    "package": "releases",
+    "url": "https://github.com/r-releases/releases",
     "branch": "*release"
   },
   {
