@@ -1,13 +1,5 @@
 [
   {
-    "package": "abind",
-    "url": "https://github.com/cran/abind"
-  },
-  {
-    "package": "arrow",
-    "url": "https://github.com/cran/arrow"
-  },
-  {
     "package": "askpass",
     "url": "https://github.com/r-lib/askpass",
     "branch": "*release"
@@ -47,21 +39,9 @@
     "branch": "*release"
   },
   {
-    "package": "bit",
-    "url": "https://github.com/cran/bit"
-  },
-  {
-    "package": "bit64",
-    "url": "https://github.com/cran/bit64"
-  },
-  {
     "package": "bookdown",
     "url": "https://github.com/rstudio/bookdown",
     "branch": "*release"
-  },
-  {
-    "package": "brew",
-    "url": "https://github.com/cran/brew"
   },
   {
     "package": "brio",
@@ -102,10 +82,6 @@
     "package": "commonmark",
     "url": "https://github.com/r-lib/commonmark",
     "branch": "*release"
-  },
-  {
-    "package": "config",
-    "url": "https://github.com/cran/config"
   },
   {
     "package": "coro",
@@ -168,17 +144,9 @@
     "branch": "*release"
   },
   {
-    "package": "evaluate",
-    "url": "https://github.com/cran/evaluate"
-  },
-  {
     "package": "experDesign",
     "url": "https://github.com/llrs/experDesign",
     "branch": "*release"
-  },
-  {
-    "package": "fansi",
-    "url": "https://github.com/cran/fansi"
   },
   {
     "package": "fastmap",
@@ -311,10 +279,6 @@
     "branch": "*release"
   },
   {
-    "package": "lattice",
-    "url": "https://github.com/cran/lattice"
-  },
-  {
     "package": "lifecycle",
     "url": "https://github.com/r-lib/lifecycle",
     "branch": "*release"
@@ -333,10 +297,6 @@
     "package": "markdown",
     "url": "https://github.com/rstudio/markdown",
     "branch": "*release"
-  },
-  {
-    "package": "Matrix",
-    "url": "https://github.com/cran/matrix"
   },
   {
     "package": "memoise",
@@ -379,138 +339,6 @@
     "branch": "*release"
   },
   {
-    "package": "paws",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws"
-  },
-  {
-    "package": "paws.analytics",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.analytics"
-  },
-  {
-    "package": "paws.application.integration",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.application.integration"
-  },
-  {
-    "package": "paws.business.applications",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.business.applications"
-  },
-  {
-    "package": "paws.common",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "paws.common"
-  },
-  {
-    "package": "paws.compute",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.compute"
-  },
-  {
-    "package": "paws.cost.management",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.cost.management"
-  },
-  {
-    "package": "paws.customer.engagement",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.customer.engagement"
-  },
-  {
-    "package": "paws.database",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.database"
-  },
-  {
-    "package": "paws.developer.tools",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.developer.tools"
-  },
-  {
-    "package": "paws.end.user.computing",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.end.user.computing"
-  },
-  {
-    "package": "paws.game.development",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.game.development"
-  },
-  {
-    "package": "paws.internet.of.things",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.internet.of.things"
-  },
-  {
-    "package": "paws.machine.learning",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.machine.learning"
-  },
-  {
-    "package": "paws.management",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.management"
-  },
-  {
-    "package": "paws.media.services",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.media.services"
-  },
-  {
-    "package": "paws.migration",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.migration"
-  },
-  {
-    "package": "paws.mobile",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.mobile"
-  },
-  {
-    "package": "paws.networking",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.networking"
-  },
-  {
-    "package": "paws.robotics",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.robotics"
-  },
-  {
-    "package": "paws.security.identity",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.security.identity"
-  },
-  {
-    "package": "paws.storage",
-    "url": "https://github.com/paws-r/paws",
-    "branch": "*release",
-    "subdir": "cran/paws.storage"
-  },
-  {
     "package": "PerformanceAnalytics",
     "url": "https://github.com/braverock/PerformanceAnalytics",
     "branch": "*release"
@@ -549,10 +377,6 @@
     "package": "plumber",
     "url": "https://github.com/rstudio/plumber",
     "branch": "*release"
-  },
-  {
-    "package": "png",
-    "url": "https://github.com/cran/png"
   },
   {
     "package": "polars",
@@ -595,12 +419,8 @@
     "branch": "*release"
   },
   {
-    "package": "quadprog",
-    "url": "https://github.com/cran/quadprog"
-  },
-  {
-    "package": "r.releases.internals",
-    "url": "https://github.com/r-releases/r.releases.internals",
+    "package": "multiverse.internals",
+    "url": "https://github.com/r-multiverse/multiverse.internals",
     "branch": "*release"
   },
   {
@@ -624,21 +444,8 @@
     "branch": "*release"
   },
   {
-    "package": "RcppSimdJson",
-    "url": "https://github.com/cran/RcppSimdJson"
-  },
-  {
-    "package": "RcppTOML",
-    "url": "https://github.com/cran/RcppTOML"
-  },
-  {
     "package": "reactlog",
     "url": "https://github.com/rstudio/reactlog",
-    "branch": "*release"
-  },
-  {
-    "package": "releases",
-    "url": "https://github.com/r-releases/releases",
     "branch": "*release"
   },
   {
@@ -705,10 +512,6 @@
     "package": "sodium",
     "url": "https://github.com/r-lib/sodium",
     "branch": "*release"
-  },
-  {
-    "package": "sourcetools",
-    "url": "https://github.com/cran/sourcetools"
   },
   {
     "package": "string2path",
@@ -781,10 +584,6 @@
     "branch": "*release"
   },
   {
-    "package": "timechange",
-    "url": "https://github.com/cran/timechange"
-  },
-  {
     "package": "tinytex",
     "url": "https://github.com/rstudio/tinytex",
     "branch": "*release"
@@ -825,10 +624,6 @@
     "branch": "*release"
   },
   {
-    "package": "whisker",
-    "url": "https://github.com/cran/whisker"
-  },
-  {
     "package": "withr",
     "url": "https://github.com/r-lib/withr",
     "branch": "*release"
@@ -849,10 +644,6 @@
     "branch": "*release"
   },
   {
-    "package": "xtable",
-    "url": "https://github.com/cran/xtable"
-  },
-  {
     "package": "xts",
     "url": "https://github.com/joshuaulrich/xts",
     "branch": "*release"
@@ -861,9 +652,5 @@
     "package": "yaml",
     "url": "https://github.com/vubiostat/r-yaml",
     "branch": "*release"
-  },
-  {
-    "package": "zoo",
-    "url": "https://github.com/cran/zoo"
   }
 ]
