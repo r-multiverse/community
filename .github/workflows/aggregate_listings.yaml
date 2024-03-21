@@ -28,7 +28,7 @@ jobs:
           )
         shell: Rscript {0}
 
-      - name: Check out the r-releases.r-universe.dev.
+      - name: Check out the universe.
         uses: actions/checkout@v4
     
       - name: Check out contributions.
