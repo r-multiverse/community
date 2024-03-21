@@ -514,10 +514,10 @@
   },
   {
     "package": "lattice",
-    "version_current": "0.22-5",
-    "hash_current": "c77f8ebc15a2afe697aa7e8e36b39da4a29fe940",
-    "version_highest": "0.22-5",
-    "hash_highest": "c77f8ebc15a2afe697aa7e8e36b39da4a29fe940"
+    "version_current": "0.22-6",
+    "hash_current": "dcce022d5648a62f4e1c37726fd388bba46af647",
+    "version_highest": "0.22-6",
+    "hash_highest": "dcce022d5648a62f4e1c37726fd388bba46af647"
   },
   {
     "package": "lifecycle",
