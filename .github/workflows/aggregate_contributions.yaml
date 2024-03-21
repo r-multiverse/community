@@ -1,4 +1,4 @@
-name: aggregate_listings
+name: aggregate_contributions
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: '20 * * * *'
 
 jobs:
-  aggregate_listings:
+  aggregate_contributions:
     runs-on: macOS-latest
 
     env:
@@ -39,10 +39,10 @@ jobs:
 
       - name: Build packages.json.
         run: |
-          multiverse.internals::aggregate_listings(
+          multiverse.internals::aggregate_contributions(
             input = file.path("contributions", "packages"),
             output = "packages.json",
-            release_exceptions = "https://github.com/cran"
+            owner_exceptions = "https://github.com/cran"
           )
         shell: Rscript {0}
 
