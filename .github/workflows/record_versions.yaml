@@ -22,18 +22,18 @@ jobs:
       - name: Install helper R package.
         run: |
           install.packages(
-            pkgs = "r.releases.internals",
+            pkgs = "multiverse.internals",
             repos = "https://${{ github.repository_owner }}.r-universe.dev",
             type = "binary"
           )
         shell: Rscript {0}
 
-      - name: Check out the r-releases.r-universe.dev.
+      - name: Check out the universe.
         uses: actions/checkout@v4
     
       - name: Record versions.
         run: |
-          r.releases.internals::record_versions(
+          multiverse.internals::record_versions(
             manifest = "versions.json",
             issues = "version_issues.json",
             repo = "https://${{ github.repository_owner }}.r-universe.dev"
