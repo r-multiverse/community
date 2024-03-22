@@ -833,11 +833,6 @@
     "hash_highest": "6a2fdd0144aa84ecaf0fb120aa2722899403abf9"
   },
   {
-    "package": "r.releases.internals",
-    "version_highest": "0.0.16",
-    "hash_highest": "09ef891ffe036f2d27808b329676d48b3d81dcf0"
-  },
-  {
     "package": "R6",
     "version_current": "2.5.0",
     "hash_current": "6cf7d4e3c5fd0c259bf8384e223d6a7498d5e449",
@@ -886,11 +881,6 @@
     "package": "readr",
     "version_highest": "2.1.5",
     "hash_highest": "0311e29f586e51c62569f6a25da5a7af45b0f922"
-  },
-  {
-    "package": "releases",
-    "version_highest": "0.0.4",
-    "hash_highest": "0ba6b28e73b0469ced75bf8b2dc7f545e2917a9c"
   },
   {
     "package": "remotes",
