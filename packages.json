@@ -450,11 +450,6 @@
     "branch": "*release"
   },
   {
-    "package": "releases",
-    "url": "https://github.com/r-releases/releases",
-    "branch": "*release"
-  },
-  {
     "package": "remotes",
     "url": "https://github.com/r-lib/remotes",
     "branch": "*release"
