@@ -1,15 +1,11 @@
 [
   {
     "package": "abind",
-    "version_current": "1.4-5",
-    "hash_current": "7d7185af7c3b3c487be6dcd2a4a69224d596ff0a",
     "version_highest": "1.4-5",
     "hash_highest": "7d7185af7c3b3c487be6dcd2a4a69224d596ff0a"
   },
   {
     "package": "arrow",
-    "version_current": "15.0.1",
-    "hash_current": "464677e9143115d95ce6be82f49f07e9dd5ca59e",
     "version_highest": "15.0.1",
     "hash_highest": "464677e9143115d95ce6be82f49f07e9dd5ca59e"
   },
@@ -43,8 +39,6 @@
   },
   {
     "package": "base64enc",
-    "version_current": "0.1-3",
-    "hash_current": "62146a66eee6d106625091a153774a09da13ef55",
     "version_highest": "0.1-3",
     "hash_highest": "62146a66eee6d106625091a153774a09da13ef55"
   },
@@ -71,15 +65,11 @@
   },
   {
     "package": "bit",
-    "version_current": "4.0.5",
-    "hash_current": "02ef361a415bb7268767da034fb56c0018b59e1f",
     "version_highest": "4.0.5",
     "hash_highest": "02ef361a415bb7268767da034fb56c0018b59e1f"
   },
   {
     "package": "bit64",
-    "version_current": "4.0.5",
-    "hash_current": "53a5d8eaf9ef55554fd44f91396f51745dc8243d",
     "version_highest": "4.0.5",
     "hash_highest": "53a5d8eaf9ef55554fd44f91396f51745dc8243d"
   },
@@ -97,8 +87,6 @@
   },
   {
     "package": "brew",
-    "version_current": "1.0-10",
-    "hash_current": "719a6cec05a4d70a92ca708e0ec7edd653f28e55",
     "version_highest": "1.0-10",
     "hash_highest": "719a6cec05a4d70a92ca708e0ec7edd653f28e55"
   },
@@ -165,8 +153,6 @@
   },
   {
     "package": "config",
-    "version_current": "0.3.2",
-    "hash_current": "61f742fa9652079b9c210f156336a3e7f2cd5c04",
     "version_highest": "0.3.2",
     "hash_highest": "61f742fa9652079b9c210f156336a3e7f2cd5c04"
   },
@@ -291,8 +277,6 @@
   },
   {
     "package": "evaluate",
-    "version_current": "0.23",
-    "hash_current": "d2d1f3a15c41b476cc3012a695a2602d429eb170",
     "version_highest": "0.23",
     "hash_highest": "d2d1f3a15c41b476cc3012a695a2602d429eb170"
   },
@@ -305,8 +289,6 @@
   },
   {
     "package": "fansi",
-    "version_current": "1.0.6",
-    "hash_current": "e6e21b457a2401724d4501b51e2073ee29ba8257",
     "version_highest": "1.0.6",
     "hash_highest": "e6e21b457a2401724d4501b51e2073ee29ba8257"
   },
@@ -514,8 +496,6 @@
   },
   {
     "package": "lattice",
-    "version_current": "0.22-6",
-    "hash_current": "dcce022d5648a62f4e1c37726fd388bba46af647",
     "version_highest": "0.22-6",
     "hash_highest": "dcce022d5648a62f4e1c37726fd388bba46af647"
   },
@@ -549,8 +529,6 @@
   },
   {
     "package": "Matrix",
-    "version_current": "1.6-5",
-    "hash_current": "8f0083c101114457cf9f9a00dc7cd8420b4c89a2",
     "version_highest": "1.6-5",
     "hash_highest": "8f0083c101114457cf9f9a00dc7cd8420b4c89a2"
   },
@@ -570,8 +548,6 @@
   },
   {
     "package": "mirai",
-    "version_current": "0.13.1",
-    "hash_current": "b1105707e3d788e7b67be150e01f3c7f26e43784",
     "version_highest": "0.13.1",
     "hash_highest": "b1105707e3d788e7b67be150e01f3c7f26e43784"
   },
@@ -588,6 +564,20 @@
     "hash_current": "a21054eacaf15164c5d10328e061db6a35d3aa5f",
     "version_highest": "0.3.11",
     "hash_highest": "a21054eacaf15164c5d10328e061db6a35d3aa5f"
+  },
+  {
+    "package": "multitools",
+    "version_current": "0.1.0",
+    "hash_current": "2e46e6c16b31bbbc39fb7d694dc6b85ea92b6163",
+    "version_highest": "0.1.0",
+    "hash_highest": "2e46e6c16b31bbbc39fb7d694dc6b85ea92b6163"
+  },
+  {
+    "package": "multiverse.internals",
+    "version_current": "0.1.1",
+    "hash_current": "ba85c84406d81b03eb0817672ff109c7e94cc1a4",
+    "version_highest": "0.1.1",
+    "hash_highest": "ba85c84406d81b03eb0817672ff109c7e94cc1a4"
   },
   {
     "package": "nanonext",
@@ -612,155 +602,111 @@
   },
   {
     "package": "paws",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.analytics",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.application.integration",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.business.applications",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.common",
-    "version_current": "0.7.1",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.7.1",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.compute",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.cost.management",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.customer.engagement",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.database",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.developer.tools",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.end.user.computing",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.game.development",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.internet.of.things",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.machine.learning",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.management",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.media.services",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.migration",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.mobile",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.networking",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.robotics",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.security.identity",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
   {
     "package": "paws.storage",
-    "version_current": "0.5.0",
-    "hash_current": "83a5017e0e03bb21aa03df849944387ec01e1d25",
     "version_highest": "0.5.0",
     "hash_highest": "83a5017e0e03bb21aa03df849944387ec01e1d25"
   },
@@ -822,8 +768,6 @@
   },
   {
     "package": "png",
-    "version_current": "0.1-8",
-    "hash_current": "3a29c75792f912b6200d32471536cccf859372e8",
     "version_highest": "0.1-8",
     "hash_highest": "3a29c75792f912b6200d32471536cccf859372e8"
   },
@@ -885,15 +829,11 @@
   },
   {
     "package": "quadprog",
-    "version_current": "1.5-8",
-    "hash_current": "6a2fdd0144aa84ecaf0fb120aa2722899403abf9",
     "version_highest": "1.5-8",
     "hash_highest": "6a2fdd0144aa84ecaf0fb120aa2722899403abf9"
   },
   {
     "package": "r.releases.internals",
-    "version_current": "0.0.16",
-    "hash_current": "09ef891ffe036f2d27808b329676d48b3d81dcf0",
     "version_highest": "0.0.16",
     "hash_highest": "09ef891ffe036f2d27808b329676d48b3d81dcf0"
   },
@@ -927,15 +867,11 @@
   },
   {
     "package": "RcppSimdJson",
-    "version_current": "0.1.11",
-    "hash_current": "e1708dec0e053f29d485424a3262ca7d6729a51f",
     "version_highest": "0.1.11",
     "hash_highest": "e1708dec0e053f29d485424a3262ca7d6729a51f"
   },
   {
     "package": "RcppTOML",
-    "version_current": "0.2.2",
-    "hash_current": "2a9f5c564f929305fe2b6a5e6ba31995db524311",
     "version_highest": "0.2.2",
     "hash_highest": "2a9f5c564f929305fe2b6a5e6ba31995db524311"
   },
@@ -953,8 +889,6 @@
   },
   {
     "package": "releases",
-    "version_current": "0.0.4",
-    "hash_current": "0ba6b28e73b0469ced75bf8b2dc7f545e2917a9c",
     "version_highest": "0.0.4",
     "hash_highest": "0ba6b28e73b0469ced75bf8b2dc7f545e2917a9c"
   },
@@ -1061,8 +995,6 @@
   },
   {
     "package": "sourcetools",
-    "version_current": "0.1.7-1",
-    "hash_current": "656f13972d67318fa7b4c790416cce409bac8c33",
     "version_highest": "0.1.7-1",
     "hash_highest": "656f13972d67318fa7b4c790416cce409bac8c33"
   },
@@ -1181,8 +1113,6 @@
   },
   {
     "package": "timechange",
-    "version_current": "0.3.0",
-    "hash_current": "7fcdc193074d9d1a8c2aae274e0b66ab110ad2ce",
     "version_highest": "0.3.0",
     "hash_highest": "7fcdc193074d9d1a8c2aae274e0b66ab110ad2ce"
   },
@@ -1244,8 +1174,6 @@
   },
   {
     "package": "whisker",
-    "version_current": "0.4.1",
-    "hash_current": "7f4363d0954cbcaf8b6013f17dd6beac92b2e9ac",
     "version_highest": "0.4.1",
     "hash_highest": "7f4363d0954cbcaf8b6013f17dd6beac92b2e9ac"
   },
@@ -1279,8 +1207,6 @@
   },
   {
     "package": "xtable",
-    "version_current": "1.8-4",
-    "hash_current": "137fbfebc88cfd4aa5e7d2463e8889049b033dce",
     "version_highest": "1.8-4",
     "hash_highest": "137fbfebc88cfd4aa5e7d2463e8889049b033dce"
   },
@@ -1300,8 +1226,6 @@
   },
   {
     "package": "zoo",
-    "version_current": "1.8-12",
-    "hash_current": "f01afa0a8a556bd2ab252e08c64f8162f0c188ee",
     "version_highest": "1.8-12",
     "hash_highest": "f01afa0a8a556bd2ab252e08c64f8162f0c188ee"
   }
