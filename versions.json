@@ -701,10 +701,10 @@
   },
   {
     "package": "servr",
-    "version_current": "0.29",
-    "hash_current": "ca1fc592526c4187612b6b7a0bf8bafc114a53e7",
-    "version_highest": "0.29",
-    "hash_highest": "ca1fc592526c4187612b6b7a0bf8bafc114a53e7"
+    "version_current": "0.30",
+    "hash_current": "db63427581cefb9f9d6577d9d71095453528c05f",
+    "version_highest": "0.30",
+    "hash_highest": "db63427581cefb9f9d6577d9d71095453528c05f"
   },
   {
     "package": "shiny",
@@ -883,10 +883,10 @@
   },
   {
     "package": "xaringan",
-    "version_current": "0.29",
-    "hash_current": "6041c0b361b796aef72e3d613c95859533b31fe7",
-    "version_highest": "0.29",
-    "hash_highest": "6041c0b361b796aef72e3d613c95859533b31fe7"
+    "version_current": "0.30",
+    "hash_current": "5131bf379ff7c7bbdca8339f759aef45d9f38427",
+    "version_highest": "0.30",
+    "hash_highest": "5131bf379ff7c7bbdca8339f759aef45d9f38427"
   },
   {
     "package": "xfun",
