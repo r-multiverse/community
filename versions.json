@@ -92,10 +92,10 @@
   },
   {
     "package": "callr",
-    "version_current": "3.7.5",
-    "hash_current": "3a303c26ea4bbdb7c81164f52d508a8987719fc7",
-    "version_highest": "3.7.5",
-    "hash_highest": "3a303c26ea4bbdb7c81164f52d508a8987719fc7"
+    "version_current": "3.7.6",
+    "hash_current": "bc6cd20d959f9dac13e9f39071c63e971bd02f3b",
+    "version_highest": "3.7.6",
+    "hash_highest": "bc6cd20d959f9dac13e9f39071c63e971bd02f3b"
   },
   {
     "package": "cli",
@@ -134,10 +134,10 @@
   },
   {
     "package": "crew",
-    "version_current": "0.9.0",
-    "hash_current": "3c8f77d286a18310cc83571c2459a1693f788ea4",
-    "version_highest": "0.9.0",
-    "hash_highest": "3c8f77d286a18310cc83571c2459a1693f788ea4"
+    "version_current": "0.9.1",
+    "hash_current": "6f1b504b81946de6fd9c92ee96912f8edf670a60",
+    "version_highest": "0.9.1",
+    "hash_highest": "6f1b504b81946de6fd9c92ee96912f8edf670a60"
   },
   {
     "package": "crew.aws.batch",
@@ -890,10 +890,10 @@
   },
   {
     "package": "xfun",
-    "version_current": "0.42",
-    "hash_current": "b686a5fb8620b75256653183709bba8c2036bef2",
-    "version_highest": "0.42",
-    "hash_highest": "b686a5fb8620b75256653183709bba8c2036bef2"
+    "version_current": "0.43",
+    "hash_current": "99b2f495b9a75161e63279b3d80598e0802fdf8f",
+    "version_highest": "0.43",
+    "hash_highest": "99b2f495b9a75161e63279b3d80598e0802fdf8f"
   },
   {
     "package": "xml2",
