@@ -302,10 +302,10 @@
   },
   {
     "package": "htmltools",
-    "version_current": "0.5.6.1",
-    "hash_current": "c53e84327cea82e3ce84373760a05584ca700d88",
-    "version_highest": "0.5.6.1",
-    "hash_highest": "c53e84327cea82e3ce84373760a05584ca700d88"
+    "version_current": "0.5.8",
+    "hash_current": "e3c42ac27c17d27e37b65f683593b12ec8e0bb97",
+    "version_highest": "0.5.8",
+    "hash_highest": "e3c42ac27c17d27e37b65f683593b12ec8e0bb97"
   },
   {
     "package": "htmlwidgets",
