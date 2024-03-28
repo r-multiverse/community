@@ -316,10 +316,10 @@
   },
   {
     "package": "httpuv",
-    "version_current": "1.6.14",
-    "hash_current": "e0e621c2044c90f1f9877ae0462bc6335068df7f",
-    "version_highest": "1.6.14",
-    "hash_highest": "e0e621c2044c90f1f9877ae0462bc6335068df7f"
+    "version_current": "1.6.15",
+    "hash_current": "19631930c178ee7ffb5e712eefc9b08d94db23f4",
+    "version_highest": "1.6.15",
+    "hash_highest": "19631930c178ee7ffb5e712eefc9b08d94db23f4"
   },
   {
     "package": "httr2",
@@ -708,10 +708,10 @@
   },
   {
     "package": "shiny",
-    "version_current": "1.8.0",
-    "hash_current": "283c71e77274588e8c6b5540c774a91f71865474",
-    "version_highest": "1.8.0",
-    "hash_highest": "283c71e77274588e8c6b5540c774a91f71865474"
+    "version_current": "1.8.1",
+    "hash_current": "e8cdc78f0ff4fdec95e548f2108769135124c7ef",
+    "version_highest": "1.8.1",
+    "hash_highest": "e8cdc78f0ff4fdec95e548f2108769135124c7ef"
   },
   {
     "package": "sodium",
