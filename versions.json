@@ -246,10 +246,10 @@
   },
   {
     "package": "gh",
-    "version_current": "1.4.0",
-    "hash_current": "ab056d6322064295432d4e9c08143c2c99c028e4",
-    "version_highest": "1.4.0",
-    "hash_highest": "ab056d6322064295432d4e9c08143c2c99c028e4"
+    "version_current": "1.4.1",
+    "hash_current": "ee27d2b6aabd5d2b26986f27343f237567395b4b",
+    "version_highest": "1.4.1",
+    "hash_highest": "ee27d2b6aabd5d2b26986f27343f237567395b4b"
   },
   {
     "package": "gitcreds",
