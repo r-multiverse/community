@@ -1,132 +1,12 @@
 [
   {
-    "package": "askpass",
-    "url": "https://github.com/r-lib/askpass",
-    "branch": "*release"
-  },
-  {
-    "package": "assertthat",
-    "url": "https://github.com/hadley/assertthat",
-    "branch": "*release"
-  },
-  {
     "package": "audio.whisper",
     "url": "https://github.com/bnosac/audio.whisper",
     "branch": "*release"
   },
   {
-    "package": "backports",
-    "url": "https://github.com/r-lib/backports",
-    "branch": "*release"
-  },
-  {
-    "package": "BaseSet",
-    "url": "https://github.com/ropensci/BaseSet",
-    "branch": "*release"
-  },
-  {
-    "package": "BiocManager",
-    "url": "https://github.com/Bioconductor/BiocManager",
-    "branch": "*release"
-  },
-  {
-    "package": "BioCor",
-    "url": "https://github.com/llrs/BioCor",
-    "branch": "*release"
-  },
-  {
-    "package": "bookdown",
-    "url": "https://github.com/rstudio/bookdown",
-    "branch": "*release"
-  },
-  {
-    "package": "brio",
-    "url": "https://github.com/r-lib/brio",
-    "branch": "*release"
-  },
-  {
-    "package": "brms.mmrm",
-    "url": "https://github.com/openpharma/brms.mmrm",
-    "branch": "*release"
-  },
-  {
-    "package": "broom",
-    "url": "https://github.com/tidymodels/broom",
-    "branch": "*release"
-  },
-  {
-    "package": "bslib",
-    "url": "https://github.com/rstudio/bslib",
-    "branch": "*release"
-  },
-  {
-    "package": "cachem",
-    "url": "https://github.com/r-lib/cachem",
-    "branch": "*release"
-  },
-  {
-    "package": "callr",
-    "url": "https://github.com/r-lib/callr",
-    "branch": "*release"
-  },
-  {
-    "package": "cli",
-    "url": "https://github.com/r-lib/cli",
-    "branch": "*release"
-  },
-  {
-    "package": "commonmark",
-    "url": "https://github.com/r-lib/commonmark",
-    "branch": "*release"
-  },
-  {
-    "package": "coro",
-    "url": "https://github.com/r-lib/coro",
-    "branch": "*release"
-  },
-  {
-    "package": "cpp11",
-    "url": "https://github.com/r-lib/cpp11",
-    "branch": "*release"
-  },
-  {
-    "package": "crayon",
-    "url": "https://github.com/r-lib/crayon",
-    "branch": "*release"
-  },
-  {
-    "package": "crew",
-    "url": "https://github.com/wlandau/crew",
-    "branch": "*release"
-  },
-  {
-    "package": "crew.aws.batch",
-    "url": "https://github.com/wlandau/crew.aws.batch",
-    "branch": "*release"
-  },
-  {
-    "package": "crew.cluster",
-    "url": "https://github.com/wlandau/crew.cluster",
-    "branch": "*release"
-  },
-  {
-    "package": "curl",
-    "url": "https://github.com/jeroen/curl",
-    "branch": "*release"
-  },
-  {
-    "package": "DBI",
-    "url": "https://github.com/r-dbi/DBI",
-    "branch": "*release"
-  },
-  {
-    "package": "desc",
-    "url": "https://github.com/r-lib/desc",
-    "branch": "*release"
-  },
-  {
-    "package": "dplyr",
-    "url": "https://github.com/tidyverse/dplyr",
+    "package": "cmdstanr",
+    "url": "https://github.com/stan-dev/cmdstanr",
     "branch": "*release"
   },
   {
@@ -135,103 +15,8 @@
     "branch": "*release"
   },
   {
-    "package": "ellipsis",
-    "url": "https://github.com/r-lib/ellipsis",
-    "branch": "*release"
-  },
-  {
-    "package": "experDesign",
-    "url": "https://github.com/llrs/experDesign",
-    "branch": "*release"
-  },
-  {
-    "package": "fastmap",
-    "url": "https://github.com/r-lib/fastmap",
-    "branch": "*release"
-  },
-  {
-    "package": "filelock",
-    "url": "https://github.com/r-lib/filelock",
-    "branch": "*release"
-  },
-  {
-    "package": "fontawesome",
-    "url": "https://github.com/rstudio/fontawesome",
-    "branch": "*release"
-  },
-  {
-    "package": "fs",
-    "url": "https://github.com/r-lib/fs",
-    "branch": "*release"
-  },
-  {
-    "package": "generics",
-    "url": "https://github.com/r-lib/generics",
-    "branch": "*release"
-  },
-  {
-    "package": "ggplot2",
-    "url": "https://github.com/tidyverse/ggplot2",
-    "branch": "*release"
-  },
-  {
-    "package": "gh",
-    "url": "https://github.com/r-lib/gh",
-    "branch": "*release"
-  },
-  {
-    "package": "gitcreds",
-    "url": "https://github.com/r-lib/gitcreds",
-    "branch": "*release"
-  },
-  {
-    "package": "gittargets",
-    "url": "https://github.com/ropensci/gittargets",
-    "branch": "*release"
-  },
-  {
-    "package": "glue",
-    "url": "https://github.com/tidyverse/glue",
-    "branch": "*release"
-  },
-  {
-    "package": "gtable",
-    "url": "https://github.com/r-lib/gtable",
-    "branch": "*release"
-  },
-  {
-    "package": "here",
-    "url": "https://github.com/r-lib/here",
-    "branch": "*release"
-  },
-  {
-    "package": "highr",
-    "url": "https://github.com/yihui/highr",
-    "branch": "*release"
-  },
-  {
-    "package": "hms",
-    "url": "https://github.com/tidyverse/hms",
-    "branch": "*release"
-  },
-  {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
-    "branch": "*release"
-  },
-  {
-    "package": "htmlwidgets",
-    "url": "https://github.com/ramnathv/htmlwidgets",
-    "branch": "*release"
-  },
-  {
-    "package": "httpuv",
-    "url": "https://github.com/rstudio/httpuv",
-    "branch": "*release"
-  },
-  {
-    "package": "httr2",
-    "url": "https://github.com/r-lib/httr2",
+    "package": "httpgd",
+    "url": "https://github.com/nx10/httpgd",
     "branch": "*release"
   },
   {
@@ -240,68 +25,8 @@
     "branch": "*release"
   },
   {
-    "package": "ini",
-    "url": "https://github.com/dvdscripter/ini",
-    "branch": "*release"
-  },
-  {
-    "package": "isoband",
-    "url": "https://github.com/r-lib/isoband",
-    "branch": "*release"
-  },
-  {
-    "package": "jquerylib",
-    "url": "https://github.com/rstudio/jquerylib",
-    "branch": "*release"
-  },
-  {
-    "package": "jsonlite",
-    "url": "https://github.com/jeroen/jsonlite",
-    "branch": "*release"
-  },
-  {
-    "package": "keyring",
-    "url": "https://github.com/r-lib/keyring",
-    "branch": "*release"
-  },
-  {
-    "package": "knitr",
-    "url": "https://github.com/yihui/knitr",
-    "branch": "*release"
-  },
-  {
-    "package": "later",
-    "url": "https://github.com/r-lib/later",
-    "branch": "*release"
-  },
-  {
-    "package": "lifecycle",
-    "url": "https://github.com/r-lib/lifecycle",
-    "branch": "*release"
-  },
-  {
-    "package": "lubridate",
-    "url": "https://github.com/tidyverse/lubridate",
-    "branch": "*release"
-  },
-  {
-    "package": "magrittr",
-    "url": "https://github.com/tidyverse/magrittr",
-    "branch": "*release"
-  },
-  {
-    "package": "markdown",
-    "url": "https://github.com/rstudio/markdown",
-    "branch": "*release"
-  },
-  {
-    "package": "memoise",
-    "url": "https://github.com/r-lib/memoise",
-    "branch": "*release"
-  },
-  {
-    "package": "mime",
-    "url": "https://github.com/yihui/mime",
+    "package": "INLA",
+    "url": "https://github.com/inbo/INLA",
     "branch": "*release"
   },
   {
@@ -312,11 +37,6 @@
   {
     "package": "mirai.promises",
     "url": "https://github.com/shikokuchuo/mirai.promises",
-    "branch": "*release"
-  },
-  {
-    "package": "mmrm",
-    "url": "https://github.com/openpharma/mmrm",
     "branch": "*release"
   },
   {
@@ -335,53 +55,8 @@
     "branch": "*release"
   },
   {
-    "package": "openssl",
-    "url": "https://github.com/jeroen/openssl",
-    "branch": "*release"
-  },
-  {
-    "package": "pak",
-    "url": "https://github.com/r-lib/pak",
-    "branch": "*release"
-  },
-  {
     "package": "PerformanceAnalytics",
     "url": "https://github.com/braverock/PerformanceAnalytics",
-    "branch": "*release"
-  },
-  {
-    "package": "pillar",
-    "url": "https://github.com/r-lib/pillar",
-    "branch": "*release"
-  },
-  {
-    "package": "pingr",
-    "url": "https://github.com/r-lib/pingr",
-    "branch": "*release"
-  },
-  {
-    "package": "pkgbuild",
-    "url": "https://github.com/r-lib/pkgbuild",
-    "branch": "*release"
-  },
-  {
-    "package": "pkgconfig",
-    "url": "https://github.com/r-lib/pkgconfig",
-    "branch": "*release"
-  },
-  {
-    "package": "pkgload",
-    "url": "https://github.com/r-lib/pkgload",
-    "branch": "*release"
-  },
-  {
-    "package": "pkgsearch",
-    "url": "https://github.com/r-hub/pkgsearch",
-    "branch": "*release"
-  },
-  {
-    "package": "plumber",
-    "url": "https://github.com/rstudio/plumber",
     "branch": "*release"
   },
   {
@@ -390,108 +65,8 @@
     "branch": "*release"
   },
   {
-    "package": "processx",
-    "url": "https://github.com/r-lib/processx",
-    "branch": "*release"
-  },
-  {
-    "package": "proffer",
-    "url": "https://github.com/r-prof/proffer",
-    "branch": "*release"
-  },
-  {
-    "package": "profvis",
-    "url": "https://github.com/rstudio/profvis",
-    "branch": "*release"
-  },
-  {
-    "package": "progress",
-    "url": "https://github.com/r-lib/progress",
-    "branch": "*release"
-  },
-  {
-    "package": "promises",
-    "url": "https://github.com/rstudio/promises",
-    "branch": "*release"
-  },
-  {
-    "package": "ps",
-    "url": "https://github.com/r-lib/ps",
-    "branch": "*release"
-  },
-  {
-    "package": "purrr",
-    "url": "https://github.com/tidyverse/purrr",
-    "branch": "*release"
-  },
-  {
-    "package": "R6",
-    "url": "https://github.com/r-lib/R6",
-    "branch": "*release"
-  },
-  {
-    "package": "ragg",
-    "url": "https://github.com/r-lib/ragg",
-    "branch": "*release"
-  },
-  {
-    "package": "rappdirs",
-    "url": "https://github.com/r-lib/rappdirs",
-    "branch": "*release"
-  },
-  {
-    "package": "Rcpp",
-    "url": "https://github.com/RcppCore/Rcpp",
-    "branch": "*release"
-  },
-  {
-    "package": "reactlog",
-    "url": "https://github.com/rstudio/reactlog",
-    "branch": "*release"
-  },
-  {
-    "package": "remotes",
-    "url": "https://github.com/r-lib/remotes",
-    "branch": "*release"
-  },
-  {
-    "package": "reticulate",
-    "url": "https://github.com/rstudio/reticulate",
-    "branch": "*release"
-  },
-  {
-    "package": "rlang",
-    "url": "https://github.com/r-lib/rlang",
-    "branch": "*release"
-  },
-  {
-    "package": "rmarkdown",
-    "url": "https://github.com/rstudio/rmarkdown",
-    "branch": "*release"
-  },
-  {
-    "package": "roxygen2",
-    "url": "https://github.com/r-lib/roxygen2",
-    "branch": "*release"
-  },
-  {
-    "package": "rprojroot",
-    "url": "https://github.com/r-lib/rprojroot",
-    "branch": "*release"
-  },
-  {
-    "package": "safetensors",
-    "url": "https://github.com/mlverse/safetensors",
-    "branch": "*release"
-  },
-  {
-    "package": "sass",
-    "url": "https://github.com/rstudio/sass",
-    "branch": "*release"
-  },
-  {
-    "package": "scales",
-    "url": "https://github.com/r-lib/scales",
+    "package": "SBC",
+    "url": "https://github.com/hyunjimoon/SBC",
     "branch": "*release"
   },
   {
@@ -500,18 +75,8 @@
     "branch": "*release"
   },
   {
-    "package": "servr",
-    "url": "https://github.com/yihui/servr",
-    "branch": "*release"
-  },
-  {
-    "package": "shiny",
-    "url": "https://github.com/rstudio/shiny",
-    "branch": "*release"
-  },
-  {
-    "package": "sodium",
-    "url": "https://github.com/r-lib/sodium",
+    "package": "stantargets",
+    "url": "https://github.com/ropensci/stantargets",
     "branch": "*release"
   },
   {
@@ -520,138 +85,18 @@
     "branch": "*release"
   },
   {
-    "package": "stringi",
-    "url": "https://github.com/gagolews/stringi",
+    "package": "targetsketch",
+    "url": "https://github.com/wlandau/targetsketch",
     "branch": "*release"
   },
   {
-    "package": "stringr",
-    "url": "https://github.com/tidyverse/stringr",
+    "package": "tidytensor",
+    "url": "https://github.com/oneilsh/tidytensor",
     "branch": "*release"
   },
   {
-    "package": "swagger",
-    "url": "https://github.com/rstudio/swagger",
-    "branch": "*release"
-  },
-  {
-    "package": "sys",
-    "url": "https://github.com/jeroen/sys",
-    "branch": "*release"
-  },
-  {
-    "package": "tarchetypes",
-    "url": "https://github.com/ropensci/tarchetypes",
-    "branch": "*release"
-  },
-  {
-    "package": "targets",
-    "url": "https://github.com/ropensci/targets",
-    "branch": "*release"
-  },
-  {
-    "package": "tensorflow",
-    "url": "https://github.com/rstudio/tensorflow",
-    "branch": "*release"
-  },
-  {
-    "package": "testthat",
-    "url": "https://github.com/r-lib/testthat",
-    "branch": "*release"
-  },
-  {
-    "package": "tfautograph",
-    "url": "https://github.com/t-kalinowski/tfautograph",
-    "branch": "*release"
-  },
-  {
-    "package": "tfruns",
-    "url": "https://github.com/rstudio/tfruns",
-    "branch": "*release"
-  },
-  {
-    "package": "tibble",
-    "url": "https://github.com/tidyverse/tibble",
-    "branch": "*release"
-  },
-  {
-    "package": "tidyr",
-    "url": "https://github.com/tidyverse/tidyr",
-    "branch": "*release"
-  },
-  {
-    "package": "tidyselect",
-    "url": "https://github.com/r-lib/tidyselect",
-    "branch": "*release"
-  },
-  {
-    "package": "tinytex",
-    "url": "https://github.com/rstudio/tinytex",
-    "branch": "*release"
-  },
-  {
-    "package": "torch",
-    "url": "https://github.com/mlverse/torch",
-    "branch": "*release"
-  },
-  {
-    "package": "tzdb",
-    "url": "https://github.com/r-lib/tzdb",
-    "branch": "*release"
-  },
-  {
-    "package": "utf8",
-    "url": "https://github.com/patperry/r-utf8",
-    "branch": "*release"
-  },
-  {
-    "package": "vctrs",
-    "url": "https://github.com/r-lib/vctrs",
-    "branch": "*release"
-  },
-  {
-    "package": "vroom",
-    "url": "https://github.com/tidyverse/vroom",
-    "branch": "*release"
-  },
-  {
-    "package": "waldo",
-    "url": "https://github.com/r-lib/waldo",
-    "branch": "*release"
-  },
-  {
-    "package": "webutils",
-    "url": "https://github.com/jeroen/webutils",
-    "branch": "*release"
-  },
-  {
-    "package": "withr",
-    "url": "https://github.com/r-lib/withr",
-    "branch": "*release"
-  },
-  {
-    "package": "xaringan",
-    "url": "https://github.com/yihui/xaringan",
-    "branch": "*release"
-  },
-  {
-    "package": "xfun",
-    "url": "https://github.com/yihui/xfun",
-    "branch": "*release"
-  },
-  {
-    "package": "xml2",
-    "url": "https://github.com/r-lib/xml2",
-    "branch": "*release"
-  },
-  {
-    "package": "xts",
-    "url": "https://github.com/joshuaulrich/xts",
-    "branch": "*release"
-  },
-  {
-    "package": "yaml",
-    "url": "https://github.com/vubiostat/r-yaml",
+    "package": "zstdlite",
+    "url": "https://github.com/coolbutuseless/zstdlite",
     "branch": "*release"
   }
 ]
