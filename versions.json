@@ -105,6 +105,13 @@
     "hash_highest": "5403cd9368e5639844142a9860e22583a37e2db9"
   },
   {
+    "package": "cmdstanr",
+    "version_current": "0.7.1",
+    "hash_current": "2bec76949dfe2ceb69aa2815839079d398ad497e",
+    "version_highest": "0.7.1",
+    "hash_highest": "2bec76949dfe2ceb69aa2815839079d398ad497e"
+  },
+  {
     "package": "commonmark",
     "version_current": "1.9.1",
     "hash_current": "1209f2deaee59da839e8484edac70c54cf8ce392",
@@ -313,6 +320,13 @@
     "hash_current": "cf04bf0a5dc1013668647db2f781e978df775d79",
     "version_highest": "1.6.2",
     "hash_highest": "cf04bf0a5dc1013668647db2f781e978df775d79"
+  },
+  {
+    "package": "httpgd",
+    "version_current": "2.0.1",
+    "hash_current": "2174dcd7c419ddf80a171fd0107a768bc710b7e8",
+    "version_highest": "2.0.1",
+    "hash_highest": "2174dcd7c419ddf80a171fd0107a768bc710b7e8"
   },
   {
     "package": "httpuv",
@@ -686,6 +700,13 @@
     "hash_highest": "6f8f3e4f55f4028db7c539209efd38e5da3712d8"
   },
   {
+    "package": "SBC",
+    "version_current": "0.3.0.9000",
+    "hash_current": "9ddc803105f5350dae6efb4ae2657e89d2a54aa8",
+    "version_highest": "0.3.0.9000",
+    "hash_highest": "9ddc803105f5350dae6efb4ae2657e89d2a54aa8"
+  },
+  {
     "package": "scales",
     "version_current": "1.3.0",
     "hash_current": "e61a82e77e3e8e2953fef53bd56cd82072b31fdd",
@@ -719,6 +740,13 @@
     "hash_current": "987ff16a468c27efe9a657bd166ee7662d0b2a5e",
     "version_highest": "1.2.1",
     "hash_highest": "987ff16a468c27efe9a657bd166ee7662d0b2a5e"
+  },
+  {
+    "package": "stantargets",
+    "version_current": "0.1.0",
+    "hash_current": "6e8fc0e834611339528cf5bf1132d4de92b91e35",
+    "version_highest": "0.1.0",
+    "hash_highest": "6e8fc0e834611339528cf5bf1132d4de92b91e35"
   },
   {
     "package": "string2path",
@@ -819,6 +847,13 @@
     "hash_highest": "5482dd6fc708dfc6d9947e2b99e1eaf5c44d00f2"
   },
   {
+    "package": "tidytensor",
+    "version_current": "1.0.0",
+    "hash_current": "14f5b87d2dfae20eb35cfd974adf660a4fd89980",
+    "version_highest": "1.0.0",
+    "hash_highest": "14f5b87d2dfae20eb35cfd974adf660a4fd89980"
+  },
+  {
     "package": "tinytex",
     "version_current": "0.50",
     "hash_current": "bc72c1503d03479319efddd02f00bb876b1951d7",
@@ -915,5 +950,12 @@
     "hash_current": "81022be1c8a1f5d26dfe982bd0514c6da97ce3e8",
     "version_highest": "2.3.7",
     "hash_highest": "81022be1c8a1f5d26dfe982bd0514c6da97ce3e8"
+  },
+  {
+    "package": "zstdlite",
+    "version_current": "0.2.6",
+    "hash_current": "585458ccbe36eaa179d8b30f04f1e3a91dc6b993",
+    "version_highest": "0.2.6",
+    "hash_highest": "585458ccbe36eaa179d8b30f04f1e3a91dc6b993"
   }
 ]
