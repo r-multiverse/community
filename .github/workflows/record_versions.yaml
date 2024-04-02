@@ -23,7 +23,7 @@ jobs:
         run: |
           install.packages(
             pkgs = "multiverse.internals",
-            repos = c("https://${{ github.repository_owner }}.r-universe.dev", getOption("repos")),
+            repos = c("https://${{ github.repository_owner }}.r-universe.dev", "https://cloud.r-project.org/"),
             type = "binary"
           )
         shell: Rscript {0}
