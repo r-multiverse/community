@@ -112,6 +112,13 @@
     "hash_highest": "6c5d80d2a60cca71732cff6e4bee45b8ecccb247"
   },
   {
+    "package": "targetsketch",
+    "version_current": "0.0.1",
+    "hash_current": "a199a734b16f91726698a19e5f147f57f79cb2b6",
+    "version_highest": "0.0.1",
+    "hash_highest": "a199a734b16f91726698a19e5f147f57f79cb2b6"
+  },
+  {
     "package": "tidytensor",
     "version_current": "1.0.0",
     "hash_current": "14f5b87d2dfae20eb35cfd974adf660a4fd89980",
