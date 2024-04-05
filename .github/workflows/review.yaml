@@ -1,4 +1,4 @@
-name: review_pull_requests
+name: review
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: '10 * * * *'
 
 jobs:
-  review_pull_requests:
+  review:
     runs-on: macOS-latest
 
     steps:
