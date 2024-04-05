@@ -49,12 +49,10 @@ jobs:
       - name: Remove contributions local repo.
         run: rm -rf contributions
         
-      - name: Deploy to main branch.
-        if: github.event_name != 'pull_request'
-        uses: JamesIves/github-pages-deploy-action@v4.5.0
-        with:
-          clean: false
-          branch: main
-          git-config-name: github-actions
-          git-config-email: actions@github.com
-          folder: .
+      - name: Commit and push packages.json to main branch.
+        run: |
+          git config --global user.name github-actions
+          git config --global user.email actions@github.com
+          git add packages.json
+          git commit -am "Update packages.json"
+          git push -u origin main
