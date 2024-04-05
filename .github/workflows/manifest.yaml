@@ -56,3 +56,4 @@ jobs:
           git add packages.json
           git commit -m "Update packages.json"
           git push -u origin main
+          echo "done"
