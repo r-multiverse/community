@@ -49,7 +49,7 @@ jobs:
       - name: Remove contributions local repo.
         run: rm -rf contributions
         
-      - name: Commit and push packages.json to main branch.
+      - name: Commit and push changes.
         run: |
           if git diff --quiet && git diff --staged --quiet; then
             echo "No changes to commit."
