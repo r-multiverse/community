@@ -30,6 +30,11 @@ jobs:
 
       - name: Check out the universe.
         uses: actions/checkout@v4
+
+      - name: Create a temporary local branch.
+        run: |
+          git checkout -b patch
+          git branch -D main
     
       - name: Check out contributions.
         uses: actions/checkout@v4
