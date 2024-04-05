@@ -85,6 +85,11 @@
     "branch": "*release"
   },
   {
+    "package": "targetsketch",
+    "url": "https://github.com/wlandau/targetsketch",
+    "branch": "*release"
+  },
+  {
     "package": "tidytensor",
     "url": "https://github.com/oneilsh/tidytensor",
     "branch": "*release"
