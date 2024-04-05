@@ -1,4 +1,4 @@
-name: aggregate_contributions
+name: manifest
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: '20 * * * *'
 
 jobs:
-  aggregate_contributions:
+  manifest:
     runs-on: macOS-latest
 
     env:
