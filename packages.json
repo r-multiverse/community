@@ -90,6 +90,11 @@
     "branch": "*release"
   },
   {
+    "package": "tidypolars",
+    "url": "https://github.com/etiennebacher/tidypolars/",
+    "branch": "*release"
+  },
+  {
     "package": "tidytensor",
     "url": "https://github.com/oneilsh/tidytensor",
     "branch": "*release"
