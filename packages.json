@@ -25,11 +25,6 @@
     "branch": "*release"
   },
   {
-    "package": "mirai",
-    "url": "https://github.com/shikokuchuo/mirai",
-    "branch": "*release"
-  },
-  {
     "package": "multitools",
     "url": "https://github.com/r-multiverse/multitools",
     "branch": "*release"
