@@ -20,11 +20,6 @@
     "branch": "*release"
   },
   {
-    "package": "ichimoku",
-    "url": "https://github.com/shikokuchuo/ichimoku",
-    "branch": "*release"
-  },
-  {
     "package": "INLA",
     "url": "https://github.com/inbo/INLA",
     "branch": "*release"
@@ -32,11 +27,6 @@
   {
     "package": "mirai",
     "url": "https://github.com/shikokuchuo/mirai",
-    "branch": "*release"
-  },
-  {
-    "package": "mirai.promises",
-    "url": "https://github.com/shikokuchuo/mirai.promises",
     "branch": "*release"
   },
   {
@@ -52,11 +42,6 @@
   {
     "package": "nanonext",
     "url": "https://github.com/shikokuchuo/nanonext",
-    "branch": "*release"
-  },
-  {
-    "package": "PerformanceAnalytics",
-    "url": "https://github.com/braverock/PerformanceAnalytics",
     "branch": "*release"
   },
   {
