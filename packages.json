@@ -20,8 +20,18 @@
     "branch": "*release"
   },
   {
+    "package": "ichimoku",
+    "url": "https://github.com/shikokuchuo/ichimoku",
+    "branch": "*release"
+  },
+  {
     "package": "INLA",
     "url": "https://github.com/inbo/INLA",
+    "branch": "*release"
+  },
+  {
+    "package": "mirai",
+    "url": "https://github.com/shikokuchuo/mirai",
     "branch": "*release"
   },
   {
