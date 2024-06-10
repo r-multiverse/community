@@ -15,6 +15,11 @@
     "branch": "*release"
   },
   {
+    "package": "graph",
+    "url": "https://github.com/igraph/rigraph",
+    "branch": "*release"
+  },
+  {
     "package": "httpgd",
     "url": "https://github.com/nx10/httpgd",
     "branch": "*release"
