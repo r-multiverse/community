@@ -15,11 +15,6 @@
     "branch": "*release"
   },
   {
-    "package": "graph",
-    "url": "https://github.com/igraph/rigraph",
-    "branch": "*release"
-  },
-  {
     "package": "httpgd",
     "url": "https://github.com/nx10/httpgd",
     "branch": "*release"
@@ -30,8 +25,18 @@
     "branch": "*release"
   },
   {
+    "package": "igraph",
+    "url": "https://github.com/igraph/rigraph",
+    "branch": "*release"
+  },
+  {
     "package": "INLA",
     "url": "https://github.com/inbo/INLA",
+    "branch": "*release"
+  },
+  {
+    "package": "later",
+    "url": "https://github.com/r-lib/later",
     "branch": "*release"
   },
   {
