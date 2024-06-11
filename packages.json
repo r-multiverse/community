@@ -10,6 +10,11 @@
     "branch": "*release"
   },
   {
+    "package": "crew",
+    "url": "https://github.com/wlandau/crew",
+    "branch": "*release"
+  },
+  {
     "package": "duckdb",
     "url": "https://github.com/duckdb/duckdb-r",
     "branch": "*release"
