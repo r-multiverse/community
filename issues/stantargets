@@ -1,0 +1,16 @@
+{
+  "checks": {
+    "_linuxdevel": ["failure"],
+    "_macbinary": ["success"],
+    "_wasmbinary": ["success"],
+    "_winbinary": ["success"],
+    "_status": ["success"],
+    "_buildurl": ["https://github.com/r-universe/r-multiverse-community/actions/runs/9615320487"]
+  },
+  "descriptions": {
+    "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]
+  },
+  "date": ["2024-06-21"],
+  "version": ["0.1.1"],
+  "remote_hash": ["bbdda1b4a44a3d6a22041e03eed38f27319d8f32"]
+}

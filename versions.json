@@ -1,0 +1,107 @@
+[
+  {
+    "package": "SBC",
+    "version_current": "0.3.0.9000",
+    "hash_current": "9ddc803105f5350dae6efb4ae2657e89d2a54aa8"
+  },
+  {
+    "package": "audio.vadwebrtc",
+    "version_current": "0.2",
+    "hash_current": "c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"
+  },
+  {
+    "package": "audio.whisper",
+    "version_current": "0.4.1",
+    "hash_current": "4b5c6a288c0f46a4cdc47f50d2d35395d3e32194"
+  },
+  {
+    "package": "cmdstanr",
+    "version_current": "0.8.1",
+    "hash_current": "02259ef7aa2a8b1c8de2fa3fc42a9feafd789288"
+  },
+  {
+    "package": "crew",
+    "version_current": "0.9.4",
+    "hash_current": "c02449ff1e0441314576541a71688374a4d1ecaa"
+  },
+  {
+    "package": "httpgd",
+    "version_current": "2.0.2",
+    "hash_current": "b0a5ec38638ca69e3adbc7b24d815757e5f74817"
+  },
+  {
+    "package": "ichimoku",
+    "version_current": "1.5.2",
+    "hash_current": "794e514da2ed6ff94ebe95b970c2434999d632a8"
+  },
+  {
+    "package": "igraph",
+    "version_current": "2.0.2",
+    "hash_current": "476886da2b41a4d937543278dc12044889c9d4ca"
+  },
+  {
+    "package": "later",
+    "version_current": "1.3.2",
+    "hash_current": "0668a280c2d851fbff63da4e6a1def7fbcfb2f81"
+  },
+  {
+    "package": "mirai",
+    "version_current": "1.1.0",
+    "hash_current": "049e750168363e80d5d0915d0de9fd515c20f628"
+  },
+  {
+    "package": "multitools",
+    "version_current": "0.1.1",
+    "hash_current": "c73b933868d8c6884df4220c25779cd0874ec7de"
+  },
+  {
+    "package": "multiverse.internals",
+    "version_current": "0.2.3",
+    "hash_current": "73dc8709bb322c112ff68f178c1603152637387e"
+  },
+  {
+    "package": "nanonext",
+    "version_current": "1.1.0",
+    "hash_current": "54c1637c74e7941fbe9f152df70c0a25f8cd37f6"
+  },
+  {
+    "package": "polars",
+    "version_current": "0.17.0",
+    "hash_current": "038d5ce10afe592ecc197902f661509481c1d143"
+  },
+  {
+    "package": "secretbase",
+    "version_current": "1.0.0",
+    "hash_current": "5349047602e96efdd0730af1dc34d6f18e94eb20"
+  },
+  {
+    "package": "stantargets",
+    "version_current": "0.1.1",
+    "hash_current": "bbdda1b4a44a3d6a22041e03eed38f27319d8f32"
+  },
+  {
+    "package": "string2path",
+    "version_current": "0.1.7",
+    "hash_current": "38ce124866879d485f667b7bf3d2a070e6cb37d3"
+  },
+  {
+    "package": "targetsketch",
+    "version_current": "0.0.1",
+    "hash_current": "a199a734b16f91726698a19e5f147f57f79cb2b6"
+  },
+  {
+    "package": "tidytensor",
+    "version_current": "1.0.0",
+    "hash_current": "14f5b87d2dfae20eb35cfd974adf660a4fd89980"
+  },
+  {
+    "package": "tinytest",
+    "version_current": "1.4.2",
+    "hash_current": "991d6fed95d10054c4f414be31d549ca92c6cf5b"
+  },
+  {
+    "package": "zstdlite",
+    "version_current": "0.2.6",
+    "hash_current": "585458ccbe36eaa179d8b30f04f1e3a91dc6b993"
+  }
+]

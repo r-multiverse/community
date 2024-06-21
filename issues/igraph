@@ -1,0 +1,13 @@
+{
+  "checks": {
+    "_linuxdevel": ["success"],
+    "_macbinary": ["success"],
+    "_wasmbinary": ["none"],
+    "_winbinary": ["success"],
+    "_status": ["success"],
+    "_buildurl": ["https://github.com/r-universe/r-multiverse-community/actions/runs/9615309703"]
+  },
+  "date": ["2024-06-21"],
+  "version": ["2.0.2"],
+  "remote_hash": ["476886da2b41a4d937543278dc12044889c9d4ca"]
+}
