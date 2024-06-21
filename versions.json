@@ -28,6 +28,13 @@
     "hash_highest": "c02449ff1e0441314576541a71688374a4d1ecaa"
   },
   {
+    "package": "duckdb",
+    "version_current": "1.0.0",
+    "hash_current": "242b805ad4a1e3e78af3aaaa667938b0faf92d7f",
+    "version_highest": "1.0.0",
+    "hash_highest": "242b805ad4a1e3e78af3aaaa667938b0faf92d7f"
+  },
+  {
     "package": "httpgd",
     "version_current": "2.0.2",
     "hash_current": "b0a5ec38638ca69e3adbc7b24d815757e5f74817",
