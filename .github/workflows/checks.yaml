@@ -1,12 +1,12 @@
-name: versions
+name: issues
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 * * * *'
 
 jobs:
-  versions:
+  issues:
     runs-on: macOS-latest
 
     env:
@@ -30,7 +30,7 @@ jobs:
 
       - name: Check out the universe.
         uses: actions/checkout@v4
-    
+
       - name: Record versions.
         run: |
           multiverse.internals::record_versions(
@@ -39,14 +39,26 @@ jobs:
           )
         shell: Rscript {0}
 
+      - name: Record issues.
+        run: |
+          multiverse.internals::record_issues(
+            repo = "https://community.r-multiverse.org",
+            versions = "versions.json",
+            output = "issues"
+          )
+        shell: Rscript {0}
+
       - name: Commit and push changes.
         run: |
+          git add versions.json
+          if [ -d issues ]; then
+            git add issues
+          fi
           if git diff --quiet && git diff --staged --quiet; then
             echo "No changes to commit."
           else
             git config --global user.name github-actions
             git config --global user.email actions@github.com
-            git add versions.json
-            git commit -m "Update versions.json"
+            git commit -m "Update issues"
             git push -u origin main
           fi
