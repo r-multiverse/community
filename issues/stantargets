@@ -5,7 +5,7 @@
     "_wasmbinary": ["success"],
     "_winbinary": ["success"],
     "_status": ["success"],
-    "_buildurl": ["https://github.com/r-universe/r-multiverse-community/actions/runs/9615320487"]
+    "_buildurl": ["https://github.com/r-universe/r-multiverse/actions/runs/9624565626"]
   },
   "descriptions": {
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]

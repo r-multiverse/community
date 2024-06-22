@@ -133,13 +133,6 @@
     "hash_highest": "a199a734b16f91726698a19e5f147f57f79cb2b6"
   },
   {
-    "package": "tidypolars",
-    "version_current": "0.8.0",
-    "hash_current": "7e6e3f7ce76abd960c49ef46cc3f4bf1cc8b0637",
-    "version_highest": "0.8.0",
-    "hash_highest": "7e6e3f7ce76abd960c49ef46cc3f4bf1cc8b0637"
-  },
-  {
     "package": "tidytensor",
     "version_current": "1.0.0",
     "hash_current": "14f5b87d2dfae20eb35cfd974adf660a4fd89980",
