@@ -1,13 +1,11 @@
 {
-  "checks": {
-    "_linuxdevel": ["src-failure"],
-    "_macbinary": ["src-failure"],
-    "_wasmbinary": ["src-failure"],
-    "_winbinary": ["src-failure"],
-    "_status": ["src-failure"],
-    "_buildurl": ["https://github.com/r-universe/r-multiverse/actions/runs/9624566017"]
+  "descriptions": {
+    "remotes": ["markvanderloo/tinytest/pkg"]
+  },
+  "dependencies": {
+    "polars": []
   },
   "date": ["2024-06-21"],
-  "version": [],
-  "remote_hash": []
+  "version": ["0.8.0"],
+  "remote_hash": ["7e6e3f7ce76abd960c49ef46cc3f4bf1cc8b0637"]
 }
