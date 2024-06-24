@@ -22,10 +22,10 @@
   },
   {
     "package": "crew",
-    "version_current": "0.9.4",
-    "hash_current": "c02449ff1e0441314576541a71688374a4d1ecaa",
-    "version_highest": "0.9.4",
-    "hash_highest": "c02449ff1e0441314576541a71688374a4d1ecaa"
+    "version_current": "0.9.5",
+    "hash_current": "8ca02085fb1880ad87788bd1eb0ca331da69e60e",
+    "version_highest": "0.9.5",
+    "hash_highest": "8ca02085fb1880ad87788bd1eb0ca331da69e60e"
   },
   {
     "package": "duckdb",
