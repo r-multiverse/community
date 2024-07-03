@@ -1,6 +1,6 @@
 {
   "checks": {
-    "_linuxdevel": ["failure"],
+    "_linuxdevel": ["success"],
     "_macbinary": ["success"],
     "_wasmbinary": ["success"],
     "_winbinary": ["success"],
