@@ -6,6 +6,6 @@
     "polars": []
   },
   "date": ["2024-06-21"],
-  "version": ["0.8.0"],
-  "remote_hash": ["7e6e3f7ce76abd960c49ef46cc3f4bf1cc8b0637"]
+  "version": ["0.9.0"],
+  "remote_hash": ["b856d174d90010dde55a4348a1496ded797f40af"]
 }
