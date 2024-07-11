@@ -1,4 +1,4 @@
-# r-community.r-universe.dev
+# Community universe
 
 This is the internal configuration repository for the R-multiverse Community universe.
 
