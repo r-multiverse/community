@@ -42,6 +42,13 @@
     "hash_highest": "a0a7c456f2b74d53fba4309e4b54d1708912d680"
   },
   {
+    "package": "glaredb",
+    "version_current": "0.0.2",
+    "hash_current": "10e2d584c77e1b8fee74495cb4945041b9bbf694",
+    "version_highest": "0.0.2",
+    "hash_highest": "10e2d584c77e1b8fee74495cb4945041b9bbf694"
+  },
+  {
     "package": "httpgd",
     "version_current": "2.0.2",
     "hash_current": "b0a5ec38638ca69e3adbc7b24d815757e5f74817",
