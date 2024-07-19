@@ -1,5 +1,12 @@
 [
   {
+    "package": "adbcdrivermanager",
+    "version_current": "0.13.0",
+    "hash_current": "37f79efbcd1641e6906a36e76df57cb896f2bc68",
+    "version_highest": "0.13.0",
+    "hash_highest": "37f79efbcd1641e6906a36e76df57cb896f2bc68"
+  },
+  {
     "package": "audio.vadwebrtc",
     "version_current": "0.2",
     "hash_current": "c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba",
@@ -78,10 +85,10 @@
   },
   {
     "package": "multiverse.internals",
-    "version_current": "0.2.5",
-    "hash_current": "052950b47a66cceb3d5cd4810d4bcc1598675564",
-    "version_highest": "0.2.5",
-    "hash_highest": "052950b47a66cceb3d5cd4810d4bcc1598675564"
+    "version_current": "0.2.8",
+    "hash_current": "6c6d5019172a59d990ce131cf1bed077c8832920",
+    "version_highest": "0.2.8",
+    "hash_highest": "6c6d5019172a59d990ce131cf1bed077c8832920"
   },
   {
     "package": "nanonext",
