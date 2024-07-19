@@ -1,5 +1,11 @@
 [
   {
+    "package": "adbcdrivermanager",
+    "url": "https://github.com/apache/arrow-adbc",
+    "subdir": "r/adbcdrivermanager",
+    "branch": "*release"
+  },
+  {
     "package": "audio.whisper",
     "url": "https://github.com/bnosac/audio.whisper",
     "branch": "*release"
