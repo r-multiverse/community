@@ -1,4 +1,4 @@
-name: manifest
+name: packages
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: '20 * * * *'
 
 jobs:
-  manifest:
+  packages:
     runs-on: macOS-latest
 
     env:
