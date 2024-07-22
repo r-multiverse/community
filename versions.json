@@ -7,6 +7,13 @@
     "hash_highest": "37f79efbcd1641e6906a36e76df57cb896f2bc68"
   },
   {
+    "package": "adbcflightsql",
+    "version_current": "0.13.0",
+    "hash_current": "37f79efbcd1641e6906a36e76df57cb896f2bc68",
+    "version_highest": "0.13.0",
+    "hash_highest": "37f79efbcd1641e6906a36e76df57cb896f2bc68"
+  },
+  {
     "package": "audio.vadwebrtc",
     "version_current": "0.2",
     "hash_current": "c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba",
