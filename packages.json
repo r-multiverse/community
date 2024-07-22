@@ -6,6 +6,12 @@
     "branch": "*release"
   },
   {
+    "package": "adbcflightsql",
+    "url": "https://github.com/apache/arrow-adbc",
+    "subdir": "r/adbcflightsql",
+    "branch": "*release"
+  },
+  {
     "package": "audio.whisper",
     "url": "https://github.com/bnosac/audio.whisper",
     "branch": "*release"
