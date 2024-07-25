@@ -99,10 +99,10 @@
   },
   {
     "package": "multiverse.internals",
-    "version_current": "0.2.8",
-    "hash_current": "6c6d5019172a59d990ce131cf1bed077c8832920",
-    "version_highest": "0.2.8",
-    "hash_highest": "6c6d5019172a59d990ce131cf1bed077c8832920"
+    "version_current": "0.2.9",
+    "hash_current": "198738df873fe136798779037f23c17029c585de",
+    "version_highest": "0.2.9",
+    "hash_highest": "198738df873fe136798779037f23c17029c585de"
   },
   {
     "package": "nanonext",
