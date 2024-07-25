@@ -1,7 +1,7 @@
 {
   "checks": {
     "_linuxdevel": ["success"],
-    "_macbinary": ["none"],
+    "_macbinary": ["arm64-failure"],
     "_wasmbinary": ["none"],
     "_winbinary": ["success"],
     "_status": ["success"],
