@@ -1,11 +1,11 @@
 {
   "checks": {
     "_linuxdevel": ["success"],
-    "_macbinary": ["arm64-failure"],
+    "_macbinary": ["success"],
     "_wasmbinary": ["none"],
     "_winbinary": ["none"],
     "_status": ["success"],
-    "_buildurl": ["https://github.com/r-universe/r-multiverse/actions/runs/10011865118"]
+    "_buildurl": ["https://github.com/r-universe/r-multiverse/actions/runs/10234742482"]
   },
   "date": ["2024-07-19"],
   "version": ["0.0.2"],
