@@ -87,6 +87,11 @@
     "branch": "*release"
   },
   {
+    "package": "rJavaEnv",
+    "url": "https://github.com/e-kotov/rJavaEnv",
+    "branch": "*release"
+  },
+  {
     "package": "SBC",
     "url": "https://github.com/hyunjimoon/SBC",
     "branch": "*release"
