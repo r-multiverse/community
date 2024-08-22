@@ -2,7 +2,6 @@
   "checks": {
     "_linuxdevel": ["failure"],
     "_macbinary": ["failure"],
-    "_wasmbinary": ["none"],
     "_winbinary": ["success"],
     "_status": ["success"],
     "_buildurl": ["https://github.com/r-universe/r-multiverse/actions/runs/10236585243"]

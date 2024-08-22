@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "igraph": []
-  },
-  "date": ["2024-06-21"],
-  "version": ["0.2.10"],
-  "remote_hash": ["2841e54e3550eb1442416854101e722d731910c2"]
-}
