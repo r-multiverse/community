@@ -148,10 +148,10 @@
   },
   {
     "package": "string2path",
-    "version_current": "0.1.7",
-    "hash_current": "38ce124866879d485f667b7bf3d2a070e6cb37d3",
-    "version_highest": "0.1.7",
-    "hash_highest": "38ce124866879d485f667b7bf3d2a070e6cb37d3"
+    "version_current": "0.1.8",
+    "hash_current": "cf63b1c5c65177e09be2813026ddee995ece81b0",
+    "version_highest": "0.1.8",
+    "hash_highest": "cf63b1c5c65177e09be2813026ddee995ece81b0"
   },
   {
     "package": "targetsketch",
