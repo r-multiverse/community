@@ -14,6 +14,13 @@
     "hash_highest": "37f79efbcd1641e6906a36e76df57cb896f2bc68"
   },
   {
+    "package": "arrow",
+    "version_current": "17.0.0",
+    "hash_current": "6a2e19a852b367c72d7b12da4d104456491ed8b7",
+    "version_highest": "17.0.0",
+    "hash_highest": "6a2e19a852b367c72d7b12da4d104456491ed8b7"
+  },
+  {
     "package": "audio.vadwebrtc",
     "version_current": "0.2",
     "hash_current": "c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba",
