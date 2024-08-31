@@ -12,6 +12,12 @@
     "branch": "*release"
   },
   {
+    "package": "arrow",
+    "url": "https://github.com/apache/arrow",
+    "subdir": "r",
+    "branch": "*release"
+  },
+  {
     "package": "audio.whisper",
     "url": "https://github.com/bnosac/audio.whisper",
     "branch": "*release"
