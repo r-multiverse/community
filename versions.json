@@ -113,10 +113,10 @@
   },
   {
     "package": "polars",
-    "version_current": "0.19.0",
-    "hash_current": "d6b992f4b5f19c9f9770e4b892c2238676d9184f",
-    "version_highest": "0.19.0",
-    "hash_highest": "cf0f9e040560069434bb60fcd97c42c77800a328"
+    "version_current": "0.19.1",
+    "hash_current": "742d6ea74d40e645b9b9ef3d70b1bb7edf17d7a9",
+    "version_highest": "0.19.1",
+    "hash_highest": "742d6ea74d40e645b9b9ef3d70b1bb7edf17d7a9"
   },
   {
     "package": "rJavaEnv",
