@@ -3,6 +3,6 @@
     "remotes": ["markvanderloo/tinytest/pkg"]
   },
   "date": ["2024-06-21"],
-  "version": ["0.10.0"],
-  "remote_hash": ["e29fe958e51dff312ebd12e91bf6a73f53c5c955"]
+  "version": ["0.10.1"],
+  "remote_hash": ["f239f0a1aac4e57166416cfe54ebefba00dde0d8"]
 }
