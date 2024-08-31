@@ -50,10 +50,10 @@
   },
   {
     "package": "glaredb",
-    "version_current": "0.0.2",
-    "hash_current": "10e2d584c77e1b8fee74495cb4945041b9bbf694",
-    "version_highest": "0.0.2",
-    "hash_highest": "10e2d584c77e1b8fee74495cb4945041b9bbf694"
+    "version_current": "0.0.3",
+    "hash_current": "79616cba7ee97f99b4e734febbfd72b4a1d4e8e0",
+    "version_highest": "0.0.3",
+    "hash_highest": "79616cba7ee97f99b4e734febbfd72b4a1d4e8e0"
   },
   {
     "package": "httpgd",
@@ -162,10 +162,10 @@
   },
   {
     "package": "tidypolars",
-    "version_current": "0.9.0",
-    "hash_current": "b856d174d90010dde55a4348a1496ded797f40af",
-    "version_highest": "0.9.0",
-    "hash_highest": "b856d174d90010dde55a4348a1496ded797f40af"
+    "version_current": "0.10.0",
+    "hash_current": "e29fe958e51dff312ebd12e91bf6a73f53c5c955",
+    "version_highest": "0.10.0",
+    "hash_highest": "e29fe958e51dff312ebd12e91bf6a73f53c5c955"
   },
   {
     "package": "tidytensor",

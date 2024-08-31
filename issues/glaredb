@@ -4,9 +4,9 @@
     "_macbinary": ["success"],
     "_winbinary": ["none"],
     "_status": ["success"],
-    "_buildurl": ["https://github.com/r-universe/r-multiverse/actions/runs/10236585621"]
+    "_buildurl": ["https://github.com/r-universe/r-multiverse/actions/runs/10645554896"]
   },
   "date": ["2024-07-19"],
-  "version": ["0.0.2"],
-  "remote_hash": ["10e2d584c77e1b8fee74495cb4945041b9bbf694"]
+  "version": ["0.0.3"],
+  "remote_hash": ["79616cba7ee97f99b4e734febbfd72b4a1d4e8e0"]
 }
