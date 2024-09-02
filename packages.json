@@ -68,6 +68,11 @@
     "branch": "*release"
   },
   {
+    "package": "litedown",
+    "url": "https://github.com/yihui/litedown",
+    "branch": "*release"
+  },
+  {
     "package": "mirai",
     "url": "https://github.com/shikokuchuo/mirai",
     "branch": "*release"
