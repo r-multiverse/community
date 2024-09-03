@@ -134,10 +134,10 @@
   },
   {
     "package": "rJavaEnv",
-    "version_current": "0.1.2",
-    "hash_current": "f1e8fa74107eb3f05725511bdc8fb460728d7ac5",
-    "version_highest": "0.1.2",
-    "hash_highest": "f1e8fa74107eb3f05725511bdc8fb460728d7ac5"
+    "version_current": "0.2.1",
+    "hash_current": "721e336dcf42c5a38e9728aa86bd584706b30cb4",
+    "version_highest": "0.2.1",
+    "hash_highest": "721e336dcf42c5a38e9728aa86bd584706b30cb4"
   },
   {
     "package": "SBC",
