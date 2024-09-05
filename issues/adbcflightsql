@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "adbcdrivermanager": []
-  },
-  "date": ["2024-07-22"],
-  "version": ["0.13.0"],
-  "remote_hash": ["37f79efbcd1641e6906a36e76df57cb896f2bc68"]
-}
