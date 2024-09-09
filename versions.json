@@ -92,10 +92,10 @@
   },
   {
     "package": "litedown",
-    "version_current": "0.1",
-    "hash_current": "e2f571b71e5d1c49d33cbd0682bdf6777f1d0b58",
-    "version_highest": "0.1",
-    "hash_highest": "e2f571b71e5d1c49d33cbd0682bdf6777f1d0b58"
+    "version_current": "0.2",
+    "hash_current": "6cec1c2ea1db1b27ffe2103bfd33dc0e4e4e7a8c",
+    "version_highest": "0.2",
+    "hash_highest": "6cec1c2ea1db1b27ffe2103bfd33dc0e4e4e7a8c"
   },
   {
     "package": "mirai",
