@@ -14,6 +14,13 @@
     "hash_highest": "15f330ce93c90b650fc92cf13ce5d8bd747f094e"
   },
   {
+    "package": "adbcsnowflake",
+    "version_current": "0.14.0",
+    "hash_current": "15f330ce93c90b650fc92cf13ce5d8bd747f094e",
+    "version_highest": "0.14.0",
+    "hash_highest": "15f330ce93c90b650fc92cf13ce5d8bd747f094e"
+  },
+  {
     "package": "arrow",
     "version_current": "17.0.0",
     "hash_current": "6a2e19a852b367c72d7b12da4d104456491ed8b7",
@@ -119,6 +126,13 @@
     "hash_highest": "f7b8ac48f080e1484f4728913da8399702e0eeae"
   },
   {
+    "package": "nanoarrow",
+    "version_current": "0.5.0",
+    "hash_current": "c5fb10035c17b598e6fd688ad9eb7b874c7c631b",
+    "version_highest": "0.5.0",
+    "hash_highest": "c5fb10035c17b598e6fd688ad9eb7b874c7c631b"
+  },
+  {
     "package": "nanonext",
     "version_current": "1.2.1",
     "hash_current": "45d573b21e5f2599ae81b5e88b50eb689d6cb85d",
@@ -194,6 +208,13 @@
     "hash_current": "30cc39ce7ad062b27526acfcf7d38b45ac97e1a2",
     "version_highest": "1.4.2",
     "hash_highest": "991d6fed95d10054c4f414be31d549ca92c6cf5b"
+  },
+  {
+    "package": "unigd",
+    "version_current": "0.1.2",
+    "hash_current": "c7d55c984624bdf89e385a2d86fcb93c692b400c",
+    "version_highest": "0.1.2",
+    "hash_highest": "c7d55c984624bdf89e385a2d86fcb93c692b400c"
   },
   {
     "package": "zstdlite",
