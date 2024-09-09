@@ -148,10 +148,10 @@
   },
   {
     "package": "secretbase",
-    "version_current": "1.0.1",
-    "hash_current": "825b313ca882410c19440aa8eb71b57a299dfc6d",
-    "version_highest": "1.0.1",
-    "hash_highest": "825b313ca882410c19440aa8eb71b57a299dfc6d"
+    "version_current": "1.0.2",
+    "hash_current": "10e0c66fc521419d00edf1396f67aafd6b7a01ce",
+    "version_highest": "1.0.2",
+    "hash_highest": "10e0c66fc521419d00edf1396f67aafd6b7a01ce"
   },
   {
     "package": "stantargets",
