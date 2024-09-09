@@ -12,6 +12,12 @@
     "branch": "*release"
   },
   {
+    "package": "adbcsnowflake",
+    "url": "https://github.com/apache/arrow-adbc",
+    "subdir": "r/adbcsnowflake",
+    "branch": "*release"
+  },
+  {
     "package": "arrow",
     "url": "https://github.com/apache/arrow",
     "subdir": "r",
@@ -88,6 +94,12 @@
     "branch": "*release"
   },
   {
+    "package": "nanoarrow",
+    "url": "https://github.com/apache/arrow-nanoarrow",
+    "subdir": "r",
+    "branch": "*release"
+  },
+  {
     "package": "nanonext",
     "url": "https://github.com/shikokuchuo/nanonext",
     "branch": "*release"
@@ -135,6 +147,11 @@
   {
     "package": "tidytensor",
     "url": "https://github.com/oneilsh/tidytensor",
+    "branch": "*release"
+  },
+  {
+    "package": "unigd",
+    "url": "https://github.com/nx10/unigd",
     "branch": "*release"
   },
   {
