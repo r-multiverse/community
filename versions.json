@@ -78,10 +78,10 @@
   },
   {
     "package": "ichimoku",
-    "version_current": "1.5.4",
-    "hash_current": "b9bbeff0539aa32de59c59f35ba19d3c7208c185",
-    "version_highest": "1.5.4",
-    "hash_highest": "b9bbeff0539aa32de59c59f35ba19d3c7208c185"
+    "version_current": "1.5.5",
+    "hash_current": "223c74e74a188c2e3d0a57a0700bd44b2468f404",
+    "version_highest": "1.5.5",
+    "hash_highest": "223c74e74a188c2e3d0a57a0700bd44b2468f404"
   },
   {
     "package": "igraph",
