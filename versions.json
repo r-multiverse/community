@@ -147,6 +147,13 @@
     "hash_highest": "742d6ea74d40e645b9b9ef3d70b1bb7edf17d7a9"
   },
   {
+    "package": "prqlr",
+    "version_current": "0.8.1",
+    "hash_current": "7bd3c512e2d82afe98fef430baa3a104b7112994",
+    "version_highest": "0.8.1",
+    "hash_highest": "7bd3c512e2d82afe98fef430baa3a104b7112994"
+  },
+  {
     "package": "rJavaEnv",
     "version_current": "0.2.2",
     "hash_current": "bae1c6dea15b2f7750ae78d87ab0012a7772081f",
