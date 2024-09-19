@@ -24,6 +24,11 @@
     "branch": "*release"
   },
   {
+    "package": "audio.vadwebrtc",
+    "url": "https://github.com/bnosac/audio.vadwebrtc",
+    "branch": "*release"
+  },
+  {
     "package": "audio.whisper",
     "url": "https://github.com/bnosac/audio.whisper",
     "branch": "*release"
@@ -107,6 +112,11 @@
   {
     "package": "polars",
     "url": "https://github.com/pola-rs/r-polars",
+    "branch": "*release"
+  },
+  {
+    "package": "prqlr",
+    "url": "https://github.com/PRQL/prqlc-r",
     "branch": "*release"
   },
   {
