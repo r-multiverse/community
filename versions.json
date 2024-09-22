@@ -49,6 +49,13 @@
     "hash_highest": "02259ef7aa2a8b1c8de2fa3fc42a9feafd789288"
   },
   {
+    "package": "colorout",
+    "version_current": "1.3-1",
+    "hash_current": "d7830157069ed7942d82483e8d8033d41d61f233",
+    "version_highest": "1.3-1",
+    "hash_highest": "d7830157069ed7942d82483e8d8033d41d61f233"
+  },
+  {
     "package": "crew",
     "version_current": "0.9.5",
     "hash_current": "8ca02085fb1880ad87788bd1eb0ca331da69e60e",
