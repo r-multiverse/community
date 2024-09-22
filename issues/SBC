@@ -4,7 +4,7 @@
     "_macbinary": ["success"],
     "_winbinary": ["success"],
     "_status": ["failure"],
-    "_buildurl": ["https://github.com/r-universe/r-multiverse/actions/runs/10953533991"]
+    "_buildurl": ["https://github.com/r-universe/r-multiverse/actions/runs/10978749888"]
   },
   "date": ["2024-06-21"],
   "version": ["0.3.0.9000"],
