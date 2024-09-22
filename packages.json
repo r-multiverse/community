@@ -39,6 +39,11 @@
     "branch": "*release"
   },
   {
+    "package": "colorout",
+    "url": "https://github.com/jalvesaq/colorout",
+    "branch": "*release"
+  },
+  {
     "package": "crew",
     "url": "https://github.com/wlandau/crew",
     "branch": "*release"
