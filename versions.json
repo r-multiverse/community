@@ -64,10 +64,10 @@
   },
   {
     "package": "duckdb",
-    "version_current": "1.0.0-2",
-    "hash_current": "7d8ba88961d847bc2e95a350b214d22db6847f43",
-    "version_highest": "1.0.0-2",
-    "hash_highest": "7d8ba88961d847bc2e95a350b214d22db6847f43"
+    "version_current": "1.1.0",
+    "hash_current": "31d848cb0bc0d1fadc96a031b941ee092505a107",
+    "version_highest": "1.1.0",
+    "hash_highest": "31d848cb0bc0d1fadc96a031b941ee092505a107"
   },
   {
     "package": "glaredb",
