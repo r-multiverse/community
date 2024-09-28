@@ -154,6 +154,13 @@
     "hash_highest": "742d6ea74d40e645b9b9ef3d70b1bb7edf17d7a9"
   },
   {
+    "package": "prophet",
+    "version_current": "1.1.5",
+    "hash_current": "82180bbc8e0831e511de62c371f9d13e54b36e51",
+    "version_highest": "1.1.5",
+    "hash_highest": "82180bbc8e0831e511de62c371f9d13e54b36e51"
+  },
+  {
     "package": "prqlr",
     "version_current": "0.9.0",
     "hash_current": "9bcc6ef530582844da1e8c8b5e3faa8477a5ecd2",
