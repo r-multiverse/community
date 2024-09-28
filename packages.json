@@ -120,6 +120,12 @@
     "branch": "*release"
   },
   {
+    "package": "prophet",
+    "url": "https://github.com/facebook/prophet",
+    "subdir": "R",
+    "branch": "*release"
+  },
+  {
     "package": "prqlr",
     "url": "https://github.com/PRQL/prqlc-r",
     "branch": "*release"
