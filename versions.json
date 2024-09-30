@@ -28,6 +28,13 @@
     "hash_highest": "6a2e19a852b367c72d7b12da4d104456491ed8b7"
   },
   {
+    "package": "asylum",
+    "version_current": "1.1.1",
+    "hash_current": "22064dd0822e007ef78cd29e9a118beb09e76da4",
+    "version_highest": "1.1.1",
+    "hash_highest": "22064dd0822e007ef78cd29e9a118beb09e76da4"
+  },
+  {
     "package": "audio.vadwebrtc",
     "version_current": "0.2",
     "hash_current": "c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba",
@@ -96,6 +103,13 @@
     "hash_current": "476886da2b41a4d937543278dc12044889c9d4ca",
     "version_highest": "2.0.2",
     "hash_highest": "476886da2b41a4d937543278dc12044889c9d4ca"
+  },
+  {
+    "package": "IMD",
+    "version_current": "1.2.1",
+    "hash_current": "8cc26c4f70bf6e07c47bab089c7bad18c864223c",
+    "version_highest": "1.2.1",
+    "hash_highest": "8cc26c4f70bf6e07c47bab089c7bad18c864223c"
   },
   {
     "package": "later",
