@@ -24,6 +24,11 @@
     "branch": "*release"
   },
   {
+    "package": "asylum",
+    "url": "https://github.com/humaniverse/asylum",
+    "branch": "*release"
+  },
+  {
     "package": "audio.vadwebrtc",
     "url": "https://github.com/bnosac/audio.vadwebrtc",
     "branch": "*release"
@@ -71,6 +76,11 @@
   {
     "package": "igraph",
     "url": "https://github.com/igraph/rigraph",
+    "branch": "*release"
+  },
+  {
+    "package": "IMD",
+    "url": "https://github.com/humaniverse/IMD",
     "branch": "*release"
   },
   {
