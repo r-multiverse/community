@@ -155,10 +155,10 @@
   },
   {
     "package": "nanonext",
-    "version_current": "1.2.1",
-    "hash_current": "45d573b21e5f2599ae81b5e88b50eb689d6cb85d",
-    "version_highest": "1.2.1",
-    "hash_highest": "45d573b21e5f2599ae81b5e88b50eb689d6cb85d"
+    "version_current": "1.3.0",
+    "hash_current": "25850a155864465a83e3901cbe296e014fcf05a2",
+    "version_highest": "1.3.0",
+    "hash_highest": "25850a155864465a83e3901cbe296e014fcf05a2"
   },
   {
     "package": "polars",
