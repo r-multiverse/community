@@ -148,10 +148,10 @@
   },
   {
     "package": "nanoarrow",
-    "version_current": "0.5.0",
-    "hash_current": "c5fb10035c17b598e6fd688ad9eb7b874c7c631b",
-    "version_highest": "0.5.0",
-    "hash_highest": "c5fb10035c17b598e6fd688ad9eb7b874c7c631b"
+    "version_current": "0.6.0",
+    "hash_current": "33d2c8b973d8f8f424e02ac92ddeaace2a92f8dd",
+    "version_highest": "0.6.0",
+    "hash_highest": "33d2c8b973d8f8f424e02ac92ddeaace2a92f8dd"
   },
   {
     "package": "nanonext",
