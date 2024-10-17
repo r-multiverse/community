@@ -120,10 +120,10 @@
   },
   {
     "package": "litedown",
-    "version_current": "0.2",
-    "hash_current": "6cec1c2ea1db1b27ffe2103bfd33dc0e4e4e7a8c",
-    "version_highest": "0.2",
-    "hash_highest": "6cec1c2ea1db1b27ffe2103bfd33dc0e4e4e7a8c"
+    "version_current": "0.3",
+    "hash_current": "806f6f7099b4b39539d29705a70a0ec30ba3f689",
+    "version_highest": "0.3",
+    "hash_highest": "806f6f7099b4b39539d29705a70a0ec30ba3f689"
   },
   {
     "package": "mirai",
@@ -162,10 +162,10 @@
   },
   {
     "package": "polars",
-    "version_current": "0.19.1",
-    "hash_current": "742d6ea74d40e645b9b9ef3d70b1bb7edf17d7a9",
-    "version_highest": "0.19.1",
-    "hash_highest": "742d6ea74d40e645b9b9ef3d70b1bb7edf17d7a9"
+    "version_current": "0.20.0",
+    "hash_current": "4bd16001d935d2e0b6e7d15d7aac12dc1cc35ec9",
+    "version_highest": "0.20.0",
+    "hash_highest": "4bd16001d935d2e0b6e7d15d7aac12dc1cc35ec9"
   },
   {
     "package": "prophet",
