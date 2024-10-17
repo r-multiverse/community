@@ -232,10 +232,10 @@
   },
   {
     "package": "tidypolars",
-    "version_current": "0.10.1",
-    "hash_current": "f239f0a1aac4e57166416cfe54ebefba00dde0d8",
-    "version_highest": "0.10.1",
-    "hash_highest": "f239f0a1aac4e57166416cfe54ebefba00dde0d8"
+    "version_current": "0.11.0",
+    "hash_current": "9144fbf40ca20f30509bad27068d4fca47a81b2e",
+    "version_highest": "0.11.0",
+    "hash_highest": "9144fbf40ca20f30509bad27068d4fca47a81b2e"
   },
   {
     "package": "tidytensor",
@@ -243,13 +243,6 @@
     "hash_current": "14f5b87d2dfae20eb35cfd974adf660a4fd89980",
     "version_highest": "1.0.0",
     "hash_highest": "14f5b87d2dfae20eb35cfd974adf660a4fd89980"
-  },
-  {
-    "package": "tinytest",
-    "version_current": "1.4.2",
-    "hash_current": "30cc39ce7ad062b27526acfcf7d38b45ac97e1a2",
-    "version_highest": "1.4.2",
-    "hash_highest": "991d6fed95d10054c4f414be31d549ca92c6cf5b"
   },
   {
     "package": "unigd",
