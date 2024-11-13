@@ -245,6 +245,13 @@
     "hash_highest": "a199a734b16f91726698a19e5f147f57f79cb2b6"
   },
   {
+    "package": "taxizedb",
+    "version_current": "0.3.1",
+    "hash_current": "5732f9777142cd0034b64d5ae8b9aea0605cfaab",
+    "version_highest": "0.3.1",
+    "hash_highest": "5732f9777142cd0034b64d5ae8b9aea0605cfaab"
+  },
+  {
     "package": "tidypolars",
     "version_current": "0.11.0",
     "hash_current": "9144fbf40ca20f30509bad27068d4fca47a81b2e",
@@ -264,6 +271,13 @@
     "hash_current": "c7d55c984624bdf89e385a2d86fcb93c692b400c",
     "version_highest": "0.1.2",
     "hash_highest": "c7d55c984624bdf89e385a2d86fcb93c692b400c"
+  },
+  {
+    "package": "webseq",
+    "version_current": "0.1",
+    "hash_current": "b710f93da5b8dd8a30fa170cdf3da8da943fbae1",
+    "version_highest": "0.1",
+    "hash_highest": "b710f93da5b8dd8a30fa170cdf3da8da943fbae1"
   },
   {
     "package": "zstdlite",
