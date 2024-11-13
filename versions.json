@@ -1,5 +1,12 @@
 [
   {
+    "package": "adbcbigquery",
+    "version_current": "0.15.0",
+    "hash_current": "4bd94e2f9b56ebed3aa2639ff515e758930c8c9b",
+    "version_highest": "0.15.0",
+    "hash_highest": "4bd94e2f9b56ebed3aa2639ff515e758930c8c9b"
+  },
+  {
     "package": "adbcdrivermanager",
     "version_current": "0.15.0",
     "hash_current": "4bd94e2f9b56ebed3aa2639ff515e758930c8c9b",
