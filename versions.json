@@ -273,6 +273,13 @@
     "hash_highest": "c7d55c984624bdf89e385a2d86fcb93c692b400c"
   },
   {
+    "package": "webchem",
+    "version_current": "1.3.0",
+    "hash_current": "5c177df9bd91d969e10da94a9c468933f899d140",
+    "version_highest": "1.3.0",
+    "hash_highest": "5c177df9bd91d969e10da94a9c468933f899d140"
+  },
+  {
     "package": "webseq",
     "version_current": "0.1",
     "hash_current": "b710f93da5b8dd8a30fa170cdf3da8da943fbae1",
