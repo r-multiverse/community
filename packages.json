@@ -207,6 +207,11 @@
     "branch": "*release"
   },
   {
+    "package": "webchem",
+    "url": "https://github.com/ropensci/webchem",
+    "branch": "*release"
+  },
+  {
     "package": "webseq",
     "url": "https://github.com/stitam/webseq",
     "branch": "*release"
