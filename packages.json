@@ -60,13 +60,33 @@
     "branch": "*release"
   },
   {
+    "package": "demographr",
+    "url": "https://github.com/humaniverse/demographr",
+    "branch": "*release"
+  },
+  {
+    "package": "DEPAHRI",
+    "url": "https://github.com/humaniverse/DEPAHRI",
+    "branch": "*release"
+  },
+  {
     "package": "duckdb",
     "url": "https://github.com/duckdb/duckdb-r",
     "branch": "*release"
   },
   {
+    "package": "geographr",
+    "url": "https://github.com/humaniverse/geographr",
+    "branch": "*release"
+  },
+  {
     "package": "glaredb",
     "url": "https://github.com/eitsupi/r-glaredb",
+    "branch": "*release"
+  },
+  {
+    "package": "healthyr",
+    "url": "https://github.com/humaniverse/healthyr",
     "branch": "*release"
   },
   {
@@ -102,6 +122,11 @@
   {
     "package": "litedown",
     "url": "https://github.com/yihui/litedown",
+    "branch": "*release"
+  },
+  {
+    "package": "loneliness",
+    "url": "https://github.com/humaniverse/loneliness",
     "branch": "*release"
   },
   {
@@ -214,6 +239,11 @@
   {
     "package": "webseq",
     "url": "https://github.com/stitam/webseq",
+    "branch": "*release"
+  },
+  {
+    "package": "wildfires",
+    "url": "https://github.com/humaniverse/wildfires",
     "branch": "*release"
   },
   {
