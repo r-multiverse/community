@@ -77,6 +77,20 @@
     "hash_highest": "859a9b465e25e0ced329c36206488fb61382880c"
   },
   {
+    "package": "demographr",
+    "version_current": "0.0.1",
+    "hash_current": "5d73b83f4bd70048d39b6b9c4bffaf02c8aab321",
+    "version_highest": "0.0.1",
+    "hash_highest": "5d73b83f4bd70048d39b6b9c4bffaf02c8aab321"
+  },
+  {
+    "package": "DEPAHRI",
+    "version_current": "0.0.0.9000",
+    "hash_current": "87459858693a051761b2a64de31a5d7c70d0dc5b",
+    "version_highest": "0.0.0.9000",
+    "hash_highest": "87459858693a051761b2a64de31a5d7c70d0dc5b"
+  },
+  {
     "package": "duckdb",
     "version_current": "1.1.0",
     "hash_current": "31d848cb0bc0d1fadc96a031b941ee092505a107",
@@ -84,11 +98,25 @@
     "hash_highest": "31d848cb0bc0d1fadc96a031b941ee092505a107"
   },
   {
+    "package": "geographr",
+    "version_current": "1.0.1",
+    "hash_current": "ed416a6735f7c4d8da0b866260369e84c27319a2",
+    "version_highest": "1.0.1",
+    "hash_highest": "ed416a6735f7c4d8da0b866260369e84c27319a2"
+  },
+  {
     "package": "glaredb",
     "version_current": "0.0.4",
     "hash_current": "349c5bb3a1fca6a8cefae381094b046c8ce028b2",
     "version_highest": "0.0.4",
     "hash_highest": "349c5bb3a1fca6a8cefae381094b046c8ce028b2"
+  },
+  {
+    "package": "healthyr",
+    "version_current": "0.0.0.9000",
+    "hash_current": "37a8c7844582bf6dbbc80bf960aa176e2c3e9435",
+    "version_highest": "0.0.0.9000",
+    "hash_highest": "37a8c7844582bf6dbbc80bf960aa176e2c3e9435"
   },
   {
     "package": "httpgd",
@@ -131,6 +159,13 @@
     "hash_current": "0d38691a690d142428f774bbc15d5095a0af5ba4",
     "version_highest": "0.4",
     "hash_highest": "0d38691a690d142428f774bbc15d5095a0af5ba4"
+  },
+  {
+    "package": "loneliness",
+    "version_current": "0.0.0.9000",
+    "hash_current": "330d200bf9de4a76ca1e82e3d84a3c5aba946707",
+    "version_highest": "0.0.0.9000",
+    "hash_highest": "330d200bf9de4a76ca1e82e3d84a3c5aba946707"
   },
   {
     "package": "milRex",
@@ -285,6 +320,13 @@
     "hash_current": "b710f93da5b8dd8a30fa170cdf3da8da943fbae1",
     "version_highest": "0.1",
     "hash_highest": "b710f93da5b8dd8a30fa170cdf3da8da943fbae1"
+  },
+  {
+    "package": "wildfires",
+    "version_current": "0.9.0",
+    "hash_current": "228c24be602b16073ff2bc8096d5df9d42dc6ea1",
+    "version_highest": "0.9.0",
+    "hash_highest": "228c24be602b16073ff2bc8096d5df9d42dc6ea1"
   },
   {
     "package": "zstdlite",
