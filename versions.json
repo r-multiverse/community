@@ -288,10 +288,10 @@
   },
   {
     "package": "tidypolars",
-    "version_current": "0.11.0",
-    "hash_current": "9144fbf40ca20f30509bad27068d4fca47a81b2e",
-    "version_highest": "0.11.0",
-    "hash_highest": "9144fbf40ca20f30509bad27068d4fca47a81b2e"
+    "version_current": "0.12.0",
+    "hash_current": "4508d4d25685eed1ecee8a9450c9b804b34311ef",
+    "version_highest": "0.12.0",
+    "hash_highest": "4508d4d25685eed1ecee8a9450c9b804b34311ef"
   },
   {
     "package": "tidytensor",
