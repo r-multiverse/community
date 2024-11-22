@@ -6,6 +6,9 @@
     "_status": ["failure"],
     "_buildurl": ["https://github.com/r-universe/r-multiverse/actions/runs/11898760983"]
   },
+  "descriptions": {
+    "license": ["TBD"]
+  },
   "date": ["2024-11-18"],
   "version": ["0.0.0.9000"],
   "remote_hash": ["87459858693a051761b2a64de31a5d7c70d0dc5b"]
