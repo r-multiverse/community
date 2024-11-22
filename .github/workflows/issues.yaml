@@ -1,4 +1,4 @@
-name: checks
+name: issues
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: '0 * * * *'
 
 jobs:
-  checks:
+  issues:
     runs-on: macOS-latest
 
     env:
@@ -23,7 +23,7 @@ jobs:
         run: |
           install.packages(
             pkgs = "multiverse.internals",
-            repos = c("https://cloud.r-project.org", "https://community.r-multiverse.org"),
+            repos = c("https://community.r-multiverse.org", "https://cloud.r-project.org"),
             type = "binary"
           )
         shell: Rscript {0}
@@ -45,6 +45,14 @@ jobs:
             repo = "https://community.r-multiverse.org",
             versions = "versions.json",
             output = "issues"
+          )
+        shell: Rscript {0}
+
+      - name: Record non-standard licenses.
+        run: |
+          multiverse.internals::record_nonstandard_licenses(
+            repo = "https://community.r-multiverse.org",
+            path = "nonstandard_licenses.json"
           )
         shell: Rscript {0}
 
