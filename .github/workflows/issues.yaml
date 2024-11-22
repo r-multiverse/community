@@ -25,7 +25,7 @@ jobs:
             pkgs = "multiverse.internals",
             repos = c(
               "https://community.r-multiverse.org",
-              "https://packagemanager.posit.co/cran/__linux__/ubuntu/latest""
+              "https://packagemanager.posit.co/cran/__linux__/ubuntu/latest"
             )
           )
         shell: Rscript {0}
