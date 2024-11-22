@@ -59,7 +59,7 @@ jobs:
 
       - name: Commit and push changes.
         run: |
-          git add nonstandard_licenses.json versions.json
+          git add *.json
           if [ -d issues ]; then
             git add issues
           fi
