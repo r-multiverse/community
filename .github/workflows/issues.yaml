@@ -45,7 +45,7 @@ jobs:
           multiverse.internals::record_issues(
             repo = "https://community.r-multiverse.org",
             versions = "versions.json",
-            output = "issues"
+            output = "issues.json"
           )
         shell: Rscript {0}
 
@@ -60,9 +60,6 @@ jobs:
       - name: Commit and push changes.
         run: |
           git add *.json
-          if [ -d issues ]; then
-            git add issues
-          fi
           if git diff --quiet && git diff --staged --quiet; then
             echo "No changes to commit."
           else
