@@ -84,13 +84,6 @@
     "hash_highest": "5d73b83f4bd70048d39b6b9c4bffaf02c8aab321"
   },
   {
-    "package": "DEPAHRI",
-    "version_current": "0.0.0.9000",
-    "hash_current": "87459858693a051761b2a64de31a5d7c70d0dc5b",
-    "version_highest": "0.0.0.9000",
-    "hash_highest": "87459858693a051761b2a64de31a5d7c70d0dc5b"
-  },
-  {
     "package": "duckdb",
     "version_current": "1.1.2",
     "hash_current": "71c71a6b824bd0f2c0fca43c5dfa53645b17bfb7",
@@ -190,10 +183,10 @@
   },
   {
     "package": "multiverse.internals",
-    "version_current": "0.2.20",
-    "hash_current": "3fb5e05e36d4c51e7161b4c416f6049aa635dcec",
-    "version_highest": "0.2.20",
-    "hash_highest": "3fb5e05e36d4c51e7161b4c416f6049aa635dcec"
+    "version_current": "0.2.21",
+    "hash_current": "dd7c9547cf672f1dad301c1c0781704712f5711f",
+    "version_highest": "0.2.21",
+    "hash_highest": "dd7c9547cf672f1dad301c1c0781704712f5711f"
   },
   {
     "package": "nanoarrow",
@@ -260,10 +253,10 @@
   },
   {
     "package": "stantargets",
-    "version_current": "0.1.1",
-    "hash_current": "bbdda1b4a44a3d6a22041e03eed38f27319d8f32",
-    "version_highest": "0.1.1",
-    "hash_highest": "bbdda1b4a44a3d6a22041e03eed38f27319d8f32"
+    "version_current": "0.1.2",
+    "hash_current": "638326106594be70c5f851c767349e4192740771",
+    "version_highest": "0.1.2",
+    "hash_highest": "638326106594be70c5f851c767349e4192740771"
   },
   {
     "package": "string2path",

@@ -11,21 +11,6 @@
     "version": ["1.3-2"],
     "remote_hash": ["6eca95213c6cb2fae1c2c4eaccf43de4c93a65b5"]
   },
-  "DEPAHRI": {
-    "checks": {
-      "_linuxdevel": ["success"],
-      "_macbinary": ["success"],
-      "_winbinary": ["success"],
-      "_status": ["failure"],
-      "_buildurl": ["https://github.com/r-universe/r-multiverse/actions/runs/11898760983"]
-    },
-    "descriptions": {
-      "license": ["TBD"]
-    },
-    "date": ["2024-12-02"],
-    "version": ["0.0.0.9000"],
-    "remote_hash": ["87459858693a051761b2a64de31a5d7c70d0dc5b"]
-  },
   "glaredb": {
     "checks": {
       "_linuxdevel": ["success"],
@@ -68,14 +53,14 @@
       "_macbinary": ["success"],
       "_winbinary": ["success"],
       "_status": ["failure"],
-      "_buildurl": ["https://github.com/r-universe/r-multiverse/actions/runs/12103288280"]
+      "_buildurl": ["https://github.com/r-universe/r-multiverse/actions/runs/12139784185"]
     },
     "descriptions": {
       "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]
     },
     "date": ["2024-12-02"],
-    "version": ["0.1.1"],
-    "remote_hash": ["bbdda1b4a44a3d6a22041e03eed38f27319d8f32"]
+    "version": ["0.1.2"],
+    "remote_hash": ["638326106594be70c5f851c767349e4192740771"]
   },
   "taxizedb": {
     "checks": {
