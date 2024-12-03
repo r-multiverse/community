@@ -110,6 +110,11 @@
     "branch": "*release"
   },
   {
+    "package": "jagstargets",
+    "url": "https://github.com/ropensci/jagstargets",
+    "branch": "*release"
+  },
+  {
     "package": "later",
     "url": "https://github.com/r-lib/later",
     "branch": "*release"
