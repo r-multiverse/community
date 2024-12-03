@@ -65,11 +65,6 @@
     "branch": "*release"
   },
   {
-    "package": "DEPAHRI",
-    "url": "https://github.com/humaniverse/DEPAHRI",
-    "branch": "*release"
-  },
-  {
     "package": "duckdb",
     "url": "https://github.com/duckdb/duckdb-r",
     "branch": "*release"
