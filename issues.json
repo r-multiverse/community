@@ -81,14 +81,14 @@
   },
   "igraph": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12133807748"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12248612823"],
       "issues": {
         "win x86_64 R-4.4.2": ["WARNING"]
       }
     },
     "date": ["2024-12-06"],
-    "version": ["2.1.1"],
-    "remote_hash": ["40edbefd4eb1d1d4a74b390c858a38782ff923ed"]
+    "version": ["2.1.2"],
+    "remote_hash": ["32bd6533e93db31160180ea909f9593779a2272c"]
   },
   "INLA": {
     "checks": {
