@@ -211,10 +211,10 @@
   },
   {
     "package": "polars",
-    "version_current": "0.21.0",
-    "hash_current": "a76b8d56e6f39a6157880069f9d32f3cc1f574d7",
-    "version_highest": "0.21.0",
-    "hash_highest": "a76b8d56e6f39a6157880069f9d32f3cc1f574d7"
+    "version_current": "0.22.0",
+    "hash_current": "788bf80650de12bc9a091ae305feb841f8fc6a1c",
+    "version_highest": "0.22.0",
+    "hash_highest": "788bf80650de12bc9a091ae305feb841f8fc6a1c"
   },
   {
     "package": "prophet",
