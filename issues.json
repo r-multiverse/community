@@ -159,8 +159,9 @@
   },
   "taxizedb": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/11825909535"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12310739138"],
       "issues": {
+        "linux R-4.5.0": ["ERROR"],
         "mac R-4.4.2": ["ERROR"],
         "win R-4.4.2": ["ERROR"]
       }
