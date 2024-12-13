@@ -185,7 +185,7 @@
   },
   "webseq": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/11825909757"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12310739094"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
