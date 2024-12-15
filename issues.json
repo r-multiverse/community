@@ -92,7 +92,7 @@
   },
   "INLA": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/11566311732"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12335635832"],
       "issues": {
         "linux R-devel": ["MISSING"],
         "mac R-release": ["MISSING"],
