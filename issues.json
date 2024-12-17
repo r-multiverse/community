@@ -57,7 +57,7 @@
   },
   "glaredb": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/11876493507"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12367579533"],
       "issues": {
         "win R-release": ["MISSING"]
       }
