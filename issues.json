@@ -31,7 +31,7 @@
   },
   "demographr": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/11898760503"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12387553708"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
@@ -68,7 +68,7 @@
   },
   "healthyr": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/11898763290"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12387553706"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
@@ -105,7 +105,7 @@
   },
   "loneliness": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/11898763908"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12387553644"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
