@@ -44,7 +44,7 @@
   },
   "geographr": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/11898762523"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12387553643"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
@@ -198,7 +198,7 @@
   },
   "wildfires": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/11898765070"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12387553632"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
