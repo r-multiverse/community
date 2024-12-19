@@ -31,7 +31,7 @@
   },
   "demographr": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12387553708"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12407402050"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
@@ -169,6 +169,17 @@
     "date": ["2024-12-02"],
     "version": ["0.3.1"],
     "remote_hash": ["5732f9777142cd0034b64d5ae8b9aea0605cfaab"]
+  },
+  "tidypolars": {
+    "checks": {
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12407401674"],
+      "issues": {
+        "linux R-4.5.0": ["ERROR"]
+      }
+    },
+    "date": ["2024-12-19"],
+    "version": ["0.12.0"],
+    "remote_hash": ["4508d4d25685eed1ecee8a9450c9b804b34311ef"]
   },
   "tidytensor": {
     "checks": {
