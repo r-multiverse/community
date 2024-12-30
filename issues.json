@@ -116,18 +116,6 @@
     "version": ["0.0.0.9000"],
     "remote_hash": ["330d200bf9de4a76ca1e82e3d84a3c5aba946707"]
   },
-  "prqlr": {
-    "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/11620617366"],
-      "issues": {
-        "mac R-release": ["MISSING"],
-        "win R-release": ["MISSING"]
-      }
-    },
-    "date": ["2024-12-06"],
-    "version": ["0.9.0"],
-    "remote_hash": ["9bcc6ef530582844da1e8c8b5e3faa8477a5ecd2"]
-  },
   "SBC": {
     "checks": {
       "url": ["https://github.com/r-universe/r-multiverse/actions/runs/11947266936"],
