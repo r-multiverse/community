@@ -1,7 +1,7 @@
 {
   "audio.whisper": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12103194809"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12556747710"],
       "issues": {
         "linux x86_64 R-4.5.0": ["WARNING"],
         "mac aarch64 R-4.4.2": ["WARNING"],
