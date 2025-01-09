@@ -81,7 +81,7 @@
   },
   "igraph": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12682967125"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12683021030"],
       "issues": {
         "linux x86_64 R-4.5.0": ["ERROR"],
         "mac aarch64 R-4.4.2": ["ERROR"],
