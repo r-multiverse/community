@@ -150,7 +150,7 @@
   },
   "taxizedb": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12310739138"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12730999915"],
       "issues": {
         "linux R-4.5.0": ["ERROR"],
         "mac R-4.4.2": ["ERROR"],
@@ -187,7 +187,7 @@
   },
   "webseq": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12310739094"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12731000175"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
