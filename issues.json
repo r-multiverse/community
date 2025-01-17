@@ -44,7 +44,7 @@
   },
   "geographr": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12387553643"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12824164092"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
@@ -68,7 +68,7 @@
   },
   "healthyr": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12387553706"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12824163468"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
@@ -95,7 +95,7 @@
   },
   "INLA": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12335635832"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12822178048"],
       "issues": {
         "linux R-devel": ["MISSING"],
         "mac R-release": ["MISSING"],
@@ -108,7 +108,7 @@
   },
   "loneliness": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12387553644"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12823996909"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
@@ -200,7 +200,7 @@
   },
   "wildfires": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12387553632"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12824164224"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
