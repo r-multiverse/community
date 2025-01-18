@@ -56,6 +56,13 @@
     "hash_highest": "4b5c6a288c0f46a4cdc47f50d2d35395d3e32194"
   },
   {
+    "package": "bridgestan",
+    "version_current": "2.6.1",
+    "hash_current": "b161ca7a1d417213b084c4a8c2d53fa44f7e8284",
+    "version_highest": "2.6.1",
+    "hash_highest": "b161ca7a1d417213b084c4a8c2d53fa44f7e8284"
+  },
+  {
     "package": "cmdstanr",
     "version_current": "0.8.1",
     "hash_current": "02259ef7aa2a8b1c8de2fa3fc42a9feafd789288",
