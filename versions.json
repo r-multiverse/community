@@ -246,10 +246,10 @@
   },
   {
     "package": "rlang",
-    "version_current": "1.1.4",
-    "hash_current": "ae699d14ce32444ecd797e287f9384faf3726c74",
-    "version_highest": "1.1.4",
-    "hash_highest": "ae699d14ce32444ecd797e287f9384faf3726c74"
+    "version_current": "1.1.5",
+    "hash_current": "119ce823eabd4ce3e834af0e7de4601703fdc214",
+    "version_highest": "1.1.5",
+    "hash_highest": "119ce823eabd4ce3e834af0e7de4601703fdc214"
   },
   {
     "package": "SBC",
