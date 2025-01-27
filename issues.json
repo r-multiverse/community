@@ -31,7 +31,7 @@
   },
   "colorout": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12524298035"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12982886589"],
       "issues": {
         "mac aarch64 R-4.4.2": ["WARNING"],
         "mac x86_64 R-4.4.2": ["WARNING"],
