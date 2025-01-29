@@ -232,10 +232,10 @@
   },
   {
     "package": "prqlr",
-    "version_current": "0.9.0",
-    "hash_current": "9bcc6ef530582844da1e8c8b5e3faa8477a5ecd2",
-    "version_highest": "0.9.0",
-    "hash_highest": "9bcc6ef530582844da1e8c8b5e3faa8477a5ecd2"
+    "version_current": "0.10.0",
+    "hash_current": "09c7b87e0eabd77e0b7f2c74995fa79e27f2a176",
+    "version_highest": "0.10.0",
+    "hash_highest": "09c7b87e0eabd77e0b7f2c74995fa79e27f2a176"
   },
   {
     "package": "rJavaEnv",
