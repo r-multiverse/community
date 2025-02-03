@@ -78,10 +78,10 @@
   },
   {
     "package": "crew",
-    "version_current": "0.10.2",
-    "hash_current": "859a9b465e25e0ced329c36206488fb61382880c",
-    "version_highest": "0.10.2",
-    "hash_highest": "859a9b465e25e0ced329c36206488fb61382880c"
+    "version_current": "1.0.0",
+    "hash_current": "e28d0c782fbc22b3cd4129e5f30825a8a44c0f75",
+    "version_highest": "1.0.0",
+    "hash_highest": "e28d0c782fbc22b3cd4129e5f30825a8a44c0f75"
   },
   {
     "package": "demographr",
