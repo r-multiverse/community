@@ -144,7 +144,7 @@
   },
   "stantargets": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12608233448"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13107440325"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
@@ -184,7 +184,7 @@
   },
   "tidytensor": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12608233449"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13107439573"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
