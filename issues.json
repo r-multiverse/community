@@ -129,6 +129,20 @@
     "version": ["0.0.0.9000"],
     "remote_hash": ["330d200bf9de4a76ca1e82e3d84a3c5aba946707"]
   },
+  "polars": {
+    "checks": {
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13222246303"],
+      "issues": {
+        "linux x86_64 R-4.5.0": ["ERROR"],
+        "mac aarch64 R-4.4.2": ["ERROR"],
+        "mac x86_64 R-4.4.2": ["ERROR"],
+        "win x86_64 R-4.4.2": ["ERROR"]
+      }
+    },
+    "date": ["2025-02-09"],
+    "version": ["0.22.0"],
+    "remote_hash": ["788bf80650de12bc9a091ae305feb841f8fc6a1c"]
+  },
   "SBC": {
     "checks": {
       "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13107628699"],
@@ -177,6 +191,9 @@
       "issues": {
         "linux R-4.5.0": ["ERROR"]
       }
+    },
+    "dependencies": {
+      "polars": []
     },
     "date": ["2024-12-19"],
     "version": ["0.12.0"],
