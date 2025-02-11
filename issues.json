@@ -1,7 +1,7 @@
 {
   "audio.whisper": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13046956591"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13264301681"],
       "issues": {
         "linux x86_64 R-4.5.0": ["WARNING"],
         "mac aarch64 R-4.4.2": ["WARNING"],
@@ -18,7 +18,7 @@
   },
   "bridgestan": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12846406676"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13264303025"],
       "issues": {
         "linux R-4.5.0": ["ERROR"],
         "mac R-4.4.2": ["ERROR"],
@@ -31,7 +31,7 @@
   },
   "colorout": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12982886589"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13264302239"],
       "issues": {
         "mac aarch64 R-4.4.2": ["WARNING"],
         "mac x86_64 R-4.4.2": ["WARNING"],
@@ -44,7 +44,7 @@
   },
   "demographr": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12407402050"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13264300253"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
@@ -57,7 +57,7 @@
   },
   "geographr": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12824164092"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13264303861"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
@@ -70,7 +70,7 @@
   },
   "glaredb": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12802936876"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13264302167"],
       "issues": {
         "win R-release": ["MISSING"]
       }
@@ -81,7 +81,7 @@
   },
   "healthyr": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12824163468"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13264303745"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
@@ -92,20 +92,9 @@
     "version": ["0.0.0.9000"],
     "remote_hash": ["37a8c7844582bf6dbbc80bf960aa176e2c3e9435"]
   },
-  "igraph": {
-    "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12961094935"],
-      "issues": {
-        "win x86_64 R-4.4.2": ["WARNING"]
-      }
-    },
-    "date": ["2024-12-06"],
-    "version": ["2.1.4"],
-    "remote_hash": ["affdf8c714ace2e3b66dbcaee24ca2211633f964"]
-  },
   "INLA": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12822178048"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13264303684"],
       "issues": {
         "linux R-devel": ["MISSING"],
         "mac R-release": ["MISSING"],
@@ -118,7 +107,7 @@
   },
   "loneliness": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12823996909"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13264303261"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
@@ -131,7 +120,7 @@
   },
   "polars": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13222246303"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13264302417"],
       "issues": {
         "linux x86_64 R-4.5.0": ["ERROR"],
         "mac aarch64 R-4.4.2": ["ERROR"],
@@ -158,7 +147,7 @@
   },
   "stantargets": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13107440325"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13264303907"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
@@ -172,23 +161,9 @@
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"]
   },
-  "tidypolars": {
-    "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12407401674"],
-      "issues": {
-        "linux R-4.5.0": ["ERROR"]
-      }
-    },
-    "dependencies": {
-      "polars": []
-    },
-    "date": ["2024-12-19"],
-    "version": ["0.12.0"],
-    "remote_hash": ["4508d4d25685eed1ecee8a9450c9b804b34311ef"]
-  },
   "tidytensor": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13107439573"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13264301843"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
@@ -214,7 +189,7 @@
   },
   "wildfires": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/12824164224"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13264300474"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
@@ -236,12 +211,12 @@
     "version": ["1.1.6"],
     "remote_hash": ["2a57e9d342fd1c28ed1fba32d8f0dfb199c4fa02"]
   },
-  "multiverse.internals": {
+  "tidypolars": {
     "dependencies": {
-      "igraph": []
+      "polars": []
     },
-    "date": ["2024-12-06"],
-    "version": ["0.3.5"],
-    "remote_hash": ["da4ecd2e5524f20585e2631f65c324c95650a2f5"]
+    "date": ["2024-12-19"],
+    "version": ["0.12.0"],
+    "remote_hash": ["4508d4d25685eed1ecee8a9450c9b804b34311ef"]
   }
 }
