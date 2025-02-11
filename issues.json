@@ -134,7 +134,7 @@
   },
   "SBC": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13107628699"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13264301598"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
         "mac R-4.4.2": ["WARNING"],
