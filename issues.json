@@ -1,4 +1,15 @@
 {
+  "arrow": {
+    "checks": {
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13358043236"],
+      "issues": {
+        "source": ["FAILURE"]
+      }
+    },
+    "date": ["2025-02-16"],
+    "version": ["19.0.0"],
+    "remote_hash": ["a999eaccb12378f9e4e9ab758f18edc25b0991e5"]
+  },
   "audio.whisper": {
     "checks": {
       "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13264301681"],
