@@ -29,10 +29,10 @@
   },
   {
     "package": "arrow",
-    "version_current": "19.0.0",
-    "hash_current": "a999eaccb12378f9e4e9ab758f18edc25b0991e5",
-    "version_highest": "19.0.0",
-    "hash_highest": "a999eaccb12378f9e4e9ab758f18edc25b0991e5"
+    "version_current": "19.0.1",
+    "hash_current": "272715f6df2a042d69881ffa03d5078c58e4b345",
+    "version_highest": "19.0.1",
+    "hash_highest": "272715f6df2a042d69881ffa03d5078c58e4b345"
   },
   {
     "package": "asylum",
