@@ -15,4 +15,5 @@ jobs:
         uses: PhrozenByte/gh-workflow-immortality@v1
         with:
           secret: ${{ secrets.KEEP_ALIVE_TOKEN }}
-          repos: ${{ github.repository }}
+          repos: |
+            ${{ github.repository }}
