@@ -198,11 +198,6 @@
     "branch": "*release"
   },
   {
-    "package": "secretbase",
-    "url": "https://github.com/shikokuchuo/secretbase",
-    "branch": "*release"
-  },
-  {
     "package": "stantargets",
     "url": "https://github.com/ropensci/stantargets",
     "branch": "*release"
