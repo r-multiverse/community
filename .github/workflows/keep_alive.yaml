@@ -11,16 +11,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate GitHub installation access token.
-        uses: actions/create-github-app-token@v1.8.1
-        id: app-token
-        with:
-          app-id: ${{ secrets.APP_ID }}
-          private-key: ${{ secrets.APP_PRIVATE_KEY }}
-          owner: ${{ github.repository_owner }}
-
       - name: Keep cronjob based triggers of GitHub workflows alive
         uses: PhrozenByte/gh-workflow-immortality@v1
         with:
-          secret: ${{ steps.app-token.outputs.token }}
+          secret: ${{ secrets.KEEP_ALIVE_TOKEN }}
           repos: ${{ github.repository }}
