@@ -17,3 +17,9 @@ jobs:
           secret: ${{ secrets.KEEP_ALIVE_TOKEN }}
           repos: |
             ${{ github.repository }}
+            ${{ github.repository_owner }}/community
+            ${{ github.repository_owner }}/production
+            ${{ github.repository_owner }}/r-multiverse.github.io
+            ${{ github.repository_owner }}/staging
+            ${{ github.repository_owner }}/status
+            ${{ github.repository_owner }}/topics
