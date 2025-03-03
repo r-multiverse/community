@@ -259,13 +259,6 @@
     "hash_highest": "9ddc803105f5350dae6efb4ae2657e89d2a54aa8"
   },
   {
-    "package": "secretbase",
-    "version_current": "1.0.4",
-    "hash_current": "4572dba2d8ca3c983d45211a3fb8dd4eb2dc2cc4",
-    "version_highest": "1.0.4",
-    "hash_highest": "4572dba2d8ca3c983d45211a3fb8dd4eb2dc2cc4"
-  },
-  {
     "package": "stantargets",
     "version_current": "0.1.2",
     "hash_current": "638326106594be70c5f851c767349e4192740771",
@@ -341,5 +334,6 @@
     "hash_current": "585458ccbe36eaa179d8b30f04f1e3a91dc6b993",
     "version_highest": "0.2.6",
     "hash_highest": "585458ccbe36eaa179d8b30f04f1e3a91dc6b993"
-  }
+  },
+  {}
 ]
