@@ -132,11 +132,11 @@
   },
   "SBC": {
     "checks": {
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13264301598"],
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13631288318"],
       "issues": {
         "linux R-4.5.0": ["WARNING"],
-        "mac R-4.4.2": ["WARNING"],
-        "win R-4.4.2": ["WARNING"]
+        "mac R-4.4.3": ["WARNING"],
+        "win R-4.4.3": ["WARNING"]
       }
     },
     "date": ["2024-12-02"],
