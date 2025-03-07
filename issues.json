@@ -2,26 +2,26 @@
   "adbcbigquery": {
     "success": [true],
     "date": ["2025-03-06"],
-    "version": ["0.16.0"],
-    "remote_hash": ["05c33a7700b981b3ce9097200a49357f8e9499ac"]
+    "version": ["0.17.0"],
+    "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"]
   },
   "adbcdrivermanager": {
     "success": [true],
     "date": ["2025-03-06"],
-    "version": ["0.16.0"],
-    "remote_hash": ["05c33a7700b981b3ce9097200a49357f8e9499ac"]
+    "version": ["0.17.0"],
+    "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"]
   },
   "adbcflightsql": {
     "success": [true],
     "date": ["2025-03-06"],
-    "version": ["0.16.0"],
-    "remote_hash": ["05c33a7700b981b3ce9097200a49357f8e9499ac"]
+    "version": ["0.17.0"],
+    "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"]
   },
   "adbcsnowflake": {
     "success": [true],
     "date": ["2025-03-06"],
-    "version": ["0.16.0"],
-    "remote_hash": ["05c33a7700b981b3ce9097200a49357f8e9499ac"]
+    "version": ["0.17.0"],
+    "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"]
   },
   "arrow": {
     "success": [true],
