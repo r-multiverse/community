@@ -257,8 +257,8 @@
   "multiverse.internals": {
     "success": [true],
     "date": ["2025-03-06"],
-    "version": ["0.4.1"],
-    "remote_hash": ["db10b0a06445a1ebb0a8aa20c0b9eebf70b66ede"]
+    "version": ["0.4.2"],
+    "remote_hash": ["ae919e610a6dc01bd85cee85166b2637a0569bd9"]
   },
   "nanoarrow": {
     "success": [true],
