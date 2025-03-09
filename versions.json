@@ -197,10 +197,10 @@
   },
   {
     "package": "multiverse.internals",
-    "version_current": "0.4.2",
-    "hash_current": "ae919e610a6dc01bd85cee85166b2637a0569bd9",
-    "version_highest": "0.4.2",
-    "hash_highest": "ae919e610a6dc01bd85cee85166b2637a0569bd9"
+    "version_current": "0.4.3",
+    "hash_current": "5eb79e1831264ba47ee3dbb5ff0c69d2cf81243b",
+    "version_highest": "0.4.3",
+    "hash_highest": "5eb79e1831264ba47ee3dbb5ff0c69d2cf81243b"
   },
   {
     "package": "nanoarrow",
