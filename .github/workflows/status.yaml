@@ -1,4 +1,4 @@
-name: issues
+name: status
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: '0 * * * *'
 
 jobs:
-  issues:
+  status:
     runs-on: ubuntu-latest
 
     env:
@@ -42,7 +42,7 @@ jobs:
           )
         shell: Rscript {0}
 
-      - name: Record issues.
+      - name: Record status.
         run: |
           multiverse.internals::record_status(
             repo = "https://community.r-multiverse.org",
@@ -67,6 +67,6 @@ jobs:
           else
             git config --global user.name github-actions
             git config --global user.email actions@github.com
-            git commit -m "Update issues"
+            git commit -m "Update status"
             git push -u origin main
           fi
