@@ -45,6 +45,11 @@
     "branch": "*release"
   },
   {
+    "package": "autometric",
+    "url": "https://github.com/wlandau/autometric",
+    "branch": "*release"
+  },
+  {
     "package": "bridgestan",
     "url": "https://github.com/roualdes/bridgestan",
     "subdir": "R",
@@ -63,6 +68,16 @@
   {
     "package": "crew",
     "url": "https://github.com/wlandau/crew",
+    "branch": "*release"
+  },
+  {
+    "package": "crew.aws.batch",
+    "url": "https://github.com/wlandau/crew.aws.batch",
+    "branch": "*release"
+  },
+  {
+    "package": "crew.cluster",
+    "url": "https://github.com/wlandau/crew.cluster",
     "branch": "*release"
   },
   {
@@ -205,6 +220,16 @@
   {
     "package": "string2path",
     "url": "https://github.com/yutannihilation/string2path",
+    "branch": "*release"
+  },
+  {
+    "package": "tarchetypes",
+    "url": "https://github.com/ropensci/tarchetypes",
+    "branch": "*release"
+  },
+  {
+    "package": "targets",
+    "url": "https://github.com/ropensci/targets",
     "branch": "*release"
   },
   {
