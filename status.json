@@ -62,6 +62,12 @@
     "version": ["0.4.1"],
     "remote_hash": ["4b5c6a288c0f46a4cdc47f50d2d35395d3e32194"]
   },
+  "autometric": {
+    "success": [true],
+    "date": ["2025-03-13"],
+    "version": ["0.1.2"],
+    "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
+  },
   "bridgestan": {
     "checks": {
       "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13631289190"],
@@ -101,6 +107,18 @@
     "date": ["2025-03-06"],
     "version": ["1.0.0"],
     "remote_hash": ["e28d0c782fbc22b3cd4129e5f30825a8a44c0f75"]
+  },
+  "crew.aws.batch": {
+    "success": [true],
+    "date": ["2025-03-13"],
+    "version": ["0.0.8"],
+    "remote_hash": ["136fedb9df30123b7c216ac75a66f29e8e94f2c1"]
+  },
+  "crew.cluster": {
+    "success": [true],
+    "date": ["2025-03-13"],
+    "version": ["0.3.4"],
+    "remote_hash": ["9c448b046f6cc1eb1af4a86ca5310e34271477fe"]
   },
   "demographr": {
     "checks": {
@@ -205,7 +223,10 @@
     "remote_hash": ["NA"]
   },
   "jagstargets": {
-    "success": [true],
+    "dependencies": {
+      "targets": ["tarchetypes"]
+    },
+    "success": [false],
     "date": ["2025-03-06"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
@@ -334,6 +355,9 @@
     "descriptions": {
       "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]
     },
+    "dependencies": {
+      "targets": ["tarchetypes"]
+    },
     "success": [false],
     "date": ["2024-12-02"],
     "version": ["0.1.2"],
@@ -345,8 +369,32 @@
     "version": ["0.2.0"],
     "remote_hash": ["0187aba7afebd016d4d90a0f76c7032e74694e2c"]
   },
+  "tarchetypes": {
+    "dependencies": {
+      "targets": []
+    },
+    "success": [false],
+    "date": ["2025-03-13"],
+    "version": ["0.12.0"],
+    "remote_hash": ["08e4de5f2042155145f80d390c75350a2f2ef8d7"]
+  },
+  "targets": {
+    "checks": {
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13845626109"],
+      "issues": {
+        "mac R-4.4.3": ["ERROR"]
+      }
+    },
+    "success": [false],
+    "date": ["2025-03-13"],
+    "version": ["1.10.1"],
+    "remote_hash": ["fbedea37525c5e60c0ce8bee693d2f3aba378036"]
+  },
   "targetsketch": {
-    "success": [true],
+    "dependencies": {
+      "targets": ["tarchetypes"]
+    },
+    "success": [false],
     "date": ["2025-03-06"],
     "version": ["0.0.1"],
     "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]

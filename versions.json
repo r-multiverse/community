@@ -56,6 +56,13 @@
     "hash_highest": "4b5c6a288c0f46a4cdc47f50d2d35395d3e32194"
   },
   {
+    "package": "autometric",
+    "version_current": "0.1.2",
+    "hash_current": "36e98ae76feb34de0783d6505f7f2a17e972fe23",
+    "version_highest": "0.1.2",
+    "hash_highest": "36e98ae76feb34de0783d6505f7f2a17e972fe23"
+  },
+  {
     "package": "bridgestan",
     "version_current": "2.6.1",
     "hash_current": "b161ca7a1d417213b084c4a8c2d53fa44f7e8284",
@@ -82,6 +89,20 @@
     "hash_current": "e28d0c782fbc22b3cd4129e5f30825a8a44c0f75",
     "version_highest": "1.0.0",
     "hash_highest": "e28d0c782fbc22b3cd4129e5f30825a8a44c0f75"
+  },
+  {
+    "package": "crew.aws.batch",
+    "version_current": "0.0.8",
+    "hash_current": "136fedb9df30123b7c216ac75a66f29e8e94f2c1",
+    "version_highest": "0.0.8",
+    "hash_highest": "136fedb9df30123b7c216ac75a66f29e8e94f2c1"
+  },
+  {
+    "package": "crew.cluster",
+    "version_current": "0.3.4",
+    "hash_current": "9c448b046f6cc1eb1af4a86ca5310e34271477fe",
+    "version_highest": "0.3.4",
+    "hash_highest": "9c448b046f6cc1eb1af4a86ca5310e34271477fe"
   },
   {
     "package": "demographr",
@@ -271,6 +292,20 @@
     "hash_current": "0187aba7afebd016d4d90a0f76c7032e74694e2c",
     "version_highest": "0.2.0",
     "hash_highest": "0187aba7afebd016d4d90a0f76c7032e74694e2c"
+  },
+  {
+    "package": "tarchetypes",
+    "version_current": "0.12.0",
+    "hash_current": "08e4de5f2042155145f80d390c75350a2f2ef8d7",
+    "version_highest": "0.12.0",
+    "hash_highest": "08e4de5f2042155145f80d390c75350a2f2ef8d7"
+  },
+  {
+    "package": "targets",
+    "version_current": "1.10.1",
+    "hash_current": "fbedea37525c5e60c0ce8bee693d2f3aba378036",
+    "version_highest": "1.10.1",
+    "hash_highest": "fbedea37525c5e60c0ce8bee693d2f3aba378036"
   },
   {
     "package": "targetsketch",
