@@ -201,8 +201,8 @@
     },
     "success": [false],
     "date": ["2024-12-02"],
-    "version": [null],
-    "remote_hash": [null]
+    "version": ["NA"],
+    "remote_hash": ["NA"]
   },
   "jagstargets": {
     "success": [true],
