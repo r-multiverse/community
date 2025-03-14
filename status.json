@@ -188,9 +188,9 @@
   },
   "ichimoku": {
     "success": [true],
-    "published": ["2025-03-03 13:03:54.776 UTC"],
-    "version": ["1.5.5"],
-    "remote_hash": ["223c74e74a188c2e3d0a57a0700bd44b2468f404"]
+    "published": ["2025-03-14 19:22:18.319 UTC"],
+    "version": ["1.5.6"],
+    "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"]
   },
   "igraph": {
     "success": [true],
