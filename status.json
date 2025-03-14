@@ -1,31 +1,31 @@
 {
   "adbcbigquery": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-07 01:28:58.703 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"]
   },
   "adbcdrivermanager": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-07 01:24:22.265 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"]
   },
   "adbcflightsql": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-07 01:27:23.588 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"]
   },
   "adbcsnowflake": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-07 01:29:04.203 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"]
   },
   "arrow": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 13:25:16.427 UTC"],
     "version": ["19.0.1"],
     "remote_hash": ["272715f6df2a042d69881ffa03d5078c58e4b345"]
   },
@@ -34,13 +34,13 @@
       "cran": ["1.1.2"]
     },
     "success": [false],
-    "date": ["2025-02-14"],
+    "published": ["2025-03-03 12:55:57.141 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"]
   },
   "audio.vadwebrtc": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 12:58:42.700 UTC"],
     "version": ["0.2"],
     "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"]
   },
@@ -58,13 +58,13 @@
       "remotes": ["bnosac/audio.vadwebrtc"]
     },
     "success": [false],
-    "date": ["2024-12-02"],
+    "published": ["2025-03-03 13:07:32.661 UTC"],
     "version": ["0.4.1"],
     "remote_hash": ["4b5c6a288c0f46a4cdc47f50d2d35395d3e32194"]
   },
   "autometric": {
     "success": [true],
-    "date": ["2025-03-13"],
+    "published": ["2025-03-13 22:19:19.674 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
   },
@@ -78,13 +78,13 @@
       }
     },
     "success": [false],
-    "date": ["2025-01-18"],
+    "published": ["2025-03-03 13:00:48.279 UTC"],
     "version": ["2.6.1"],
     "remote_hash": ["b161ca7a1d417213b084c4a8c2d53fa44f7e8284"]
   },
   "cmdstanr": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 13:04:06.683 UTC"],
     "version": ["0.8.1"],
     "remote_hash": ["02259ef7aa2a8b1c8de2fa3fc42a9feafd789288"]
   },
@@ -98,25 +98,25 @@
       }
     },
     "success": [false],
-    "date": ["2024-12-02"],
+    "published": ["2025-03-05 02:44:58.881 UTC"],
     "version": ["1.3-2"],
     "remote_hash": ["6eca95213c6cb2fae1c2c4eaccf43de4c93a65b5"]
   },
   "crew": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 13:04:10.398 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["e28d0c782fbc22b3cd4129e5f30825a8a44c0f75"]
   },
   "crew.aws.batch": {
     "success": [true],
-    "date": ["2025-03-13"],
+    "published": ["2025-03-13 22:19:22.507 UTC"],
     "version": ["0.0.8"],
     "remote_hash": ["136fedb9df30123b7c216ac75a66f29e8e94f2c1"]
   },
   "crew.cluster": {
     "success": [true],
-    "date": ["2025-03-13"],
+    "published": ["2025-03-13 22:20:11.579 UTC"],
     "version": ["0.3.4"],
     "remote_hash": ["9c448b046f6cc1eb1af4a86ca5310e34271477fe"]
   },
@@ -130,13 +130,13 @@
       }
     },
     "success": [false],
-    "date": ["2024-12-06"],
+    "published": ["2025-03-03 13:01:43.545 UTC"],
     "version": ["0.0.1"],
     "remote_hash": ["5d73b83f4bd70048d39b6b9c4bffaf02c8aab321"]
   },
   "duckdb": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 14:14:11.085 UTC"],
     "version": ["1.2.0"],
     "remote_hash": ["d7b7108c2e526fa125669439cabc179021585d43"]
   },
@@ -150,7 +150,7 @@
       }
     },
     "success": [false],
-    "date": ["2024-12-06"],
+    "published": ["2025-03-03 13:13:55.775 UTC"],
     "version": ["1.0.1"],
     "remote_hash": ["ed416a6735f7c4d8da0b866260369e84c27319a2"]
   },
@@ -162,7 +162,7 @@
       }
     },
     "success": [false],
-    "date": ["2024-12-02"],
+    "published": ["2025-03-03 13:13:12.313 UTC"],
     "version": ["0.0.4"],
     "remote_hash": ["349c5bb3a1fca6a8cefae381094b046c8ce028b2"]
   },
@@ -176,25 +176,25 @@
       }
     },
     "success": [false],
-    "date": ["2024-12-06"],
+    "published": ["2025-03-03 12:56:59.476 UTC"],
     "version": ["0.0.0.9000"],
     "remote_hash": ["37a8c7844582bf6dbbc80bf960aa176e2c3e9435"]
   },
   "httpgd": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 13:03:40.049 UTC"],
     "version": ["2.0.2"],
     "remote_hash": ["b0a5ec38638ca69e3adbc7b24d815757e5f74817"]
   },
   "ichimoku": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 13:03:54.776 UTC"],
     "version": ["1.5.5"],
     "remote_hash": ["223c74e74a188c2e3d0a57a0700bd44b2468f404"]
   },
   "igraph": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 13:23:00.838 UTC"],
     "version": ["2.1.4"],
     "remote_hash": ["affdf8c714ace2e3b66dbcaee24ca2211633f964"]
   },
@@ -203,7 +203,7 @@
       "cran": ["1.2.2"]
     },
     "success": [false],
-    "date": ["2025-02-14"],
+    "published": ["2025-03-03 12:59:09.464 UTC"],
     "version": ["1.2.1"],
     "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"]
   },
@@ -218,7 +218,7 @@
       }
     },
     "success": [false],
-    "date": ["2024-12-02"],
+    "published": ["NA"],
     "version": ["NA"],
     "remote_hash": ["NA"]
   },
@@ -227,19 +227,19 @@
       "targets": ["tarchetypes"]
     },
     "success": [false],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 13:09:12.035 UTC"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
   },
   "later": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 13:02:43.433 UTC"],
     "version": ["1.4.1"],
     "remote_hash": ["d83e4118e0909618f416008dad4f3b3b89eead64"]
   },
   "litedown": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 12:55:56.819 UTC"],
     "version": ["0.6"],
     "remote_hash": ["203e35dadc695b03c975160fd8d9c1d36152efc6"]
   },
@@ -253,49 +253,49 @@
       }
     },
     "success": [false],
-    "date": ["2024-12-06"],
+    "published": ["2025-03-03 12:54:44.732 UTC"],
     "version": ["0.0.0.9000"],
     "remote_hash": ["330d200bf9de4a76ca1e82e3d84a3c5aba946707"]
   },
   "milRex": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 13:04:47.124 UTC"],
     "version": ["1.1.0"],
     "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"]
   },
   "mirai": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 12:55:33.839 UTC"],
     "version": ["2.1.0"],
     "remote_hash": ["892c17106eab9411c720b50aaa56750cf8463dfc"]
   },
   "multitools": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 12:56:48.219 UTC"],
     "version": ["0.1.1"],
     "remote_hash": ["c73b933868d8c6884df4220c25779cd0874ec7de"]
   },
   "multiverse.internals": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-13 21:20:34.190 UTC"],
     "version": ["1.0.5"],
     "remote_hash": ["31fcef87e9c2d54f1c729ea4384d5f19d9ff3d9e"]
   },
   "nanoarrow": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 12:58:28.020 UTC"],
     "version": ["0.6.0"],
     "remote_hash": ["33d2c8b973d8f8f424e02ac92ddeaace2a92f8dd"]
   },
   "nanonext": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 12:57:14.448 UTC"],
     "version": ["1.5.1"],
     "remote_hash": ["71b26067dd5c73faac32168d5eacb0dc4979362e"]
   },
   "polars": {
     "success": [true],
-    "date": ["2025-03-03"],
+    "published": ["2025-03-13 12:43:11.484 UTC"],
     "version": ["0.22.2"],
     "remote_hash": ["eb931c234e305b762ebf82b61157ad64d1bd1eac"]
   },
@@ -307,25 +307,25 @@
       "hash_highest": ["6e9fa67985b34a97bc98a40520ac6072d8d60491"]
     },
     "success": [false],
-    "date": ["2024-12-02"],
+    "published": ["2025-03-03 13:17:24.132 UTC"],
     "version": ["1.1.6"],
     "remote_hash": ["2a57e9d342fd1c28ed1fba32d8f0dfb199c4fa02"]
   },
   "prqlr": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 13:06:33.938 UTC"],
     "version": ["0.10.0"],
     "remote_hash": ["09c7b87e0eabd77e0b7f2c74995fa79e27f2a176"]
   },
   "rJavaEnv": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 13:03:10.069 UTC"],
     "version": ["0.2.2"],
     "remote_hash": ["bae1c6dea15b2f7750ae78d87ab0012a7772081f"]
   },
   "rlang": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 13:04:02.253 UTC"],
     "version": ["1.1.5"],
     "remote_hash": ["119ce823eabd4ce3e834af0e7de4601703fdc214"]
   },
@@ -339,7 +339,7 @@
       }
     },
     "success": [false],
-    "date": ["2024-12-02"],
+    "published": ["2025-03-03 13:40:44.319 UTC"],
     "version": ["0.3.0.9000"],
     "remote_hash": ["9ddc803105f5350dae6efb4ae2657e89d2a54aa8"]
   },
@@ -359,13 +359,13 @@
       "targets": ["tarchetypes"]
     },
     "success": [false],
-    "date": ["2024-12-02"],
+    "published": ["2025-03-03 13:13:16.874 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"]
   },
   "string2path": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 13:02:33.173 UTC"],
     "version": ["0.2.0"],
     "remote_hash": ["0187aba7afebd016d4d90a0f76c7032e74694e2c"]
   },
@@ -374,7 +374,7 @@
       "targets": []
     },
     "success": [false],
-    "date": ["2025-03-13"],
+    "published": ["2025-03-13 22:21:24.424 UTC"],
     "version": ["0.12.0"],
     "remote_hash": ["08e4de5f2042155145f80d390c75350a2f2ef8d7"]
   },
@@ -386,7 +386,7 @@
       }
     },
     "success": [false],
-    "date": ["2025-03-13"],
+    "published": ["2025-03-13 22:24:22.430 UTC"],
     "version": ["1.10.1"],
     "remote_hash": ["fbedea37525c5e60c0ce8bee693d2f3aba378036"]
   },
@@ -395,13 +395,13 @@
       "targets": ["tarchetypes"]
     },
     "success": [false],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 13:02:47.803 UTC"],
     "version": ["0.0.1"],
     "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
   },
   "taxizedb": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 13:07:36.753 UTC"],
     "version": ["0.3.1"],
     "remote_hash": ["5732f9777142cd0034b64d5ae8b9aea0605cfaab"]
   },
@@ -413,7 +413,7 @@
       }
     },
     "success": [false],
-    "date": ["2025-03-03"],
+    "published": ["2025-03-10 18:29:27.036 UTC"],
     "version": ["0.13.0"],
     "remote_hash": ["4e08e45d2ef7deb254caf0a2bce945cc445b1d88"]
   },
@@ -427,19 +427,19 @@
       }
     },
     "success": [false],
-    "date": ["2024-12-02"],
+    "published": ["2025-03-03 13:06:42.019 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["14f5b87d2dfae20eb35cfd974adf660a4fd89980"]
   },
   "unigd": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 13:13:31.994 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["c7d55c984624bdf89e385a2d86fcb93c692b400c"]
   },
   "webchem": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 13:07:21.430 UTC"],
     "version": ["1.3.0"],
     "remote_hash": ["5c177df9bd91d969e10da94a9c468933f899d140"]
   },
@@ -453,7 +453,7 @@
       }
     },
     "success": [false],
-    "date": ["2024-12-06"],
+    "published": ["2025-03-03 12:59:45.851 UTC"],
     "version": ["0.1"],
     "remote_hash": ["b710f93da5b8dd8a30fa170cdf3da8da943fbae1"]
   },
@@ -467,13 +467,13 @@
       }
     },
     "success": [false],
-    "date": ["2024-12-06"],
+    "published": ["2025-03-03 13:00:58.713 UTC"],
     "version": ["0.9.0"],
     "remote_hash": ["228c24be602b16073ff2bc8096d5df9d42dc6ea1"]
   },
   "zstdlite": {
     "success": [true],
-    "date": ["2025-03-06"],
+    "published": ["2025-03-03 13:05:05.707 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
