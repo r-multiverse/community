@@ -182,9 +182,9 @@
   },
   "httpgd": {
     "success": [true],
-    "published": ["2025-03-03 13:03:40.049 UTC"],
-    "version": ["2.0.2"],
-    "remote_hash": ["b0a5ec38638ca69e3adbc7b24d815757e5f74817"]
+    "published": ["2025-03-15 23:22:41.792 UTC"],
+    "version": ["2.0.3"],
+    "remote_hash": ["7181a6fb9c863b710ebcf718f0585070aab5c194"]
   },
   "ichimoku": {
     "success": [true],
@@ -439,9 +439,9 @@
   },
   "unigd": {
     "success": [true],
-    "published": ["2025-03-03 13:13:31.994 UTC"],
-    "version": ["0.1.2"],
-    "remote_hash": ["c7d55c984624bdf89e385a2d86fcb93c692b400c"]
+    "published": ["2025-03-15 23:22:07.036 UTC"],
+    "version": ["0.1.3"],
+    "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"]
   },
   "webchem": {
     "success": [true],
