@@ -289,9 +289,9 @@
   },
   "polars": {
     "success": [true],
-    "published": ["2025-03-13 12:43:11.484 UTC"],
-    "version": ["0.22.2"],
-    "remote_hash": ["eb931c234e305b762ebf82b61157ad64d1bd1eac"]
+    "published": ["2025-03-18 23:28:50.980 UTC"],
+    "version": ["0.22.3"],
+    "remote_hash": ["393e4c4f158b8c810d25144d8952a231209981e1"]
   },
   "prophet": {
     "success": [false],
