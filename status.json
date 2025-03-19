@@ -132,9 +132,9 @@
   },
   "duckdb": {
     "success": [true],
-    "published": ["2025-03-03 14:14:11.085 UTC"],
-    "version": ["1.2.0"],
-    "remote_hash": ["d7b7108c2e526fa125669439cabc179021585d43"]
+    "published": ["2025-03-19 02:25:25.451 UTC"],
+    "version": ["1.2.1"],
+    "remote_hash": ["34717c6d81e443cb01417cf41842052d7da298dd"]
   },
   "geographr": {
     "success": [false],
