@@ -295,10 +295,10 @@
   },
   {
     "package": "string2path",
-    "version_current": "0.2.0",
-    "hash_current": "0187aba7afebd016d4d90a0f76c7032e74694e2c",
-    "version_highest": "0.2.0",
-    "hash_highest": "0187aba7afebd016d4d90a0f76c7032e74694e2c"
+    "version_current": "0.2.1",
+    "hash_current": "ae07fa8a2c7633533556e1c42811797262f22592",
+    "version_highest": "0.2.1",
+    "hash_highest": "ae07fa8a2c7633533556e1c42811797262f22592"
   },
   {
     "package": "tarchetypes",
