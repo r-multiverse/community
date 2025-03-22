@@ -208,6 +208,11 @@
     "branch": "*release"
   },
   {
+    "package": "rwasm",
+    "url": "https://github.com/r-wasm/rwasm",
+    "branch": "*release"
+  },
+  {
     "package": "SBC",
     "url": "https://github.com/hyunjimoon/SBC",
     "branch": "*release"
