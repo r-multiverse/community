@@ -363,9 +363,9 @@
   },
   "string2path": {
     "success": [true],
-    "published": ["2025-03-20 06:32:56.595 UTC"],
-    "version": ["0.2.1"],
-    "remote_hash": ["ae07fa8a2c7633533556e1c42811797262f22592"]
+    "published": ["2025-03-26 01:14:35.414 UTC"],
+    "version": ["0.2.2"],
+    "remote_hash": ["64be930c5bbef7e1cc491ccc52c115991113d2ac"]
   },
   "tarchetypes": {
     "success": [false],
