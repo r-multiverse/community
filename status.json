@@ -307,9 +307,9 @@
   },
   "prqlr": {
     "success": [true],
-    "published": ["2025-03-03 13:06:33.938 UTC"],
-    "version": ["0.10.0"],
-    "remote_hash": ["09c7b87e0eabd77e0b7f2c74995fa79e27f2a176"]
+    "published": ["2025-03-28 13:35:52.953 UTC"],
+    "version": ["0.10.1"],
+    "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"]
   },
   "rJavaEnv": {
     "success": [true],
