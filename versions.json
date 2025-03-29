@@ -280,6 +280,13 @@
     "hash_highest": "119ce823eabd4ce3e834af0e7de4601703fdc214"
   },
   {
+    "package": "Rvision",
+    "version_current": "0.8.0",
+    "hash_current": "972627f8aac8a0eb95f8b166e316cb9b0ee5930c",
+    "version_highest": "0.8.0",
+    "hash_highest": "972627f8aac8a0eb95f8b166e316cb9b0ee5930c"
+  },
+  {
     "package": "rwasm",
     "version_current": "0.2.0",
     "hash_current": "a7079cbfd10428e18486578d3c309c9fd69f6d97",
