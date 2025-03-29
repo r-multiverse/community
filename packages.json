@@ -208,6 +208,11 @@
     "branch": "*release"
   },
   {
+    "package": "Rvision",
+    "url": "https://github.com/swarm-lab/Rvision",
+    "branch": "*release"
+  },
+  {
     "package": "rwasm",
     "url": "https://github.com/r-wasm/rwasm",
     "branch": "*release"
