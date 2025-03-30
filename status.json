@@ -80,9 +80,9 @@
   },
   "cmdstanr": {
     "success": [true],
-    "published": ["2025-03-03 13:04:06.683 UTC"],
-    "version": ["0.8.1"],
-    "remote_hash": ["02259ef7aa2a8b1c8de2fa3fc42a9feafd789288"]
+    "published": ["2025-03-30 08:50:33.319 UTC"],
+    "version": ["0.9.0"],
+    "remote_hash": ["da99e2ba954658bdad63bffb738c4444c33a4e0e"]
   },
   "colorout": {
     "success": [false],
@@ -325,7 +325,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2025-03-29 16:23:50.581 UTC"],
+    "published": ["2025-03-30 02:54:42.539 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "r_cmd_check": {

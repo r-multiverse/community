@@ -71,10 +71,10 @@
   },
   {
     "package": "cmdstanr",
-    "version_current": "0.8.1",
-    "hash_current": "02259ef7aa2a8b1c8de2fa3fc42a9feafd789288",
-    "version_highest": "0.8.1",
-    "hash_highest": "02259ef7aa2a8b1c8de2fa3fc42a9feafd789288"
+    "version_current": "0.9.0",
+    "hash_current": "da99e2ba954658bdad63bffb738c4444c33a4e0e",
+    "version_highest": "0.9.0",
+    "hash_highest": "da99e2ba954658bdad63bffb738c4444c33a4e0e"
   },
   {
     "package": "colorout",
