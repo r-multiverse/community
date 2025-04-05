@@ -203,7 +203,7 @@
   },
   "INLA": {
     "success": [false],
-    "published": ["2025-03-06 02:51:02.348 UTC"],
+    "published": ["2025-04-05 02:49:50.805 UTC"],
     "version": ["19.09.03"],
     "remote_hash": ["0fa332471d2e19548cc0f63e36873e31dbd685be"],
     "r_cmd_check": {
@@ -213,7 +213,7 @@
         "win": ["MISSING"],
         "source": ["FAILURE"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/13631286185"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14277588851"]
     }
   },
   "jagstargets": {
@@ -313,9 +313,9 @@
   },
   "rJavaEnv": {
     "success": [true],
-    "published": ["2025-04-02 06:34:13.608 UTC"],
-    "version": ["0.2.2"],
-    "remote_hash": ["bae1c6dea15b2f7750ae78d87ab0012a7772081f"]
+    "published": ["2025-04-05 07:30:44.684 UTC"],
+    "version": ["0.3.0"],
+    "remote_hash": ["cce4a2bb65d891c3e9ba0194a67451de87a2a3ae"]
   },
   "rlang": {
     "success": [true],
