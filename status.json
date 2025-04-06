@@ -1,25 +1,25 @@
 {
   "adbcbigquery": {
     "success": [true],
-    "published": ["2025-03-07 01:28:58.703 UTC"],
+    "published": ["2025-04-06 03:01:44.401 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"]
   },
   "adbcdrivermanager": {
     "success": [true],
-    "published": ["2025-03-07 01:24:22.265 UTC"],
+    "published": ["2025-04-06 02:57:09.799 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"]
   },
   "adbcflightsql": {
     "success": [true],
-    "published": ["2025-03-07 01:27:23.588 UTC"],
+    "published": ["2025-04-06 03:00:54.003 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"]
   },
   "adbcsnowflake": {
     "success": [true],
-    "published": ["2025-03-07 01:29:04.203 UTC"],
+    "published": ["2025-04-06 03:02:58.420 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"]
   },
@@ -203,7 +203,7 @@
   },
   "INLA": {
     "success": [false],
-    "published": ["2025-04-05 02:49:50.805 UTC"],
+    "published": ["2025-04-06 02:56:27.631 UTC"],
     "version": ["19.09.03"],
     "remote_hash": ["0fa332471d2e19548cc0f63e36873e31dbd685be"],
     "r_cmd_check": {
