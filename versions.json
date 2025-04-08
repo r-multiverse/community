@@ -190,10 +190,10 @@
   },
   {
     "package": "litedown",
-    "version_current": "0.6",
-    "hash_current": "203e35dadc695b03c975160fd8d9c1d36152efc6",
-    "version_highest": "0.6",
-    "hash_highest": "203e35dadc695b03c975160fd8d9c1d36152efc6"
+    "version_current": "0.7",
+    "hash_current": "637bdf024a413116174f09c25f7d366c4bd43a94",
+    "version_highest": "0.7",
+    "hash_highest": "637bdf024a413116174f09c25f7d366c4bd43a94"
   },
   {
     "package": "loneliness",
