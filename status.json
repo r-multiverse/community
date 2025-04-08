@@ -227,9 +227,9 @@
   },
   "later": {
     "success": [true],
-    "published": ["2025-04-02 06:30:08.280 UTC"],
-    "version": ["1.4.1"],
-    "remote_hash": ["d83e4118e0909618f416008dad4f3b3b89eead64"]
+    "published": ["2025-04-08 10:22:39.664 UTC"],
+    "version": ["1.4.2"],
+    "remote_hash": ["78933e3dc32bc171a4dea25d77fb27abbd726f8d"]
   },
   "litedown": {
     "success": [true],
