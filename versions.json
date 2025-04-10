@@ -85,10 +85,10 @@
   },
   {
     "package": "crew",
-    "version_current": "1.0.0",
-    "hash_current": "e28d0c782fbc22b3cd4129e5f30825a8a44c0f75",
-    "version_highest": "1.0.0",
-    "hash_highest": "e28d0c782fbc22b3cd4129e5f30825a8a44c0f75"
+    "version_current": "1.1.0",
+    "hash_current": "dd8824c548aa3b19f4108fa0b58a94a417de7613",
+    "version_highest": "1.1.0",
+    "hash_highest": "dd8824c548aa3b19f4108fa0b58a94a417de7613"
   },
   {
     "package": "crew.aws.batch",
@@ -316,17 +316,17 @@
   },
   {
     "package": "tarchetypes",
-    "version_current": "0.12.0",
-    "hash_current": "08e4de5f2042155145f80d390c75350a2f2ef8d7",
-    "version_highest": "0.12.0",
-    "hash_highest": "08e4de5f2042155145f80d390c75350a2f2ef8d7"
+    "version_current": "0.13.0",
+    "hash_current": "52e20f0fcdd3ad4433b359235086aea2cc8a15d8",
+    "version_highest": "0.13.0",
+    "hash_highest": "52e20f0fcdd3ad4433b359235086aea2cc8a15d8"
   },
   {
     "package": "targets",
-    "version_current": "1.10.1",
-    "hash_current": "fbedea37525c5e60c0ce8bee693d2f3aba378036",
-    "version_highest": "1.10.1",
-    "hash_highest": "fbedea37525c5e60c0ce8bee693d2f3aba378036"
+    "version_current": "1.11.0",
+    "hash_current": "8beb9a05e333604fd8780ac572be312d0debf9ba",
+    "version_highest": "1.11.0",
+    "hash_highest": "8beb9a05e333604fd8780ac572be312d0debf9ba"
   },
   {
     "package": "targetsketch",
