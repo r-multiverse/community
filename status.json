@@ -384,9 +384,9 @@
   },
   "targets": {
     "success": [true],
-    "published": ["2025-04-10 18:04:49.101 UTC"],
-    "version": ["1.11.0"],
-    "remote_hash": ["8beb9a05e333604fd8780ac572be312d0debf9ba"]
+    "published": ["2025-04-10 21:27:47.671 UTC"],
+    "version": ["1.11.1"],
+    "remote_hash": ["b761a4d1b7d735753b919826256587e215ebd6fe"]
   },
   "targetsketch": {
     "success": [true],
