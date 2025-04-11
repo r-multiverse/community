@@ -85,24 +85,24 @@
   },
   {
     "package": "crew",
-    "version_current": "1.1.0",
-    "hash_current": "dd8824c548aa3b19f4108fa0b58a94a417de7613",
-    "version_highest": "1.1.0",
-    "hash_highest": "dd8824c548aa3b19f4108fa0b58a94a417de7613"
+    "version_current": "1.1.1",
+    "hash_current": "d8d07f17f433cbfbc2ef7033fa137f6325fd7b74",
+    "version_highest": "1.1.1",
+    "hash_highest": "d8d07f17f433cbfbc2ef7033fa137f6325fd7b74"
   },
   {
     "package": "crew.aws.batch",
-    "version_current": "0.0.8",
-    "hash_current": "136fedb9df30123b7c216ac75a66f29e8e94f2c1",
-    "version_highest": "0.0.8",
-    "hash_highest": "136fedb9df30123b7c216ac75a66f29e8e94f2c1"
+    "version_current": "0.0.10",
+    "hash_current": "bc77f5f669e805efbd3dd595264841f73a48207a",
+    "version_highest": "0.0.10",
+    "hash_highest": "bc77f5f669e805efbd3dd595264841f73a48207a"
   },
   {
     "package": "crew.cluster",
-    "version_current": "0.3.5",
-    "hash_current": "fb154d8ca45a0a94d5871a7ddca869c6ef6a798e",
-    "version_highest": "0.3.5",
-    "hash_highest": "fb154d8ca45a0a94d5871a7ddca869c6ef6a798e"
+    "version_current": "0.3.6",
+    "hash_current": "e856421adc2b3e71aa5bfc997ed695eacf33b718",
+    "version_highest": "0.3.6",
+    "hash_highest": "e856421adc2b3e71aa5bfc997ed695eacf33b718"
   },
   {
     "package": "demographr",
@@ -323,10 +323,10 @@
   },
   {
     "package": "targets",
-    "version_current": "1.11.1",
-    "hash_current": "b761a4d1b7d735753b919826256587e215ebd6fe",
-    "version_highest": "1.11.1",
-    "hash_highest": "b761a4d1b7d735753b919826256587e215ebd6fe"
+    "version_current": "1.11.2",
+    "hash_current": "a8ebfa3a31c7fef4515433b9699c6d633c3bb0ea",
+    "version_highest": "1.11.2",
+    "hash_highest": "a8ebfa3a31c7fef4515433b9699c6d633c3bb0ea"
   },
   {
     "package": "targetsketch",
