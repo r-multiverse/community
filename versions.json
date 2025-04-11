@@ -274,10 +274,10 @@
   },
   {
     "package": "rlang",
-    "version_current": "1.1.5",
-    "hash_current": "119ce823eabd4ce3e834af0e7de4601703fdc214",
-    "version_highest": "1.1.5",
-    "hash_highest": "119ce823eabd4ce3e834af0e7de4601703fdc214"
+    "version_current": "1.1.6",
+    "hash_current": "830745e8798b7f2ef7c4afd96ed40d4adfe2fdf0",
+    "version_highest": "1.1.6",
+    "hash_highest": "830745e8798b7f2ef7c4afd96ed40d4adfe2fdf0"
   },
   {
     "package": "Rvision",
