@@ -213,14 +213,14 @@
   },
   "crew.cluster": {
     "success": [false],
-    "published": ["2025-04-11 18:29:00.403 UTC"],
-    "version": ["0.3.6"],
-    "remote_hash": ["e856421adc2b3e71aa5bfc997ed695eacf33b718"],
+    "published": ["2025-04-14 20:29:19.513 UTC"],
+    "version": ["0.3.7"],
+    "remote_hash": ["0999b6ebdaa89606d63115998cd373313b4d3f40"],
     "r_cmd_check": {
       "issues": {
         "linux": ["MISSING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14409559891"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14455002528"]
     },
     "dependencies": {
       "crew": [],

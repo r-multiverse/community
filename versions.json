@@ -99,10 +99,10 @@
   },
   {
     "package": "crew.cluster",
-    "version_current": "0.3.6",
-    "hash_current": "e856421adc2b3e71aa5bfc997ed695eacf33b718",
-    "version_highest": "0.3.6",
-    "hash_highest": "e856421adc2b3e71aa5bfc997ed695eacf33b718"
+    "version_current": "0.3.7",
+    "hash_current": "0999b6ebdaa89606d63115998cd373313b4d3f40",
+    "version_highest": "0.3.7",
+    "hash_highest": "0999b6ebdaa89606d63115998cd373313b4d3f40"
   },
   {
     "package": "demographr",
