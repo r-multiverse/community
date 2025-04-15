@@ -56,13 +56,15 @@
         "win x86_64 R-4.5.0": ["WARNING"]
       },
       "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14213106270"]
-    }
+    },
+    "cran": ["19.0.1.1"]
   },
   "asylum": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-04-02 06:26:05.634 UTC"],
     "version": ["1.1.1"],
-    "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"]
+    "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"],
+    "cran": ["1.1.2"]
   },
   "audio.vadwebrtc": {
     "success": [true],
@@ -207,10 +209,11 @@
     }
   },
   "httpgd": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-04-14 06:35:24.529 UTC"],
     "version": ["2.0.3"],
-    "remote_hash": ["7181a6fb9c863b710ebcf718f0585070aab5c194"]
+    "remote_hash": ["7181a6fb9c863b710ebcf718f0585070aab5c194"],
+    "cran": ["2.0.4"]
   },
   "ichimoku": {
     "success": [true],
@@ -225,10 +228,11 @@
     "remote_hash": ["affdf8c714ace2e3b66dbcaee24ca2211633f964"]
   },
   "IMD": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-04-02 06:26:56.282 UTC"],
     "version": ["1.2.1"],
-    "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"]
+    "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"],
+    "cran": ["1.2.2"]
   },
   "INLA": {
     "success": [false],
