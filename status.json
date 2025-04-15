@@ -296,10 +296,18 @@
     "remote_hash": ["c73b933868d8c6884df4220c25779cd0874ec7de"]
   },
   "multiverse.internals": {
-    "success": [true],
-    "published": ["2025-03-16 05:21:59.237 UTC"],
+    "success": [false],
+    "published": ["2025-04-15 05:14:39.926 UTC"],
     "version": ["1.0.8"],
-    "remote_hash": ["af1cbfcd7cd069424890ad7e166a29e8a7b0934a"]
+    "remote_hash": ["af1cbfcd7cd069424890ad7e166a29e8a7b0934a"],
+    "r_cmd_check": {
+      "issues": {
+        "linux R-4.5.0": ["ERROR"],
+        "mac R-4.5.0": ["ERROR"],
+        "win R-4.5.0": ["ERROR"]
+      },
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14461714695"]
+    }
   },
   "nanoarrow": {
     "success": [true],
