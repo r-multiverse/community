@@ -5,6 +5,7 @@
     "subdir": "r/adbcbigquery",
     "branch": "*release"
   },
+  
   {
     "package": "adbcdrivermanager",
     "url": "https://github.com/apache/arrow-adbc",
