@@ -236,7 +236,7 @@
   },
   "INLA": {
     "success": [false],
-    "published": ["2025-04-07 02:56:05.460 UTC"],
+    "published": ["2025-04-23 09:23:38.999 UTC"],
     "version": ["19.09.03"],
     "remote_hash": ["0fa332471d2e19548cc0f63e36873e31dbd685be"],
     "r_cmd_check": {
@@ -246,7 +246,7 @@
         "win": ["MISSING"],
         "source": ["FAILURE"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14277588851"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14614482360"]
     }
   },
   "jagstargets": {
@@ -355,7 +355,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2025-04-01 03:01:05.578 UTC"],
+    "published": ["2025-04-23 09:19:13.342 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "r_cmd_check": {
@@ -365,7 +365,7 @@
         "win": ["MISSING"],
         "source": ["FAILURE"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14147368528"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14614467904"]
     }
   },
   "rwasm": {
