@@ -1,7 +1,7 @@
 # Keep GitHub Actions scheduled workflows alive.
 name: keep_alive
-permissions:
-  actions: write
+# GITHUB_TOKEN is not required.
+permissions: {}
 
 on:
   workflow_dispatch:
