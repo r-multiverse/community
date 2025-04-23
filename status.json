@@ -493,6 +493,7 @@
       "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14212880150"]
     }
   },
+  
   "zstdlite": {
     "success": [true],
     "published": ["2025-04-02 06:35:43.112 UTC"],
@@ -500,4 +501,3 @@
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
 }
-
