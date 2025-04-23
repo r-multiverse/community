@@ -1,4 +1,5 @@
 name: review
+permissions: {} # No need for GITHUB_TOKEN.
 
 on:
   workflow_dispatch:
