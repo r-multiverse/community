@@ -1,7 +1,7 @@
 {
   "adbcbigquery": {
     "success": [false],
-    "published": ["2025-04-06 03:01:44.401 UTC"],
+    "published": ["2025-04-27 21:00:09.213 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"],
     "r_cmd_check": {
@@ -9,18 +9,18 @@
         "mac aarch64 R-4.5.0": ["WARNING"],
         "mac x86_64 R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14288279569"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14695768657"]
     }
   },
   "adbcdrivermanager": {
     "success": [true],
-    "published": ["2025-04-06 02:57:09.799 UTC"],
+    "published": ["2025-04-27 21:06:29.015 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"]
   },
   "adbcflightsql": {
     "success": [false],
-    "published": ["2025-04-06 03:00:54.003 UTC"],
+    "published": ["2025-04-27 21:01:08.938 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"],
     "r_cmd_check": {
@@ -28,12 +28,12 @@
         "mac aarch64 R-4.5.0": ["WARNING"],
         "mac x86_64 R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14288279545"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14695768019"]
     }
   },
   "adbcsnowflake": {
     "success": [false],
-    "published": ["2025-04-08 02:50:28.323 UTC"],
+    "published": ["2025-04-27 21:01:38.427 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"],
     "r_cmd_check": {
@@ -41,7 +41,7 @@
         "mac aarch64 R-4.5.0": ["WARNING"],
         "mac x86_64 R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14288279578"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14695769731"]
     }
   },
   "arrow": {
