@@ -45,19 +45,10 @@
     }
   },
   "arrow": {
-    "success": [false],
-    "published": ["2025-04-02 06:58:38.115 UTC"],
-    "version": ["19.0.1"],
-    "remote_hash": ["272715f6df2a042d69881ffa03d5078c58e4b345"],
-    "r_cmd_check": {
-      "issues": {
-        "mac aarch64 R-4.5.0": ["WARNING"],
-        "mac x86_64 R-4.5.0": ["WARNING"],
-        "win x86_64 R-4.5.0": ["WARNING"]
-      },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14213106270"]
-    },
-    "cran": ["19.0.1.1"]
+    "success": [true],
+    "published": ["2025-04-27 13:59:07.627 UTC"],
+    "version": ["20.0.0"],
+    "remote_hash": ["3ad0370a04ccdae638755b94c3c31c8760a11193"]
   },
   "asylum": {
     "success": [false],
@@ -182,7 +173,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2025-04-02 06:45:26.743 UTC"],
+    "published": ["2025-04-27 13:43:33.342 UTC"],
     "version": ["0.0.4"],
     "remote_hash": ["349c5bb3a1fca6a8cefae381094b046c8ce028b2"],
     "r_cmd_check": {
@@ -191,7 +182,7 @@
         "mac x86_64 R-4.5.0": ["WARNING"],
         "win": ["MISSING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14213105743"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14692625102"]
     }
   },
   "healthyr": {
