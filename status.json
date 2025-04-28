@@ -248,13 +248,13 @@
   },
   "later": {
     "success": [true],
-    "published": ["2025-04-08 10:22:39.664 UTC"],
+    "published": ["2025-04-27 23:57:57.976 UTC"],
     "version": ["1.4.2"],
     "remote_hash": ["78933e3dc32bc171a4dea25d77fb27abbd726f8d"]
   },
   "litedown": {
     "success": [true],
-    "published": ["2025-04-08 06:32:19.255 UTC"],
+    "published": ["2025-04-28 00:00:25.079 UTC"],
     "version": ["0.7"],
     "remote_hash": ["637bdf024a413116174f09c25f7d366c4bd43a94"]
   },
@@ -425,10 +425,16 @@
     "remote_hash": ["5732f9777142cd0034b64d5ae8b9aea0605cfaab"]
   },
   "tidypolars": {
-    "success": [true],
-    "published": ["2025-04-09 06:35:36.838 UTC"],
+    "success": [false],
+    "published": ["2025-04-28 01:33:05.740 UTC"],
     "version": ["0.13.0"],
-    "remote_hash": ["4e08e45d2ef7deb254caf0a2bce945cc445b1d88"]
+    "remote_hash": ["4e08e45d2ef7deb254caf0a2bce945cc445b1d88"],
+    "r_cmd_check": {
+      "issues": {
+        "win R-4.5.0": ["ERROR"]
+      },
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14698253111"]
+    }
   },
   "tidytensor": {
     "success": [false],
