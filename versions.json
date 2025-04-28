@@ -64,10 +64,10 @@
   },
   {
     "package": "bridgestan",
-    "version_current": "2.6.1",
-    "hash_current": "b161ca7a1d417213b084c4a8c2d53fa44f7e8284",
-    "version_highest": "2.6.1",
-    "hash_highest": "b161ca7a1d417213b084c4a8c2d53fa44f7e8284"
+    "version_current": "2.6.2",
+    "hash_current": "2fc25219645f7b465efdd66bbd8f7d9ceaa47cb1",
+    "version_highest": "2.6.2",
+    "hash_highest": "2fc25219645f7b465efdd66bbd8f7d9ceaa47cb1"
   },
   {
     "package": "cmdstanr",

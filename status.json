@@ -87,16 +87,16 @@
   },
   "bridgestan": {
     "success": [false],
-    "published": ["2025-04-27 13:17:38.933 UTC"],
-    "version": ["2.6.1"],
-    "remote_hash": ["b161ca7a1d417213b084c4a8c2d53fa44f7e8284"],
+    "published": ["2025-04-28 15:26:18.141 UTC"],
+    "version": ["2.6.2"],
+    "remote_hash": ["2fc25219645f7b465efdd66bbd8f7d9ceaa47cb1"],
     "r_cmd_check": {
       "issues": {
         "linux R-4.5.0": ["ERROR"],
         "mac R-4.5.0": ["ERROR"],
         "win R-4.5.0": ["ERROR"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14692422504"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14711427981"]
     }
   },
   "cmdstanr": {
