@@ -33,7 +33,7 @@
   },
   "adbcsnowflake": {
     "success": [false],
-    "published": ["2025-04-27 21:01:38.427 UTC"],
+    "published": ["2025-05-01 20:13:55.578 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"],
     "r_cmd_check": {
@@ -260,7 +260,7 @@
   },
   "loneliness": {
     "success": [false],
-    "published": ["2025-04-27 12:01:26.030 UTC"],
+    "published": ["2025-05-01 20:19:44.971 UTC"],
     "version": ["0.0.0.9000"],
     "remote_hash": ["330d200bf9de4a76ca1e82e3d84a3c5aba946707"],
     "r_cmd_check": {
@@ -269,7 +269,7 @@
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14691779279"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14782719153"]
     }
   },
   "milRex": {
