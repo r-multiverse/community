@@ -334,7 +334,7 @@
   },
   "rJavaEnv": {
     "success": [true],
-    "published": ["2025-04-27 18:53:15.585 UTC"],
+    "published": ["2025-05-02 04:24:49.516 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["cce4a2bb65d891c3e9ba0194a67451de87a2a3ae"]
   },
@@ -367,7 +367,7 @@
   },
   "SBC": {
     "success": [false],
-    "published": ["2025-04-27 13:37:55.967 UTC"],
+    "published": ["2025-05-02 04:31:39.332 UTC"],
     "version": ["0.3.0.9000"],
     "remote_hash": ["9ddc803105f5350dae6efb4ae2657e89d2a54aa8"],
     "r_cmd_check": {
@@ -376,7 +376,7 @@
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14692200847"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14788062873"]
     }
   },
   "stantargets": {
@@ -464,7 +464,7 @@
   },
   "webseq": {
     "success": [false],
-    "published": ["2025-04-27 13:17:41.354 UTC"],
+    "published": ["2025-05-02 04:12:53.437 UTC"],
     "version": ["0.1"],
     "remote_hash": ["b710f93da5b8dd8a30fa170cdf3da8da943fbae1"],
     "r_cmd_check": {
@@ -473,7 +473,7 @@
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14692424612"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14788234736"]
     }
   },
   "wildfires": {
