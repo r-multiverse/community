@@ -20,7 +20,7 @@
   },
   "adbcflightsql": {
     "success": [false],
-    "published": ["2025-04-27 21:01:08.938 UTC"],
+    "published": ["2025-05-03 04:18:55.608 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"],
     "r_cmd_check": {
@@ -28,7 +28,7 @@
         "mac aarch64 R-4.5.0": ["WARNING"],
         "mac x86_64 R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14695768019"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14807205483"]
     }
   },
   "adbcsnowflake": {
@@ -59,7 +59,7 @@
   },
   "audio.vadwebrtc": {
     "success": [true],
-    "published": ["2025-04-27 13:30:43.101 UTC"],
+    "published": ["2025-05-03 04:09:29.586 UTC"],
     "version": ["0.2"],
     "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"]
   },
