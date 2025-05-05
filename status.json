@@ -214,7 +214,7 @@
   },
   "igraph": {
     "success": [true],
-    "published": ["2025-05-05 11:17:58.453 UTC"],
+    "published": ["2025-05-05 14:11:14.471 UTC"],
     "version": ["2.1.4"],
     "remote_hash": ["affdf8c714ace2e3b66dbcaee24ca2211633f964"]
   },
@@ -248,7 +248,7 @@
   },
   "later": {
     "success": [true],
-    "published": ["2025-05-05 11:02:14.657 UTC"],
+    "published": ["2025-05-05 13:56:03.507 UTC"],
     "version": ["1.4.2"],
     "remote_hash": ["78933e3dc32bc171a4dea25d77fb27abbd726f8d"]
   },
@@ -340,7 +340,7 @@
   },
   "rlang": {
     "success": [true],
-    "published": ["2025-05-05 10:48:59.811 UTC"],
+    "published": ["2025-05-05 13:58:08.128 UTC"],
     "version": ["1.1.6"],
     "remote_hash": ["830745e8798b7f2ef7c4afd96ed40d4adfe2fdf0"]
   },
