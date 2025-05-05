@@ -139,7 +139,7 @@
   },
   "demographr": {
     "success": [false],
-    "published": ["2025-05-05 05:53:54.555 UTC"],
+    "published": ["2025-05-05 12:09:57.943 UTC"],
     "version": ["0.0.1"],
     "remote_hash": ["5d73b83f4bd70048d39b6b9c4bffaf02c8aab321"],
     "r_cmd_check": {
@@ -148,7 +148,7 @@
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14828769024"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14835604718"]
     }
   },
   "duckdb": {
