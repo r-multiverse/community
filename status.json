@@ -33,7 +33,7 @@
   },
   "adbcsnowflake": {
     "success": [false],
-    "published": ["2025-05-06 01:20:32.717 UTC"],
+    "published": ["2025-05-06 03:00:43.098 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
     "r_cmd_check": {
@@ -214,7 +214,7 @@
   },
   "igraph": {
     "success": [true],
-    "published": ["2025-05-05 14:11:14.471 UTC"],
+    "published": ["2025-05-06 03:05:48.701 UTC"],
     "version": ["2.1.4"],
     "remote_hash": ["affdf8c714ace2e3b66dbcaee24ca2211633f964"]
   },
@@ -340,7 +340,7 @@
   },
   "rlang": {
     "success": [true],
-    "published": ["2025-05-05 13:58:08.128 UTC"],
+    "published": ["2025-05-06 02:58:57.424 UTC"],
     "version": ["1.1.6"],
     "remote_hash": ["830745e8798b7f2ef7c4afd96ed40d4adfe2fdf0"]
   },
