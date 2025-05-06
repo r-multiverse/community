@@ -1,47 +1,47 @@
 {
   "adbcbigquery": {
     "success": [false],
-    "published": ["2025-04-27 21:00:09.213 UTC"],
-    "version": ["0.17.0"],
-    "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"],
+    "published": ["2025-05-06 01:19:43.802 UTC"],
+    "version": ["0.18.0"],
+    "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
     "r_cmd_check": {
       "issues": {
         "mac aarch64 R-4.5.0": ["WARNING"],
         "mac x86_64 R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14695768657"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14849535334"]
     }
   },
   "adbcdrivermanager": {
     "success": [true],
-    "published": ["2025-05-05 18:06:06.140 UTC"],
-    "version": ["0.17.0"],
-    "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"]
+    "published": ["2025-05-06 01:15:49.335 UTC"],
+    "version": ["0.18.0"],
+    "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"]
   },
   "adbcflightsql": {
     "success": [false],
-    "published": ["2025-05-03 04:18:55.608 UTC"],
-    "version": ["0.17.0"],
-    "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"],
+    "published": ["2025-05-06 01:19:22.401 UTC"],
+    "version": ["0.18.0"],
+    "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
     "r_cmd_check": {
       "issues": {
         "mac aarch64 R-4.5.0": ["WARNING"],
         "mac x86_64 R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14807205483"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14849539414"]
     }
   },
   "adbcsnowflake": {
     "success": [false],
-    "published": ["2025-05-01 20:13:55.578 UTC"],
-    "version": ["0.17.0"],
-    "remote_hash": ["8b4ba558d1e9db9afbea6ef2d50acd979f647799"],
+    "published": ["2025-05-06 01:20:32.717 UTC"],
+    "version": ["0.18.0"],
+    "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
     "r_cmd_check": {
       "issues": {
         "mac aarch64 R-4.5.0": ["WARNING"],
         "mac x86_64 R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14695769731"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14849541628"]
     }
   },
   "arrow": {

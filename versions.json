@@ -1,31 +1,31 @@
 [
   {
     "package": "adbcbigquery",
-    "version_current": "0.17.0",
-    "hash_current": "8b4ba558d1e9db9afbea6ef2d50acd979f647799",
-    "version_highest": "0.17.0",
-    "hash_highest": "8b4ba558d1e9db9afbea6ef2d50acd979f647799"
+    "version_current": "0.18.0",
+    "hash_current": "b093c15341a00af954c4954696cab910fa794f6e",
+    "version_highest": "0.18.0",
+    "hash_highest": "b093c15341a00af954c4954696cab910fa794f6e"
   },
   {
     "package": "adbcdrivermanager",
-    "version_current": "0.17.0",
-    "hash_current": "8b4ba558d1e9db9afbea6ef2d50acd979f647799",
-    "version_highest": "0.17.0",
-    "hash_highest": "8b4ba558d1e9db9afbea6ef2d50acd979f647799"
+    "version_current": "0.18.0",
+    "hash_current": "b093c15341a00af954c4954696cab910fa794f6e",
+    "version_highest": "0.18.0",
+    "hash_highest": "b093c15341a00af954c4954696cab910fa794f6e"
   },
   {
     "package": "adbcflightsql",
-    "version_current": "0.17.0",
-    "hash_current": "8b4ba558d1e9db9afbea6ef2d50acd979f647799",
-    "version_highest": "0.17.0",
-    "hash_highest": "8b4ba558d1e9db9afbea6ef2d50acd979f647799"
+    "version_current": "0.18.0",
+    "hash_current": "b093c15341a00af954c4954696cab910fa794f6e",
+    "version_highest": "0.18.0",
+    "hash_highest": "b093c15341a00af954c4954696cab910fa794f6e"
   },
   {
     "package": "adbcsnowflake",
-    "version_current": "0.17.0",
-    "hash_current": "8b4ba558d1e9db9afbea6ef2d50acd979f647799",
-    "version_highest": "0.17.0",
-    "hash_highest": "8b4ba558d1e9db9afbea6ef2d50acd979f647799"
+    "version_current": "0.18.0",
+    "hash_current": "b093c15341a00af954c4954696cab910fa794f6e",
+    "version_highest": "0.18.0",
+    "hash_highest": "b093c15341a00af954c4954696cab910fa794f6e"
   },
   {
     "package": "arrow",
