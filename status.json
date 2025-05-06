@@ -201,7 +201,7 @@
   },
   "httpgd": {
     "success": [false],
-    "published": ["2025-04-14 06:35:24.529 UTC"],
+    "published": ["2025-05-06 12:54:45.779 UTC"],
     "version": ["2.0.3"],
     "remote_hash": ["7181a6fb9c863b710ebcf718f0585070aab5c194"],
     "cran": ["2.0.4"]
@@ -310,7 +310,7 @@
   },
   "polars": {
     "success": [true],
-    "published": ["2025-04-28 12:11:58.776 UTC"],
+    "published": ["2025-05-06 12:43:12.681 UTC"],
     "version": ["0.22.4"],
     "remote_hash": ["2b5b485fb178e47934c8041f03d4382f79a205f6"]
   },
@@ -452,7 +452,7 @@
   },
   "unigd": {
     "success": [true],
-    "published": ["2025-04-14 06:37:12.483 UTC"],
+    "published": ["2025-05-06 12:37:45.609 UTC"],
     "version": ["0.1.3"],
     "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"]
   },
