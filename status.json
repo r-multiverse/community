@@ -65,17 +65,18 @@
   },
   "audio.whisper": {
     "success": [false],
-    "published": ["2025-04-27 13:36:15.625 UTC"],
+    "published": ["2025-05-08 06:55:16.098 UTC"],
     "version": ["0.4.1"],
     "remote_hash": ["4b5c6a288c0f46a4cdc47f50d2d35395d3e32194"],
     "r_cmd_check": {
       "issues": {
+        "linux aarch64 R-4.5.0": ["WARNING"],
         "linux x86_64 R-4.5.0": ["WARNING"],
         "mac aarch64 R-4.5.0": ["WARNING"],
         "mac x86_64 R-4.5.0": ["WARNING"],
         "win x86_64 R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14692518523"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14900366215"]
     },
     "remotes": ["bnosac/audio.vadwebrtc"]
   },
