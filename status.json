@@ -122,13 +122,13 @@
   },
   "crew": {
     "success": [true],
-    "published": ["2025-04-11 18:34:50.707 UTC"],
+    "published": ["2025-05-08 18:17:01.000 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["d8d07f17f433cbfbc2ef7033fa137f6325fd7b74"]
   },
   "crew.aws.batch": {
     "success": [true],
-    "published": ["2025-04-11 18:27:42.098 UTC"],
+    "published": ["2025-05-08 18:17:26.049 UTC"],
     "version": ["0.0.10"],
     "remote_hash": ["bc77f5f669e805efbd3dd595264841f73a48207a"]
   },
@@ -409,9 +409,9 @@
   },
   "targets": {
     "success": [true],
-    "published": ["2025-04-11 18:33:56.887 UTC"],
-    "version": ["1.11.2"],
-    "remote_hash": ["a8ebfa3a31c7fef4515433b9699c6d633c3bb0ea"]
+    "published": ["2025-05-08 17:43:07.500 UTC"],
+    "version": ["1.11.3"],
+    "remote_hash": ["38e43681e0d5c8a589b41fdc80807d432ec4eb74"]
   },
   "targetsketch": {
     "success": [true],
