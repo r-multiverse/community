@@ -403,9 +403,9 @@
   },
   "tarchetypes": {
     "success": [true],
-    "published": ["2025-04-28 03:12:35.167 UTC"],
-    "version": ["0.13.0"],
-    "remote_hash": ["52e20f0fcdd3ad4433b359235086aea2cc8a15d8"]
+    "published": ["2025-05-08 16:44:14.489 UTC"],
+    "version": ["0.13.1"],
+    "remote_hash": ["ef15320481cfa9cce782237153aad38eac31a3b2"]
   },
   "targets": {
     "success": [true],

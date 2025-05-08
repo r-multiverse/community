@@ -316,10 +316,10 @@
   },
   {
     "package": "tarchetypes",
-    "version_current": "0.13.0",
-    "hash_current": "52e20f0fcdd3ad4433b359235086aea2cc8a15d8",
-    "version_highest": "0.13.0",
-    "hash_highest": "52e20f0fcdd3ad4433b359235086aea2cc8a15d8"
+    "version_current": "0.13.1",
+    "hash_current": "ef15320481cfa9cce782237153aad38eac31a3b2",
+    "version_highest": "0.13.1",
+    "hash_highest": "ef15320481cfa9cce782237153aad38eac31a3b2"
   },
   {
     "package": "targets",
