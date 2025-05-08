@@ -381,7 +381,7 @@
   },
   "stantargets": {
     "success": [false],
-    "published": ["2025-04-27 12:22:40.960 UTC"],
+    "published": ["2025-05-08 04:04:01.085 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"],
     "r_cmd_check": {
@@ -390,7 +390,7 @@
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14691892445"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14898235641"]
     },
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]
   },
