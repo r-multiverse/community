@@ -293,7 +293,7 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2025-04-21 20:27:02.168 UTC"],
+    "published": ["2025-05-13 01:18:06.040 UTC"],
     "version": ["1.0.10"],
     "remote_hash": ["a05cff7f40006968b805deb052915a76ac38bf22"]
   },
@@ -362,7 +362,7 @@
   },
   "rwasm": {
     "success": [true],
-    "published": ["2025-04-21 06:02:30.124 UTC"],
+    "published": ["2025-05-13 01:22:47.026 UTC"],
     "version": ["0.2.0"],
     "remote_hash": ["a7079cbfd10428e18486578d3c309c9fd69f6d97"]
   },
