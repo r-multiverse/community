@@ -368,7 +368,7 @@
   },
   "SBC": {
     "success": [false],
-    "published": ["2025-05-02 04:31:39.332 UTC"],
+    "published": ["2025-05-13 10:54:47.918 UTC"],
     "version": ["0.3.0.9000"],
     "remote_hash": ["9ddc803105f5350dae6efb4ae2657e89d2a54aa8"],
     "r_cmd_check": {
@@ -377,7 +377,7 @@
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14788062873"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14991919293"]
     }
   },
   "stantargets": {
