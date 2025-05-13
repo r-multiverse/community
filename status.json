@@ -382,12 +382,12 @@
   },
   "stantargets": {
     "success": [false],
-    "published": ["2025-05-08 04:04:01.085 UTC"],
+    "published": ["2025-05-13 09:20:51.315 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"],
     "r_cmd_check": {
       "issues": {
-        "linux R-4.5.0": ["WARNING"],
+        "linux": ["MISSING"],
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
@@ -439,7 +439,7 @@
   },
   "tidytensor": {
     "success": [false],
-    "published": ["2025-05-10 06:53:43.700 UTC"],
+    "published": ["2025-05-13 09:23:59.489 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["14f5b87d2dfae20eb35cfd974adf660a4fd89980"],
     "r_cmd_check": {
@@ -448,7 +448,7 @@
         "mac R-4.5.0": ["WARNING"],
         "win R-4.5.0": ["WARNING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14942896708"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14991895310"]
     }
   },
   "unigd": {
