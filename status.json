@@ -419,10 +419,10 @@
   },
   "nanonext": {
     "success": [false],
-    "published": ["2025-05-13 23:29:46.986 UTC"],
-    "version": ["1.5.2"],
-    "remote_hash": ["08b1ace5e45fe84152ed7413708ffa6f667b11a8"],
-    "license": ["GPL (>= 3)"]
+    "published": ["2025-05-20 07:35:50.476 UTC"],
+    "version": ["1.6.0"],
+    "remote_hash": ["f147d61ad7e84bad94beec4f52de35b245ffe048"],
+    "license": ["MIT + file LICENSE"]
   },
   "polars": {
     "success": [false],
