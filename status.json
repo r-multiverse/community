@@ -237,7 +237,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2025-05-13 15:16:55.160 UTC"],
+    "published": ["2025-05-20 04:05:08.301 UTC"],
     "version": ["0.0.4"],
     "remote_hash": ["349c5bb3a1fca6a8cefae381094b046c8ce028b2"],
     "license": ["AGPL-3"],
@@ -247,7 +247,7 @@
         "mac x86_64 R-4.5.0": ["WARNING"],
         "win": ["MISSING"]
       },
-      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14692625102"]
+      "url": ["https://github.com/r-universe/r-multiverse/actions/runs/15128408401"]
     },
     "dependencies": {
       "nanoarrow": []
