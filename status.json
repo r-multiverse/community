@@ -400,7 +400,7 @@
   },
   "multiverse.internals": {
     "success": [false],
-    "published": ["2025-05-19 03:30:57.517 UTC"],
+    "published": ["2025-05-20 03:00:02.844 UTC"],
     "version": ["1.0.10"],
     "remote_hash": ["a05cff7f40006968b805deb052915a76ac38bf22"],
     "license": ["MIT + file LICENSE"],
