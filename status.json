@@ -4,45 +4,31 @@
     "published": ["2025-05-14 01:13:51.071 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
-    "license": ["Apache License (>= 2)"],
     "r_cmd_check": {
       "issues": {
         "mac aarch64 R-4.5.0": ["WARNING"],
         "mac x86_64 R-4.5.0": ["WARNING"]
       },
       "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14849535334"]
-    },
-    "dependencies": {
-      "adbcdrivermanager": [],
-      "nanoarrow": ["adbcdrivermanager"]
     }
   },
   "adbcdrivermanager": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-14 01:14:54.930 UTC"],
     "version": ["0.18.0"],
-    "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
-    "license": ["Apache License (>= 2)"],
-    "dependencies": {
-      "nanoarrow": []
-    }
+    "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"]
   },
   "adbcflightsql": {
     "success": [false],
     "published": ["2025-05-14 01:13:46.262 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
-    "license": ["Apache License (>= 2)"],
     "r_cmd_check": {
       "issues": {
         "mac aarch64 R-4.5.0": ["WARNING"],
         "mac x86_64 R-4.5.0": ["WARNING"]
       },
       "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14849539414"]
-    },
-    "dependencies": {
-      "adbcdrivermanager": [],
-      "nanoarrow": ["adbcdrivermanager"]
     }
   },
   "adbcsnowflake": {
@@ -50,7 +36,6 @@
     "published": ["2025-05-14 01:13:49.890 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
-    "license": ["Apache License (>= 2)"],
     "r_cmd_check": {
       "issues": {
         "mac aarch64 R-4.5.0": ["WARNING"],
@@ -58,43 +43,32 @@
         "win": ["MISSING"]
       },
       "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14849541628"]
-    },
-    "dependencies": {
-      "adbcdrivermanager": [],
-      "nanoarrow": ["adbcdrivermanager"]
     }
   },
   "arrow": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-14 00:37:15.605 UTC"],
     "version": ["20.0.0"],
-    "remote_hash": ["3ad0370a04ccdae638755b94c3c31c8760a11193"],
-    "license": ["Apache License (>= 2.0)"],
-    "dependencies": {
-      "rlang": []
-    }
+    "remote_hash": ["3ad0370a04ccdae638755b94c3c31c8760a11193"]
   },
   "asylum": {
     "success": [false],
     "published": ["2025-05-13 13:35:52.056 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"],
-    "license": ["MIT + file LICENSE"],
     "cran": ["1.1.2"]
   },
   "audio.vadwebrtc": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-13 19:57:19.743 UTC"],
     "version": ["0.2"],
-    "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"],
-    "license": ["MPL-2.0"]
+    "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"]
   },
   "audio.whisper": {
     "success": [false],
     "published": ["2025-05-14 01:59:10.878 UTC"],
     "version": ["0.4.1"],
     "remote_hash": ["4b5c6a288c0f46a4cdc47f50d2d35395d3e32194"],
-    "license": ["MIT + file LICENSE"],
     "r_cmd_check": {
       "issues": {
         "linux aarch64 R-4.5.0": ["WARNING"],
@@ -108,18 +82,16 @@
     "remotes": ["bnosac/audio.vadwebrtc"]
   },
   "autometric": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-14 01:19:49.387 UTC"],
     "version": ["0.1.2"],
-    "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"],
-    "license": ["MIT + file LICENSE"]
+    "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
   },
   "bridgestan": {
     "success": [false],
     "published": ["2025-05-13 17:01:06.500 UTC"],
     "version": ["2.6.2"],
     "remote_hash": ["2fc25219645f7b465efdd66bbd8f7d9ceaa47cb1"],
-    "license": ["BSD_3_clause"],
     "r_cmd_check": {
       "issues": {
         "linux R-4.5.0": ["ERROR"],
@@ -130,20 +102,17 @@
     }
   },
   "cmdstanr": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-13 14:46:15.520 UTC"],
     "version": ["0.9.0"],
-    "remote_hash": ["da99e2ba954658bdad63bffb738c4444c33a4e0e"],
-    "license": ["BSD_3_clause + file LICENSE"],
-    "dependencies": {
-      "rlang": []
-    }
+    "remote_hash": ["da99e2ba954658bdad63bffb738c4444c33a4e0e"]
   },
   "colorout": {
     "success": [false],
     "published": ["2025-05-18 13:54:48.229 UTC"],
     "version": ["1.3-2"],
     "remote_hash": ["6eca95213c6cb2fae1c2c4eaccf43de4c93a65b5"],
+    "license": ["NOT FOUND"],
     "r_cmd_check": {
       "issues": {
         "linux": ["MISSING"],
@@ -155,52 +124,28 @@
     }
   },
   "crew": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-14 01:57:46.030 UTC"],
     "version": ["1.1.2"],
-    "remote_hash": ["c9d86b6126741b1a3586633594624b0a3347dc82"],
-    "license": ["MIT + file LICENSE"],
-    "dependencies": {
-      "later": [],
-      "mirai": [],
-      "nanonext": ["mirai"],
-      "rlang": ["later"]
-    }
+    "remote_hash": ["c9d86b6126741b1a3586633594624b0a3347dc82"]
   },
   "crew.aws.batch": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-14 01:58:11.303 UTC"],
     "version": ["0.0.10"],
-    "remote_hash": ["bc77f5f669e805efbd3dd595264841f73a48207a"],
-    "license": ["MIT + file LICENSE"],
-    "dependencies": {
-      "crew": [],
-      "later": ["crew"],
-      "mirai": ["crew"],
-      "nanonext": ["crew"],
-      "rlang": ["crew"]
-    }
+    "remote_hash": ["bc77f5f669e805efbd3dd595264841f73a48207a"]
   },
   "crew.cluster": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-13 18:40:17.696 UTC"],
     "version": ["0.3.7"],
-    "remote_hash": ["0999b6ebdaa89606d63115998cd373313b4d3f40"],
-    "license": ["MIT + file LICENSE"],
-    "dependencies": {
-      "crew": [],
-      "later": ["crew"],
-      "mirai": ["crew"],
-      "nanonext": ["crew"],
-      "rlang": ["crew"]
-    }
+    "remote_hash": ["0999b6ebdaa89606d63115998cd373313b4d3f40"]
   },
   "demographr": {
     "success": [false],
     "published": ["2025-05-14 00:48:29.697 UTC"],
     "version": ["0.0.1"],
     "remote_hash": ["5d73b83f4bd70048d39b6b9c4bffaf02c8aab321"],
-    "license": ["MIT + file LICENSE"],
     "r_cmd_check": {
       "issues": {
         "linux R-4.5.0": ["WARNING"],
@@ -211,18 +156,16 @@
     }
   },
   "duckdb": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-13 23:42:52.885 UTC"],
     "version": ["1.2.2"],
-    "remote_hash": ["73d731fb8b71bc33e93c2ea91fe402e34c1d699c"],
-    "license": ["MIT + file LICENSE"]
+    "remote_hash": ["73d731fb8b71bc33e93c2ea91fe402e34c1d699c"]
   },
   "geographr": {
     "success": [false],
     "published": ["2025-05-14 01:17:37.838 UTC"],
     "version": ["1.0.1"],
     "remote_hash": ["ed416a6735f7c4d8da0b866260369e84c27319a2"],
-    "license": ["MIT + file LICENSE"],
     "r_cmd_check": {
       "issues": {
         "linux R-4.5.0": ["WARNING"],
@@ -230,9 +173,6 @@
         "win R-4.5.0": ["WARNING"]
       },
       "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14952288872"]
-    },
-    "dependencies": {
-      "rlang": []
     }
   },
   "glaredb": {
@@ -240,7 +180,6 @@
     "published": ["2025-05-21 03:08:01.039 UTC"],
     "version": ["0.0.4"],
     "remote_hash": ["349c5bb3a1fca6a8cefae381094b046c8ce028b2"],
-    "license": ["AGPL-3"],
     "r_cmd_check": {
       "issues": {
         "mac aarch64 R-4.5.0": ["WARNING"],
@@ -248,9 +187,6 @@
         "win": ["MISSING"]
       },
       "url": ["https://github.com/r-universe/r-multiverse/actions/runs/15128408401"]
-    },
-    "dependencies": {
-      "nanoarrow": []
     }
   },
   "healthyr": {
@@ -258,7 +194,6 @@
     "published": ["2025-05-14 01:22:04.756 UTC"],
     "version": ["0.0.0.9000"],
     "remote_hash": ["37a8c7844582bf6dbbc80bf960aa176e2c3e9435"],
-    "license": ["MIT + file LICENSE"],
     "r_cmd_check": {
       "issues": {
         "linux R-4.5.0": ["WARNING"],
@@ -273,49 +208,33 @@
     "published": ["2025-05-14 01:00:20.184 UTC"],
     "version": ["2.0.3"],
     "remote_hash": ["7181a6fb9c863b710ebcf718f0585070aab5c194"],
-    "license": ["GPL (>= 2)"],
-    "cran": ["2.0.4"],
-    "dependencies": {
-      "unigd": []
-    }
+    "cran": ["2.0.4"]
   },
   "ichimoku": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-13 21:44:09.842 UTC"],
     "version": ["1.5.6"],
-    "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"],
-    "license": ["GPL (>= 3)"],
-    "dependencies": {
-      "mirai": [],
-      "nanonext": ["mirai"]
-    }
+    "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"]
   },
   "igraph": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-14 00:33:32.440 UTC"],
     "version": ["2.1.4"],
-    "remote_hash": ["affdf8c714ace2e3b66dbcaee24ca2211633f964"],
-    "license": ["GPL (>= 2)"],
-    "dependencies": {
-      "rlang": []
-    }
+    "remote_hash": ["affdf8c714ace2e3b66dbcaee24ca2211633f964"]
   },
   "IMD": {
     "success": [false],
     "published": ["2025-05-14 01:10:32.895 UTC"],
     "version": ["1.2.1"],
     "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"],
-    "license": ["MIT + file LICENSE"],
-    "cran": ["1.2.2"],
-    "dependencies": {
-      "rlang": []
-    }
+    "cran": ["1.2.2"]
   },
   "INLA": {
     "success": [false],
     "published": ["2025-05-18 14:13:54.223 UTC"],
     "version": ["19.09.03"],
     "remote_hash": ["0fa332471d2e19548cc0f63e36873e31dbd685be"],
+    "license": ["NOT FOUND"],
     "r_cmd_check": {
       "issues": {
         "linux": ["MISSING"],
@@ -327,41 +246,28 @@
     }
   },
   "jagstargets": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-16 15:45:16.232 UTC"],
     "version": ["1.2.3"],
-    "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"],
-    "license": ["MIT + file LICENSE"],
-    "dependencies": {
-      "igraph": ["targets", "tarchetypes"],
-      "rlang": ["targets", "tarchetypes"],
-      "tarchetypes": [],
-      "targets": ["tarchetypes"]
-    }
+    "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
   },
   "later": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-14 00:37:47.038 UTC"],
     "version": ["1.4.2"],
-    "remote_hash": ["78933e3dc32bc171a4dea25d77fb27abbd726f8d"],
-    "license": ["MIT + file LICENSE"],
-    "dependencies": {
-      "rlang": []
-    }
+    "remote_hash": ["78933e3dc32bc171a4dea25d77fb27abbd726f8d"]
   },
   "litedown": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-14 01:21:46.773 UTC"],
     "version": ["0.7"],
-    "remote_hash": ["637bdf024a413116174f09c25f7d366c4bd43a94"],
-    "license": ["MIT + file LICENSE"]
+    "remote_hash": ["637bdf024a413116174f09c25f7d366c4bd43a94"]
   },
   "loneliness": {
     "success": [false],
     "published": ["2025-05-13 17:52:10.601 UTC"],
     "version": ["0.0.0.9000"],
     "remote_hash": ["330d200bf9de4a76ca1e82e3d84a3c5aba946707"],
-    "license": ["MIT + file LICENSE"],
     "r_cmd_check": {
       "issues": {
         "linux R-4.5.0": ["WARNING"],
@@ -372,107 +278,83 @@
     }
   },
   "milRex": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-14 01:10:16.229 UTC"],
     "version": ["1.1.0"],
-    "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"],
-    "license": ["MIT + file LICENSE"],
-    "dependencies": {
-      "rlang": []
-    }
+    "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"]
   },
   "mirai": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-13 16:52:22.446 UTC"],
     "version": ["2.2.0"],
-    "remote_hash": ["06c062f0bc239da1a3781560a65c230f0ef7805f"],
-    "license": ["GPL (>= 3)"],
-    "dependencies": {
-      "nanonext": []
-    }
+    "remote_hash": ["06c062f0bc239da1a3781560a65c230f0ef7805f"]
   },
   "multitools": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-14 01:40:27.838 UTC"],
     "version": ["0.1.1"],
-    "remote_hash": ["c73b933868d8c6884df4220c25779cd0874ec7de"],
-    "license": ["MIT + file LICENSE"]
+    "remote_hash": ["c73b933868d8c6884df4220c25779cd0874ec7de"]
   },
   "multiverse.internals": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-21 02:56:40.898 UTC"],
     "version": ["1.0.10"],
-    "remote_hash": ["a05cff7f40006968b805deb052915a76ac38bf22"],
-    "license": ["MIT + file LICENSE"],
-    "dependencies": {
-      "igraph": [],
-      "nanonext": [],
-      "rlang": ["igraph"]
-    }
+    "remote_hash": ["a05cff7f40006968b805deb052915a76ac38bf22"]
   },
   "nanoarrow": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-13 23:26:26.848 UTC"],
     "version": ["0.6.0"],
-    "remote_hash": ["33d2c8b973d8f8f424e02ac92ddeaace2a92f8dd"],
-    "license": ["Apache License (>= 2)"]
+    "remote_hash": ["33d2c8b973d8f8f424e02ac92ddeaace2a92f8dd"]
   },
   "nanonext": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-20 07:35:50.476 UTC"],
     "version": ["1.6.0"],
-    "remote_hash": ["f147d61ad7e84bad94beec4f52de35b245ffe048"],
-    "license": ["MIT + file LICENSE"]
+    "remote_hash": ["f147d61ad7e84bad94beec4f52de35b245ffe048"]
   },
   "polars": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-14 01:14:21.286 UTC"],
     "version": ["0.22.4"],
-    "remote_hash": ["2b5b485fb178e47934c8041f03d4382f79a205f6"],
-    "license": ["MIT + file LICENSE"]
+    "remote_hash": ["2b5b485fb178e47934c8041f03d4382f79a205f6"]
   },
   "prophet": {
     "success": [false],
     "published": ["2025-05-13 23:39:48.769 UTC"],
     "version": ["1.1.6"],
     "remote_hash": ["2a57e9d342fd1c28ed1fba32d8f0dfb199c4fa02"],
-    "license": ["MIT + file LICENSE"],
     "versions": {
       "version_current": ["1.1.6"],
       "hash_current": ["2a57e9d342fd1c28ed1fba32d8f0dfb199c4fa02"],
       "version_highest": ["1.1.6"],
       "hash_highest": ["6e9fa67985b34a97bc98a40520ac6072d8d60491"]
-    },
-    "dependencies": {
-      "rlang": []
     }
   },
   "prqlr": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-14 00:58:31.418 UTC"],
     "version": ["0.10.1"],
-    "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"],
-    "license": ["MIT + file LICENSE"]
+    "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"]
   },
   "rJavaEnv": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-13 18:49:54.088 UTC"],
     "version": ["0.3.0"],
-    "remote_hash": ["cce4a2bb65d891c3e9ba0194a67451de87a2a3ae"],
-    "license": ["MIT + file LICENSE"]
+    "remote_hash": ["cce4a2bb65d891c3e9ba0194a67451de87a2a3ae"]
   },
   "rlang": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-13 23:31:08.901 UTC"],
     "version": ["1.1.6"],
-    "remote_hash": ["830745e8798b7f2ef7c4afd96ed40d4adfe2fdf0"],
-    "license": ["MIT + file LICENSE"]
+    "remote_hash": ["830745e8798b7f2ef7c4afd96ed40d4adfe2fdf0"]
   },
   "Rvision": {
     "success": [false],
     "published": ["2025-05-18 13:59:36.141 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
+    "license": ["NOT FOUND"],
     "r_cmd_check": {
       "issues": {
         "linux": ["MISSING"],
@@ -484,21 +366,16 @@
     }
   },
   "rwasm": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-13 13:49:15.700 UTC"],
     "version": ["0.2.0"],
-    "remote_hash": ["a7079cbfd10428e18486578d3c309c9fd69f6d97"],
-    "license": ["MIT + file LICENSE"],
-    "dependencies": {
-      "rlang": []
-    }
+    "remote_hash": ["a7079cbfd10428e18486578d3c309c9fd69f6d97"]
   },
   "SBC": {
     "success": [false],
     "published": ["2025-05-13 14:07:04.829 UTC"],
     "version": ["0.3.0.9000"],
     "remote_hash": ["9ddc803105f5350dae6efb4ae2657e89d2a54aa8"],
-    "license": ["MIT + file LICENSE"],
     "r_cmd_check": {
       "issues": {
         "linux R-4.5.0": ["WARNING"],
@@ -513,7 +390,6 @@
     "published": ["2025-05-13 15:49:56.355 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"],
-    "license": ["MIT + file LICENSE"],
     "r_cmd_check": {
       "issues": {
         "linux R-4.5.0": ["WARNING"],
@@ -522,83 +398,48 @@
       },
       "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14991949490"]
     },
-    "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
-    "dependencies": {
-      "cmdstanr": [],
-      "igraph": ["targets", "tarchetypes"],
-      "rlang": ["cmdstanr", "targets", "tarchetypes"],
-      "tarchetypes": [],
-      "targets": ["tarchetypes"]
-    }
+    "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]
   },
   "string2path": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-13 13:24:03.414 UTC"],
     "version": ["0.2.2"],
-    "remote_hash": ["64be930c5bbef7e1cc491ccc52c115991113d2ac"],
-    "license": ["MIT + file LICENSE"]
+    "remote_hash": ["64be930c5bbef7e1cc491ccc52c115991113d2ac"]
   },
   "tarchetypes": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-14 01:24:32.473 UTC"],
     "version": ["0.13.1"],
-    "remote_hash": ["ef15320481cfa9cce782237153aad38eac31a3b2"],
-    "license": ["MIT + file LICENSE"],
-    "dependencies": {
-      "igraph": ["targets"],
-      "rlang": ["targets"],
-      "targets": []
-    }
+    "remote_hash": ["ef15320481cfa9cce782237153aad38eac31a3b2"]
   },
   "targets": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-14 01:56:05.211 UTC"],
     "version": ["1.11.3"],
-    "remote_hash": ["38e43681e0d5c8a589b41fdc80807d432ec4eb74"],
-    "license": ["MIT + file LICENSE"],
-    "dependencies": {
-      "igraph": [],
-      "rlang": ["igraph"]
-    }
+    "remote_hash": ["38e43681e0d5c8a589b41fdc80807d432ec4eb74"]
   },
   "targetsketch": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-14 01:03:45.101 UTC"],
     "version": ["0.0.1"],
-    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"],
-    "license": ["MIT + file LICENSE"],
-    "dependencies": {
-      "igraph": ["targets", "tarchetypes"],
-      "rlang": ["targets", "tarchetypes"],
-      "tarchetypes": [],
-      "targets": ["tarchetypes"]
-    }
+    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
   },
   "taxizedb": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-13 13:56:14.063 UTC"],
     "version": ["0.3.1"],
-    "remote_hash": ["5732f9777142cd0034b64d5ae8b9aea0605cfaab"],
-    "license": ["MIT + file LICENSE"],
-    "dependencies": {
-      "rlang": []
-    }
+    "remote_hash": ["5732f9777142cd0034b64d5ae8b9aea0605cfaab"]
   },
   "tidypolars": {
     "success": [false],
     "published": ["2025-05-13 16:51:11.263 UTC"],
     "version": ["0.13.0"],
     "remote_hash": ["4e08e45d2ef7deb254caf0a2bce945cc445b1d88"],
-    "license": ["MIT + file LICENSE"],
     "r_cmd_check": {
       "issues": {
         "win R-4.5.0": ["ERROR"]
       },
       "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14698253111"]
-    },
-    "dependencies": {
-      "polars": [],
-      "rlang": []
     }
   },
   "tidytensor": {
@@ -606,7 +447,6 @@
     "published": ["2025-05-13 13:17:13.993 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["14f5b87d2dfae20eb35cfd974adf660a4fd89980"],
-    "license": ["MIT + file LICENSE"],
     "r_cmd_check": {
       "issues": {
         "linux R-4.5.0": ["WARNING"],
@@ -614,34 +454,25 @@
         "win R-4.5.0": ["WARNING"]
       },
       "url": ["https://github.com/r-universe/r-multiverse/actions/runs/14991895310"]
-    },
-    "dependencies": {
-      "rlang": []
     }
   },
   "unigd": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-14 01:13:57.821 UTC"],
     "version": ["0.1.3"],
-    "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"],
-    "license": ["GPL (>= 2)"]
+    "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"]
   },
   "webchem": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-14 01:10:39.401 UTC"],
     "version": ["1.3.0"],
-    "remote_hash": ["5c177df9bd91d969e10da94a9c468933f899d140"],
-    "license": ["MIT + file LICENSE"],
-    "dependencies": {
-      "rlang": []
-    }
+    "remote_hash": ["5c177df9bd91d969e10da94a9c468933f899d140"]
   },
   "webseq": {
     "success": [false],
     "published": ["2025-05-13 18:41:54.193 UTC"],
     "version": ["0.1"],
     "remote_hash": ["b710f93da5b8dd8a30fa170cdf3da8da943fbae1"],
-    "license": ["MIT + file LICENSE"],
     "r_cmd_check": {
       "issues": {
         "linux R-4.5.0": ["WARNING"],
@@ -656,7 +487,6 @@
     "published": ["2025-05-13 21:47:05.765 UTC"],
     "version": ["0.9.0"],
     "remote_hash": ["228c24be602b16073ff2bc8096d5df9d42dc6ea1"],
-    "license": ["GPL (>= 3)"],
     "r_cmd_check": {
       "issues": {
         "linux R-4.5.0": ["WARNING"],
@@ -667,10 +497,9 @@
     }
   },
   "zstdlite": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-05-14 00:58:34.453 UTC"],
     "version": ["0.2.6"],
-    "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"],
-    "license": ["MIT + file LICENSE"]
+    "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
 }
