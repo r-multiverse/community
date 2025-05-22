@@ -285,9 +285,9 @@
   },
   "mirai": {
     "success": [true],
-    "published": ["2025-05-13 16:52:22.446 UTC"],
-    "version": ["2.2.0"],
-    "remote_hash": ["06c062f0bc239da1a3781560a65c230f0ef7805f"]
+    "published": ["2025-05-22 23:25:20.559 UTC"],
+    "version": ["2.3.0"],
+    "remote_hash": ["2413949c280557680bd67532cdd157ff9d705d0f"]
   },
   "multitools": {
     "success": [true],
