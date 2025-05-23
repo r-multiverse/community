@@ -297,9 +297,9 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2025-05-23 02:56:58.364 UTC"],
-    "version": ["1.0.13"],
-    "remote_hash": ["7d3ebe777f3bbb33db6da563b10a889d2d9ad5e0"]
+    "published": ["2025-05-23 17:27:34.931 UTC"],
+    "version": ["1.0.14"],
+    "remote_hash": ["57bc7d20b18458362ea155c1bf9ff311b65c062c"]
   },
   "nanoarrow": {
     "success": [true],
