@@ -126,11 +126,6 @@
     "branch": "*release"
   },
   {
-    "package": "INLA",
-    "url": "https://github.com/inbo/INLA",
-    "branch": "*release"
-  },
-  {
     "package": "jagstargets",
     "url": "https://github.com/ropensci/jagstargets",
     "branch": "*release"
