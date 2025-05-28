@@ -131,27 +131,27 @@
   },
   "bridgestan": {
     "success": [false],
-    "published": ["2025-05-13 17:01:06.500 UTC"],
+    "published": ["2025-05-28 06:39:38.900 UTC"],
     "version": ["2.6.2"],
     "remote_hash": ["2fc25219645f7b465efdd66bbd8f7d9ceaa47cb1"],
     "r_cmd_check": [
       {
         "check": "ERROR",
-        "config": "macos-release-arm64",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/14711427981/job/42149749244"
-      },
-      {
-        "check": "ERROR",
-        "config": "linux-release",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/14711427981/job/42149749646"
-      },
-      {
-        "check": "ERROR",
         "config": "windows-release",
         "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/14711427981/job/42149750838"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15293183036/job/43016498500"
+      },
+      {
+        "check": "ERROR",
+        "config": "macos-release-arm64",
+        "r": "4.5.0",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15293183036/job/43016498761"
+      },
+      {
+        "check": "ERROR",
+        "config": "linux-release-x86_64",
+        "r": "4.5.0",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15293183036/job/43016499839"
       }
     ]
   },
@@ -573,7 +573,7 @@
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2025-05-13 16:51:11.263 UTC"],
+    "published": ["2025-05-28 06:20:43.694 UTC"],
     "version": ["0.13.0"],
     "remote_hash": ["4e08e45d2ef7deb254caf0a2bce945cc445b1d88"],
     "r_cmd_check": [
@@ -581,7 +581,7 @@
         "check": "ERROR",
         "config": "windows-release",
         "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/14698253111/job/42149249218"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15292837616/job/43015571532"
       }
     ]
   },
