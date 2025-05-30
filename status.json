@@ -324,21 +324,6 @@
     "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"],
     "cran": ["1.2.2"]
   },
-  "INLA": {
-    "success": [false],
-    "published": ["2025-05-18 14:13:54.223 UTC"],
-    "version": ["19.09.03"],
-    "remote_hash": ["0fa332471d2e19548cc0f63e36873e31dbd685be"],
-    "license": ["NOT FOUND"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "source",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15014459343/job/42432249096"
-      }
-    ]
-  },
   "jagstargets": {
     "success": [true],
     "published": ["2025-05-16 15:45:16.232 UTC"],
@@ -427,12 +412,12 @@
   },
   "prophet": {
     "success": [false],
-    "published": ["2025-05-13 23:39:48.769 UTC"],
+    "published": ["2025-05-30 10:41:50.476 UTC"],
     "version": ["1.1.6"],
-    "remote_hash": ["2a57e9d342fd1c28ed1fba32d8f0dfb199c4fa02"],
+    "remote_hash": ["a0d1ddf27572ae9e16d6ecac1e5c485a9f9aabe2"],
     "versions": {
       "version_current": ["1.1.6"],
-      "hash_current": ["2a57e9d342fd1c28ed1fba32d8f0dfb199c4fa02"],
+      "hash_current": ["a0d1ddf27572ae9e16d6ecac1e5c485a9f9aabe2"],
       "version_highest": ["1.1.6"],
       "hash_highest": ["6e9fa67985b34a97bc98a40520ac6072d8d60491"]
     }

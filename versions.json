@@ -168,13 +168,6 @@
     "hash_highest": "8cc26c4f70bf6e07c47bab089c7bad18c864223c"
   },
   {
-    "package": "INLA",
-    "version_current": "19.09.03",
-    "hash_current": "0fa332471d2e19548cc0f63e36873e31dbd685be",
-    "version_highest": "19.09.03",
-    "hash_highest": "0fa332471d2e19548cc0f63e36873e31dbd685be"
-  },
-  {
     "package": "jagstargets",
     "version_current": "1.2.3",
     "hash_current": "fef92d0d74f6e9832459ce4bee69396bca21fd3f",
@@ -254,7 +247,7 @@
   {
     "package": "prophet",
     "version_current": "1.1.6",
-    "hash_current": "2a57e9d342fd1c28ed1fba32d8f0dfb199c4fa02",
+    "hash_current": "a0d1ddf27572ae9e16d6ecac1e5c485a9f9aabe2",
     "version_highest": "1.1.6",
     "hash_highest": "6e9fa67985b34a97bc98a40520ac6072d8d60491"
   },
