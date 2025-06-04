@@ -113,10 +113,10 @@
   },
   {
     "package": "duckdb",
-    "version_current": "1.2.2",
-    "hash_current": "73d731fb8b71bc33e93c2ea91fe402e34c1d699c",
-    "version_highest": "1.2.2",
-    "hash_highest": "73d731fb8b71bc33e93c2ea91fe402e34c1d699c"
+    "version_current": "1.3.0",
+    "hash_current": "81a8b94444819a02a50998dad5ddeb5e2c8a2977",
+    "version_highest": "1.3.0",
+    "hash_highest": "81a8b94444819a02a50998dad5ddeb5e2c8a2977"
   },
   {
     "package": "geographr",
