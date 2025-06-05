@@ -305,7 +305,7 @@
   },
   "httpgd": {
     "success": [false],
-    "published": ["2025-05-14 01:00:20.184 UTC"],
+    "published": ["2025-06-05 03:56:53.332 UTC"],
     "version": ["2.0.3"],
     "remote_hash": ["7181a6fb9c863b710ebcf718f0585070aab5c194"],
     "cran": ["2.0.4"]
@@ -429,7 +429,7 @@
   },
   "prqlr": {
     "success": [true],
-    "published": ["2025-05-14 00:58:31.418 UTC"],
+    "published": ["2025-06-05 03:37:47.082 UTC"],
     "version": ["0.10.1"],
     "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"]
   },
@@ -551,7 +551,7 @@
   },
   "targetsketch": {
     "success": [true],
-    "published": ["2025-05-14 01:03:45.101 UTC"],
+    "published": ["2025-06-05 04:19:21.805 UTC"],
     "version": ["0.0.1"],
     "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
   },
@@ -673,7 +673,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2025-05-14 00:58:34.453 UTC"],
+    "published": ["2025-06-05 03:53:27.734 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
