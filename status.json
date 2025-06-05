@@ -21,47 +21,47 @@
   },
   "adbcdrivermanager": {
     "success": [true],
-    "published": ["2025-05-14 01:14:54.930 UTC"],
+    "published": ["2025-06-05 06:51:04.881 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"]
   },
   "adbcflightsql": {
     "success": [false],
-    "published": ["2025-05-14 01:13:46.262 UTC"],
+    "published": ["2025-06-05 06:29:06.240 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
     "r_cmd_check": [
       {
         "check": "WARNING",
-        "config": "macos-release-x86_64",
+        "config": "macos-release-arm64",
         "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/14849539414/job/42165265697"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15459357852/job/43517535179"
       },
       {
         "check": "WARNING",
-        "config": "macos-release-arm64",
+        "config": "macos-release-x86_64",
         "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/14849539414/job/42165266384"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15459357852/job/43517535169"
       }
     ]
   },
   "adbcsnowflake": {
     "success": [false],
-    "published": ["2025-05-14 01:13:49.890 UTC"],
+    "published": ["2025-06-05 06:50:13.605 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
     "r_cmd_check": [
       {
         "check": "WARNING",
-        "config": "macos-release-x86_64",
+        "config": "macos-release-arm64",
         "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/14849541628/job/42165269426"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15459367122/job/43517588958"
       },
       {
         "check": "WARNING",
-        "config": "macos-release-arm64",
+        "config": "macos-release-x86_64",
         "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/14849541628/job/42165270204"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15459367122/job/43517588955"
       }
     ]
   },
@@ -609,7 +609,7 @@
   },
   "unigd": {
     "success": [true],
-    "published": ["2025-05-14 01:13:57.821 UTC"],
+    "published": ["2025-06-05 06:50:15.571 UTC"],
     "version": ["0.1.3"],
     "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"]
   },
