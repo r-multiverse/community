@@ -183,9 +183,9 @@
   },
   "crew": {
     "success": [true],
-    "published": ["2025-05-14 01:57:46.030 UTC"],
-    "version": ["1.1.2"],
-    "remote_hash": ["c9d86b6126741b1a3586633594624b0a3347dc82"]
+    "published": ["2025-06-06 19:32:21.608 UTC"],
+    "version": ["1.2.0"],
+    "remote_hash": ["4d096a9cf56819b930472e92a3a3d3953b1a34df"]
   },
   "crew.aws.batch": {
     "success": [true],
