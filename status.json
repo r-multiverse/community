@@ -86,39 +86,39 @@
   },
   "audio.whisper": {
     "success": [false],
-    "published": ["2025-05-14 01:59:10.878 UTC"],
+    "published": ["2025-06-07 05:55:26.799 UTC"],
     "version": ["0.4.1"],
     "remote_hash": ["4b5c6a288c0f46a4cdc47f50d2d35395d3e32194"],
     "r_cmd_check": [
       {
         "check": "WARNING",
-        "config": "linux-release-x86_64",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/14900366215/job/42170782320"
-      },
-      {
-        "check": "WARNING",
-        "config": "windows-release",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/14900366215/job/42170782526"
-      },
-      {
-        "check": "WARNING",
         "config": "linux-release-arm64",
         "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/14900366215/job/42170782712"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15504819173/job/43658281617"
       },
       {
         "check": "WARNING",
-        "config": "macos-release-x86_64",
+        "config": "linux-release-x86_64",
         "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/14900366215/job/42170782956"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15504819173/job/43658281408"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/14900366215/job/42170783436"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15504819173/job/43658281230"
+      },
+      {
+        "check": "WARNING",
+        "config": "macos-release-x86_64",
+        "r": "4.5.0",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15504819173/job/43658281074"
+      },
+      {
+        "check": "WARNING",
+        "config": "windows-release",
+        "r": "4.5.0",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15504819173/job/43658280920"
       }
     ],
     "remotes": ["bnosac/audio.vadwebrtc"]
@@ -189,7 +189,7 @@
   },
   "crew.aws.batch": {
     "success": [true],
-    "published": ["2025-05-14 01:58:11.303 UTC"],
+    "published": ["2025-06-07 05:49:01.144 UTC"],
     "version": ["0.0.10"],
     "remote_hash": ["bc77f5f669e805efbd3dd595264841f73a48207a"]
   },
