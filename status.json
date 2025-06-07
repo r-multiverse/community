@@ -47,7 +47,7 @@
   },
   "adbcsnowflake": {
     "success": [false],
-    "published": ["2025-06-06 03:04:18.644 UTC"],
+    "published": ["2025-06-07 03:00:15.437 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
     "r_cmd_check": [
@@ -55,13 +55,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15459367122/job/43517588958"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15459367122/job/43588854017"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15459367122/job/43517588955"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15459367122/job/43588854014"
       }
     ]
   },
