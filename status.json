@@ -189,15 +189,15 @@
   },
   "crew.aws.batch": {
     "success": [true],
-    "published": ["2025-06-08 03:11:20.187 UTC"],
-    "version": ["0.0.10"],
-    "remote_hash": ["bc77f5f669e805efbd3dd595264841f73a48207a"]
+    "published": ["2025-06-09 15:29:25.125 UTC"],
+    "version": ["0.0.11"],
+    "remote_hash": ["74adb17d79959048b6c4750637cb7a49048375a1"]
   },
   "crew.cluster": {
     "success": [true],
-    "published": ["2025-06-02 03:29:33.990 UTC"],
-    "version": ["0.3.7"],
-    "remote_hash": ["0999b6ebdaa89606d63115998cd373313b4d3f40"]
+    "published": ["2025-06-09 15:29:37.128 UTC"],
+    "version": ["0.3.8"],
+    "remote_hash": ["f5bb1d39d60f5b6204f4b1ca3090f2b11a5246b9"]
   },
   "demographr": {
     "success": [false],

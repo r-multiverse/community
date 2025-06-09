@@ -92,17 +92,17 @@
   },
   {
     "package": "crew.aws.batch",
-    "version_current": "0.0.10",
-    "hash_current": "bc77f5f669e805efbd3dd595264841f73a48207a",
-    "version_highest": "0.0.10",
-    "hash_highest": "bc77f5f669e805efbd3dd595264841f73a48207a"
+    "version_current": "0.0.11",
+    "hash_current": "74adb17d79959048b6c4750637cb7a49048375a1",
+    "version_highest": "0.0.11",
+    "hash_highest": "74adb17d79959048b6c4750637cb7a49048375a1"
   },
   {
     "package": "crew.cluster",
-    "version_current": "0.3.7",
-    "hash_current": "0999b6ebdaa89606d63115998cd373313b4d3f40",
-    "version_highest": "0.3.7",
-    "hash_highest": "0999b6ebdaa89606d63115998cd373313b4d3f40"
+    "version_current": "0.3.8",
+    "hash_current": "f5bb1d39d60f5b6204f4b1ca3090f2b11a5246b9",
+    "version_highest": "0.3.8",
+    "hash_highest": "f5bb1d39d60f5b6204f4b1ca3090f2b11a5246b9"
   },
   {
     "package": "demographr",
