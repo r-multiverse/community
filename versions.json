@@ -141,10 +141,10 @@
   },
   {
     "package": "httpgd",
-    "version_current": "2.0.3",
-    "hash_current": "7181a6fb9c863b710ebcf718f0585070aab5c194",
-    "version_highest": "2.0.3",
-    "hash_highest": "7181a6fb9c863b710ebcf718f0585070aab5c194"
+    "version_current": "2.0.4",
+    "hash_current": "dd6ed3a687a2d7327bb28ca46725a0a203eb2a19",
+    "version_highest": "2.0.4",
+    "hash_highest": "dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"
   },
   {
     "package": "ichimoku",
