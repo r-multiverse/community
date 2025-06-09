@@ -85,10 +85,10 @@
   },
   {
     "package": "crew",
-    "version_current": "1.2.0",
-    "hash_current": "4d096a9cf56819b930472e92a3a3d3953b1a34df",
-    "version_highest": "1.2.0",
-    "hash_highest": "4d096a9cf56819b930472e92a3a3d3953b1a34df"
+    "version_current": "1.2.1",
+    "hash_current": "c03b80222289c9c94b096f4883d9121ffb8673ca",
+    "version_highest": "1.2.1",
+    "hash_highest": "c03b80222289c9c94b096f4883d9121ffb8673ca"
   },
   {
     "package": "crew.aws.batch",
