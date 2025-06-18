@@ -47,7 +47,7 @@
   },
   "adbcsnowflake": {
     "success": [false],
-    "published": ["2025-06-17 05:24:10.428 UTC"],
+    "published": ["2025-06-18 03:06:55.187 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
     "r_cmd_check": [
@@ -446,7 +446,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2025-06-17 04:00:39.582 UTC"],
+    "published": ["2025-06-18 03:04:23.378 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "license": ["NOT FOUND"],
@@ -455,7 +455,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15697761578/job/44226085744"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15697761578/job/44306968498"
       }
     ]
   },
