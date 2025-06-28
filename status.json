@@ -499,33 +499,33 @@
   },
   "stantargets": {
     "success": [false],
-    "published": ["2025-05-29 03:49:35.936 UTC"],
+    "published": ["2025-06-28 03:49:44.700 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"],
     "r_cmd_check": [
       {
-        "check": "ERROR",
-        "config": "source",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15315654016/job/43088919403"
-      },
-      {
         "check": "WARNING",
         "config": "linux-release-x86_64",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15315654016/job/43089106205"
-      },
-      {
-        "check": "WARNING",
-        "config": "windows-release",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15315654016/job/43089106578"
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15940071047/job/44966974532"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15315654016/job/43089106963"
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15940071047/job/44966974523"
+      },
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15940071047/job/44966874267"
+      },
+      {
+        "check": "WARNING",
+        "config": "windows-release",
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15940071047/job/44966974530"
       }
     ],
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]
