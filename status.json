@@ -1,21 +1,21 @@
 {
   "adbcbigquery": {
     "success": [false],
-    "published": ["2025-05-30 05:44:26.996 UTC"],
+    "published": ["2025-06-29 05:48:52.223 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
     "r_cmd_check": [
       {
         "check": "WARNING",
-        "config": "macos-release-x86_64",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15339976072/job/43164291201"
+        "config": "macos-release-arm64",
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15952021204/job/44993382995"
       },
       {
         "check": "WARNING",
-        "config": "macos-release-arm64",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15339976072/job/43164291204"
+        "config": "macos-release-x86_64",
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15952021204/job/44993382983"
       }
     ]
   },
