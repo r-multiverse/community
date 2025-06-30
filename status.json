@@ -410,7 +410,7 @@
   },
   "polars": {
     "success": [true],
-    "published": ["2025-05-31 05:33:53.614 UTC"],
+    "published": ["2025-06-30 05:45:30.690 UTC"],
     "version": ["0.22.4"],
     "remote_hash": ["2b5b485fb178e47934c8041f03d4382f79a205f6"]
   },
@@ -467,33 +467,33 @@
   },
   "SBC": {
     "success": [false],
-    "published": ["2025-05-31 04:05:31.908 UTC"],
+    "published": ["2025-06-30 05:05:21.993 UTC"],
     "version": ["0.3.0.9000"],
     "remote_hash": ["9ddc803105f5350dae6efb4ae2657e89d2a54aa8"],
     "r_cmd_check": [
       {
-        "check": "ERROR",
-        "config": "source",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15359563784/job/43224714165"
-      },
-      {
         "check": "WARNING",
         "config": "linux-release-x86_64",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15359563784/job/43225656544"
-      },
-      {
-        "check": "WARNING",
-        "config": "windows-release",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15359563784/job/43225656547"
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15963694486/job/45021888279"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15359563784/job/43225656550"
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15963694486/job/45021888283"
+      },
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15963694486/job/45020304362"
+      },
+      {
+        "check": "WARNING",
+        "config": "windows-release",
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15963694486/job/45021888287"
       }
     ]
   },
