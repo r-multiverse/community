@@ -398,9 +398,9 @@
   },
   "nanoarrow": {
     "success": [true],
-    "published": ["2025-06-04 03:47:22.983 UTC"],
-    "version": ["0.6.0"],
-    "remote_hash": ["33d2c8b973d8f8f424e02ac92ddeaace2a92f8dd"]
+    "published": ["2025-07-03 17:42:31.005 UTC"],
+    "version": ["0.7.0"],
+    "remote_hash": ["2cfba631b40886f1418a463f3b7c4552c8ae0dc7"]
   },
   "nanonext": {
     "success": [true],
