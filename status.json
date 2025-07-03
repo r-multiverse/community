@@ -21,7 +21,7 @@
   },
   "adbcdrivermanager": {
     "success": [true],
-    "published": ["2025-06-16 04:42:03.349 UTC"],
+    "published": ["2025-07-03 17:49:48.943 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"]
   },
@@ -259,7 +259,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2025-06-21 03:08:19.148 UTC"],
+    "published": ["2025-07-03 18:00:33.086 UTC"],
     "version": ["0.0.4"],
     "remote_hash": ["349c5bb3a1fca6a8cefae381094b046c8ce028b2"],
     "r_cmd_check": [
@@ -267,13 +267,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15752021196/job/44453808956"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16057139276/job/45314525360"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15752021196/job/44453808825"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16057139276/job/45314525364"
       }
     ]
   },
