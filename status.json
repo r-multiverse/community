@@ -27,21 +27,21 @@
   },
   "adbcflightsql": {
     "success": [false],
-    "published": ["2025-06-05 06:29:06.240 UTC"],
+    "published": ["2025-07-05 05:07:38.657 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["b093c15341a00af954c4954696cab910fa794f6e"],
     "r_cmd_check": [
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15459357852/job/43517535179"
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16084738446/job/45394494128"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
-        "r": "4.5.0",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/15459357852/job/43517535169"
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16084738446/job/45394494132"
       }
     ]
   },
@@ -600,7 +600,7 @@
   },
   "unigd": {
     "success": [true],
-    "published": ["2025-06-05 06:50:15.571 UTC"],
+    "published": ["2025-07-05 05:37:36.410 UTC"],
     "version": ["0.1.3"],
     "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"]
   },
