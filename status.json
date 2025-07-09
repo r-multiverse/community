@@ -141,7 +141,7 @@
   },
   "crew": {
     "success": [true],
-    "published": ["2025-06-09 13:42:27.526 UTC"],
+    "published": ["2025-07-09 07:25:44.417 UTC"],
     "version": ["1.2.1"],
     "remote_hash": ["c03b80222289c9c94b096f4883d9121ffb8673ca"]
   },
@@ -153,7 +153,7 @@
   },
   "crew.cluster": {
     "success": [true],
-    "published": ["2025-06-09 15:29:37.128 UTC"],
+    "published": ["2025-07-09 07:28:31.698 UTC"],
     "version": ["0.3.8"],
     "remote_hash": ["f5bb1d39d60f5b6204f4b1ca3090f2b11a5246b9"]
   },
