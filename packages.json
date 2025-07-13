@@ -182,6 +182,11 @@
     "branch": "*release"
   },
   {
+    "package": "polars0",
+    "url": "https://github.com/rpolars/r-polars0",
+    "branch": "*release"
+  },
+  {
     "package": "prophet",
     "url": "https://github.com/facebook/prophet",
     "subdir": "R",
