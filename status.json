@@ -24,16 +24,18 @@
     "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
   },
   "arrow": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-06-17 05:34:36.193 UTC"],
     "version": ["20.0.0"],
-    "remote_hash": ["3ad0370a04ccdae638755b94c3c31c8760a11193"]
+    "remote_hash": ["3ad0370a04ccdae638755b94c3c31c8760a11193"],
+    "cran": ["20.0.0.2"]
   },
   "asylum": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-06-26 05:56:12.121 UTC"],
     "version": ["1.1.1"],
-    "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"]
+    "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"],
+    "cran": ["1.1.2"]
   },
   "audio.vadwebrtc": {
     "success": [true],
@@ -279,10 +281,11 @@
     "remote_hash": ["affdf8c714ace2e3b66dbcaee24ca2211633f964"]
   },
   "IMD": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-07-05 04:15:41.224 UTC"],
     "version": ["1.2.1"],
-    "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"]
+    "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"],
+    "cran": ["1.2.2"]
   },
   "jagstargets": {
     "success": [true],
@@ -517,10 +520,11 @@
     "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
   },
   "taxizedb": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-06-23 03:45:05.651 UTC"],
     "version": ["0.3.1"],
-    "remote_hash": ["5732f9777142cd0034b64d5ae8b9aea0605cfaab"]
+    "remote_hash": ["5732f9777142cd0034b64d5ae8b9aea0605cfaab"],
+    "cran": ["0.3.2"]
   },
   "tidypolars": {
     "success": [true],
