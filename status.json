@@ -286,7 +286,7 @@
   },
   "jagstargets": {
     "success": [true],
-    "published": ["2025-06-15 04:05:15.829 UTC"],
+    "published": ["2025-07-15 04:09:38.367 UTC"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
   },
@@ -348,7 +348,7 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2025-07-14 09:46:54.325 UTC"],
+    "published": ["2025-07-15 03:19:52.994 UTC"],
     "version": ["1.0.15"],
     "remote_hash": ["e35da5520b2635dd61fad8c1082bf2f0ef2861a7"]
   },
