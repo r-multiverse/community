@@ -24,11 +24,10 @@
     "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
   },
   "arrow": {
-    "success": [false],
-    "published": ["2025-07-17 05:09:38.694 UTC"],
-    "version": ["20.0.0"],
-    "remote_hash": ["3ad0370a04ccdae638755b94c3c31c8760a11193"],
-    "cran": ["20.0.0.2"]
+    "success": [true],
+    "published": ["2025-07-17 08:08:41.950 UTC"],
+    "version": ["21.0.0"],
+    "remote_hash": ["ee4d09ebef61c663c1efbfa4c18e518a03b798be"]
   },
   "asylum": {
     "success": [false],
