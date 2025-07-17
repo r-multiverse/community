@@ -148,7 +148,7 @@
   },
   "crew.aws.batch": {
     "success": [true],
-    "published": ["2025-06-17 07:05:15.391 UTC"],
+    "published": ["2025-07-17 05:51:52.671 UTC"],
     "version": ["0.0.12"],
     "remote_hash": ["51370ab9e1d1c11a0ee1be0c91a67bbad8db78d3"]
   },
@@ -572,9 +572,9 @@
   },
   "webchem": {
     "success": [true],
-    "published": ["2025-07-10 03:56:19.625 UTC"],
-    "version": ["1.3.0"],
-    "remote_hash": ["5c177df9bd91d969e10da94a9c468933f899d140"]
+    "published": ["2025-07-17 06:40:22.960 UTC"],
+    "version": ["1.3.1"],
+    "remote_hash": ["2131a4e718996f16467be458fd7378116523414d"]
   },
   "webseq": {
     "success": [false],
