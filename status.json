@@ -354,9 +354,9 @@
   },
   "polars": {
     "success": [true],
-    "published": ["2025-07-21 05:50:19.940 UTC"],
-    "version": ["1.0.0"],
-    "remote_hash": ["da79eacf5c13c6d8d8b85c1e631bbce120d6ce94"]
+    "published": ["2025-07-22 14:04:53.599 UTC"],
+    "version": ["1.0.1"],
+    "remote_hash": ["0ae45bd18eb4c45153fdde707c0855b6305fc2ae"]
   },
   "polars0": {
     "success": [true],
