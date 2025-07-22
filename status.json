@@ -513,7 +513,7 @@
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2025-07-21 06:55:27.306 UTC"],
+    "published": ["2025-07-22 15:10:10.118 UTC"],
     "version": ["0.13.0"],
     "remote_hash": ["4e08e45d2ef7deb254caf0a2bce945cc445b1d88"],
     "r_cmd_check": [
@@ -521,19 +521,19 @@
         "check": "ERROR",
         "config": "linux-release-x86_64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16409543448/job/46361581952"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16446659617/job/46480721929"
       },
       {
         "check": "ERROR",
         "config": "macos-release-arm64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16409543448/job/46361581942"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16446659617/job/46480721889"
       },
       {
         "check": "ERROR",
         "config": "source",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16409543448/job/46361469657"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16446659617/job/46480417536"
       }
     ]
   },
