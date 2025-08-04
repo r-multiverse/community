@@ -267,7 +267,7 @@
   },
   "IMD": {
     "success": [false],
-    "published": ["2025-07-05 04:15:41.224 UTC"],
+    "published": ["2025-08-04 04:37:15.838 UTC"],
     "version": ["1.2.1"],
     "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"],
     "cran": ["1.2.2"]
@@ -378,7 +378,7 @@
   },
   "prqlr": {
     "success": [true],
-    "published": ["2025-07-05 03:23:14.048 UTC"],
+    "published": ["2025-08-04 03:56:51.108 UTC"],
     "version": ["0.10.1"],
     "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"]
   },
@@ -500,7 +500,7 @@
   },
   "targetsketch": {
     "success": [true],
-    "published": ["2025-07-05 03:39:23.263 UTC"],
+    "published": ["2025-08-04 04:08:06.698 UTC"],
     "version": ["0.0.1"],
     "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
   },
@@ -615,7 +615,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2025-07-05 03:34:05.079 UTC"],
+    "published": ["2025-08-04 04:05:11.713 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
