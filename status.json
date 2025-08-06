@@ -1,7 +1,7 @@
 {
   "adbcbigquery": {
     "success": [true],
-    "published": ["2025-07-07 07:11:52.434 UTC"],
+    "published": ["2025-08-06 07:07:02.755 UTC"],
     "version": ["0.19.0"],
     "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
   },
@@ -13,13 +13,13 @@
   },
   "adbcflightsql": {
     "success": [true],
-    "published": ["2025-07-07 07:12:25.936 UTC"],
+    "published": ["2025-08-06 07:06:27.849 UTC"],
     "version": ["0.19.0"],
     "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
   },
   "adbcsnowflake": {
     "success": [true],
-    "published": ["2025-07-07 07:15:33.786 UTC"],
+    "published": ["2025-08-06 07:11:31.763 UTC"],
     "version": ["0.19.0"],
     "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
   },
