@@ -512,30 +512,10 @@
     "cran": ["0.3.2"]
   },
   "tidypolars": {
-    "success": [false],
-    "published": ["2025-08-05 14:24:22.128 UTC"],
-    "version": ["0.14.0"],
-    "remote_hash": ["754622c25c2337584ca672b797bc421148802da6"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "linux-release-x86_64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16752621023/job/47426979119"
-      },
-      {
-        "check": "ERROR",
-        "config": "macos-release-arm64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16752621023/job/47426979137"
-      },
-      {
-        "check": "ERROR",
-        "config": "windows-release",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16752621023/job/47426979131"
-      }
-    ]
+    "success": [true],
+    "published": ["2025-08-06 08:43:13.901 UTC"],
+    "version": ["0.14.1"],
+    "remote_hash": ["5acc4a512a1d81cf3187ff14f4718f55d2105b44"]
   },
   "tidytensor": {
     "success": [false],
