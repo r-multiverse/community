@@ -44,7 +44,7 @@
   },
   "audio.whisper": {
     "success": [false],
-    "published": ["2025-07-07 05:35:01.187 UTC"],
+    "published": ["2025-08-06 05:40:20.048 UTC"],
     "version": ["0.4.1"],
     "remote_hash": ["4b5c6a288c0f46a4cdc47f50d2d35395d3e32194"],
     "r_cmd_check": [
@@ -52,31 +52,31 @@
         "check": "WARNING",
         "config": "linux-release-arm64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16108338874/job/45447715624"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16768359571/job/47478155591"
       },
       {
         "check": "WARNING",
         "config": "linux-release-x86_64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16108338874/job/45447715627"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16768359571/job/47478155592"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16108338874/job/45447715629"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16768359571/job/47478155599"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16108338874/job/45447715636"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16768359571/job/47478155590"
       },
       {
         "check": "WARNING",
         "config": "windows-release",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16108338874/job/45447715625"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16768359571/job/47478155633"
       }
     ],
     "remotes": ["bnosac/audio.vadwebrtc"]
