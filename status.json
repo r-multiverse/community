@@ -354,9 +354,9 @@
   },
   "polars": {
     "success": [true],
-    "published": ["2025-08-05 14:13:27.042 UTC"],
-    "version": ["1.1.0"],
-    "remote_hash": ["288ca6149fb3b7ba8a00a8c8325951ea14918f3e"]
+    "published": ["2025-08-12 18:58:12.540 UTC"],
+    "version": ["1.2.0"],
+    "remote_hash": ["458e0998cdb9ada5ad3528edcb59722cf30c77fa"]
   },
   "polars0": {
     "success": [true],
@@ -513,7 +513,7 @@
   },
   "tidypolars": {
     "success": [true],
-    "published": ["2025-08-06 08:43:13.901 UTC"],
+    "published": ["2025-08-12 19:09:29.026 UTC"],
     "version": ["0.14.1"],
     "remote_hash": ["5acc4a512a1d81cf3187ff14f4718f55d2105b44"]
   },
