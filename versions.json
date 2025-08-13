@@ -288,10 +288,10 @@
   },
   {
     "package": "rwasm",
-    "version_current": "0.2.0",
-    "hash_current": "a7079cbfd10428e18486578d3c309c9fd69f6d97",
-    "version_highest": "0.2.0",
-    "hash_highest": "a7079cbfd10428e18486578d3c309c9fd69f6d97"
+    "version_current": "0.3.0",
+    "hash_current": "005588296e03080357c7140c1eaf8b47ccabe0bc",
+    "version_highest": "0.3.0",
+    "hash_highest": "005588296e03080357c7140c1eaf8b47ccabe0bc"
   },
   {
     "package": "SBC",

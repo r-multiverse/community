@@ -411,9 +411,9 @@
   },
   "rwasm": {
     "success": [true],
-    "published": ["2025-08-13 05:48:25.851 UTC"],
-    "version": ["0.2.0"],
-    "remote_hash": ["a7079cbfd10428e18486578d3c309c9fd69f6d97"]
+    "published": ["2025-08-13 10:30:47.957 UTC"],
+    "version": ["0.3.0"],
+    "remote_hash": ["005588296e03080357c7140c1eaf8b47ccabe0bc"]
   },
   "SBC": {
     "success": [false],
