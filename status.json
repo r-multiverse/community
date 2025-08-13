@@ -336,7 +336,7 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2025-07-16 03:17:12.283 UTC"],
+    "published": ["2025-08-13 07:19:00.296 UTC"],
     "version": ["1.0.15"],
     "remote_hash": ["e35da5520b2635dd61fad8c1082bf2f0ef2861a7"]
   },
@@ -348,7 +348,7 @@
   },
   "nanonext": {
     "success": [true],
-    "published": ["2025-07-14 09:38:50.947 UTC"],
+    "published": ["2025-08-13 07:12:59.845 UTC"],
     "version": ["1.6.2"],
     "remote_hash": ["68eb478e6151f2fd72e3c397edfd98bdd6768be8"]
   },
