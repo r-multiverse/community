@@ -141,7 +141,7 @@
   },
   "crew": {
     "success": [true],
-    "published": ["2025-07-15 09:45:56.763 UTC"],
+    "published": ["2025-08-19 09:57:15.960 UTC"],
     "version": ["1.2.1"],
     "remote_hash": ["c03b80222289c9c94b096f4883d9121ffb8673ca"]
   },
@@ -255,7 +255,7 @@
   },
   "ichimoku": {
     "success": [true],
-    "published": ["2025-07-15 09:44:21.480 UTC"],
+    "published": ["2025-08-19 10:00:25.108 UTC"],
     "version": ["1.5.6"],
     "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"]
   },
@@ -324,7 +324,7 @@
   },
   "mirai": {
     "success": [true],
-    "published": ["2025-07-15 09:37:35.382 UTC"],
+    "published": ["2025-08-19 09:56:33.081 UTC"],
     "version": ["2.4.1"],
     "remote_hash": ["170d0216836878ea501710046f0859b9b33006f2"]
   },
