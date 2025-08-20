@@ -141,7 +141,7 @@
   },
   "crew": {
     "success": [true],
-    "published": ["2025-08-19 09:57:15.960 UTC"],
+    "published": ["2025-08-20 07:39:06.266 UTC"],
     "version": ["1.2.1"],
     "remote_hash": ["c03b80222289c9c94b096f4883d9121ffb8673ca"]
   },
@@ -217,7 +217,7 @@
   },
   "glaredb": {
     "success": [true],
-    "published": ["2025-07-23 03:30:21.914 UTC"],
+    "published": ["2025-08-20 07:36:14.384 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"]
   },
@@ -280,9 +280,9 @@
   },
   "later": {
     "success": [true],
-    "published": ["2025-08-03 06:25:11.066 UTC"],
-    "version": ["1.4.2"],
-    "remote_hash": ["78933e3dc32bc171a4dea25d77fb27abbd726f8d"]
+    "published": ["2025-08-20 07:31:54.460 UTC"],
+    "version": ["1.4.3"],
+    "remote_hash": ["7d63f3614545c97090d5b195da228bfa3931ec61"]
   },
   "litedown": {
     "success": [true],
