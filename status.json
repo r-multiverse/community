@@ -519,7 +519,7 @@
   },
   "tidytensor": {
     "success": [false],
-    "published": ["2025-07-21 03:37:45.354 UTC"],
+    "published": ["2025-08-20 03:06:04.937 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["14f5b87d2dfae20eb35cfd974adf660a4fd89980"],
     "r_cmd_check": [
@@ -527,25 +527,25 @@
         "check": "WARNING",
         "config": "linux-release-x86_64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16407869211/job/46356900103"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17087298222/job/48453943392"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16407869211/job/46356900116"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17087298222/job/48453943417"
       },
       {
         "check": "ERROR",
         "config": "source",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16407869211/job/46356800624"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17087298222/job/48453790985"
       },
       {
         "check": "WARNING",
         "config": "windows-release",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/16407869211/job/46356900095"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17087298222/job/48453943425"
       }
     ]
   },
