@@ -280,9 +280,9 @@
   },
   "later": {
     "success": [true],
-    "published": ["2025-08-22 14:09:11.637 UTC"],
-    "version": ["1.4.3"],
-    "remote_hash": ["7d63f3614545c97090d5b195da228bfa3931ec61"]
+    "published": ["2025-08-27 09:34:05.927 UTC"],
+    "version": ["1.4.4"],
+    "remote_hash": ["e0a848e766bcdc228631129937e60a24265b4950"]
   },
   "litedown": {
     "success": [true],
