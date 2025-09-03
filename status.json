@@ -336,7 +336,7 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2025-09-02 02:53:01.845 UTC"],
+    "published": ["2025-09-03 02:39:17.996 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["e8e5a794360444658db6de4a59077eced2940304"]
   },
@@ -377,10 +377,11 @@
     }
   },
   "prqlr": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-08-04 03:56:51.108 UTC"],
     "version": ["0.10.1"],
-    "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"]
+    "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/17421678830"]
   },
   "rJavaEnv": {
     "success": [true],
@@ -499,10 +500,11 @@
     "remote_hash": ["38e43681e0d5c8a589b41fdc80807d432ec4eb74"]
   },
   "targetsketch": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-08-04 04:08:06.698 UTC"],
     "version": ["0.0.1"],
-    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
+    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/17421809932"]
   },
   "taxizedb": {
     "success": [false],
@@ -614,9 +616,10 @@
     ]
   },
   "zstdlite": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-08-04 04:05:11.713 UTC"],
     "version": ["0.2.6"],
-    "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
+    "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/17421776253"]
   }
 }
