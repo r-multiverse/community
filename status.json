@@ -270,7 +270,6 @@
     "published": ["2025-09-03 03:38:44.369 UTC"],
     "version": ["1.2.1"],
     "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"],
-    "synchronization": ["recent"],
     "cran": ["1.2.2"]
   },
   "jagstargets": {
