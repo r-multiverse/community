@@ -141,7 +141,7 @@
   },
   "crew": {
     "success": [true],
-    "published": ["2025-09-01 18:43:44.880 UTC"],
+    "published": ["2025-09-04 10:37:23.364 UTC"],
     "version": ["1.2.1"],
     "remote_hash": ["c03b80222289c9c94b096f4883d9121ffb8673ca"]
   },
@@ -254,10 +254,11 @@
     "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
   },
   "ichimoku": {
-    "success": [true],
-    "published": ["2025-09-01 18:45:37.533 UTC"],
+    "success": [false],
+    "published": ["2025-09-04 10:38:17.667 UTC"],
     "version": ["1.5.6"],
-    "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"]
+    "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"],
+    "synchronization": ["recent"]
   },
   "igraph": {
     "success": [true],
@@ -324,9 +325,9 @@
   },
   "mirai": {
     "success": [true],
-    "published": ["2025-09-01 18:41:56.466 UTC"],
-    "version": ["2.4.1"],
-    "remote_hash": ["170d0216836878ea501710046f0859b9b33006f2"]
+    "published": ["2025-09-04 10:28:55.055 UTC"],
+    "version": ["2.5.0"],
+    "remote_hash": ["efc5c3cfba9fb4c79f0b4bd9871416bc8d40a17c"]
   },
   "multitools": {
     "success": [true],
