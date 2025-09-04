@@ -254,11 +254,10 @@
     "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
   },
   "ichimoku": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-09-04 10:38:17.667 UTC"],
     "version": ["1.5.6"],
-    "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"],
-    "synchronization": ["recent"]
+    "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"]
   },
   "igraph": {
     "success": [true],
