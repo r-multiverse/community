@@ -1,25 +1,25 @@
 {
   "adbcbigquery": {
     "success": [true],
-    "published": ["2025-08-06 07:07:02.755 UTC"],
+    "published": ["2025-09-05 06:23:58.970 UTC"],
     "version": ["0.19.0"],
     "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
   },
   "adbcdrivermanager": {
     "success": [true],
-    "published": ["2025-08-06 06:52:43.138 UTC"],
+    "published": ["2025-09-05 06:07:48.822 UTC"],
     "version": ["0.19.0"],
     "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
   },
   "adbcflightsql": {
     "success": [true],
-    "published": ["2025-08-06 07:06:27.849 UTC"],
+    "published": ["2025-09-05 06:21:16.059 UTC"],
     "version": ["0.19.0"],
     "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
   },
   "adbcsnowflake": {
     "success": [true],
-    "published": ["2025-08-06 07:11:31.763 UTC"],
+    "published": ["2025-09-05 06:25:31.382 UTC"],
     "version": ["0.19.0"],
     "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
   },
