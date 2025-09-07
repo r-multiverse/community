@@ -353,10 +353,11 @@
     "remote_hash": ["ccd03144a8542cf20cf40ee6c27e84d46ceb01d1"]
   },
   "polars": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-08-22 14:22:57.563 UTC"],
     "version": ["1.2.1"],
-    "remote_hash": ["55feebecf0fdbff0e493ead74bd01551cf4f6806"]
+    "remote_hash": ["55feebecf0fdbff0e493ead74bd01551cf4f6806"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/17530370347"]
   },
   "polars0": {
     "success": [true],
@@ -512,10 +513,13 @@
     "cran": ["0.3.2"]
   },
   "tidypolars": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-08-16 09:58:57.078 UTC"],
     "version": ["0.14.1"],
-    "remote_hash": ["5acc4a512a1d81cf3187ff14f4718f55d2105b44"]
+    "remote_hash": ["5acc4a512a1d81cf3187ff14f4718f55d2105b44"],
+    "dependencies": {
+      "polars": []
+    }
   },
   "tidytensor": {
     "success": [false],
