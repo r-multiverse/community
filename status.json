@@ -353,11 +353,10 @@
     "remote_hash": ["ccd03144a8542cf20cf40ee6c27e84d46ceb01d1"]
   },
   "polars": {
-    "success": [false],
-    "published": ["2025-08-22 14:22:57.563 UTC"],
-    "version": ["1.2.1"],
-    "remote_hash": ["55feebecf0fdbff0e493ead74bd01551cf4f6806"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/17530370347"]
+    "success": [true],
+    "published": ["2025-09-07 15:43:38.490 UTC"],
+    "version": ["1.3.0"],
+    "remote_hash": ["da8be250c8818ec86ac29ee12f41d470a1e4a02e"]
   },
   "polars0": {
     "success": [true],
@@ -514,12 +513,17 @@
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2025-08-16 09:58:57.078 UTC"],
+    "published": ["2025-09-07 15:55:13.285 UTC"],
     "version": ["0.14.1"],
     "remote_hash": ["5acc4a512a1d81cf3187ff14f4718f55d2105b44"],
-    "dependencies": {
-      "polars": []
-    }
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "windows-release",
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17530617273/job/49787161525"
+      }
+    ]
   },
   "tidytensor": {
     "success": [false],
