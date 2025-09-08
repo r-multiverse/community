@@ -317,11 +317,10 @@
     ]
   },
   "milRex": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-09-08 03:26:05.760 UTC"],
     "version": ["1.1.0"],
-    "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"],
-    "synchronization": ["recent"]
+    "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"]
   },
   "mirai": {
     "success": [true],
