@@ -111,8 +111,7 @@
         "r": "4.5.1",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/17587679120/job/49960561114"
       }
-    ],
-    "synchronization": ["recent"]
+    ]
   },
   "cmdstanr": {
     "success": [true],
