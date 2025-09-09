@@ -184,10 +184,11 @@
     ]
   },
   "duckdb": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-08-10 04:30:31.528 UTC"],
     "version": ["1.3.2"],
-    "remote_hash": ["76b95a4536054187cb3605da248f94fe5f4383a2"]
+    "remote_hash": ["76b95a4536054187cb3605da248f94fe5f4383a2"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/17571106931"]
   },
   "geographr": {
     "success": [false],
