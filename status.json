@@ -1,27 +1,30 @@
 {
   "adbcbigquery": {
-    "success": [true],
-    "published": ["2025-09-05 06:23:58.970 UTC"],
-    "version": ["0.19.0"],
-    "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
+    "success": [false],
+    "published": ["2025-09-12 12:51:29.273 UTC"],
+    "version": ["0.20.0"],
+    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/17675040344"]
   },
   "adbcdrivermanager": {
     "success": [true],
-    "published": ["2025-09-05 06:07:48.822 UTC"],
-    "version": ["0.19.0"],
-    "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
+    "published": ["2025-09-12 12:53:13.388 UTC"],
+    "version": ["0.20.0"],
+    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"]
   },
   "adbcflightsql": {
-    "success": [true],
-    "published": ["2025-09-05 06:21:16.059 UTC"],
-    "version": ["0.19.0"],
-    "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
+    "success": [false],
+    "published": ["2025-09-12 12:51:07.990 UTC"],
+    "version": ["0.20.0"],
+    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/17675040437"]
   },
   "adbcsnowflake": {
-    "success": [true],
-    "published": ["2025-09-05 06:25:31.382 UTC"],
-    "version": ["0.19.0"],
-    "remote_hash": ["c18f54a033651ed435c28161f1beaf062eca0720"]
+    "success": [false],
+    "published": ["2025-09-12 12:53:16.197 UTC"],
+    "version": ["0.20.0"],
+    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/17675040383"]
   },
   "arrow": {
     "success": [true],
@@ -89,7 +92,7 @@
   },
   "bridgestan": {
     "success": [false],
-    "published": ["2025-09-09 15:38:10.141 UTC"],
+    "published": ["2025-09-12 12:53:12.723 UTC"],
     "version": ["2.7.0"],
     "remote_hash": ["ec1d4d319f434d85b07193df2d81736568c42920"],
     "r_cmd_check": [
@@ -97,19 +100,19 @@
         "check": "ERROR",
         "config": "linux-release-x86_64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17587679120/job/49960561064"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17587679120/job/50234841583"
       },
       {
         "check": "ERROR",
         "config": "macos-release-arm64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17587679120/job/49960561081"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17587679120/job/50234841650"
       },
       {
         "check": "ERROR",
         "config": "windows-release",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17587679120/job/49960561114"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17587679120/job/50234841620"
       }
     ]
   },
