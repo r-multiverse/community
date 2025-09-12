@@ -410,10 +410,11 @@
     ]
   },
   "rwasm": {
-    "success": [true],
-    "published": ["2025-08-13 10:30:47.957 UTC"],
+    "success": [false],
+    "published": ["2025-09-12 06:46:13.352 UTC"],
     "version": ["0.3.0"],
-    "remote_hash": ["005588296e03080357c7140c1eaf8b47ccabe0bc"]
+    "remote_hash": ["005588296e03080357c7140c1eaf8b47ccabe0bc"],
+    "synchronization": ["recent"]
   },
   "SBC": {
     "success": [false],
