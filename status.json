@@ -353,10 +353,11 @@
     "remote_hash": ["ccd03144a8542cf20cf40ee6c27e84d46ceb01d1"]
   },
   "polars": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-09-07 15:43:38.490 UTC"],
     "version": ["1.3.0"],
-    "remote_hash": ["da8be250c8818ec86ac29ee12f41d470a1e4a02e"]
+    "remote_hash": ["da8be250c8818ec86ac29ee12f41d470a1e4a02e"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/17710427338"]
   },
   "polars0": {
     "success": [true],
@@ -523,7 +524,10 @@
         "r": "4.5.1",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/17530617273/job/49787161525"
       }
-    ]
+    ],
+    "dependencies": {
+      "polars": []
+    }
   },
   "tidytensor": {
     "success": [false],
