@@ -141,21 +141,21 @@
   },
   "crew": {
     "success": [true],
-    "published": ["2025-09-04 10:37:23.364 UTC"],
-    "version": ["1.2.1"],
-    "remote_hash": ["c03b80222289c9c94b096f4883d9121ffb8673ca"]
+    "published": ["2025-09-15 12:50:39.203 UTC"],
+    "version": ["1.3.0"],
+    "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"]
   },
   "crew.aws.batch": {
     "success": [true],
-    "published": ["2025-09-15 05:06:24.132 UTC"],
-    "version": ["0.0.12"],
-    "remote_hash": ["51370ab9e1d1c11a0ee1be0c91a67bbad8db78d3"]
+    "published": ["2025-09-15 12:56:56.053 UTC"],
+    "version": ["0.1.0"],
+    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"]
   },
   "crew.cluster": {
     "success": [true],
-    "published": ["2025-09-07 06:29:56.503 UTC"],
-    "version": ["0.3.8"],
-    "remote_hash": ["f5bb1d39d60f5b6204f4b1ca3090f2b11a5246b9"]
+    "published": ["2025-09-15 12:59:00.578 UTC"],
+    "version": ["0.4.0"],
+    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
   },
   "demographr": {
     "success": [false],
