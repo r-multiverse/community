@@ -603,7 +603,7 @@
   },
   "wildfires": {
     "success": [false],
-    "published": ["2025-08-16 03:22:34.802 UTC"],
+    "published": ["2025-09-15 03:14:48.114 UTC"],
     "version": ["0.9.0"],
     "remote_hash": ["228c24be602b16073ff2bc8096d5df9d42dc6ea1"],
     "r_cmd_check": [
@@ -611,19 +611,19 @@
         "check": "WARNING",
         "config": "linux-release-x86_64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17003663891/job/48209927474"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17720929778/job/50353173530"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17003663891/job/48209927464"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17720929778/job/50353173532"
       },
       {
         "check": "WARNING",
         "config": "windows-release",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17003663891/job/48209927475"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17720929778/job/50353173536"
       }
     ]
   },
