@@ -427,7 +427,12 @@
   },
   "projpred": {
     "success": [false],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/17858606622"]
+    "published": ["2025-09-19 13:28:05.496 UTC"],
+    "version": ["2.9.0"],
+    "remote_hash": ["b14ecf10701f481710ea5f61133cbfa8b5b4811b"],
+    "dependencies": {
+      "posterior": ["loo"]
+    }
   },
   "prophet": {
     "success": [false],
@@ -472,8 +477,7 @@
         "r": "4.5.1",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/17858608205/job/50783400436"
       }
-    ],
-    "synchronization": ["recent"]
+    ]
   },
   "Rvision": {
     "success": [false],
