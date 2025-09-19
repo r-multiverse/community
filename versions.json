@@ -63,6 +63,13 @@
     "hash_highest": "36e98ae76feb34de0783d6505f7f2a17e972fe23"
   },
   {
+    "package": "bayesplot",
+    "version_current": "1.14.0",
+    "hash_current": "6240b33a3d2d9afc88d925c9e91dc1f7e7413655",
+    "version_highest": "1.14.0",
+    "hash_highest": "6240b33a3d2d9afc88d925c9e91dc1f7e7413655"
+  },
+  {
     "package": "bridgestan",
     "version_current": "2.7.0",
     "hash_current": "ec1d4d319f434d85b07193df2d81736568c42920",
@@ -203,6 +210,13 @@
     "hash_highest": "330d200bf9de4a76ca1e82e3d84a3c5aba946707"
   },
   {
+    "package": "loo",
+    "version_current": "2.8.0",
+    "hash_current": "23e68bf5fb8aa9d000358f3bbbf52cf7ee92a99c",
+    "version_highest": "2.8.0",
+    "hash_highest": "23e68bf5fb8aa9d000358f3bbbf52cf7ee92a99c"
+  },
+  {
     "package": "milRex",
     "version_current": "1.1.0",
     "hash_current": "3a8c6096b0e162445f119fc2dfc46ff41d0089ba",
@@ -259,6 +273,13 @@
     "hash_highest": "8972f0106e87e1f02da005613855fe99628d66db"
   },
   {
+    "package": "posterior",
+    "version_current": "1.6.0",
+    "hash_current": "90a07cce51fdde484e97596cdd186adf265d8f5e",
+    "version_highest": "1.6.0",
+    "hash_highest": "90a07cce51fdde484e97596cdd186adf265d8f5e"
+  },
+  {
     "package": "prophet",
     "version_current": "1.1.6",
     "hash_current": "a0d1ddf27572ae9e16d6ecac1e5c485a9f9aabe2",
@@ -287,6 +308,13 @@
     "hash_highest": "830745e8798b7f2ef7c4afd96ed40d4adfe2fdf0"
   },
   {
+    "package": "rstanarm",
+    "version_current": "2.32.1",
+    "hash_current": "ea74bc7d7406abb492511168ce37056fa86793d8",
+    "version_highest": "2.32.1",
+    "hash_highest": "ea74bc7d7406abb492511168ce37056fa86793d8"
+  },
+  {
     "package": "Rvision",
     "version_current": "0.8.0",
     "hash_current": "972627f8aac8a0eb95f8b166e316cb9b0ee5930c",
@@ -306,6 +334,13 @@
     "hash_current": "9ddc803105f5350dae6efb4ae2657e89d2a54aa8",
     "version_highest": "0.3.0.9000",
     "hash_highest": "9ddc803105f5350dae6efb4ae2657e89d2a54aa8"
+  },
+  {
+    "package": "shinystan",
+    "version_current": "2.6.0",
+    "hash_current": "05519b20ddcbf5ac6082a5933937627d4847b778",
+    "version_highest": "2.6.0",
+    "hash_highest": "05519b20ddcbf5ac6082a5933937627d4847b778"
   },
   {
     "package": "stantargets",
