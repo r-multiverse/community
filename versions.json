@@ -119,6 +119,13 @@
     "hash_highest": "ff7912effea574bc4f5836707ce84cc80dcef1e6"
   },
   {
+    "package": "deeptimedata",
+    "version_current": "1.0.0",
+    "hash_current": "7f1d9e301bac0d580f93c168328ef2aaad490aca",
+    "version_highest": "1.0.0",
+    "hash_highest": "7f1d9e301bac0d580f93c168328ef2aaad490aca"
+  },
+  {
     "package": "demographr",
     "version_current": "0.0.1",
     "hash_current": "5d73b83f4bd70048d39b6b9c4bffaf02c8aab321",
@@ -320,6 +327,13 @@
     "hash_current": "830745e8798b7f2ef7c4afd96ed40d4adfe2fdf0",
     "version_highest": "1.1.6",
     "hash_highest": "830745e8798b7f2ef7c4afd96ed40d4adfe2fdf0"
+  },
+  {
+    "package": "rredlist",
+    "version_current": "1.1.1",
+    "hash_current": "f09b449f960607542d7fc1db39156fa6b3ccf81e",
+    "version_highest": "1.1.1",
+    "hash_highest": "f09b449f960607542d7fc1db39156fa6b3ccf81e"
   },
   {
     "package": "rstanarm",
