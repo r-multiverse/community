@@ -280,6 +280,13 @@
     "hash_highest": "90a07cce51fdde484e97596cdd186adf265d8f5e"
   },
   {
+    "package": "posteriordb",
+    "version_current": "0.3.4",
+    "hash_current": "dfd1de915900e77affa65ed1da2149a211a54b5b",
+    "version_highest": "0.3.4",
+    "hash_highest": "dfd1de915900e77affa65ed1da2149a211a54b5b"
+  },
+  {
     "package": "projpred",
     "version_current": "2.9.0",
     "hash_current": "b14ecf10701f481710ea5f61133cbfa8b5b4811b",

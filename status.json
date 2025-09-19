@@ -422,8 +422,10 @@
     "cran": ["1.6.1"]
   },
   "posteriordb": {
-    "success": [false],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/17858605376"]
+    "success": [true],
+    "published": ["2025-09-19 13:49:04.687 UTC"],
+    "version": ["0.3.4"],
+    "remote_hash": ["dfd1de915900e77affa65ed1da2149a211a54b5b"]
   },
   "projpred": {
     "success": [false],
