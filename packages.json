@@ -50,6 +50,11 @@
     "branch": "*release"
   },
   {
+    "package": "bayesplot",
+    "url": "https://github.com/stan-dev/bayesplot",
+    "branch": "*release"
+  },
+  {
     "package": "bridgestan",
     "url": "https://github.com/roualdes/bridgestan",
     "subdir": "R",
@@ -151,6 +156,11 @@
     "branch": "*release"
   },
   {
+    "package": "loo",
+    "url": "https://github.com/stan-dev/loo",
+    "branch": "*release"
+  },
+  {
     "package": "milRex",
     "url": "https://github.com/datapumpernickel/milRex",
     "branch": "*release"
@@ -192,6 +202,21 @@
     "branch": "*release"
   },
   {
+    "package": "posterior",
+    "url": "https://github.com/stan-dev/posterior",
+    "branch": "*release"
+  },
+  {
+    "package": "posteriordb",
+    "url": "https://github.com/stan-dev/posteriordb-r",
+    "branch": "*release"
+  },
+  {
+    "package": "projpred",
+    "url": "https://github.com/stan-dev/projpred",
+    "branch": "*release"
+  },
+  {
     "package": "prophet",
     "url": "https://github.com/facebook/prophet",
     "subdir": "R",
@@ -213,6 +238,11 @@
     "branch": "*release"
   },
   {
+    "package": "rstanarm",
+    "url": "https://github.com/stan-dev/rstanarm",
+    "branch": "*release"
+  },
+  {
     "package": "Rvision",
     "url": "https://github.com/swarm-lab/Rvision",
     "branch": "*release"
@@ -225,6 +255,11 @@
   {
     "package": "SBC",
     "url": "https://github.com/hyunjimoon/SBC",
+    "branch": "*release"
+  },
+  {
+    "package": "shinystan",
+    "url": "https://github.com/stan-dev/shinystan",
     "branch": "*release"
   },
   {
