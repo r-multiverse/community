@@ -241,7 +241,7 @@
   },
   "glaredb": {
     "success": [true],
-    "published": ["2025-09-20 02:50:23.996 UTC"],
+    "published": ["2025-09-21 03:03:55.688 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"]
   },
@@ -480,7 +480,7 @@
   },
   "rstanarm": {
     "success": [false],
-    "published": ["2025-09-20 02:53:01.698 UTC"],
+    "published": ["2025-09-21 03:05:53.711 UTC"],
     "version": ["2.32.1"],
     "remote_hash": ["ea74bc7d7406abb492511168ce37056fa86793d8"],
     "license": ["NOT FOUND"],
@@ -489,7 +489,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17858608205/job/50832893615"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17858608205/job/50864418460"
       }
     ]
   },
