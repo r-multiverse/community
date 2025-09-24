@@ -506,7 +506,8 @@
         "r": "4.5.1",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/17160253097/job/48782760234"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/17965154571"]
   },
   "rwasm": {
     "success": [true],
