@@ -495,7 +495,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2025-08-25 03:01:42.095 UTC"],
+    "published": ["2025-09-24 03:15:45.976 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "license": ["NOT FOUND"],
@@ -504,10 +504,9 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17160253097/job/48782760234"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17965154571/job/51096355236"
       }
-    ],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/17965154571"]
+    ]
   },
   "rwasm": {
     "success": [true],
