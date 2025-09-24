@@ -34,7 +34,6 @@
     "published": ["2025-09-24 05:40:27.943 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"],
-    "synchronization": ["recent"],
     "cran": ["1.1.2"]
   },
   "audio.vadwebrtc": {
