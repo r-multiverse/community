@@ -147,6 +147,13 @@
     "hash_highest": "ed416a6735f7c4d8da0b866260369e84c27319a2"
   },
   {
+    "package": "ggsurveillance",
+    "version_current": "0.5.1",
+    "hash_current": "c3bd91cca84f21b55bc990ade592afc2a36a7b0d",
+    "version_highest": "0.5.1",
+    "hash_highest": "c3bd91cca84f21b55bc990ade592afc2a36a7b0d"
+  },
+  {
     "package": "glaredb",
     "version_current": "0.0.5",
     "hash_current": "ff810e8c5a1b7050d84b375b9ef33210102213f0",
@@ -246,10 +253,10 @@
   },
   {
     "package": "multiverse.internals",
-    "version_current": "1.1.1",
-    "hash_current": "e8e5a794360444658db6de4a59077eced2940304",
-    "version_highest": "1.1.1",
-    "hash_highest": "e8e5a794360444658db6de4a59077eced2940304"
+    "version_current": "1.1.2",
+    "hash_current": "07050df049cd01f62882edb130782dd812e9def5",
+    "version_highest": "1.1.2",
+    "hash_highest": "07050df049cd01f62882edb130782dd812e9def5"
   },
   {
     "package": "nanoarrow",

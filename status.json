@@ -239,6 +239,13 @@
       }
     ]
   },
+  "ggsurveillance": {
+    "success": [false],
+    "published": ["2025-09-24 16:43:52.776 UTC"],
+    "version": ["0.5.1"],
+    "remote_hash": ["c3bd91cca84f21b55bc990ade592afc2a36a7b0d"],
+    "synchronization": ["recent"]
+  },
   "glaredb": {
     "success": [true],
     "published": ["2025-09-21 03:03:55.688 UTC"],
@@ -371,10 +378,11 @@
     "remote_hash": ["c73b933868d8c6884df4220c25779cd0874ec7de"]
   },
   "multiverse.internals": {
-    "success": [true],
-    "published": ["2025-09-03 02:39:17.996 UTC"],
-    "version": ["1.1.1"],
-    "remote_hash": ["e8e5a794360444658db6de4a59077eced2940304"]
+    "success": [false],
+    "published": ["2025-09-24 16:41:53.818 UTC"],
+    "version": ["1.1.2"],
+    "remote_hash": ["07050df049cd01f62882edb130782dd812e9def5"],
+    "synchronization": ["recent"]
   },
   "nanoarrow": {
     "success": [true],
