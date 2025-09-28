@@ -347,8 +347,7 @@
         "r": "4.5.1",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/18068892319/job/51416042848"
       }
-    ],
-    "synchronization": ["recent"]
+    ]
   },
   "loo": {
     "success": [false],
