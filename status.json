@@ -1,39 +1,27 @@
 {
   "adbcbigquery": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-09-12 13:02:19.694 UTC"],
     "version": ["0.20.0"],
-    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"],
-    "dependencies": {
-      "nanoarrow": ["adbcdrivermanager"]
-    }
+    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"]
   },
   "adbcdrivermanager": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-09-12 12:53:13.388 UTC"],
     "version": ["0.20.0"],
-    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"],
-    "dependencies": {
-      "nanoarrow": []
-    }
+    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"]
   },
   "adbcflightsql": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-09-12 13:05:11.141 UTC"],
     "version": ["0.20.0"],
-    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"],
-    "dependencies": {
-      "nanoarrow": ["adbcdrivermanager"]
-    }
+    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"]
   },
   "adbcsnowflake": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-09-12 13:05:16.821 UTC"],
     "version": ["0.20.0"],
-    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"],
-    "dependencies": {
-      "nanoarrow": ["adbcdrivermanager"]
-    }
+    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"]
   },
   "arrow": {
     "success": [true],
@@ -164,22 +152,31 @@
     ]
   },
   "crew": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-09-15 12:50:39.203 UTC"],
     "version": ["1.3.0"],
-    "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"]
+    "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"],
+    "dependencies": {
+      "nanonext": ["mirai"]
+    }
   },
   "crew.aws.batch": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-09-15 12:56:56.053 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"]
+    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"],
+    "dependencies": {
+      "nanonext": ["crew"]
+    }
   },
   "crew.cluster": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-09-15 12:59:00.578 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
+    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"],
+    "dependencies": {
+      "nanonext": ["crew"]
+    }
   },
   "deeptime": {
     "success": [true],
@@ -258,13 +255,10 @@
     "remote_hash": ["c3bd91cca84f21b55bc990ade592afc2a36a7b0d"]
   },
   "glaredb": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-09-21 03:03:55.688 UTC"],
     "version": ["0.0.5"],
-    "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
-    "dependencies": {
-      "nanoarrow": []
-    }
+    "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"]
   },
   "healthyr": {
     "success": [false],
@@ -299,10 +293,13 @@
     "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
   },
   "ichimoku": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-09-04 10:38:17.667 UTC"],
     "version": ["1.5.6"],
-    "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"]
+    "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"],
+    "dependencies": {
+      "nanonext": ["mirai"]
+    }
   },
   "igraph": {
     "success": [true],
@@ -380,10 +377,13 @@
     "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"]
   },
   "mirai": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-09-04 10:28:55.055 UTC"],
     "version": ["2.5.0"],
-    "remote_hash": ["efc5c3cfba9fb4c79f0b4bd9871416bc8d40a17c"]
+    "remote_hash": ["efc5c3cfba9fb4c79f0b4bd9871416bc8d40a17c"],
+    "dependencies": {
+      "nanonext": []
+    }
   },
   "multitools": {
     "success": [true],
@@ -392,23 +392,26 @@
     "remote_hash": ["c73b933868d8c6884df4220c25779cd0874ec7de"]
   },
   "multiverse.internals": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-01 02:56:43.243 UTC"],
     "version": ["1.1.3"],
-    "remote_hash": ["37e257862bebbc27e5481d81f83de411c5b6c3ec"]
+    "remote_hash": ["37e257862bebbc27e5481d81f83de411c5b6c3ec"],
+    "dependencies": {
+      "nanonext": []
+    }
   },
   "nanoarrow": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-10-01 06:48:31.584 UTC"],
     "version": ["0.7.0"],
-    "remote_hash": ["2cfba631b40886f1418a463f3b7c4552c8ae0dc7"],
-    "synchronization": ["recent"]
+    "remote_hash": ["2cfba631b40886f1418a463f3b7c4552c8ae0dc7"]
   },
   "nanonext": {
-    "success": [true],
-    "published": ["2025-09-01 18:36:49.183 UTC"],
+    "success": [false],
+    "published": ["2025-10-01 07:16:46.430 UTC"],
     "version": ["1.7.0"],
-    "remote_hash": ["ccd03144a8542cf20cf40ee6c27e84d46ceb01d1"]
+    "remote_hash": ["ccd03144a8542cf20cf40ee6c27e84d46ceb01d1"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18154533037"]
   },
   "polars": {
     "success": [true],
