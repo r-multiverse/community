@@ -267,10 +267,10 @@
   },
   {
     "package": "nanonext",
-    "version_current": "1.7.0",
-    "hash_current": "ccd03144a8542cf20cf40ee6c27e84d46ceb01d1",
-    "version_highest": "1.7.0",
-    "hash_highest": "ccd03144a8542cf20cf40ee6c27e84d46ceb01d1"
+    "version_current": "1.7.1",
+    "hash_current": "1cb8803103a147f9cd60730bf27de9824d7bcaee",
+    "version_highest": "1.7.1",
+    "hash_highest": "1cb8803103a147f9cd60730bf27de9824d7bcaee"
   },
   {
     "package": "polars",
