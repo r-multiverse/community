@@ -509,7 +509,6 @@
     "published": ["2025-09-22 03:06:03.362 UTC"],
     "version": ["2.32.1"],
     "remote_hash": ["ea74bc7d7406abb492511168ce37056fa86793d8"],
-    "license": ["NOT FOUND"],
     "r_cmd_check": [
       {
         "check": "ERROR",
@@ -524,7 +523,6 @@
     "published": ["2025-09-27 02:39:45.588 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
-    "license": ["NOT FOUND"],
     "r_cmd_check": [
       {
         "check": "ERROR",
