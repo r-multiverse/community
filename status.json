@@ -291,7 +291,7 @@
   },
   "igraph": {
     "success": [true],
-    "published": ["2025-09-02 06:57:15.230 UTC"],
+    "published": ["2025-10-02 06:41:25.638 UTC"],
     "version": ["2.1.4"],
     "remote_hash": ["affdf8c714ace2e3b66dbcaee24ca2211633f964"]
   },
@@ -646,7 +646,7 @@
   },
   "taxizedb": {
     "success": [false],
-    "published": ["2025-09-02 06:49:47.430 UTC"],
+    "published": ["2025-10-02 06:20:44.819 UTC"],
     "version": ["0.3.1"],
     "remote_hash": ["5732f9777142cd0034b64d5ae8b9aea0605cfaab"],
     "cran": ["0.3.2"]
