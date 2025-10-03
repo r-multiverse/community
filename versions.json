@@ -364,6 +364,13 @@
     "hash_highest": "005588296e03080357c7140c1eaf8b47ccabe0bc"
   },
   {
+    "package": "saperlipopette",
+    "version_current": "0.1.0",
+    "hash_current": "d128c542b9e967d21a94ac99a815482c30cd4d08",
+    "version_highest": "0.1.0",
+    "hash_highest": "d128c542b9e967d21a94ac99a815482c30cd4d08"
+  },
+  {
     "package": "SBC",
     "version_current": "0.3.0.9000",
     "hash_current": "9ddc803105f5350dae6efb4ae2657e89d2a54aa8",

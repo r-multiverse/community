@@ -518,6 +518,12 @@
     "version": ["0.3.0"],
     "remote_hash": ["005588296e03080357c7140c1eaf8b47ccabe0bc"]
   },
+  "saperlipopette": {
+    "success": [true],
+    "published": ["2025-10-03 07:29:13.934 UTC"],
+    "version": ["0.1.0"],
+    "remote_hash": ["d128c542b9e967d21a94ac99a815482c30cd4d08"]
+  },
   "SBC": {
     "success": [false],
     "published": ["2025-09-28 06:34:24.272 UTC"],
