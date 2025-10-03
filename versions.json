@@ -140,6 +140,13 @@
     "hash_highest": "2a27c9fa2509158eb2a9a668eeeae67602f9f8f7"
   },
   {
+    "package": "ExpBites",
+    "version_current": "0.1.0",
+    "hash_current": "1a67ea385f2780efaf17a35f92f505c3fe689aac",
+    "version_highest": "0.1.0",
+    "hash_highest": "1a67ea385f2780efaf17a35f92f505c3fe689aac"
+  },
+  {
     "package": "geographr",
     "version_current": "1.0.1",
     "hash_current": "ed416a6735f7c4d8da0b866260369e84c27319a2",
@@ -253,10 +260,10 @@
   },
   {
     "package": "multiverse.internals",
-    "version_current": "1.1.4",
-    "hash_current": "eacb9fc7185b2e74fd27d3e7da93eb07770145fd",
-    "version_highest": "1.1.4",
-    "hash_highest": "eacb9fc7185b2e74fd27d3e7da93eb07770145fd"
+    "version_current": "1.1.5",
+    "hash_current": "84474dea7a78e49d037b00496ecc186b0bd8da87",
+    "version_highest": "1.1.5",
+    "hash_highest": "84474dea7a78e49d037b00496ecc186b0bd8da87"
   },
   {
     "package": "nanoarrow",

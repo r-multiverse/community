@@ -213,6 +213,32 @@
     "version": ["1.4.0"],
     "remote_hash": ["2a27c9fa2509158eb2a9a668eeeae67602f9f8f7"]
   },
+  "ExpBites": {
+    "success": [false],
+    "published": ["2025-10-03 16:33:05.555 UTC"],
+    "version": ["0.1.0"],
+    "remote_hash": ["1a67ea385f2780efaf17a35f92f505c3fe689aac"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "linux-release-x86_64",
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/18227934719/job/51904212796"
+      },
+      {
+        "check": "ERROR",
+        "config": "macos-release-arm64",
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/18227934719/job/51904212794"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-release",
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/18227934719/job/51904212779"
+      }
+    ]
+  },
   "geographr": {
     "success": [false],
     "published": ["2025-09-08 04:09:15.489 UTC"],
@@ -378,9 +404,9 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2025-10-03 02:41:18.884 UTC"],
-    "version": ["1.1.4"],
-    "remote_hash": ["eacb9fc7185b2e74fd27d3e7da93eb07770145fd"]
+    "published": ["2025-10-03 16:34:27.170 UTC"],
+    "version": ["1.1.5"],
+    "remote_hash": ["84474dea7a78e49d037b00496ecc186b0bd8da87"]
   },
   "nanoarrow": {
     "success": [true],
