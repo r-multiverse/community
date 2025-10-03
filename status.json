@@ -378,7 +378,7 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2025-10-02 18:40:15.880 UTC"],
+    "published": ["2025-10-03 02:41:18.884 UTC"],
     "version": ["1.1.4"],
     "remote_hash": ["eacb9fc7185b2e74fd27d3e7da93eb07770145fd"]
   },
@@ -461,10 +461,11 @@
     }
   },
   "prqlr": {
-    "success": [true],
-    "published": ["2025-09-03 03:10:26.744 UTC"],
+    "success": [false],
+    "published": ["2025-10-03 03:01:43.338 UTC"],
     "version": ["0.10.1"],
-    "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"]
+    "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18211597074"]
   },
   "rJavaEnv": {
     "success": [true],
