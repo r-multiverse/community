@@ -408,6 +408,12 @@
     "version": ["1.1.5"],
     "remote_hash": ["84474dea7a78e49d037b00496ecc186b0bd8da87"]
   },
+  "mutagen": {
+    "success": [true],
+    "published": ["2025-10-05 09:26:30.328 UTC"],
+    "version": ["0.1.0"],
+    "remote_hash": ["2f5b5f43845e26db9aabdf7dc1c7d0c965ca1405"]
+  },
   "nanoarrow": {
     "success": [true],
     "published": ["2025-10-01 06:48:31.584 UTC"],
@@ -680,6 +686,12 @@
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/17710664942/job/50328986278"
       }
     ]
+  },
+  "tidytab": {
+    "success": [true],
+    "published": ["2025-10-05 09:28:36.997 UTC"],
+    "version": ["0.0.0.9000"],
+    "remote_hash": ["0f5bed6c628d5e26be00058a1b7aaf0953620e2f"]
   },
   "tidytensor": {
     "success": [false],

@@ -266,6 +266,13 @@
     "hash_highest": "84474dea7a78e49d037b00496ecc186b0bd8da87"
   },
   {
+    "package": "mutagen",
+    "version_current": "0.1.0",
+    "hash_current": "2f5b5f43845e26db9aabdf7dc1c7d0c965ca1405",
+    "version_highest": "0.1.0",
+    "hash_highest": "2f5b5f43845e26db9aabdf7dc1c7d0c965ca1405"
+  },
+  {
     "package": "nanoarrow",
     "version_current": "0.7.0",
     "hash_current": "2cfba631b40886f1418a463f3b7c4552c8ae0dc7",
@@ -439,6 +446,13 @@
     "hash_current": "5acc4a512a1d81cf3187ff14f4718f55d2105b44",
     "version_highest": "0.14.1",
     "hash_highest": "5acc4a512a1d81cf3187ff14f4718f55d2105b44"
+  },
+  {
+    "package": "tidytab",
+    "version_current": "0.0.0.9000",
+    "hash_current": "0f5bed6c628d5e26be00058a1b7aaf0953620e2f",
+    "version_highest": "0.0.0.9000",
+    "hash_highest": "0f5bed6c628d5e26be00058a1b7aaf0953620e2f"
   },
   {
     "package": "tidytensor",
