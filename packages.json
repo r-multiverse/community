@@ -196,6 +196,11 @@
     "branch": "*release"
   },
   {
+    "package": "mutagen",
+    "url": "https://github.com/gvelasq/mutagen",
+    "branch": "*release"
+  },
+  {
     "package": "nanoarrow",
     "url": "https://github.com/apache/arrow-nanoarrow",
     "subdir": "r",
@@ -320,6 +325,11 @@
   {
     "package": "tidypolars",
     "url": "https://github.com/etiennebacher/tidypolars/",
+    "branch": "*release"
+  },
+  {
+    "package": "tidytab",
+    "url": "https://github.com/gvelasq/tidytab",
     "branch": "*release"
   },
   {
