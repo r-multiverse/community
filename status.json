@@ -528,7 +528,8 @@
         "r": "4.5.1",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/17858608205/job/50899375076"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18296005604"]
   },
   "Rvision": {
     "success": [false],
