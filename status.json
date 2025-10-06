@@ -152,22 +152,29 @@
     ]
   },
   "crew": {
-    "success": [true],
-    "published": ["2025-10-01 18:11:23.535 UTC"],
+    "success": [false],
+    "published": ["2025-10-06 10:37:38.443 UTC"],
     "version": ["1.3.0"],
-    "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"]
+    "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18278095117"]
   },
   "crew.aws.batch": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-09-15 12:56:56.053 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"]
+    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"],
+    "dependencies": {
+      "crew": []
+    }
   },
   "crew.cluster": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-01 18:11:31.770 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
+    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"],
+    "dependencies": {
+      "crew": []
+    }
   },
   "deeptime": {
     "success": [true],
@@ -310,10 +317,11 @@
     "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
   },
   "ichimoku": {
-    "success": [true],
-    "published": ["2025-10-01 18:11:33.502 UTC"],
+    "success": [false],
+    "published": ["2025-10-06 10:37:36.766 UTC"],
     "version": ["1.5.6"],
-    "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"]
+    "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18278095107"]
   },
   "igraph": {
     "success": [true],
@@ -392,9 +400,9 @@
   },
   "mirai": {
     "success": [true],
-    "published": ["2025-10-01 18:08:29.724 UTC"],
-    "version": ["2.5.0"],
-    "remote_hash": ["efc5c3cfba9fb4c79f0b4bd9871416bc8d40a17c"]
+    "published": ["2025-10-06 10:37:06.730 UTC"],
+    "version": ["2.5.1"],
+    "remote_hash": ["dc9a1269524cf58308cfec048ed4fa2ae75eb095"]
   },
   "multitools": {
     "success": [true],
