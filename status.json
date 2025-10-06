@@ -518,18 +518,12 @@
   },
   "rstanarm": {
     "success": [false],
-    "published": ["2025-09-22 03:06:03.362 UTC"],
-    "version": ["2.32.1"],
-    "remote_hash": ["ea74bc7d7406abb492511168ce37056fa86793d8"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "source",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17858608205/job/50899375076"
-      }
-    ],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18296005604"]
+    "published": ["2025-10-06 23:13:09.296 UTC"],
+    "version": ["2.32.2"],
+    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
+    "dependencies": {
+      "posterior": ["bayesplot", "loo", "shinystan"]
+    }
   },
   "Rvision": {
     "success": [false],

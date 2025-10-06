@@ -358,10 +358,10 @@
   },
   {
     "package": "rstanarm",
-    "version_current": "2.32.1",
-    "hash_current": "ea74bc7d7406abb492511168ce37056fa86793d8",
-    "version_highest": "2.32.1",
-    "hash_highest": "ea74bc7d7406abb492511168ce37056fa86793d8"
+    "version_current": "2.32.2",
+    "hash_current": "aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242",
+    "version_highest": "2.32.2",
+    "hash_highest": "aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"
   },
   {
     "package": "Rvision",
