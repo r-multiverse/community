@@ -336,6 +336,13 @@
     "hash_highest": "85d9fa32cf35a189942953a873a5351b1fae2516"
   },
   {
+    "package": "riem",
+    "version_current": "1.0.0",
+    "hash_current": "5ad33e8c9bd7200d53fd1f24f1b807624fbf0a33",
+    "version_highest": "1.0.0",
+    "hash_highest": "5ad33e8c9bd7200d53fd1f24f1b807624fbf0a33"
+  },
+  {
     "package": "rJavaEnv",
     "version_current": "0.3.0",
     "hash_current": "cce4a2bb65d891c3e9ba0194a67451de87a2a3ae",
