@@ -116,6 +116,11 @@
     "branch": "*release"
   },
   {
+    "package": "geotargets",
+    "url": "https://github.com/ropensci/geotargets",
+    "branch": "*release"
+  },
+  {
     "package": "ggsurveillance",
     "url": "https://github.com/biostats-dev/ggsurveillance/",
     "branch": "*release"
@@ -345,6 +350,11 @@
   {
     "package": "unigd",
     "url": "https://github.com/nx10/unigd",
+    "branch": "*release"
+  },
+  {
+    "package": "weathercan",
+    "url": "https://github.com/ropensci/weathercan",
     "branch": "*release"
   },
   {
