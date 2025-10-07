@@ -265,6 +265,12 @@
       }
     ]
   },
+  "geotargets": {
+    "success": [true],
+    "published": ["2025-10-07 17:03:56.730 UTC"],
+    "version": ["0.3.1"],
+    "remote_hash": ["719c095fac40cf13466ffbe147664f7d19a84352"]
+  },
   "ggsurveillance": {
     "success": [true],
     "published": ["2025-09-24 16:43:52.776 UTC"],
@@ -427,11 +433,10 @@
     "remote_hash": ["1cb8803103a147f9cd60730bf27de9824d7bcaee"]
   },
   "polars": {
-    "success": [false],
-    "published": ["2025-10-07 16:26:53.075 UTC"],
-    "version": ["1.3.1"],
-    "remote_hash": ["abadcb1094849798112ec24fdd2dc27435716c91"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18319358891"]
+    "success": [true],
+    "published": ["2025-10-07 16:51:09.982 UTC"],
+    "version": ["1.4.0"],
+    "remote_hash": ["3e93654748c03eae40b677f933cb1172be08c2d9"]
   },
   "polars0": {
     "success": [true],
@@ -670,27 +675,10 @@
     "cran": ["0.3.2"]
   },
   "tidypolars": {
-    "success": [false],
-    "published": ["2025-09-14 11:52:23.075 UTC"],
+    "success": [true],
+    "published": ["2025-10-07 17:02:21.750 UTC"],
     "version": ["0.14.1"],
-    "remote_hash": ["5acc4a512a1d81cf3187ff14f4718f55d2105b44"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "linux-release-x86_64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17710664942/job/50328986275"
-      },
-      {
-        "check": "ERROR",
-        "config": "windows-release",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/17710664942/job/50328986278"
-      }
-    ],
-    "dependencies": {
-      "polars": []
-    }
+    "remote_hash": ["5acc4a512a1d81cf3187ff14f4718f55d2105b44"]
   },
   "tidytab": {
     "success": [true],
@@ -735,6 +723,12 @@
     "published": ["2025-10-03 04:57:52.717 UTC"],
     "version": ["0.1.3"],
     "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"]
+  },
+  "weathercan": {
+    "success": [true],
+    "published": ["2025-10-07 16:58:21.289 UTC"],
+    "version": ["0.7.5"],
+    "remote_hash": ["410e0de215ab8eaf04f81bc16ad65d549f47762e"]
   },
   "webchem": {
     "success": [true],
