@@ -248,6 +248,11 @@
     "branch": "*release"
   },
   {
+    "package": "riem",
+    "url": "https://github.com/ropensci/riem",
+    "branch": "*release"
+  },
+  {
     "package": "rJavaEnv",
     "url": "https://github.com/e-kotov/rJavaEnv",
     "branch": "*release"
