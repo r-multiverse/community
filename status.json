@@ -391,10 +391,11 @@
     }
   },
   "milRex": {
-    "success": [true],
-    "published": ["2025-09-08 03:26:05.760 UTC"],
+    "success": [false],
+    "published": ["2025-10-08 03:13:12.709 UTC"],
     "version": ["1.1.0"],
-    "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"]
+    "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18332607434"]
   },
   "mirai": {
     "success": [true],
