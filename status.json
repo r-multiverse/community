@@ -336,10 +336,9 @@
   },
   "jagstargets": {
     "success": [false],
-    "published": ["2025-10-14 06:48:39.040 UTC"],
+    "published": ["2025-10-14 06:56:49.005 UTC"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18488008221"],
     "dependencies": {
       "posterior": []
     }
