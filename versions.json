@@ -309,10 +309,10 @@
   },
   {
     "package": "posterior",
-    "version_current": "1.6.0",
-    "hash_current": "90a07cce51fdde484e97596cdd186adf265d8f5e",
-    "version_highest": "1.6.0",
-    "hash_highest": "90a07cce51fdde484e97596cdd186adf265d8f5e"
+    "version_current": "1.6.1",
+    "hash_current": "1e4484cbc84bb090ab0a0a46337c00e2714dc8dd",
+    "version_highest": "1.6.1",
+    "hash_highest": "1e4484cbc84bb090ab0a0a46337c00e2714dc8dd"
   },
   {
     "package": "posteriordb",
