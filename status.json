@@ -1,39 +1,53 @@
 {
   "adbcbigquery": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-12 07:00:19.836 UTC"],
     "version": ["0.20.0"],
-    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"]
+    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"],
+    "dependencies": {
+      "nanoarrow": ["adbcdrivermanager"]
+    }
   },
   "adbcdrivermanager": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-12 06:55:39.855 UTC"],
     "version": ["0.20.0"],
-    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"]
+    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"],
+    "dependencies": {
+      "nanoarrow": []
+    }
   },
   "adbcflightsql": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-12 07:00:39.815 UTC"],
     "version": ["0.20.0"],
-    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"]
+    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"],
+    "dependencies": {
+      "nanoarrow": ["adbcdrivermanager"]
+    }
   },
   "adbcsnowflake": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-12 07:00:43.612 UTC"],
     "version": ["0.20.0"],
-    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"]
+    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"],
+    "dependencies": {
+      "nanoarrow": ["adbcdrivermanager"]
+    }
   },
   "arrow": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-15 07:10:41.565 UTC"],
     "version": ["21.0.0"],
-    "remote_hash": ["ee4d09ebef61c663c1efbfa4c18e518a03b798be"]
+    "remote_hash": ["ee4d09ebef61c663c1efbfa4c18e518a03b798be"],
+    "cran": ["21.0.0.1"]
   },
   "asylum": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-09-24 05:40:27.943 UTC"],
     "version": ["1.1.1"],
-    "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"]
+    "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"],
+    "cran": ["1.1.2"]
   },
   "audio.vadwebrtc": {
     "success": [true],
@@ -277,10 +291,13 @@
     "remote_hash": ["c3bd91cca84f21b55bc990ade592afc2a36a7b0d"]
   },
   "glaredb": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-09-21 03:03:55.688 UTC"],
     "version": ["0.0.5"],
-    "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"]
+    "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
+    "dependencies": {
+      "nanoarrow": []
+    }
   },
   "healthyr": {
     "success": [false],
@@ -327,10 +344,11 @@
     "remote_hash": ["5275871bd23b64e700518202b5b0eba0525dd281"]
   },
   "IMD": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-03 03:43:13.322 UTC"],
     "version": ["1.2.1"],
-    "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"]
+    "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"],
+    "cran": ["1.2.2"]
   },
   "jagstargets": {
     "success": [false],
@@ -419,10 +437,11 @@
     "remote_hash": ["2f5b5f43845e26db9aabdf7dc1c7d0c965ca1405"]
   },
   "nanoarrow": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-01 06:48:31.584 UTC"],
     "version": ["0.7.0"],
-    "remote_hash": ["2cfba631b40886f1418a463f3b7c4552c8ae0dc7"]
+    "remote_hash": ["2cfba631b40886f1418a463f3b7c4552c8ae0dc7"],
+    "cran": ["0.7.0-1"]
   },
   "nanonext": {
     "success": [true],
@@ -466,7 +485,8 @@
         "r": "4.5.1",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/17858604978/job/50783645073"
       }
-    ]
+    ],
+    "cran": ["1.6.1"]
   },
   "posteriordb": {
     "success": [true],
@@ -665,10 +685,11 @@
     "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
   },
   "taxizedb": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-02 06:20:44.819 UTC"],
     "version": ["0.3.1"],
-    "remote_hash": ["5732f9777142cd0034b64d5ae8b9aea0605cfaab"]
+    "remote_hash": ["5732f9777142cd0034b64d5ae8b9aea0605cfaab"],
+    "cran": ["0.3.2"]
   },
   "tidypolars": {
     "success": [true],
