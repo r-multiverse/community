@@ -24,11 +24,10 @@
     "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"]
   },
   "arrow": {
-    "success": [false],
-    "published": ["2025-10-15 06:40:19.140 UTC"],
+    "success": [true],
+    "published": ["2025-10-15 07:10:41.565 UTC"],
     "version": ["21.0.0"],
-    "remote_hash": ["ee4d09ebef61c663c1efbfa4c18e518a03b798be"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18520144889"]
+    "remote_hash": ["ee4d09ebef61c663c1efbfa4c18e518a03b798be"]
   },
   "asylum": {
     "success": [true],
@@ -159,7 +158,7 @@
   },
   "crew.aws.batch": {
     "success": [true],
-    "published": ["2025-09-15 12:56:56.053 UTC"],
+    "published": ["2025-10-15 07:04:10.730 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"]
   },
