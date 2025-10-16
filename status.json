@@ -413,10 +413,24 @@
     "remote_hash": ["c73b933868d8c6884df4220c25779cd0874ec7de"]
   },
   "multiverse.internals": {
-    "success": [true],
-    "published": ["2025-10-16 02:47:48.638 UTC"],
-    "version": ["1.1.5"],
-    "remote_hash": ["84474dea7a78e49d037b00496ecc186b0bd8da87"]
+    "success": [false],
+    "published": ["2025-10-16 15:33:14.599 UTC"],
+    "version": ["1.1.6"],
+    "remote_hash": ["a35a1baa96d79f0c559ef87042aefbaf4c29537a"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "linux-release-x86_64",
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/18566365863/job/52928915342"
+      },
+      {
+        "check": "ERROR",
+        "config": "macos-release-arm64",
+        "r": "4.5.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/18566365863/job/52928915294"
+      }
+    ]
   },
   "mutagen": {
     "success": [true],
