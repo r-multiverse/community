@@ -215,10 +215,11 @@
     ]
   },
   "duckdb": {
-    "success": [true],
-    "published": ["2025-09-20 02:42:30.301 UTC"],
+    "success": [false],
+    "published": ["2025-10-18 01:25:24.579 UTC"],
     "version": ["1.4.0"],
-    "remote_hash": ["2a27c9fa2509158eb2a9a668eeeae67602f9f8f7"]
+    "remote_hash": ["2a27c9fa2509158eb2a9a668eeeae67602f9f8f7"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18608707265"]
   },
   "ExpBites": {
     "success": [false],
