@@ -457,11 +457,10 @@
     "remote_hash": ["1e4484cbc84bb090ab0a0a46337c00e2714dc8dd"]
   },
   "posteriordb": {
-    "success": [false],
-    "published": ["2025-10-19 06:30:16.615 UTC"],
+    "success": [true],
+    "published": ["2025-10-19 07:41:07.105 UTC"],
     "version": ["0.3.4"],
-    "remote_hash": ["dfd1de915900e77affa65ed1da2149a211a54b5b"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18626604389"]
+    "remote_hash": ["dfd1de915900e77affa65ed1da2149a211a54b5b"]
   },
   "projpred": {
     "success": [true],
