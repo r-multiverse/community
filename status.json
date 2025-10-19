@@ -184,7 +184,7 @@
   },
   "deeptimedata": {
     "success": [true],
-    "published": ["2025-09-19 16:31:39.635 UTC"],
+    "published": ["2025-10-19 06:40:05.562 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["7f1d9e301bac0d580f93c168328ef2aaad490aca"]
   },
@@ -286,7 +286,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2025-09-21 03:03:55.688 UTC"],
+    "published": ["2025-10-19 06:41:41.384 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
     "dependencies": {
@@ -456,16 +456,18 @@
     "remote_hash": ["1e4484cbc84bb090ab0a0a46337c00e2714dc8dd"]
   },
   "posteriordb": {
-    "success": [true],
-    "published": ["2025-09-19 13:49:04.687 UTC"],
+    "success": [false],
+    "published": ["2025-10-19 06:30:16.615 UTC"],
     "version": ["0.3.4"],
-    "remote_hash": ["dfd1de915900e77affa65ed1da2149a211a54b5b"]
+    "remote_hash": ["dfd1de915900e77affa65ed1da2149a211a54b5b"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18626604389"]
   },
   "projpred": {
-    "success": [true],
-    "published": ["2025-09-19 13:28:05.496 UTC"],
+    "success": [false],
+    "published": ["2025-10-19 06:28:48.555 UTC"],
     "version": ["2.9.0"],
-    "remote_hash": ["b14ecf10701f481710ea5f61133cbfa8b5b4811b"]
+    "remote_hash": ["b14ecf10701f481710ea5f61133cbfa8b5b4811b"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18626587978"]
   },
   "prophet": {
     "success": [false],
@@ -505,7 +507,7 @@
   },
   "rredlist": {
     "success": [true],
-    "published": ["2025-09-19 16:31:53.385 UTC"],
+    "published": ["2025-10-19 06:41:29.496 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
@@ -575,7 +577,7 @@
   },
   "shinystan": {
     "success": [true],
-    "published": ["2025-09-19 12:52:57.601 UTC"],
+    "published": ["2025-10-19 06:38:19.709 UTC"],
     "version": ["2.6.0"],
     "remote_hash": ["05519b20ddcbf5ac6082a5933937627d4847b778"]
   },
