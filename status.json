@@ -695,9 +695,9 @@
   },
   "weathercan": {
     "success": [true],
-    "published": ["2025-10-07 16:58:21.289 UTC"],
-    "version": ["0.7.5"],
-    "remote_hash": ["410e0de215ab8eaf04f81bc16ad65d549f47762e"]
+    "published": ["2025-10-20 20:36:18.706 UTC"],
+    "version": ["0.7.6"],
+    "remote_hash": ["5fbc307fbeb12915814ca59025ec77d304cb3d15"]
   },
   "webchem": {
     "success": [true],
