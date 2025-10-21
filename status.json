@@ -472,6 +472,7 @@
     "published": ["2025-10-21 21:40:01.289 UTC"],
     "version": ["1.1.6"],
     "remote_hash": ["52a58c37551908d2099221db012134e4033a7d0b"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18700401994"],
     "versions": {
       "version_current": ["1.1.6"],
       "hash_current": ["52a58c37551908d2099221db012134e4033a7d0b"],
