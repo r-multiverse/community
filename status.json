@@ -469,13 +469,12 @@
   },
   "prophet": {
     "success": [false],
-    "published": ["2025-10-21 21:40:01.289 UTC"],
+    "published": ["2025-10-21 23:36:47.740 UTC"],
     "version": ["1.1.6"],
-    "remote_hash": ["52a58c37551908d2099221db012134e4033a7d0b"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18700401994"],
+    "remote_hash": ["50d3f8b69cf21df0971120af3e5a0da80c0f5994"],
     "versions": {
       "version_current": ["1.1.6"],
-      "hash_current": ["52a58c37551908d2099221db012134e4033a7d0b"],
+      "hash_current": ["50d3f8b69cf21df0971120af3e5a0da80c0f5994"],
       "version_highest": ["1.1.6"],
       "hash_highest": ["6e9fa67985b34a97bc98a40520ac6072d8d60491"]
     }
