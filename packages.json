@@ -141,11 +141,6 @@
     "branch": "*release"
   },
   {
-    "package": "ichimoku",
-    "url": "https://github.com/shikokuchuo/ichimoku",
-    "branch": "*release"
-  },
-  {
     "package": "igraph",
     "url": "https://github.com/igraph/rigraph",
     "branch": "*release"
@@ -187,7 +182,7 @@
   },
   {
     "package": "mirai",
-    "url": "https://github.com/shikokuchuo/mirai",
+    "url": "https://github.com/r-lib/mirai",
     "branch": "*release"
   },
   {
@@ -213,7 +208,7 @@
   },
   {
     "package": "nanonext",
-    "url": "https://github.com/shikokuchuo/nanonext",
+    "url": "https://github.com/r-lib/nanonext",
     "branch": "*release"
   },
   {
@@ -295,6 +290,11 @@
   {
     "package": "SBC",
     "url": "https://github.com/hyunjimoon/SBC",
+    "branch": "*release"
+  },
+  {
+    "package": "secretbase",
+    "url": "https://github.com/shikokuchuo/secretbase",
     "branch": "*release"
   },
   {
