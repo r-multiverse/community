@@ -325,12 +325,6 @@
     "version": ["2.0.4"],
     "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
   },
-  "ichimoku": {
-    "success": [true],
-    "published": ["2025-10-06 10:46:03.117 UTC"],
-    "version": ["1.5.6"],
-    "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"]
-  },
   "igraph": {
     "success": [true],
     "published": ["2025-10-15 03:40:34.823 UTC"],
@@ -592,6 +586,12 @@
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/18544433071/job/52861975611"
       }
     ]
+  },
+  "secretbase": {
+    "success": [true],
+    "published": ["2025-10-23 21:27:39.059 UTC"],
+    "version": ["1.0.5"],
+    "remote_hash": ["13ab20eb142b41ceec185eb7b6be4680784e32d9"]
   },
   "shinystan": {
     "success": [true],

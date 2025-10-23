@@ -189,13 +189,6 @@
     "hash_highest": "dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"
   },
   {
-    "package": "ichimoku",
-    "version_current": "1.5.6",
-    "hash_current": "43f02878819ca3a868cfa74513117b9dfc141755",
-    "version_highest": "1.5.6",
-    "hash_highest": "43f02878819ca3a868cfa74513117b9dfc141755"
-  },
-  {
     "package": "igraph",
     "version_current": "2.2.0",
     "hash_current": "5275871bd23b64e700518202b5b0eba0525dd281",
@@ -404,6 +397,13 @@
     "hash_current": "9ddc803105f5350dae6efb4ae2657e89d2a54aa8",
     "version_highest": "0.3.0.9000",
     "hash_highest": "9ddc803105f5350dae6efb4ae2657e89d2a54aa8"
+  },
+  {
+    "package": "secretbase",
+    "version_current": "1.0.5",
+    "hash_current": "13ab20eb142b41ceec185eb7b6be4680784e32d9",
+    "version_highest": "1.0.5",
+    "hash_highest": "13ab20eb142b41ceec185eb7b6be4680784e32d9"
   },
   {
     "package": "shinystan",
