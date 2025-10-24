@@ -36,12 +36,10 @@
     }
   },
   "arrow": {
-    "success": [false],
-    "published": ["2025-10-24 08:30:47.701 UTC"],
-    "version": ["21.0.0"],
-    "remote_hash": ["ee4d09ebef61c663c1efbfa4c18e518a03b798be"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18774251405"],
-    "cran": ["21.0.0.1"]
+    "success": [true],
+    "published": ["2025-10-24 09:19:02.865 UTC"],
+    "version": ["22.0.0"],
+    "remote_hash": ["5aeb5f217f1ba39c428c9b481f393bd37097f69e"]
   },
   "asylum": {
     "success": [false],
