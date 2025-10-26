@@ -348,6 +348,11 @@
     "branch": "*release"
   },
   {
+    "package": "tidyterra",
+    "url": "https://github.com/dieghernan/tidyterra",
+    "branch": "*release"
+  },
+  {
     "package": "unigd",
     "url": "https://github.com/nx10/unigd",
     "branch": "*release"
