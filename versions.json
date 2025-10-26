@@ -267,10 +267,10 @@
   },
   {
     "package": "mutagen",
-    "version_current": "0.1.0",
-    "hash_current": "2f5b5f43845e26db9aabdf7dc1c7d0c965ca1405",
-    "version_highest": "0.1.0",
-    "hash_highest": "2f5b5f43845e26db9aabdf7dc1c7d0c965ca1405"
+    "version_current": "0.2.0",
+    "hash_current": "5311fdf1641a1f99bad90ada408b413e74ced7b3",
+    "version_highest": "0.2.0",
+    "hash_highest": "5311fdf1641a1f99bad90ada408b413e74ced7b3"
   },
   {
     "package": "nanoarrow",
