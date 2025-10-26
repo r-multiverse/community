@@ -687,11 +687,10 @@
     ]
   },
   "tidyterra": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-10-26 11:31:08.480 UTC"],
     "version": ["0.7.2"],
-    "remote_hash": ["0fbd05f6a1478115219f6b832c94ef9afb789219"],
-    "synchronization": ["recent"]
+    "remote_hash": ["0fbd05f6a1478115219f6b832c94ef9afb789219"]
   },
   "unigd": {
     "success": [true],
