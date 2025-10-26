@@ -158,31 +158,22 @@
     ]
   },
   "crew": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-10-06 10:45:33.928 UTC"],
     "version": ["1.3.0"],
-    "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"],
-    "dependencies": {
-      "later": []
-    }
+    "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"]
   },
   "crew.aws.batch": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-10-15 07:04:10.730 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"],
-    "dependencies": {
-      "later": ["crew"]
-    }
+    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"]
   },
   "crew.cluster": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-10-01 18:11:31.770 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"],
-    "dependencies": {
-      "later": ["crew"]
-    }
+    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
   },
   "deeptime": {
     "success": [true],
@@ -353,11 +344,10 @@
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
   },
   "later": {
-    "success": [false],
-    "published": ["2025-10-26 06:44:14.073 UTC"],
+    "success": [true],
+    "published": ["2025-10-26 06:51:55.661 UTC"],
     "version": ["1.4.4"],
-    "remote_hash": ["e0a848e766bcdc228631129937e60a24265b4950"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18814305100"]
+    "remote_hash": ["e0a848e766bcdc228631129937e60a24265b4950"]
   },
   "litedown": {
     "success": [true],
