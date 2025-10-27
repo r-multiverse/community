@@ -55,6 +55,11 @@
     "branch": "*release"
   },
   {
+    "package": "biorecap",
+    "url": "https://github.com/stephenturner/biorecap",
+    "branch": "*release"
+  },
+  {
     "package": "bridgestan",
     "url": "https://github.com/roualdes/bridgestan",
     "subdir": "R",
@@ -156,6 +161,11 @@
     "branch": "*release"
   },
   {
+    "package": "kgp",
+    "url": "https://github.com/stephenturner/kgp",
+    "branch": "*release"
+  },
+  {
     "package": "later",
     "url": "https://github.com/r-lib/later",
     "branch": "*release"
@@ -245,6 +255,11 @@
   {
     "package": "prqlr",
     "url": "https://github.com/PRQL/prqlc-r",
+    "branch": "*release"
+  },
+  {
+    "package": "qqman",
+    "url": "https://github.com/stephenturner/qqman",
     "branch": "*release"
   },
   {
