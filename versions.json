@@ -70,6 +70,13 @@
     "hash_highest": "6240b33a3d2d9afc88d925c9e91dc1f7e7413655"
   },
   {
+    "package": "biorecap",
+    "version_current": "0.2.0",
+    "hash_current": "20dcdd9ea6fbca2a061b123ef56e5f1b94380644",
+    "version_highest": "0.2.0",
+    "hash_highest": "20dcdd9ea6fbca2a061b123ef56e5f1b94380644"
+  },
+  {
     "package": "bridgestan",
     "version_current": "2.7.0",
     "hash_current": "ec1d4d319f434d85b07193df2d81736568c42920",
@@ -210,6 +217,13 @@
     "hash_highest": "fef92d0d74f6e9832459ce4bee69396bca21fd3f"
   },
   {
+    "package": "kgp",
+    "version_current": "1.1.1",
+    "hash_current": "284855372dc1bd76ea3aceb2bd1e69404c237834",
+    "version_highest": "1.1.1",
+    "hash_highest": "284855372dc1bd76ea3aceb2bd1e69404c237834"
+  },
+  {
     "package": "later",
     "version_current": "1.4.4",
     "hash_current": "e0a848e766bcdc228631129937e60a24265b4950",
@@ -334,6 +348,13 @@
     "hash_current": "85d9fa32cf35a189942953a873a5351b1fae2516",
     "version_highest": "0.10.1",
     "hash_highest": "85d9fa32cf35a189942953a873a5351b1fae2516"
+  },
+  {
+    "package": "qqman",
+    "version_current": "0.1.9",
+    "hash_current": "f2ec247b6f31473f88a4b86e03a2349a4cfe3f1c",
+    "version_highest": "0.1.9",
+    "hash_highest": "f2ec247b6f31473f88a4b86e03a2349a4cfe3f1c"
   },
   {
     "package": "riem",
