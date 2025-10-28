@@ -662,11 +662,10 @@
     "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
   },
   "taxizedb": {
-    "success": [false],
-    "published": ["2025-10-02 06:20:44.819 UTC"],
-    "version": ["0.3.1"],
-    "remote_hash": ["5732f9777142cd0034b64d5ae8b9aea0605cfaab"],
-    "cran": ["0.3.2"]
+    "success": [true],
+    "published": ["2025-10-28 15:37:49.687 UTC"],
+    "version": ["0.3.2"],
+    "remote_hash": ["6438f8a6dec45413ee7ef7938e01a672986f3dda"]
   },
   "tidypolars": {
     "success": [true],

@@ -470,10 +470,10 @@
   },
   {
     "package": "taxizedb",
-    "version_current": "0.3.1",
-    "hash_current": "5732f9777142cd0034b64d5ae8b9aea0605cfaab",
-    "version_highest": "0.3.1",
-    "hash_highest": "5732f9777142cd0034b64d5ae8b9aea0605cfaab"
+    "version_current": "0.3.2",
+    "hash_current": "6438f8a6dec45413ee7ef7938e01a672986f3dda",
+    "version_highest": "0.3.2",
+    "hash_highest": "6438f8a6dec45413ee7ef7938e01a672986f3dda"
   },
   {
     "package": "tidypolars",
