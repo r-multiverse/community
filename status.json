@@ -475,10 +475,11 @@
     "remote_hash": ["dfd1de915900e77affa65ed1da2149a211a54b5b"]
   },
   "projpred": {
-    "success": [true],
-    "published": ["2025-10-19 07:12:20.117 UTC"],
+    "success": [false],
+    "published": ["2025-10-29 14:24:35.875 UTC"],
     "version": ["2.9.0"],
-    "remote_hash": ["b14ecf10701f481710ea5f61133cbfa8b5b4811b"]
+    "remote_hash": ["b14ecf10701f481710ea5f61133cbfa8b5b4811b"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/18911228493"]
   },
   "prophet": {
     "success": [false],
