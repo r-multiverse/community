@@ -340,9 +340,9 @@
   },
   "igraph": {
     "success": [true],
-    "published": ["2025-10-29 03:20:02.532 UTC"],
-    "version": ["2.2.0"],
-    "remote_hash": ["5275871bd23b64e700518202b5b0eba0525dd281"]
+    "published": ["2025-10-29 03:41:21.907 UTC"],
+    "version": ["2.2.1"],
+    "remote_hash": ["0f790930c1a348bc7cf12c9dec003cbcce66f0fd"]
   },
   "IMD": {
     "success": [false],
@@ -427,7 +427,7 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2025-10-25 02:46:13.993 UTC"],
+    "published": ["2025-10-29 04:04:13.434 UTC"],
     "version": ["1.1.7"],
     "remote_hash": ["a032479f08bd9bb7e1c13c0e248391958ca130cc"]
   },
@@ -512,7 +512,7 @@
   },
   "rJavaEnv": {
     "success": [true],
-    "published": ["2025-09-29 03:44:57.476 UTC"],
+    "published": ["2025-10-29 04:02:59.404 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["cce4a2bb65d891c3e9ba0194a67451de87a2a3ae"]
   },
@@ -651,7 +651,7 @@
   },
   "targets": {
     "success": [true],
-    "published": ["2025-10-15 03:54:44.433 UTC"],
+    "published": ["2025-10-29 04:12:21.286 UTC"],
     "version": ["1.11.4"],
     "remote_hash": ["3e00d3e0abc1675b2bc891a9fa33bbf305576a0b"]
   },
