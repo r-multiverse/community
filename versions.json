@@ -330,10 +330,10 @@
   },
   {
     "package": "projpred",
-    "version_current": "2.9.0",
-    "hash_current": "b14ecf10701f481710ea5f61133cbfa8b5b4811b",
-    "version_highest": "2.9.0",
-    "hash_highest": "b14ecf10701f481710ea5f61133cbfa8b5b4811b"
+    "version_current": "2.9.1",
+    "hash_current": "881b726e4ba5a33a8b5716ba3bf1e74572c283f8",
+    "version_highest": "2.9.1",
+    "hash_highest": "881b726e4ba5a33a8b5716ba3bf1e74572c283f8"
   },
   {
     "package": "prophet",
