@@ -439,7 +439,7 @@
   },
   "nanoarrow": {
     "success": [false],
-    "published": ["2025-10-01 06:48:31.584 UTC"],
+    "published": ["2025-10-31 06:26:11.548 UTC"],
     "version": ["0.7.0"],
     "remote_hash": ["2cfba631b40886f1418a463f3b7c4552c8ae0dc7"],
     "cran": ["0.7.0-1"]
