@@ -185,7 +185,7 @@
   },
   "crew.cluster": {
     "success": [true],
-    "published": ["2025-10-01 18:11:31.770 UTC"],
+    "published": ["2025-10-31 07:21:05.543 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
   },
@@ -446,7 +446,7 @@
   },
   "nanonext": {
     "success": [true],
-    "published": ["2025-10-01 17:46:23.045 UTC"],
+    "published": ["2025-10-31 07:20:07.783 UTC"],
     "version": ["1.7.1"],
     "remote_hash": ["1cb8803103a147f9cd60730bf27de9824d7bcaee"]
   },
