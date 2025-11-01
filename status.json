@@ -225,8 +225,7 @@
         "r": "4.5.1",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/18991828038/job/54246183483"
       }
-    ],
-    "synchronization": ["recent"]
+    ]
   },
   "duckdb": {
     "success": [true],
