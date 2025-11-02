@@ -36,10 +36,14 @@
     }
   },
   "arrow": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-25 02:59:42.002 UTC"],
     "version": ["22.0.0"],
-    "remote_hash": ["5aeb5f217f1ba39c428c9b481f393bd37097f69e"]
+    "remote_hash": ["5aeb5f217f1ba39c428c9b481f393bd37097f69e"],
+    "dependencies": {
+      "cli": ["vctrs"],
+      "vctrs": []
+    }
   },
   "asylum": {
     "success": [false],
@@ -100,10 +104,14 @@
     "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
   },
   "bayesplot": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-15 22:43:24.369 UTC"],
     "version": ["1.14.0"],
-    "remote_hash": ["6240b33a3d2d9afc88d925c9e91dc1f7e7413655"]
+    "remote_hash": ["6240b33a3d2d9afc88d925c9e91dc1f7e7413655"],
+    "dependencies": {
+      "cli": ["posterior"],
+      "vctrs": ["posterior"]
+    }
   },
   "biorecap": {
     "success": [false],
@@ -145,11 +153,22 @@
       }
     ]
   },
+  "cli": {
+    "success": [false],
+    "published": ["2025-11-02 13:36:10.375 UTC"],
+    "version": ["3.6.5"],
+    "remote_hash": ["f8cd002012342fcf9e34940e80b32a4a17ada726"],
+    "synchronization": ["recent"]
+  },
   "cmdstanr": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-15 22:38:58.808 UTC"],
     "version": ["0.9.0"],
-    "remote_hash": ["da99e2ba954658bdad63bffb738c4444c33a4e0e"]
+    "remote_hash": ["da99e2ba954658bdad63bffb738c4444c33a4e0e"],
+    "dependencies": {
+      "cli": ["posterior"],
+      "vctrs": ["posterior"]
+    }
   },
   "colorout": {
     "success": [false],
@@ -172,28 +191,41 @@
     ]
   },
   "crew": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-06 10:45:33.928 UTC"],
     "version": ["1.3.0"],
-    "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"]
+    "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"],
+    "dependencies": {
+      "cli": []
+    }
   },
   "crew.aws.batch": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-15 07:04:10.730 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"]
+    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"],
+    "dependencies": {
+      "cli": ["crew"]
+    }
   },
   "crew.cluster": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-31 07:21:05.543 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
+    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"],
+    "dependencies": {
+      "cli": ["crew", "vctrs"],
+      "vctrs": []
+    }
   },
   "deeptime": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-18 07:23:27.589 UTC"],
     "version": ["2.2.0"],
-    "remote_hash": ["ff7912effea574bc4f5836707ce84cc80dcef1e6"]
+    "remote_hash": ["ff7912effea574bc4f5836707ce84cc80dcef1e6"],
+    "dependencies": {
+      "cli": []
+    }
   },
   "deeptimedata": {
     "success": [true],
@@ -286,16 +318,23 @@
     ]
   },
   "geotargets": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-07 17:03:56.730 UTC"],
     "version": ["0.3.1"],
-    "remote_hash": ["719c095fac40cf13466ffbe147664f7d19a84352"]
+    "remote_hash": ["719c095fac40cf13466ffbe147664f7d19a84352"],
+    "dependencies": {
+      "cli": ["targets"],
+      "vctrs": ["targets"]
+    }
   },
   "ggsurveillance": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-24 07:19:34.789 UTC"],
     "version": ["0.5.1"],
-    "remote_hash": ["c3bd91cca84f21b55bc990ade592afc2a36a7b0d"]
+    "remote_hash": ["c3bd91cca84f21b55bc990ade592afc2a36a7b0d"],
+    "dependencies": {
+      "cli": []
+    }
   },
   "glaredb": {
     "success": [false],
@@ -339,10 +378,14 @@
     "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
   },
   "igraph": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-29 03:41:21.907 UTC"],
     "version": ["2.2.1"],
-    "remote_hash": ["0f790930c1a348bc7cf12c9dec003cbcce66f0fd"]
+    "remote_hash": ["0f790930c1a348bc7cf12c9dec003cbcce66f0fd"],
+    "dependencies": {
+      "cli": ["vctrs"],
+      "vctrs": []
+    }
   },
   "IMD": {
     "success": [false],
@@ -352,10 +395,14 @@
     "cran": ["1.2.2"]
   },
   "jagstargets": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-16 07:23:42.630 UTC"],
     "version": ["1.2.3"],
-    "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
+    "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"],
+    "dependencies": {
+      "cli": ["posterior", "targets", "tarchetypes"],
+      "vctrs": ["posterior", "targets", "tarchetypes"]
+    }
   },
   "kgp": {
     "success": [true],
@@ -402,10 +449,14 @@
     ]
   },
   "loo": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-15 22:38:38.164 UTC"],
     "version": ["2.8.0"],
-    "remote_hash": ["23e68bf5fb8aa9d000358f3bbbf52cf7ee92a99c"]
+    "remote_hash": ["23e68bf5fb8aa9d000358f3bbbf52cf7ee92a99c"],
+    "dependencies": {
+      "cli": ["posterior"],
+      "vctrs": ["posterior"]
+    }
   },
   "milRex": {
     "success": [true],
@@ -426,10 +477,14 @@
     "remote_hash": ["c73b933868d8c6884df4220c25779cd0874ec7de"]
   },
   "multiverse.internals": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-31 02:55:15.697 UTC"],
     "version": ["1.1.7"],
-    "remote_hash": ["a032479f08bd9bb7e1c13c0e248391958ca130cc"]
+    "remote_hash": ["a032479f08bd9bb7e1c13c0e248391958ca130cc"],
+    "dependencies": {
+      "cli": ["igraph", "vctrs"],
+      "vctrs": ["igraph"]
+    }
   },
   "mutagen": {
     "success": [true],
@@ -471,10 +526,14 @@
     "remote_hash": ["8972f0106e87e1f02da005613855fe99628d66db"]
   },
   "posterior": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-15 22:29:37.167 UTC"],
     "version": ["1.6.1"],
-    "remote_hash": ["1e4484cbc84bb090ab0a0a46337c00e2714dc8dd"]
+    "remote_hash": ["1e4484cbc84bb090ab0a0a46337c00e2714dc8dd"],
+    "dependencies": {
+      "cli": ["vctrs"],
+      "vctrs": []
+    }
   },
   "posteriordb": {
     "success": [true],
@@ -483,10 +542,14 @@
     "remote_hash": ["dfd1de915900e77affa65ed1da2149a211a54b5b"]
   },
   "projpred": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-29 15:08:44.279 UTC"],
     "version": ["2.9.1"],
-    "remote_hash": ["881b726e4ba5a33a8b5716ba3bf1e74572c283f8"]
+    "remote_hash": ["881b726e4ba5a33a8b5716ba3bf1e74572c283f8"],
+    "dependencies": {
+      "cli": ["loo"],
+      "vctrs": ["loo"]
+    }
   },
   "prophet": {
     "success": [false],
@@ -521,16 +584,22 @@
     "remote_hash": ["f2ec247b6f31473f88a4b86e03a2349a4cfe3f1c"]
   },
   "riem": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-07 16:40:10.803 UTC"],
     "version": ["1.0.0"],
-    "remote_hash": ["5ad33e8c9bd7200d53fd1f24f1b807624fbf0a33"]
+    "remote_hash": ["5ad33e8c9bd7200d53fd1f24f1b807624fbf0a33"],
+    "dependencies": {
+      "cli": []
+    }
   },
   "rJavaEnv": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-29 04:02:59.404 UTC"],
     "version": ["0.3.0"],
-    "remote_hash": ["cce4a2bb65d891c3e9ba0194a67451de87a2a3ae"]
+    "remote_hash": ["cce4a2bb65d891c3e9ba0194a67451de87a2a3ae"],
+    "dependencies": {
+      "cli": []
+    }
   },
   "rlang": {
     "success": [true],
@@ -539,16 +608,23 @@
     "remote_hash": ["830745e8798b7f2ef7c4afd96ed40d4adfe2fdf0"]
   },
   "rredlist": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-19 06:41:29.496 UTC"],
     "version": ["1.1.1"],
-    "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
+    "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"],
+    "dependencies": {
+      "cli": []
+    }
   },
   "rstanarm": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-15 23:24:54.690 UTC"],
     "version": ["2.32.2"],
-    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
+    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
+    "dependencies": {
+      "cli": ["bayesplot", "loo", "posterior", "shinystan"],
+      "vctrs": ["bayesplot", "loo", "posterior", "shinystan"]
+    }
   },
   "Rvision": {
     "success": [false],
@@ -570,11 +646,21 @@
     "version": ["0.3.0"],
     "remote_hash": ["005588296e03080357c7140c1eaf8b47ccabe0bc"]
   },
+  "S7": {
+    "success": [false],
+    "published": ["2025-11-02 13:33:56.539 UTC"],
+    "version": ["0.2.0"],
+    "remote_hash": ["860394b610799aac671ffbdc13ac69e9d1f31ccc"],
+    "synchronization": ["recent"]
+  },
   "saperlipopette": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-11-02 07:11:20.986 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["d128c542b9e967d21a94ac99a815482c30cd4d08"]
+    "remote_hash": ["d128c542b9e967d21a94ac99a815482c30cd4d08"],
+    "dependencies": {
+      "cli": []
+    }
   },
   "SBC": {
     "success": [false],
@@ -606,7 +692,11 @@
         "r": "4.5.1",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/18544433071/job/52861975611"
       }
-    ]
+    ],
+    "dependencies": {
+      "cli": ["posterior"],
+      "vctrs": ["posterior"]
+    }
   },
   "secretbase": {
     "success": [true],
@@ -615,10 +705,14 @@
     "remote_hash": ["13ab20eb142b41ceec185eb7b6be4680784e32d9"]
   },
   "shinystan": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-19 06:38:19.709 UTC"],
     "version": ["2.6.0"],
-    "remote_hash": ["05519b20ddcbf5ac6082a5933937627d4847b778"]
+    "remote_hash": ["05519b20ddcbf5ac6082a5933937627d4847b778"],
+    "dependencies": {
+      "cli": ["bayesplot"],
+      "vctrs": ["bayesplot"]
+    }
   },
   "stantargets": {
     "success": [false],
@@ -651,31 +745,50 @@
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/18544433329/job/52859641588"
       }
     ],
-    "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]
+    "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
+    "dependencies": {
+      "cli": ["cmdstanr", "posterior", "targets", "tarchetypes"],
+      "vctrs": ["cmdstanr", "posterior", "targets", "tarchetypes"]
+    }
   },
   "string2path": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-23 06:00:17.378 UTC"],
     "version": ["0.2.2"],
-    "remote_hash": ["64be930c5bbef7e1cc491ccc52c115991113d2ac"]
+    "remote_hash": ["64be930c5bbef7e1cc491ccc52c115991113d2ac"],
+    "dependencies": {
+      "cli": []
+    }
   },
   "tarchetypes": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-12 07:10:30.976 UTC"],
     "version": ["0.13.2"],
-    "remote_hash": ["08abe45596507597310e6bc67dae3f8360bd14ee"]
+    "remote_hash": ["08abe45596507597310e6bc67dae3f8360bd14ee"],
+    "dependencies": {
+      "cli": ["targets", "vctrs"],
+      "vctrs": ["targets"]
+    }
   },
   "targets": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-29 04:12:21.286 UTC"],
     "version": ["1.11.4"],
-    "remote_hash": ["3e00d3e0abc1675b2bc891a9fa33bbf305576a0b"]
+    "remote_hash": ["3e00d3e0abc1675b2bc891a9fa33bbf305576a0b"],
+    "dependencies": {
+      "cli": ["igraph", "vctrs"],
+      "vctrs": ["igraph"]
+    }
   },
   "targetsketch": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-12 07:05:14.775 UTC"],
     "version": ["0.0.1"],
-    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
+    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"],
+    "dependencies": {
+      "cli": ["targets", "tarchetypes"],
+      "vctrs": ["targets", "tarchetypes"]
+    }
   },
   "taxizedb": {
     "success": [true],
@@ -689,7 +802,9 @@
     "version": ["0.14.1"],
     "remote_hash": ["5acc4a512a1d81cf3187ff14f4718f55d2105b44"],
     "dependencies": {
-      "polars": []
+      "cli": ["vctrs"],
+      "polars": [],
+      "vctrs": []
     }
   },
   "tidytab": {
@@ -731,16 +846,29 @@
     ]
   },
   "tidyterra": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-26 11:31:08.480 UTC"],
     "version": ["0.7.2"],
-    "remote_hash": ["0fbd05f6a1478115219f6b832c94ef9afb789219"]
+    "remote_hash": ["0fbd05f6a1478115219f6b832c94ef9afb789219"],
+    "dependencies": {
+      "cli": []
+    }
   },
   "unigd": {
     "success": [true],
     "published": ["2025-11-02 06:29:17.986 UTC"],
     "version": ["0.1.3"],
     "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"]
+  },
+  "vctrs": {
+    "success": [false],
+    "published": ["2025-11-02 13:38:27.509 UTC"],
+    "version": ["0.6.5"],
+    "remote_hash": ["11f1c1c43c32583aeaa87438c6a6b6b440b95bb2"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19012951481"],
+    "dependencies": {
+      "cli": []
+    }
   },
   "weathercan": {
     "success": [true],
