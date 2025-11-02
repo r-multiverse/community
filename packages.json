@@ -66,6 +66,11 @@
     "branch": "*release"
   },
   {
+    "package": "cli",
+    "url": "https://github.com/r-lib/cli",
+    "branch": "*release"
+  },
+  {
     "package": "cmdstanr",
     "url": "https://github.com/stan-dev/cmdstanr",
     "branch": "*release"
@@ -298,6 +303,11 @@
     "branch": "*release"
   },
   {
+    "package": "S7",
+    "url": "https://github.com/RConsortium/S7",
+    "branch": "*release"
+  },
+  {
     "package": "saperlipopette",
     "url": "https://github.com/ropensci-training/saperlipopette",
     "branch": "*release"
@@ -370,6 +380,11 @@
   {
     "package": "unigd",
     "url": "https://github.com/nx10/unigd",
+    "branch": "*release"
+  },
+  {
+    "package": "vctrs",
+    "url": "https://github.com/r-lib/vctrs",
     "branch": "*release"
   },
   {
