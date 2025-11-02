@@ -333,13 +333,10 @@
     ]
   },
   "httpgd": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-10-07 06:30:58.420 UTC"],
     "version": ["2.0.4"],
-    "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"],
-    "dependencies": {
-      "unigd": []
-    }
+    "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
   },
   "igraph": {
     "success": [true],
@@ -740,11 +737,10 @@
     "remote_hash": ["0fbd05f6a1478115219f6b832c94ef9afb789219"]
   },
   "unigd": {
-    "success": [false],
-    "published": ["2025-11-02 05:00:48.522 UTC"],
+    "success": [true],
+    "published": ["2025-11-02 06:29:17.986 UTC"],
     "version": ["0.1.3"],
-    "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19007606030"]
+    "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"]
   },
   "weathercan": {
     "success": [true],
