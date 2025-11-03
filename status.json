@@ -717,9 +717,9 @@
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2025-11-01 15:56:20.960 UTC"],
-    "version": ["0.14.1"],
-    "remote_hash": ["5acc4a512a1d81cf3187ff14f4718f55d2105b44"],
+    "published": ["2025-11-03 14:34:26.875 UTC"],
+    "version": ["0.15.0"],
+    "remote_hash": ["1aa2173264633e9acbf7188ed573a33879930853"],
     "dependencies": {
       "polars": []
     }
