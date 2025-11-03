@@ -378,6 +378,11 @@
     "branch": "*release"
   },
   {
+    "package": "trelliscope",
+    "url": "https://github.com/trelliscope/trelliscope",
+    "branch": "*release"
+  },
+  {
     "package": "unigd",
     "url": "https://github.com/nx10/unigd",
     "branch": "*release"
