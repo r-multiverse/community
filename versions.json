@@ -518,6 +518,13 @@
     "hash_highest": "0fbd05f6a1478115219f6b832c94ef9afb789219"
   },
   {
+    "package": "trelliscope",
+    "version_current": "0.1.14",
+    "hash_current": "99dfb29c0057680ecf92ed2b061dd833cfd667f8",
+    "version_highest": "0.1.14",
+    "hash_highest": "99dfb29c0057680ecf92ed2b061dd833cfd667f8"
+  },
+  {
     "package": "unigd",
     "version_current": "0.1.3",
     "hash_current": "b6c5181aa1c7c0888b923663b7fe903c6759d86d",

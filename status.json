@@ -768,6 +768,12 @@
     "version": ["0.7.2"],
     "remote_hash": ["0fbd05f6a1478115219f6b832c94ef9afb789219"]
   },
+  "trelliscope": {
+    "success": [true],
+    "published": ["2025-11-03 20:35:19.992 UTC"],
+    "version": ["0.1.14"],
+    "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"]
+  },
   "unigd": {
     "success": [true],
     "published": ["2025-11-02 06:29:17.986 UTC"],
