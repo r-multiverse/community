@@ -267,10 +267,10 @@
   },
   {
     "package": "mirai",
-    "version_current": "2.5.1",
-    "hash_current": "dc9a1269524cf58308cfec048ed4fa2ae75eb095",
-    "version_highest": "2.5.1",
-    "hash_highest": "dc9a1269524cf58308cfec048ed4fa2ae75eb095"
+    "version_current": "2.5.2",
+    "hash_current": "075a822c2cb73c5bc4d2d978232fa59c08864725",
+    "version_highest": "2.5.2",
+    "hash_highest": "075a822c2cb73c5bc4d2d978232fa59c08864725"
   },
   {
     "package": "multitools",
