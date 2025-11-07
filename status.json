@@ -1,44 +1,40 @@
 {
   "adbcbigquery": {
     "success": [false],
-    "published": ["2025-11-07 03:14:53.538 UTC"],
-    "version": ["0.20.0"],
-    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19157001725"],
+    "published": ["2025-11-07 03:49:17.438 UTC"],
+    "version": ["0.21.0"],
+    "remote_hash": ["f1f942533897f8a965e1910730310c08e3af47bd"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19157557978"],
     "dependencies": {
-      "adbcdrivermanager": [],
       "nanoarrow": ["adbcdrivermanager"]
     }
   },
   "adbcdrivermanager": {
     "success": [false],
-    "published": ["2025-11-07 03:15:08.461 UTC"],
-    "version": ["0.20.0"],
-    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19157005440"],
+    "published": ["2025-11-07 03:48:52.576 UTC"],
+    "version": ["0.21.0"],
+    "remote_hash": ["f1f942533897f8a965e1910730310c08e3af47bd"],
     "dependencies": {
       "nanoarrow": []
     }
   },
   "adbcflightsql": {
     "success": [false],
-    "published": ["2025-11-07 03:27:56.065 UTC"],
+    "published": ["2025-11-07 03:49:16.328 UTC"],
     "version": ["0.21.0"],
     "remote_hash": ["f1f942533897f8a965e1910730310c08e3af47bd"],
-    "synchronization": ["recent"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19157558003"],
     "dependencies": {
-      "adbcdrivermanager": [],
       "nanoarrow": ["adbcdrivermanager"]
     }
   },
   "adbcsnowflake": {
     "success": [false],
-    "published": ["2025-11-07 03:15:30.607 UTC"],
-    "version": ["0.20.0"],
-    "remote_hash": ["56a3ba7135c9dd71cf4b71a3c121184561de3a0a"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19157013016"],
+    "published": ["2025-11-07 03:49:21.303 UTC"],
+    "version": ["0.21.0"],
+    "remote_hash": ["f1f942533897f8a965e1910730310c08e3af47bd"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19157558060"],
     "dependencies": {
-      "adbcdrivermanager": [],
       "nanoarrow": ["adbcdrivermanager"]
     }
   },
@@ -421,11 +417,10 @@
     "remote_hash": ["23e68bf5fb8aa9d000358f3bbbf52cf7ee92a99c"]
   },
   "milRex": {
-    "success": [false],
-    "published": ["2025-11-07 03:20:17.415 UTC"],
+    "success": [true],
+    "published": ["2025-11-07 03:43:38.660 UTC"],
     "version": ["1.1.0"],
-    "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19157087854"]
+    "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"]
   },
   "mirai": {
     "success": [true],
