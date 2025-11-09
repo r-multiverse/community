@@ -352,7 +352,7 @@
   },
   "IMD": {
     "success": [false],
-    "published": ["2025-11-02 04:32:10.411 UTC"],
+    "published": ["2025-11-09 07:18:10.779 UTC"],
     "version": ["1.2.1"],
     "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"],
     "cran": ["1.2.2"]
