@@ -358,10 +358,13 @@
     "cran": ["1.2.2"]
   },
   "jagstargets": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-10-16 07:23:42.630 UTC"],
     "version": ["1.2.3"],
-    "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
+    "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"],
+    "dependencies": {
+      "tarchetypes": []
+    }
   },
   "kgp": {
     "success": [true],
@@ -572,7 +575,7 @@
   },
   "rwasm": {
     "success": [true],
-    "published": ["2025-10-12 06:22:15.289 UTC"],
+    "published": ["2025-11-11 06:17:24.187 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["005588296e03080357c7140c1eaf8b47ccabe0bc"]
   },
@@ -663,7 +666,10 @@
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/18544433329/job/52859641588"
       }
     ],
-    "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]
+    "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
+    "dependencies": {
+      "tarchetypes": []
+    }
   },
   "string2path": {
     "success": [true],
@@ -672,10 +678,11 @@
     "remote_hash": ["64be930c5bbef7e1cc491ccc52c115991113d2ac"]
   },
   "tarchetypes": {
-    "success": [true],
-    "published": ["2025-10-12 07:10:30.976 UTC"],
+    "success": [false],
+    "published": ["2025-11-11 06:49:43.438 UTC"],
     "version": ["0.13.2"],
-    "remote_hash": ["08abe45596507597310e6bc67dae3f8360bd14ee"]
+    "remote_hash": ["08abe45596507597310e6bc67dae3f8360bd14ee"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19257515712"]
   },
   "targets": {
     "success": [true],
@@ -684,10 +691,14 @@
     "remote_hash": ["3e00d3e0abc1675b2bc891a9fa33bbf305576a0b"]
   },
   "targetsketch": {
-    "success": [true],
-    "published": ["2025-10-12 07:05:14.775 UTC"],
+    "success": [false],
+    "published": ["2025-11-11 06:46:40.009 UTC"],
     "version": ["0.0.1"],
-    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
+    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19257459966"],
+    "dependencies": {
+      "tarchetypes": []
+    }
   },
   "taxizedb": {
     "success": [true],
