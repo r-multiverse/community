@@ -578,9 +578,9 @@
   },
   "S7": {
     "success": [true],
-    "published": ["2025-11-02 13:33:56.539 UTC"],
-    "version": ["0.2.0"],
-    "remote_hash": ["860394b610799aac671ffbdc13ac69e9d1f31ccc"]
+    "published": ["2025-11-14 20:53:37.938 UTC"],
+    "version": ["0.2.1"],
+    "remote_hash": ["231039c952f7f884be50b174f8215a8ba0a3dbb6"]
   },
   "saperlipopette": {
     "success": [true],
