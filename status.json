@@ -551,11 +551,10 @@
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
-    "success": [false],
-    "published": ["2025-11-14 07:06:22.398 UTC"],
+    "success": [true],
+    "published": ["2025-11-14 08:06:19.542 UTC"],
     "version": ["2.32.2"],
-    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19357073241"]
+    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
   "Rvision": {
     "success": [false],
@@ -591,36 +590,35 @@
   },
   "SBC": {
     "success": [false],
-    "published": ["2025-11-14 07:06:12.121 UTC"],
+    "published": ["2025-11-14 08:00:09.891 UTC"],
     "version": ["0.3.0.9000"],
     "remote_hash": ["9ddc803105f5350dae6efb4ae2657e89d2a54aa8"],
     "r_cmd_check": [
       {
         "check": "WARNING",
         "config": "linux-release-x86_64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/18544433071/job/52861975594"
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19357069870/job/55383239636"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/18544433071/job/52861975600"
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19357069870/job/55383239643"
       },
       {
         "check": "ERROR",
         "config": "source",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/18544433071/job/52859353016"
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19357069870/job/55380333935"
       },
       {
         "check": "WARNING",
         "config": "windows-release",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/18544433071/job/52861975611"
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19357069870/job/55383239666"
       }
-    ],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19357069870"]
+    ]
   },
   "secretbase": {
     "success": [true],
