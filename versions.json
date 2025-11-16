@@ -491,10 +491,10 @@
   },
   {
     "package": "tidypolars",
-    "version_current": "0.15.0",
-    "hash_current": "1aa2173264633e9acbf7188ed573a33879930853",
-    "version_highest": "0.15.0",
-    "hash_highest": "1aa2173264633e9acbf7188ed573a33879930853"
+    "version_current": "0.15.1",
+    "hash_current": "6f92eff31cd964575ea5080b3dcd408d7b023642",
+    "version_highest": "0.15.1",
+    "hash_highest": "6f92eff31cd964575ea5080b3dcd408d7b023642"
   },
   {
     "package": "tidytab",

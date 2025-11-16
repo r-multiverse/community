@@ -688,30 +688,10 @@
     "remote_hash": ["6438f8a6dec45413ee7ef7938e01a672986f3dda"]
   },
   "tidypolars": {
-    "success": [false],
-    "published": ["2025-11-15 15:16:28.045 UTC"],
-    "version": ["0.15.0"],
-    "remote_hash": ["1aa2173264633e9acbf7188ed573a33879930853"],
-    "r_cmd_check": [
-      {
-        "check": "WARNING",
-        "config": "linux-release-x86_64",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19391574189/job/55485916831"
-      },
-      {
-        "check": "WARNING",
-        "config": "macos-release-arm64",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19391574189/job/55485916846"
-      },
-      {
-        "check": "WARNING",
-        "config": "windows-release",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19391574189/job/55485916876"
-      }
-    ]
+    "success": [true],
+    "published": ["2025-11-16 13:08:36.984 UTC"],
+    "version": ["0.15.1"],
+    "remote_hash": ["6f92eff31cd964575ea5080b3dcd408d7b023642"]
   },
   "tidytab": {
     "success": [true],
