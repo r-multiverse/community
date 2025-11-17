@@ -439,9 +439,9 @@
   },
   "mutagen": {
     "success": [true],
-    "published": ["2025-11-09 19:27:47.167 UTC"],
-    "version": ["0.3.0"],
-    "remote_hash": ["7a24be75caa054ece9a1af6cb3f8a9667e8a0413"]
+    "published": ["2025-11-17 01:56:54.256 UTC"],
+    "version": ["0.4.0"],
+    "remote_hash": ["0693d23a4a9f0e698f57822236bdc87ec127da8d"]
   },
   "nanoarrow": {
     "success": [false],
