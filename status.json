@@ -203,7 +203,7 @@
   },
   "deeptimedata": {
     "success": [true],
-    "published": ["2025-10-19 06:40:05.562 UTC"],
+    "published": ["2025-11-18 06:11:17.829 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["7f1d9e301bac0d580f93c168328ef2aaad490aca"]
   },
@@ -538,7 +538,7 @@
   },
   "rredlist": {
     "success": [true],
-    "published": ["2025-10-19 06:41:29.496 UTC"],
+    "published": ["2025-11-18 06:14:09.846 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
@@ -620,7 +620,7 @@
   },
   "shinystan": {
     "success": [true],
-    "published": ["2025-10-19 06:38:19.709 UTC"],
+    "published": ["2025-11-18 06:15:37.019 UTC"],
     "version": ["2.6.0"],
     "remote_hash": ["05519b20ddcbf5ac6082a5933937627d4847b778"]
   },
