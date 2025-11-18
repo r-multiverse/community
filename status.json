@@ -234,11 +234,10 @@
     ]
   },
   "duckdb": {
-    "success": [false],
-    "published": ["2025-11-18 06:56:08.401 UTC"],
+    "success": [true],
+    "published": ["2025-11-18 08:24:06.312 UTC"],
     "version": ["1.4.1"],
-    "remote_hash": ["a3c506450a019ff28a797a1c86db040c23fa21e6"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19457044333"]
+    "remote_hash": ["a3c506450a019ff28a797a1c86db040c23fa21e6"]
   },
   "ExpBites": {
     "success": [false],
@@ -476,11 +475,10 @@
     "remote_hash": ["1e4484cbc84bb090ab0a0a46337c00e2714dc8dd"]
   },
   "posteriordb": {
-    "success": [false],
-    "published": ["2025-11-18 06:54:48.535 UTC"],
+    "success": [true],
+    "published": ["2025-11-18 08:00:02.253 UTC"],
     "version": ["0.3.4"],
-    "remote_hash": ["dfd1de915900e77affa65ed1da2149a211a54b5b"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19457015711"]
+    "remote_hash": ["dfd1de915900e77affa65ed1da2149a211a54b5b"]
   },
   "projpred": {
     "success": [true],
