@@ -234,11 +234,10 @@
     ]
   },
   "duckdb": {
-    "success": [false],
-    "published": ["2025-11-19 01:51:08.329 UTC"],
-    "version": ["1.4.1"],
-    "remote_hash": ["a3c506450a019ff28a797a1c86db040c23fa21e6"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19486921926"]
+    "success": [true],
+    "published": ["2025-11-19 03:13:05.724 UTC"],
+    "version": ["1.4.2"],
+    "remote_hash": ["c60ad239c8bda698c406e53d99b8b5b334c28eaf"]
   },
   "ExpBites": {
     "success": [false],
@@ -306,7 +305,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2025-11-18 16:09:44.098 UTC"],
+    "published": ["2025-11-19 03:07:48.232 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
     "dependencies": {
