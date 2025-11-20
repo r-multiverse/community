@@ -127,10 +127,10 @@
   },
   {
     "package": "deeptime",
-    "version_current": "2.2.0",
-    "hash_current": "ff7912effea574bc4f5836707ce84cc80dcef1e6",
-    "version_highest": "2.2.0",
-    "hash_highest": "ff7912effea574bc4f5836707ce84cc80dcef1e6"
+    "version_current": "2.3.0",
+    "hash_current": "d34b332467219ad882fd4676af4a6f217fc1af98",
+    "version_highest": "2.3.0",
+    "hash_highest": "d34b332467219ad882fd4676af4a6f217fc1af98"
   },
   {
     "package": "deeptimedata",
