@@ -298,10 +298,11 @@
     "remote_hash": ["719c095fac40cf13466ffbe147664f7d19a84352"]
   },
   "ggsurveillance": {
-    "success": [true],
-    "published": ["2025-10-24 07:19:34.789 UTC"],
+    "success": [false],
+    "published": ["2025-11-23 07:31:25.756 UTC"],
     "version": ["0.5.1"],
-    "remote_hash": ["c3bd91cca84f21b55bc990ade592afc2a36a7b0d"]
+    "remote_hash": ["c3bd91cca84f21b55bc990ade592afc2a36a7b0d"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19607850697"]
   },
   "glaredb": {
     "success": [false],
