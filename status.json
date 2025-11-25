@@ -391,7 +391,7 @@
   },
   "later": {
     "success": [true],
-    "published": ["2025-10-26 06:51:55.661 UTC"],
+    "published": ["2025-11-25 06:25:53.855 UTC"],
     "version": ["1.4.4"],
     "remote_hash": ["e0a848e766bcdc228631129937e60a24265b4950"]
   },
@@ -752,10 +752,11 @@
     ]
   },
   "tidyterra": {
-    "success": [true],
-    "published": ["2025-10-26 11:31:08.480 UTC"],
+    "success": [false],
+    "published": ["2025-11-25 06:48:38.891 UTC"],
     "version": ["0.7.2"],
-    "remote_hash": ["0fbd05f6a1478115219f6b832c94ef9afb789219"]
+    "remote_hash": ["0fbd05f6a1478115219f6b832c94ef9afb789219"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19660848460"]
   },
   "trelliscope": {
     "success": [true],
