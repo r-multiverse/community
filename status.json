@@ -241,29 +241,35 @@
   },
   "ExpBites": {
     "success": [false],
-    "published": ["2025-11-25 09:01:04.561 UTC"],
+    "published": ["2025-11-25 09:57:52.085 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["1a67ea385f2780efaf17a35f92f505c3fe689aac"],
+    "remote_hash": ["87b639c5a3cea8444122573634b4ba8f53f217ea"],
     "r_cmd_check": [
       {
         "check": "ERROR",
         "config": "linux-release-x86_64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19008901300/job/56315890065"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19665329445/job/56320997564"
       },
       {
         "check": "ERROR",
         "config": "macos-release-arm64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19008901300/job/56315890123"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19665329445/job/56320997557"
       },
       {
         "check": "ERROR",
         "config": "windows-release",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19008901300/job/56315890092"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19665329445/job/56320997562"
       }
-    ]
+    ],
+    "versions": {
+      "version_current": ["0.1.0"],
+      "hash_current": ["87b639c5a3cea8444122573634b4ba8f53f217ea"],
+      "version_highest": ["0.1.0"],
+      "hash_highest": ["1a67ea385f2780efaf17a35f92f505c3fe689aac"]
+    }
   },
   "geographr": {
     "success": [false],
