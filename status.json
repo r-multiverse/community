@@ -752,11 +752,10 @@
     ]
   },
   "tidyterra": {
-    "success": [false],
-    "published": ["2025-11-25 06:48:38.891 UTC"],
+    "success": [true],
+    "published": ["2025-11-25 07:01:00.648 UTC"],
     "version": ["0.7.2"],
-    "remote_hash": ["0fbd05f6a1478115219f6b832c94ef9afb789219"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19660848460"]
+    "remote_hash": ["0fbd05f6a1478115219f6b832c94ef9afb789219"]
   },
   "trelliscope": {
     "success": [true],
