@@ -233,9 +233,10 @@
   },
   "ExpBites": {
     "success": [false],
-    "published": ["2025-11-25 13:46:51.233 UTC"],
+    "published": ["2025-11-26 13:08:14.492 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["47f20d5bee6dcf4f191e6d35f74e933418a0c48f"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19704782179"],
     "versions": {
       "version_current": ["0.1.0"],
       "hash_current": ["47f20d5bee6dcf4f191e6d35f74e933418a0c48f"],
