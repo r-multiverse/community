@@ -232,17 +232,10 @@
     "remote_hash": ["c60ad239c8bda698c406e53d99b8b5b334c28eaf"]
   },
   "ExpBites": {
-    "success": [false],
-    "published": ["2025-11-26 13:08:14.492 UTC"],
-    "version": ["0.1.0"],
-    "remote_hash": ["47f20d5bee6dcf4f191e6d35f74e933418a0c48f"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19704782179"],
-    "versions": {
-      "version_current": ["0.1.0"],
-      "hash_current": ["47f20d5bee6dcf4f191e6d35f74e933418a0c48f"],
-      "version_highest": ["0.1.0"],
-      "hash_highest": ["1a67ea385f2780efaf17a35f92f505c3fe689aac"]
-    }
+    "success": [true],
+    "published": ["2025-11-26 13:15:33.490 UTC"],
+    "version": ["0.1.3"],
+    "remote_hash": ["6d64099f87c0f238c9630b57003559f01e9a0e79"]
   },
   "geographr": {
     "success": [false],
