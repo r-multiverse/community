@@ -56,39 +56,39 @@
   },
   "audio.whisper": {
     "success": [false],
-    "published": ["2025-10-27 12:59:29.124 UTC"],
+    "published": ["2025-11-26 07:04:26.609 UTC"],
     "version": ["0.4.2"],
     "remote_hash": ["ca36a0714ea70b4c6e1b4adf79b6b24e345e5972"],
     "r_cmd_check": [
       {
         "check": "WARNING",
         "config": "linux-release-arm64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/18841443378/job/53754847850"
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19695133695/job/56418781756"
       },
       {
         "check": "WARNING",
         "config": "linux-release-x86_64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/18841443378/job/53754847837"
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19695133695/job/56418781760"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/18841443378/job/53754847802"
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19695133695/job/56418781765"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/18841443378/job/53754847883"
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19695133695/job/56418781763"
       },
       {
-        "check": "ERROR",
+        "check": "WARNING",
         "config": "windows-release",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/18841443378/job/53754847900"
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19695133695/job/56418781814"
       }
     ],
     "remotes": ["bnosac/audio.vadwebrtc"]
@@ -106,18 +106,10 @@
     "remote_hash": ["6240b33a3d2d9afc88d925c9e91dc1f7e7413655"]
   },
   "biorecap": {
-    "success": [false],
-    "published": ["2025-10-27 14:38:06.480 UTC"],
+    "success": [true],
+    "published": ["2025-11-26 07:01:55.990 UTC"],
     "version": ["0.2.0"],
-    "remote_hash": ["20dcdd9ea6fbca2a061b123ef56e5f1b94380644"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "windows-release",
-        "r": "4.5.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/18844372292/job/53765132770"
-      }
-    ]
+    "remote_hash": ["20dcdd9ea6fbca2a061b123ef56e5f1b94380644"]
   },
   "bridgestan": {
     "success": [false],
@@ -371,7 +363,7 @@
   },
   "kgp": {
     "success": [true],
-    "published": ["2025-10-27 14:30:01.542 UTC"],
+    "published": ["2025-11-26 06:59:01.017 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["284855372dc1bd76ea3aceb2bd1e69404c237834"]
   },
@@ -520,7 +512,7 @@
   },
   "qqman": {
     "success": [true],
-    "published": ["2025-10-27 14:33:14.996 UTC"],
+    "published": ["2025-11-26 06:59:30.763 UTC"],
     "version": ["0.1.9"],
     "remote_hash": ["f2ec247b6f31473f88a4b86e03a2349a4cfe3f1c"]
   },
