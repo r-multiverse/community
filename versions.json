@@ -176,10 +176,10 @@
   },
   {
     "package": "ggsurveillance",
-    "version_current": "0.5.1",
-    "hash_current": "c3bd91cca84f21b55bc990ade592afc2a36a7b0d",
-    "version_highest": "0.5.1",
-    "hash_highest": "c3bd91cca84f21b55bc990ade592afc2a36a7b0d"
+    "version_current": "0.5.2",
+    "hash_current": "b1417c45d47dc19898f8b66f9911166c030b12c1",
+    "version_highest": "0.5.2",
+    "hash_highest": "b1417c45d47dc19898f8b66f9911166c030b12c1"
   },
   {
     "package": "glaredb",

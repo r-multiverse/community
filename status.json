@@ -270,30 +270,10 @@
     "remote_hash": ["719c095fac40cf13466ffbe147664f7d19a84352"]
   },
   "ggsurveillance": {
-    "success": [false],
-    "published": ["2025-11-23 07:39:22.543 UTC"],
-    "version": ["0.5.1"],
-    "remote_hash": ["c3bd91cca84f21b55bc990ade592afc2a36a7b0d"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "linux-release-x86_64",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19607850697/job/56149329717"
-      },
-      {
-        "check": "ERROR",
-        "config": "macos-release-arm64",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19607850697/job/56149329652"
-      },
-      {
-        "check": "ERROR",
-        "config": "windows-release",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19607850697/job/56149329650"
-      }
-    ]
+    "success": [true],
+    "published": ["2025-11-27 19:24:03.740 UTC"],
+    "version": ["0.5.2"],
+    "remote_hash": ["b1417c45d47dc19898f8b66f9911166c030b12c1"]
   },
   "glaredb": {
     "success": [false],
