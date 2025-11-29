@@ -161,6 +161,13 @@
     "hash_highest": "6d64099f87c0f238c9630b57003559f01e9a0e79"
   },
   {
+    "package": "geoarrow",
+    "version_current": "0.4.1",
+    "hash_current": "6997060232b61c77c0ac5dfc7a33bc2688784ac4",
+    "version_highest": "0.4.1",
+    "hash_highest": "6997060232b61c77c0ac5dfc7a33bc2688784ac4"
+  },
+  {
     "package": "geographr",
     "version_current": "1.0.1",
     "hash_current": "ed416a6735f7c4d8da0b866260369e84c27319a2",
