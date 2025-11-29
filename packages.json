@@ -121,6 +121,11 @@
     "branch": "*release"
   },
   {
+    "package": "geoarrow",
+    "url": "https://github.com/geoarrow/geoarrow-r",
+    "branch": "*release"
+  },
+  {
     "package": "geographr",
     "url": "https://github.com/humaniverse/geographr",
     "branch": "*release"
@@ -244,6 +249,11 @@
   {
     "package": "posteriordb",
     "url": "https://github.com/stan-dev/posteriordb-r",
+    "branch": "*release"
+  },
+  {
+    "package": "prism2R",
+    "url": "https://github.com/Biomiha/prism2R",
     "branch": "*release"
   },
   {
