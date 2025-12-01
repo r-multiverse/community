@@ -295,10 +295,10 @@
   },
   {
     "package": "mutagen",
-    "version_current": "0.4.0",
-    "hash_current": "0693d23a4a9f0e698f57822236bdc87ec127da8d",
-    "version_highest": "0.4.0",
-    "hash_highest": "0693d23a4a9f0e698f57822236bdc87ec127da8d"
+    "version_current": "0.5.0",
+    "hash_current": "92ab4ab2561dbc094dc2eea27550686b53430fe2",
+    "version_highest": "0.5.0",
+    "hash_highest": "92ab4ab2561dbc094dc2eea27550686b53430fe2"
   },
   {
     "package": "nanoarrow",
@@ -341,6 +341,13 @@
     "hash_current": "dfd1de915900e77affa65ed1da2149a211a54b5b",
     "version_highest": "0.3.4",
     "hash_highest": "dfd1de915900e77affa65ed1da2149a211a54b5b"
+  },
+  {
+    "package": "prism2R",
+    "version_current": "0.1.0",
+    "hash_current": "a70fcff2cc3b3af8ed0e09c086c25f553269ab3b",
+    "version_highest": "0.1.0",
+    "hash_highest": "a70fcff2cc3b3af8ed0e09c086c25f553269ab3b"
   },
   {
     "package": "projpred",
