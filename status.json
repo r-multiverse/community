@@ -139,7 +139,7 @@
   },
   "cli": {
     "success": [true],
-    "published": ["2025-11-02 13:36:10.375 UTC"],
+    "published": ["2025-12-02 06:40:44.526 UTC"],
     "version": ["3.6.5"],
     "remote_hash": ["f8cd002012342fcf9e34940e80b32a4a17ada726"]
   },
@@ -320,13 +320,10 @@
     ]
   },
   "httpgd": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-11-06 06:27:51.845 UTC"],
     "version": ["2.0.4"],
-    "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"],
-    "dependencies": {
-      "unigd": []
-    }
+    "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
   },
   "igraph": {
     "success": [true],
@@ -361,7 +358,7 @@
   },
   "litedown": {
     "success": [true],
-    "published": ["2025-11-02 16:28:54.013 UTC"],
+    "published": ["2025-12-02 06:37:31.601 UTC"],
     "version": ["0.8"],
     "remote_hash": ["35bf1214a950d5fe75314603d11e70dba5767bd2"]
   },
@@ -584,7 +581,7 @@
   },
   "saperlipopette": {
     "success": [true],
-    "published": ["2025-11-02 07:11:20.986 UTC"],
+    "published": ["2025-12-02 06:22:00.842 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["d128c542b9e967d21a94ac99a815482c30cd4d08"]
   },
@@ -752,15 +749,14 @@
     "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"]
   },
   "unigd": {
-    "success": [false],
-    "published": ["2025-12-02 05:37:39.318 UTC"],
+    "success": [true],
+    "published": ["2025-12-02 05:46:51.267 UTC"],
     "version": ["0.1.3"],
-    "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19848484852"]
+    "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"]
   },
   "vctrs": {
     "success": [true],
-    "published": ["2025-11-02 13:38:27.509 UTC"],
+    "published": ["2025-12-02 06:40:34.645 UTC"],
     "version": ["0.6.5"],
     "remote_hash": ["11f1c1c43c32583aeaa87438c6a6b6b440b95bb2"]
   },
