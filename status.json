@@ -825,10 +825,9 @@
     ]
   },
   "zstdlite": {
-    "success": [false],
-    "published": ["2025-12-02 03:34:49.298 UTC"],
+    "success": [true],
+    "published": ["2025-12-02 03:41:36.160 UTC"],
     "version": ["0.2.6"],
-    "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19846060861"]
+    "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
 }
