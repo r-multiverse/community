@@ -320,10 +320,13 @@
     ]
   },
   "httpgd": {
-    "success": [true],
+    "success": [false],
     "published": ["2025-11-06 06:27:51.845 UTC"],
     "version": ["2.0.4"],
-    "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
+    "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"],
+    "dependencies": {
+      "unigd": []
+    }
   },
   "igraph": {
     "success": [true],
@@ -749,10 +752,11 @@
     "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"]
   },
   "unigd": {
-    "success": [true],
-    "published": ["2025-11-02 06:29:17.986 UTC"],
+    "success": [false],
+    "published": ["2025-12-02 05:37:39.318 UTC"],
     "version": ["0.1.3"],
-    "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"]
+    "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19848484852"]
   },
   "vctrs": {
     "success": [true],
