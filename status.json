@@ -183,7 +183,7 @@
   },
   "crew.cluster": {
     "success": [true],
-    "published": ["2025-11-03 11:35:43.176 UTC"],
+    "published": ["2025-12-03 07:04:15.023 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
   },
@@ -426,15 +426,14 @@
   },
   "nanoarrow": {
     "success": [false],
-    "published": ["2025-12-03 06:46:59.867 UTC"],
+    "published": ["2025-12-03 06:56:25.983 UTC"],
     "version": ["0.7.0"],
     "remote_hash": ["2cfba631b40886f1418a463f3b7c4552c8ae0dc7"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19885009114"],
     "cran": ["0.7.0-1"]
   },
   "nanonext": {
     "success": [true],
-    "published": ["2025-11-03 11:29:31.598 UTC"],
+    "published": ["2025-12-03 07:05:10.512 UTC"],
     "version": ["1.7.2"],
     "remote_hash": ["94bbe81104ca982959237f393225750c5a4edf8a"]
   },
@@ -745,7 +744,7 @@
   },
   "trelliscope": {
     "success": [true],
-    "published": ["2025-11-03 20:35:19.992 UTC"],
+    "published": ["2025-12-03 07:12:27.756 UTC"],
     "version": ["0.1.14"],
     "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"]
   },
