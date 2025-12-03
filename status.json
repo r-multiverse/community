@@ -407,11 +407,10 @@
     "remote_hash": ["54a7ab0fee7cd58ca20ec1282762f7ad0be58576"]
   },
   "multitools": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-12-03 04:43:13.496 UTC"],
     "version": ["0.1.1"],
-    "remote_hash": ["c73b933868d8c6884df4220c25779cd0874ec7de"],
-    "synchronization": ["recent"]
+    "remote_hash": ["c73b933868d8c6884df4220c25779cd0874ec7de"]
   },
   "multiverse.internals": {
     "success": [true],
