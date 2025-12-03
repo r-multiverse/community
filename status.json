@@ -426,9 +426,10 @@
   },
   "nanoarrow": {
     "success": [false],
-    "published": ["2025-11-03 07:28:09.253 UTC"],
+    "published": ["2025-12-03 06:46:59.867 UTC"],
     "version": ["0.7.0"],
     "remote_hash": ["2cfba631b40886f1418a463f3b7c4552c8ae0dc7"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19885009114"],
     "cran": ["0.7.0-1"]
   },
   "nanonext": {
