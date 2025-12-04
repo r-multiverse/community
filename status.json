@@ -699,10 +699,11 @@
     "remote_hash": ["6f92eff31cd964575ea5080b3dcd408d7b023642"]
   },
   "tidytab": {
-    "success": [true],
-    "published": ["2025-11-04 07:06:33.914 UTC"],
+    "success": [false],
+    "published": ["2025-12-04 06:46:57.874 UTC"],
     "version": ["0.0.0.9000"],
-    "remote_hash": ["0f5bed6c628d5e26be00058a1b7aaf0953620e2f"]
+    "remote_hash": ["0f5bed6c628d5e26be00058a1b7aaf0953620e2f"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19920234141"]
   },
   "tidytensor": {
     "success": [false],
