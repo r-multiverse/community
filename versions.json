@@ -455,6 +455,13 @@
     "hash_highest": "13ab20eb142b41ceec185eb7b6be4680784e32d9"
   },
   {
+    "package": "sedonadb",
+    "version_current": "0.2.0",
+    "hash_current": "69f89a9a0cced55a3792eb6dfe1f76e9dd01033c",
+    "version_highest": "0.2.0",
+    "hash_highest": "69f89a9a0cced55a3792eb6dfe1f76e9dd01033c"
+  },
+  {
     "package": "shinystan",
     "version_current": "2.6.0",
     "hash_current": "05519b20ddcbf5ac6082a5933937627d4847b778",
