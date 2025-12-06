@@ -333,6 +333,12 @@
     "branch": "*release"
   },
   {
+    "package": "sedonadb",
+    "url": "https://github.com/apache/sedona-db",
+    "subdir": "r/sedonadb",
+    "branch": "*release"
+  },
+  {
     "package": "shinystan",
     "url": "https://github.com/stan-dev/shinystan",
     "branch": "*release"
