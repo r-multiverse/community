@@ -623,6 +623,10 @@
     "version": ["1.0.5"],
     "remote_hash": ["13ab20eb142b41ceec185eb7b6be4680784e32d9"]
   },
+  "sedonadb": {
+    "success": [false],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19982666047"]
+  },
   "shinystan": {
     "success": [true],
     "published": ["2025-11-18 06:15:37.019 UTC"],
