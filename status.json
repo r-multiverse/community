@@ -1,10 +1,9 @@
 {
   "adbcbigquery": {
     "success": [false],
-    "published": ["2025-12-07 04:05:08.138 UTC"],
+    "published": ["2025-12-07 04:17:57.969 UTC"],
     "version": ["0.21.0"],
     "remote_hash": ["f1f942533897f8a965e1910730310c08e3af47bd"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/19998718454"],
     "dependencies": {
       "nanoarrow": ["adbcdrivermanager"]
     }
@@ -20,7 +19,7 @@
   },
   "adbcflightsql": {
     "success": [false],
-    "published": ["2025-11-07 04:13:22.788 UTC"],
+    "published": ["2025-12-07 04:24:31.782 UTC"],
     "version": ["0.21.0"],
     "remote_hash": ["f1f942533897f8a965e1910730310c08e3af47bd"],
     "dependencies": {
@@ -96,7 +95,7 @@
   },
   "autometric": {
     "success": [true],
-    "published": ["2025-11-07 04:26:25.644 UTC"],
+    "published": ["2025-12-07 04:39:46.006 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
   },
@@ -249,7 +248,7 @@
   },
   "geographr": {
     "success": [false],
-    "published": ["2025-11-07 04:17:14.312 UTC"],
+    "published": ["2025-12-07 04:29:35.289 UTC"],
     "version": ["1.0.1"],
     "remote_hash": ["ed416a6735f7c4d8da0b866260369e84c27319a2"],
     "r_cmd_check": [
@@ -257,19 +256,19 @@
         "check": "WARNING",
         "config": "linux-release-x86_64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19157714110/job/54762191180"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19998871268/job/57351329155"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19157714110/job/54762191164"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19998871268/job/57351329157"
       },
       {
         "check": "WARNING",
         "config": "windows-release",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19157714110/job/54762191199"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19998871268/job/57351329161"
       }
     ]
   },
