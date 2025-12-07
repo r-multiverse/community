@@ -741,9 +741,9 @@
   },
   "tidytab": {
     "success": [true],
-    "published": ["2025-12-04 06:53:27.187 UTC"],
-    "version": ["0.0.0.9000"],
-    "remote_hash": ["0f5bed6c628d5e26be00058a1b7aaf0953620e2f"]
+    "published": ["2025-12-07 01:53:36.812 UTC"],
+    "version": ["0.2.0"],
+    "remote_hash": ["f325bb0d5b5ca9a9364279c8ad92c15d34b2cd18"]
   },
   "tidytensor": {
     "success": [false],

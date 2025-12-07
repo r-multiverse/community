@@ -519,10 +519,10 @@
   },
   {
     "package": "tidytab",
-    "version_current": "0.0.0.9000",
-    "hash_current": "0f5bed6c628d5e26be00058a1b7aaf0953620e2f",
-    "version_highest": "0.0.0.9000",
-    "hash_highest": "0f5bed6c628d5e26be00058a1b7aaf0953620e2f"
+    "version_current": "0.2.0",
+    "hash_current": "f325bb0d5b5ca9a9364279c8ad92c15d34b2cd18",
+    "version_highest": "0.2.0",
+    "hash_highest": "f325bb0d5b5ca9a9364279c8ad92c15d34b2cd18"
   },
   {
     "package": "tidytensor",
