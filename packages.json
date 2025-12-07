@@ -429,6 +429,11 @@
     "branch": "*release"
   },
   {
+    "package": "wk",
+    "url": "https://github.com/paleolimbot/wk",
+    "branch": "*release"
+  },
+  {
     "package": "zstdlite",
     "url": "https://github.com/coolbutuseless/zstdlite",
     "branch": "*release"
