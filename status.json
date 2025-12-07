@@ -28,9 +28,10 @@
   },
   "adbcsnowflake": {
     "success": [false],
-    "published": ["2025-11-08 02:51:38.259 UTC"],
+    "published": ["2025-12-07 07:33:40.697 UTC"],
     "version": ["0.21.0"],
     "remote_hash": ["f1f942533897f8a965e1910730310c08e3af47bd"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/20000947202"],
     "dependencies": {
       "nanoarrow": ["adbcdrivermanager"]
     }
