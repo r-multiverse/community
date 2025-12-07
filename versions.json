@@ -588,6 +588,13 @@
     "hash_highest": "228c24be602b16073ff2bc8096d5df9d42dc6ea1"
   },
   {
+    "package": "wk",
+    "version_current": "0.9.3",
+    "hash_current": "f247a7e3ca0c29eb764ce21d41fa7dcf16fa649f",
+    "version_highest": "0.9.3",
+    "hash_highest": "f247a7e3ca0c29eb764ce21d41fa7dcf16fa649f"
+  },
+  {
     "package": "zstdlite",
     "version_current": "0.2.6",
     "hash_current": "585458ccbe36eaa179d8b30f04f1e3a91dc6b993",

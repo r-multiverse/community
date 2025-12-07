@@ -243,7 +243,8 @@
     "version": ["0.4.1"],
     "remote_hash": ["6997060232b61c77c0ac5dfc7a33bc2688784ac4"],
     "dependencies": {
-      "nanoarrow": []
+      "nanoarrow": [],
+      "wk": []
     }
   },
   "geographr": {
@@ -661,7 +662,8 @@
       }
     ],
     "dependencies": {
-      "nanoarrow": ["geoarrow"]
+      "nanoarrow": ["geoarrow"],
+      "wk": ["geoarrow"]
     }
   },
   "shinystan": {
@@ -864,6 +866,45 @@
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/19353013549/job/55368768575"
       }
     ]
+  },
+  "wk": {
+    "success": [false],
+    "published": ["2025-12-07 09:31:10.427 UTC"],
+    "version": ["0.9.3"],
+    "remote_hash": ["f247a7e3ca0c29eb764ce21d41fa7dcf16fa649f"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "linux-release-arm64",
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/20002123406/job/57359060979"
+      },
+      {
+        "check": "ERROR",
+        "config": "linux-release-x86_64",
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/20002123406/job/57359060973"
+      },
+      {
+        "check": "ERROR",
+        "config": "macos-release-arm64",
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/20002123406/job/57359060956"
+      },
+      {
+        "check": "ERROR",
+        "config": "macos-release-x86_64",
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/20002123406/job/57359060961"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-release",
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/20002123406/job/57359060954"
+      }
+    ],
+    "cran": ["0.9.4"]
   },
   "zstdlite": {
     "success": [true],
