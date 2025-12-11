@@ -226,11 +226,10 @@
     ]
   },
   "duckdb": {
-    "success": [false],
-    "published": ["2025-12-11 02:11:07.338 UTC"],
-    "version": ["1.4.2"],
-    "remote_hash": ["c60ad239c8bda698c406e53d99b8b5b334c28eaf"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/20119629832"]
+    "success": [true],
+    "published": ["2025-12-11 03:32:06.848 UTC"],
+    "version": ["1.4.3"],
+    "remote_hash": ["f71fb42d4898475f9718e72d6ea2fd829f9b8d0a"]
   },
   "ExpBites": {
     "success": [true],
@@ -440,11 +439,10 @@
     "remote_hash": ["94bbe81104ca982959237f393225750c5a4edf8a"]
   },
   "polars": {
-    "success": [false],
-    "published": ["2025-12-11 02:11:11.506 UTC"],
-    "version": ["1.6.0"],
-    "remote_hash": ["81dacb65cb6b28b71878b3e53bb337f747a278cb"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/20119631018"]
+    "success": [true],
+    "published": ["2025-12-11 02:38:36.140 UTC"],
+    "version": ["1.7.0"],
+    "remote_hash": ["ce00932c3ffaae58a5af699ce706deb43a87f391"]
   },
   "polars0": {
     "success": [false],
@@ -770,13 +768,10 @@
     "remote_hash": ["6438f8a6dec45413ee7ef7938e01a672986f3dda"]
   },
   "tidypolars": {
-    "success": [false],
-    "published": ["2025-11-16 13:08:36.984 UTC"],
+    "success": [true],
+    "published": ["2025-12-11 02:48:09.312 UTC"],
     "version": ["0.15.1"],
-    "remote_hash": ["6f92eff31cd964575ea5080b3dcd408d7b023642"],
-    "dependencies": {
-      "polars": []
-    }
+    "remote_hash": ["6f92eff31cd964575ea5080b3dcd408d7b023642"]
   },
   "tidytab": {
     "success": [true],

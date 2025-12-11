@@ -148,10 +148,10 @@
   },
   {
     "package": "duckdb",
-    "version_current": "1.4.2",
-    "hash_current": "c60ad239c8bda698c406e53d99b8b5b334c28eaf",
-    "version_highest": "1.4.2",
-    "hash_highest": "c60ad239c8bda698c406e53d99b8b5b334c28eaf"
+    "version_current": "1.4.3",
+    "hash_current": "f71fb42d4898475f9718e72d6ea2fd829f9b8d0a",
+    "version_highest": "1.4.3",
+    "hash_highest": "f71fb42d4898475f9718e72d6ea2fd829f9b8d0a"
   },
   {
     "package": "ExpBites",
@@ -316,10 +316,10 @@
   },
   {
     "package": "polars",
-    "version_current": "1.6.0",
-    "hash_current": "81dacb65cb6b28b71878b3e53bb337f747a278cb",
-    "version_highest": "1.6.0",
-    "hash_highest": "81dacb65cb6b28b71878b3e53bb337f747a278cb"
+    "version_current": "1.7.0",
+    "hash_current": "ce00932c3ffaae58a5af699ce706deb43a87f391",
+    "version_highest": "1.7.0",
+    "hash_highest": "ce00932c3ffaae58a5af699ce706deb43a87f391"
   },
   {
     "package": "polars0",
