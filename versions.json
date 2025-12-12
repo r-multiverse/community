@@ -64,10 +64,10 @@
   },
   {
     "package": "bayesplot",
-    "version_current": "1.14.0",
-    "hash_current": "6240b33a3d2d9afc88d925c9e91dc1f7e7413655",
-    "version_highest": "1.14.0",
-    "hash_highest": "6240b33a3d2d9afc88d925c9e91dc1f7e7413655"
+    "version_current": "1.15.0",
+    "hash_current": "ce863d7f5b15aa477b09c809c247552e66656d01",
+    "version_highest": "1.15.0",
+    "hash_highest": "ce863d7f5b15aa477b09c809c247552e66656d01"
   },
   {
     "package": "biorecap",
@@ -463,10 +463,10 @@
   },
   {
     "package": "shinystan",
-    "version_current": "2.6.0",
-    "hash_current": "05519b20ddcbf5ac6082a5933937627d4847b778",
-    "version_highest": "2.6.0",
-    "hash_highest": "05519b20ddcbf5ac6082a5933937627d4847b778"
+    "version_current": "2.7.0",
+    "hash_current": "2036992879e7b1a7357340372f943303429da2b8",
+    "version_highest": "2.7.0",
+    "hash_highest": "2036992879e7b1a7357340372f943303429da2b8"
   },
   {
     "package": "stantargets",

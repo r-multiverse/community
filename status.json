@@ -101,9 +101,9 @@
   },
   "bayesplot": {
     "success": [true],
-    "published": ["2025-11-14 07:30:35.913 UTC"],
-    "version": ["1.14.0"],
-    "remote_hash": ["6240b33a3d2d9afc88d925c9e91dc1f7e7413655"]
+    "published": ["2025-12-12 18:02:53.375 UTC"],
+    "version": ["1.15.0"],
+    "remote_hash": ["ce863d7f5b15aa477b09c809c247552e66656d01"]
   },
   "biorecap": {
     "success": [true],
@@ -581,10 +581,14 @@
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
-    "success": [true],
-    "published": ["2025-11-14 08:06:19.542 UTC"],
+    "success": [false],
+    "published": ["2025-12-12 18:04:03.602 UTC"],
     "version": ["2.32.2"],
-    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
+    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/20175569486"],
+    "dependencies": {
+      "shinystan": []
+    }
   },
   "Rvision": {
     "success": [false],
@@ -699,10 +703,11 @@
     }
   },
   "shinystan": {
-    "success": [true],
-    "published": ["2025-11-18 06:15:37.019 UTC"],
-    "version": ["2.6.0"],
-    "remote_hash": ["05519b20ddcbf5ac6082a5933937627d4847b778"]
+    "success": [false],
+    "published": ["2025-12-12 18:51:42.167 UTC"],
+    "version": ["2.7.0"],
+    "remote_hash": ["2036992879e7b1a7357340372f943303429da2b8"],
+    "synchronization": ["recent"]
   },
   "stantargets": {
     "success": [false],
