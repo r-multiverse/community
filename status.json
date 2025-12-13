@@ -415,7 +415,7 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2025-12-12 07:52:15.821 UTC"],
+    "published": ["2025-12-13 02:59:20.180 UTC"],
     "version": ["1.1.9"],
     "remote_hash": ["f212449e1cb2edc8a96a86145486bea7428078c0"]
   },
@@ -582,7 +582,7 @@
   },
   "rstanarm": {
     "success": [true],
-    "published": ["2025-12-12 20:13:09.075 UTC"],
+    "published": ["2025-12-13 03:06:08.042 UTC"],
     "version": ["2.32.2"],
     "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
@@ -700,7 +700,7 @@
   },
   "shinystan": {
     "success": [true],
-    "published": ["2025-12-12 18:51:42.167 UTC"],
+    "published": ["2025-12-13 03:02:05.578 UTC"],
     "version": ["2.7.0"],
     "remote_hash": ["2036992879e7b1a7357340372f943303429da2b8"]
   },
