@@ -358,9 +358,9 @@
   },
   "litedown": {
     "success": [true],
-    "published": ["2025-12-02 06:37:31.601 UTC"],
-    "version": ["0.8"],
-    "remote_hash": ["35bf1214a950d5fe75314603d11e70dba5767bd2"]
+    "published": ["2025-12-18 18:59:51.730 UTC"],
+    "version": ["0.9"],
+    "remote_hash": ["ca3535ac33b0c1a6c57b3e42d3db431f2b794727"]
   },
   "loneliness": {
     "success": [false],
