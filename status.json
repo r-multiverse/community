@@ -488,10 +488,11 @@
     "remote_hash": ["1e4484cbc84bb090ab0a0a46337c00e2714dc8dd"]
   },
   "posteriordb": {
-    "success": [true],
-    "published": ["2025-11-18 08:00:02.253 UTC"],
+    "success": [false],
+    "published": ["2025-12-18 07:33:09.219 UTC"],
     "version": ["0.3.4"],
-    "remote_hash": ["dfd1de915900e77affa65ed1da2149a211a54b5b"]
+    "remote_hash": ["dfd1de915900e77affa65ed1da2149a211a54b5b"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/20329489311"]
   },
   "prism2R": {
     "success": [false],
