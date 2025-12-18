@@ -195,7 +195,7 @@
   },
   "deeptimedata": {
     "success": [true],
-    "published": ["2025-11-18 06:11:17.829 UTC"],
+    "published": ["2025-12-18 06:20:28.694 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["7f1d9e301bac0d580f93c168328ef2aaad490aca"]
   },
@@ -575,7 +575,7 @@
   },
   "rredlist": {
     "success": [true],
-    "published": ["2025-11-18 06:14:09.846 UTC"],
+    "published": ["2025-12-18 06:26:17.306 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
