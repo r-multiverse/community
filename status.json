@@ -533,10 +533,9 @@
   },
   "prophet": {
     "success": [false],
-    "published": ["2025-12-20 07:20:18.273 UTC"],
+    "published": ["2025-12-20 07:38:21.032 UTC"],
     "version": ["1.1.6"],
     "remote_hash": ["50d3f8b69cf21df0971120af3e5a0da80c0f5994"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/20391051802"],
     "versions": {
       "version_current": ["1.1.6"],
       "hash_current": ["50d3f8b69cf21df0971120af3e5a0da80c0f5994"],
