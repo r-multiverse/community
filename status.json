@@ -390,9 +390,9 @@
   },
   "loo": {
     "success": [true],
-    "published": ["2025-12-14 07:38:10.279 UTC"],
-    "version": ["2.8.0"],
-    "remote_hash": ["23e68bf5fb8aa9d000358f3bbbf52cf7ee92a99c"]
+    "published": ["2025-12-23 15:52:16.759 UTC"],
+    "version": ["2.9.0"],
+    "remote_hash": ["299a4c7af159b08b3be0184744cc1a9615b6a341"]
   },
   "milRex": {
     "success": [true],
@@ -527,7 +527,7 @@
   },
   "projpred": {
     "success": [true],
-    "published": ["2025-11-28 08:11:58.710 UTC"],
+    "published": ["2025-12-23 16:43:58.316 UTC"],
     "version": ["2.9.1"],
     "remote_hash": ["881b726e4ba5a33a8b5716ba3bf1e74572c283f8"]
   },
@@ -581,7 +581,7 @@
   },
   "rstanarm": {
     "success": [true],
-    "published": ["2025-12-14 03:31:56.381 UTC"],
+    "published": ["2025-12-23 16:43:04.017 UTC"],
     "version": ["2.32.2"],
     "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
