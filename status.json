@@ -170,31 +170,22 @@
     ]
   },
   "crew": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-12-01 11:08:10.582 UTC"],
     "version": ["1.3.0"],
-    "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"],
-    "dependencies": {
-      "later": []
-    }
+    "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"]
   },
   "crew.aws.batch": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-12-14 06:45:15.240 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"],
-    "dependencies": {
-      "later": ["crew"]
-    }
+    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"]
   },
   "crew.cluster": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-12-03 07:04:15.023 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"],
-    "dependencies": {
-      "later": ["crew"]
-    }
+    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
   },
   "deeptime": {
     "success": [true],
@@ -360,11 +351,10 @@
     "remote_hash": ["284855372dc1bd76ea3aceb2bd1e69404c237834"]
   },
   "later": {
-    "success": [false],
+    "success": [true],
     "published": ["2025-12-25 06:49:42.805 UTC"],
     "version": ["1.4.4"],
-    "remote_hash": ["e0a848e766bcdc228631129937e60a24265b4950"],
-    "synchronization": ["recent"]
+    "remote_hash": ["e0a848e766bcdc228631129937e60a24265b4950"]
   },
   "litedown": {
     "success": [true],
@@ -821,7 +811,7 @@
   },
   "tidyterra": {
     "success": [true],
-    "published": ["2025-11-25 07:01:00.648 UTC"],
+    "published": ["2025-12-25 07:28:50.276 UTC"],
     "version": ["0.7.2"],
     "remote_hash": ["0fbd05f6a1478115219f6b832c94ef9afb789219"]
   },
