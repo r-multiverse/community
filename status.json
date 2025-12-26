@@ -56,7 +56,7 @@
   },
   "audio.whisper": {
     "success": [false],
-    "published": ["2025-11-26 07:04:26.609 UTC"],
+    "published": ["2025-12-26 07:30:31.782 UTC"],
     "version": ["0.4.2"],
     "remote_hash": ["ca36a0714ea70b4c6e1b4adf79b6b24e345e5972"],
     "r_cmd_check": [
@@ -91,7 +91,8 @@
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/19695133695/job/56418781814"
       }
     ],
-    "remotes": ["bnosac/audio.vadwebrtc"]
+    "remotes": ["bnosac/audio.vadwebrtc"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/20518374505"]
   },
   "autometric": {
     "success": [true],
@@ -107,7 +108,7 @@
   },
   "biorecap": {
     "success": [true],
-    "published": ["2025-11-26 07:01:55.990 UTC"],
+    "published": ["2025-12-26 07:34:39.200 UTC"],
     "version": ["0.2.0"],
     "remote_hash": ["20dcdd9ea6fbca2a061b123ef56e5f1b94380644"]
   },
@@ -346,7 +347,7 @@
   },
   "kgp": {
     "success": [true],
-    "published": ["2025-11-26 06:59:01.017 UTC"],
+    "published": ["2025-12-26 07:31:18.493 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["284855372dc1bd76ea3aceb2bd1e69404c237834"]
   },
