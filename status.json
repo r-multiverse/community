@@ -280,7 +280,7 @@
   },
   "ggsurveillance": {
     "success": [true],
-    "published": ["2025-11-27 19:24:03.740 UTC"],
+    "published": ["2025-12-27 08:35:06.769 UTC"],
     "version": ["0.5.2"],
     "remote_hash": ["b1417c45d47dc19898f8b66f9911166c030b12c1"]
   },
@@ -761,7 +761,7 @@
   },
   "taxizedb": {
     "success": [true],
-    "published": ["2025-11-27 07:15:32.759 UTC"],
+    "published": ["2025-12-27 07:49:26.184 UTC"],
     "version": ["0.3.2"],
     "remote_hash": ["6438f8a6dec45413ee7ef7938e01a672986f3dda"]
   },
