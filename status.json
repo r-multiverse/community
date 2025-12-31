@@ -171,7 +171,7 @@
   },
   "crew": {
     "success": [true],
-    "published": ["2025-12-01 11:08:10.582 UTC"],
+    "published": ["2025-12-31 08:30:22.196 UTC"],
     "version": ["1.3.0"],
     "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"]
   },
@@ -402,7 +402,7 @@
   },
   "mirai": {
     "success": [true],
-    "published": ["2025-12-01 11:00:50.881 UTC"],
+    "published": ["2025-12-31 08:28:12.161 UTC"],
     "version": ["2.5.3"],
     "remote_hash": ["54a7ab0fee7cd58ca20ec1282762f7ad0be58576"]
   },
