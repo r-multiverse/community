@@ -139,7 +139,7 @@
   },
   "cli": {
     "success": [true],
-    "published": ["2025-12-02 06:40:44.526 UTC"],
+    "published": ["2026-01-01 07:29:04.959 UTC"],
     "version": ["3.6.5"],
     "remote_hash": ["f8cd002012342fcf9e34940e80b32a4a17ada726"]
   },
@@ -613,7 +613,7 @@
   },
   "saperlipopette": {
     "success": [true],
-    "published": ["2025-12-02 06:22:00.842 UTC"],
+    "published": ["2026-01-01 07:07:48.230 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["d128c542b9e967d21a94ac99a815482c30cd4d08"]
   },
@@ -829,7 +829,7 @@
   },
   "vctrs": {
     "success": [true],
-    "published": ["2025-12-02 06:40:34.645 UTC"],
+    "published": ["2026-01-01 07:30:58.434 UTC"],
     "version": ["0.6.5"],
     "remote_hash": ["11f1c1c43c32583aeaa87438c6a6b6b440b95bb2"]
   },
