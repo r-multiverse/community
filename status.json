@@ -545,7 +545,7 @@
   },
   "prqlr": {
     "success": [true],
-    "published": ["2025-12-02 03:32:54.961 UTC"],
+    "published": ["2026-01-01 04:16:43.059 UTC"],
     "version": ["0.10.1"],
     "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"]
   },
@@ -905,7 +905,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2025-12-02 03:41:36.160 UTC"],
+    "published": ["2026-01-01 04:26:12.759 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
