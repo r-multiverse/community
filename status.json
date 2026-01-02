@@ -358,7 +358,7 @@
   },
   "litedown": {
     "success": [true],
-    "published": ["2026-01-02 16:09:12.132 UTC"],
+    "published": ["2026-01-02 18:20:16.476 UTC"],
     "version": ["0.9"],
     "remote_hash": ["ca3535ac33b0c1a6c57b3e42d3db431f2b794727"]
   },
@@ -439,7 +439,7 @@
   },
   "polars": {
     "success": [true],
-    "published": ["2025-12-14 08:27:11.750 UTC"],
+    "published": ["2026-01-02 18:32:19.941 UTC"],
     "version": ["1.7.0"],
     "remote_hash": ["ce00932c3ffaae58a5af699ce706deb43a87f391"]
   },
