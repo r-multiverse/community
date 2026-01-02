@@ -183,7 +183,7 @@
   },
   "crew.cluster": {
     "success": [true],
-    "published": ["2025-12-03 07:04:15.023 UTC"],
+    "published": ["2026-01-02 07:30:35.457 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
   },
@@ -426,7 +426,7 @@
   },
   "nanoarrow": {
     "success": [false],
-    "published": ["2025-12-03 06:56:25.983 UTC"],
+    "published": ["2026-01-02 07:27:54.700 UTC"],
     "version": ["0.7.0"],
     "remote_hash": ["2cfba631b40886f1418a463f3b7c4552c8ae0dc7"],
     "cran": ["0.7.0-1"]
@@ -816,10 +816,11 @@
     "remote_hash": ["0fbd05f6a1478115219f6b832c94ef9afb789219"]
   },
   "trelliscope": {
-    "success": [true],
-    "published": ["2025-12-03 07:12:27.756 UTC"],
+    "success": [false],
+    "published": ["2026-01-02 07:40:22.930 UTC"],
     "version": ["0.1.14"],
-    "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"]
+    "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"],
+    "synchronization": ["recent"]
   },
   "unigd": {
     "success": [true],
