@@ -433,7 +433,7 @@
   },
   "nanonext": {
     "success": [true],
-    "published": ["2025-12-04 03:07:22.792 UTC"],
+    "published": ["2026-01-02 08:40:41.578 UTC"],
     "version": ["1.7.2"],
     "remote_hash": ["94bbe81104ca982959237f393225750c5a4edf8a"]
   },
@@ -816,11 +816,10 @@
     "remote_hash": ["0fbd05f6a1478115219f6b832c94ef9afb789219"]
   },
   "trelliscope": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-01-02 07:40:22.930 UTC"],
     "version": ["0.1.14"],
-    "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"],
-    "synchronization": ["recent"]
+    "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"]
   },
   "unigd": {
     "success": [true],
