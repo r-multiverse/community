@@ -274,7 +274,7 @@
   },
   "geotargets": {
     "success": [true],
-    "published": ["2025-12-06 07:02:21.023 UTC"],
+    "published": ["2026-01-05 08:15:49.898 UTC"],
     "version": ["0.3.1"],
     "remote_hash": ["719c095fac40cf13466ffbe147664f7d19a84352"]
   },
@@ -557,7 +557,7 @@
   },
   "riem": {
     "success": [true],
-    "published": ["2025-12-06 06:47:47.233 UTC"],
+    "published": ["2026-01-05 07:53:39.269 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["5ad33e8c9bd7200d53fd1f24f1b807624fbf0a33"]
   },
