@@ -414,9 +414,9 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2025-12-14 03:14:22.815 UTC"],
-    "version": ["1.1.9"],
-    "remote_hash": ["f212449e1cb2edc8a96a86145486bea7428078c0"]
+    "published": ["2026-01-06 22:05:40.999 UTC"],
+    "version": ["1.1.10"],
+    "remote_hash": ["0b6af6eb06221df195c2735dedf83052360a1bc9"]
   },
   "mutagen": {
     "success": [true],

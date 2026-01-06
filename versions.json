@@ -288,10 +288,10 @@
   },
   {
     "package": "multiverse.internals",
-    "version_current": "1.1.9",
-    "hash_current": "f212449e1cb2edc8a96a86145486bea7428078c0",
-    "version_highest": "1.1.9",
-    "hash_highest": "f212449e1cb2edc8a96a86145486bea7428078c0"
+    "version_current": "1.1.10",
+    "hash_current": "0b6af6eb06221df195c2735dedf83052360a1bc9",
+    "version_highest": "1.1.10",
+    "hash_highest": "0b6af6eb06221df195c2735dedf83052360a1bc9"
   },
   {
     "package": "mutagen",
