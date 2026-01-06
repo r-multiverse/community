@@ -1,7 +1,7 @@
 {
   "adbcbigquery": {
     "success": [false],
-    "published": ["2025-12-07 04:17:57.969 UTC"],
+    "published": ["2026-01-06 04:34:29.312 UTC"],
     "version": ["0.21.0"],
     "remote_hash": ["f1f942533897f8a965e1910730310c08e3af47bd"],
     "dependencies": {
@@ -10,7 +10,7 @@
   },
   "adbcdrivermanager": {
     "success": [false],
-    "published": ["2025-12-07 03:57:10.473 UTC"],
+    "published": ["2026-01-06 04:07:22.471 UTC"],
     "version": ["0.21.0"],
     "remote_hash": ["f1f942533897f8a965e1910730310c08e3af47bd"],
     "dependencies": {
@@ -19,7 +19,7 @@
   },
   "adbcflightsql": {
     "success": [false],
-    "published": ["2025-12-07 04:24:31.782 UTC"],
+    "published": ["2026-01-06 04:42:15.437 UTC"],
     "version": ["0.21.0"],
     "remote_hash": ["f1f942533897f8a965e1910730310c08e3af47bd"],
     "dependencies": {
@@ -94,10 +94,11 @@
     "remotes": ["bnosac/audio.vadwebrtc"]
   },
   "autometric": {
-    "success": [true],
-    "published": ["2025-12-07 04:39:46.006 UTC"],
+    "success": [false],
+    "published": ["2026-01-06 04:54:22.851 UTC"],
     "version": ["0.1.2"],
-    "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
+    "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"],
+    "synchronization": ["recent"]
   },
   "bayesplot": {
     "success": [true],
@@ -248,7 +249,7 @@
   },
   "geographr": {
     "success": [false],
-    "published": ["2025-12-07 04:29:35.289 UTC"],
+    "published": ["2026-01-06 04:46:02.805 UTC"],
     "version": ["1.0.1"],
     "remote_hash": ["ed416a6735f7c4d8da0b866260369e84c27319a2"],
     "r_cmd_check": [
@@ -256,19 +257,19 @@
         "check": "WARNING",
         "config": "linux-release-x86_64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19998871268/job/57351329155"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/20738174602/job/59539857373"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19998871268/job/57351329157"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/20738174602/job/59539857345"
       },
       {
         "check": "WARNING",
         "config": "windows-release",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/19998871268/job/57351329161"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/20738174602/job/59539857379"
       }
     ]
   },
@@ -396,7 +397,7 @@
   },
   "milRex": {
     "success": [true],
-    "published": ["2025-12-07 03:53:01.720 UTC"],
+    "published": ["2026-01-06 04:03:05.546 UTC"],
     "version": ["1.1.0"],
     "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"]
   },
