@@ -50,10 +50,10 @@
   },
   {
     "package": "audio.whisper",
-    "version_current": "0.4.2",
-    "hash_current": "ca36a0714ea70b4c6e1b4adf79b6b24e345e5972",
-    "version_highest": "0.4.2",
-    "hash_highest": "ca36a0714ea70b4c6e1b4adf79b6b24e345e5972"
+    "version_current": "0.5.0",
+    "hash_current": "03904914c7dd3b35b15719a6b4901635dedcdbb9",
+    "version_highest": "0.5.0",
+    "hash_highest": "03904914c7dd3b35b15719a6b4901635dedcdbb9"
   },
   {
     "package": "autometric",
