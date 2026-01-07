@@ -561,10 +561,10 @@
   },
   {
     "package": "weathercan",
-    "version_current": "0.7.6",
-    "hash_current": "5fbc307fbeb12915814ca59025ec77d304cb3d15",
-    "version_highest": "0.7.6",
-    "hash_highest": "5fbc307fbeb12915814ca59025ec77d304cb3d15"
+    "version_current": "0.7.7",
+    "hash_current": "4073bd5ca4b86a6b4fb6d9d18796bcce463051d1",
+    "version_highest": "0.7.7",
+    "hash_highest": "4073bd5ca4b86a6b4fb6d9d18796bcce463051d1"
   },
   {
     "package": "webchem",
