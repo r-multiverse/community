@@ -834,10 +834,11 @@
     "remote_hash": ["11f1c1c43c32583aeaa87438c6a6b6b440b95bb2"]
   },
   "weathercan": {
-    "success": [true],
-    "published": ["2025-12-19 07:55:30.828 UTC"],
+    "success": [false],
+    "published": ["2026-01-07 16:47:41.647 UTC"],
     "version": ["0.7.6"],
-    "remote_hash": ["5fbc307fbeb12915814ca59025ec77d304cb3d15"]
+    "remote_hash": ["5fbc307fbeb12915814ca59025ec77d304cb3d15"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/20789079554"]
   },
   "webchem": {
     "success": [true],
