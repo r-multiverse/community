@@ -239,10 +239,10 @@
   },
   {
     "package": "later",
-    "version_current": "1.4.4",
-    "hash_current": "e0a848e766bcdc228631129937e60a24265b4950",
-    "version_highest": "1.4.4",
-    "hash_highest": "e0a848e766bcdc228631129937e60a24265b4950"
+    "version_current": "1.4.5",
+    "hash_current": "44df32274f3f0fc65a069fe099e4f762dece9621",
+    "version_highest": "1.4.5",
+    "hash_highest": "44df32274f3f0fc65a069fe099e4f762dece9621"
   },
   {
     "package": "litedown",
@@ -351,10 +351,10 @@
   },
   {
     "package": "projpred",
-    "version_current": "2.9.1",
-    "hash_current": "881b726e4ba5a33a8b5716ba3bf1e74572c283f8",
-    "version_highest": "2.9.1",
-    "hash_highest": "881b726e4ba5a33a8b5716ba3bf1e74572c283f8"
+    "version_current": "2.10.0",
+    "hash_current": "4ba5b1e34d232c75732e81fc6cafdb40b5727cc2",
+    "version_highest": "2.10.0",
+    "hash_highest": "4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"
   },
   {
     "package": "prophet",

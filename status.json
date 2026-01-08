@@ -158,31 +158,22 @@
     ]
   },
   "crew": {
-    "success": [false],
-    "published": ["2025-12-31 08:30:22.196 UTC"],
+    "success": [true],
+    "published": ["2026-01-08 09:02:06.348 UTC"],
     "version": ["1.3.0"],
-    "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"],
-    "dependencies": {
-      "later": []
-    }
+    "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"]
   },
   "crew.aws.batch": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-01-07 17:46:55.927 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"],
-    "dependencies": {
-      "later": ["crew"]
-    }
+    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"]
   },
   "crew.cluster": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-01-02 07:30:35.457 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"],
-    "dependencies": {
-      "later": ["crew"]
-    }
+    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
   },
   "deeptime": {
     "success": [true],
@@ -348,11 +339,10 @@
     "remote_hash": ["284855372dc1bd76ea3aceb2bd1e69404c237834"]
   },
   "later": {
-    "success": [false],
-    "published": ["2026-01-08 08:47:32.447 UTC"],
-    "version": ["1.4.4"],
-    "remote_hash": ["e0a848e766bcdc228631129937e60a24265b4950"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/20810921791"]
+    "success": [true],
+    "published": ["2026-01-08 08:55:38.700 UTC"],
+    "version": ["1.4.5"],
+    "remote_hash": ["44df32274f3f0fc65a069fe099e4f762dece9621"]
   },
   "litedown": {
     "success": [true],
@@ -524,11 +514,10 @@
     ]
   },
   "projpred": {
-    "success": [false],
-    "published": ["2026-01-08 08:47:38.358 UTC"],
-    "version": ["2.9.1"],
-    "remote_hash": ["881b726e4ba5a33a8b5716ba3bf1e74572c283f8"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/20810923542"]
+    "success": [true],
+    "published": ["2026-01-08 09:33:08.762 UTC"],
+    "version": ["2.10.0"],
+    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"]
   },
   "prophet": {
     "success": [false],
