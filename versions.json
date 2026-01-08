@@ -449,10 +449,10 @@
   },
   {
     "package": "secretbase",
-    "version_current": "1.0.5",
-    "hash_current": "13ab20eb142b41ceec185eb7b6be4680784e32d9",
-    "version_highest": "1.0.5",
-    "hash_highest": "13ab20eb142b41ceec185eb7b6be4680784e32d9"
+    "version_current": "1.1.0",
+    "hash_current": "b3617164348cfb5feb0a3d5f0175485e95a2fde6",
+    "version_highest": "1.1.0",
+    "hash_highest": "b3617164348cfb5feb0a3d5f0175485e95a2fde6"
   },
   {
     "package": "sedonadb",
