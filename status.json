@@ -79,8 +79,7 @@
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/20799777389/job/59742306230"
       }
     ],
-    "remotes": ["bnosac/audio.vadwebrtc"],
-    "synchronization": ["recent"]
+    "remotes": ["bnosac/audio.vadwebrtc"]
   },
   "autometric": {
     "success": [true],
