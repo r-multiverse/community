@@ -37,7 +37,7 @@
   },
   "arrow": {
     "success": [true],
-    "published": ["2026-01-09 16:02:19.415 UTC"],
+    "published": [null],
     "version": ["22.0.0"],
     "remote_hash": ["5aeb5f217f1ba39c428c9b481f393bd37097f69e"]
   },
