@@ -29,10 +29,10 @@
   },
   {
     "package": "arrow",
-    "version_current": "22.0.0",
-    "hash_current": "5aeb5f217f1ba39c428c9b481f393bd37097f69e",
-    "version_highest": "22.0.0",
-    "hash_highest": "5aeb5f217f1ba39c428c9b481f393bd37097f69e"
+    "version_current": "23.0.0",
+    "hash_current": "eafe3a9e620cf94683dee2347f370c35156dc965",
+    "version_highest": "23.0.0",
+    "hash_highest": "eafe3a9e620cf94683dee2347f370c35156dc965"
   },
   {
     "package": "asylum",
@@ -337,10 +337,10 @@
   },
   {
     "package": "posteriordb",
-    "version_current": "0.3.4",
-    "hash_current": "dfd1de915900e77affa65ed1da2149a211a54b5b",
-    "version_highest": "0.3.4",
-    "hash_highest": "dfd1de915900e77affa65ed1da2149a211a54b5b"
+    "version_current": "0.3.6",
+    "hash_current": "773fb7cd7447313dc691fd322423a87cb74cd9b7",
+    "version_highest": "0.3.6",
+    "hash_highest": "773fb7cd7447313dc691fd322423a87cb74cd9b7"
   },
   {
     "package": "prism2R",
@@ -449,10 +449,10 @@
   },
   {
     "package": "secretbase",
-    "version_current": "1.1.0",
-    "hash_current": "b3617164348cfb5feb0a3d5f0175485e95a2fde6",
-    "version_highest": "1.1.0",
-    "hash_highest": "b3617164348cfb5feb0a3d5f0175485e95a2fde6"
+    "version_current": "1.1.1",
+    "hash_current": "fd9d411c8e03b3a1cb013ade3d7c086b6d5e15f6",
+    "version_highest": "1.1.1",
+    "hash_highest": "fd9d411c8e03b3a1cb013ade3d7c086b6d5e15f6"
   },
   {
     "package": "sedonadb",
@@ -554,10 +554,10 @@
   },
   {
     "package": "vctrs",
-    "version_current": "0.6.5",
-    "hash_current": "11f1c1c43c32583aeaa87438c6a6b6b440b95bb2",
-    "version_highest": "0.6.5",
-    "hash_highest": "11f1c1c43c32583aeaa87438c6a6b6b440b95bb2"
+    "version_current": "0.7.0",
+    "hash_current": "a0ccfff7c03d742a965a76339410e8e06afac006",
+    "version_highest": "0.7.0",
+    "hash_highest": "a0ccfff7c03d742a965a76339410e8e06afac006"
   },
   {
     "package": "weathercan",
