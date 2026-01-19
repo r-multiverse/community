@@ -845,9 +845,9 @@
   },
   "weathercan": {
     "success": [true],
-    "published": ["2026-01-09 15:46:29.489 UTC"],
-    "version": ["0.7.7"],
-    "remote_hash": ["4073bd5ca4b86a6b4fb6d9d18796bcce463051d1"]
+    "published": ["2026-01-19 23:30:06.203 UTC"],
+    "version": ["0.7.8"],
+    "remote_hash": ["ae9a0e72e50caaf41823a21a1603cf23a6ece331"]
   },
   "webchem": {
     "success": [true],
