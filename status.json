@@ -776,10 +776,18 @@
     "remote_hash": ["6438f8a6dec45413ee7ef7938e01a672986f3dda"]
   },
   "tidypolars": {
-    "success": [true],
-    "published": ["2026-01-21 17:22:22.825 UTC"],
-    "version": ["0.15.1"],
-    "remote_hash": ["6f92eff31cd964575ea5080b3dcd408d7b023642"]
+    "success": [false],
+    "published": ["2026-01-21 22:34:59.351 UTC"],
+    "version": ["0.16.0"],
+    "remote_hash": ["d29609f2a206088e57ccbfeb021017b40b7cf5c0"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "windows-release",
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21227881770/job/61079861559"
+      }
+    ]
   },
   "tidytab": {
     "success": [true],
