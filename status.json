@@ -378,11 +378,10 @@
     ]
   },
   "loo": {
-    "success": [false],
-    "published": ["2026-01-22 20:32:03.707 UTC"],
+    "success": [true],
+    "published": ["2026-01-22 21:01:08.395 UTC"],
     "version": ["2.9.0"],
-    "remote_hash": ["299a4c7af159b08b3be0184744cc1a9615b6a341"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/21263890455"]
+    "remote_hash": ["299a4c7af159b08b3be0184744cc1a9615b6a341"]
   },
   "milRex": {
     "success": [true],
@@ -536,13 +535,10 @@
     ]
   },
   "projpred": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-01-08 09:33:08.762 UTC"],
     "version": ["2.10.0"],
-    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"],
-    "dependencies": {
-      "loo": []
-    }
+    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"]
   },
   "prophet": {
     "success": [false],
@@ -597,10 +593,7 @@
     "published": ["2026-01-22 20:33:35.595 UTC"],
     "version": ["2.32.2"],
     "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/21263937499"],
-    "dependencies": {
-      "loo": []
-    }
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/21263937499"]
   },
   "Rvision": {
     "success": [false],
