@@ -533,10 +533,10 @@
   },
   {
     "package": "tidyterra",
-    "version_current": "0.7.2",
-    "hash_current": "0fbd05f6a1478115219f6b832c94ef9afb789219",
-    "version_highest": "0.7.2",
-    "hash_highest": "0fbd05f6a1478115219f6b832c94ef9afb789219"
+    "version_current": "1.0.0",
+    "hash_current": "945ede2f09bb7a77d73932375627b40e9e39aa7d",
+    "version_highest": "1.0.0",
+    "hash_highest": "945ede2f09bb7a77d73932375627b40e9e39aa7d"
   },
   {
     "package": "trelliscope",
