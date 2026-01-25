@@ -358,10 +358,10 @@
   },
   {
     "package": "prophet",
-    "version_current": "1.1.6",
-    "hash_current": "50d3f8b69cf21df0971120af3e5a0da80c0f5994",
-    "version_highest": "1.1.6",
-    "hash_highest": "6e9fa67985b34a97bc98a40520ac6072d8d60491"
+    "version_current": "1.2.2",
+    "hash_current": "2cdb2cb98d756c06ecf1476e7f353ece13ed0149",
+    "version_highest": "1.2.2",
+    "hash_highest": "2cdb2cb98d756c06ecf1476e7f353ece13ed0149"
   },
   {
     "package": "prqlr",
