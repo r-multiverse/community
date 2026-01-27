@@ -521,10 +521,16 @@
     "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"]
   },
   "prophet": {
-    "success": [true],
-    "published": ["2026-01-25 13:51:40.867 UTC"],
+    "success": [false],
+    "published": ["2026-01-27 22:38:33.614 UTC"],
     "version": ["1.2.2"],
-    "remote_hash": ["2cdb2cb98d756c06ecf1476e7f353ece13ed0149"]
+    "remote_hash": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
+    "versions": {
+      "version_current": ["1.2.2"],
+      "hash_current": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
+      "version_highest": ["1.2.2"],
+      "hash_highest": ["2cdb2cb98d756c06ecf1476e7f353ece13ed0149"]
+    }
   },
   "prqlr": {
     "success": [true],
