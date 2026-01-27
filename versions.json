@@ -554,10 +554,10 @@
   },
   {
     "package": "vctrs",
-    "version_current": "0.7.0",
-    "hash_current": "a0ccfff7c03d742a965a76339410e8e06afac006",
-    "version_highest": "0.7.0",
-    "hash_highest": "a0ccfff7c03d742a965a76339410e8e06afac006"
+    "version_current": "0.7.1",
+    "hash_current": "eea0f70989fcc95998ac55856711f1199fdd2e48",
+    "version_highest": "0.7.1",
+    "hash_highest": "eea0f70989fcc95998ac55856711f1199fdd2e48"
   },
   {
     "package": "weathercan",
