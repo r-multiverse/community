@@ -148,10 +148,10 @@
   },
   {
     "package": "duckdb",
-    "version_current": "1.4.3",
-    "hash_current": "f71fb42d4898475f9718e72d6ea2fd829f9b8d0a",
-    "version_highest": "1.4.3",
-    "hash_highest": "f71fb42d4898475f9718e72d6ea2fd829f9b8d0a"
+    "version_current": "1.4.4",
+    "hash_current": "f4d7637ff0574ed9b4591d5f334edbb096ee0abb",
+    "version_highest": "1.4.4",
+    "hash_highest": "f4d7637ff0574ed9b4591d5f334edbb096ee0abb"
   },
   {
     "package": "ExpBites",

@@ -215,9 +215,9 @@
   },
   "duckdb": {
     "success": [true],
-    "published": ["2026-01-07 19:05:49.760 UTC"],
-    "version": ["1.4.3"],
-    "remote_hash": ["f71fb42d4898475f9718e72d6ea2fd829f9b8d0a"]
+    "published": ["2026-01-30 02:46:52.707 UTC"],
+    "version": ["1.4.4"],
+    "remote_hash": ["f4d7637ff0574ed9b4591d5f334edbb096ee0abb"]
   },
   "ExpBites": {
     "success": [true],
