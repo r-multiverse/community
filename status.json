@@ -418,6 +418,7 @@
     "published": ["2026-01-02 07:27:54.700 UTC"],
     "version": ["0.7.0"],
     "remote_hash": ["2cfba631b40886f1418a463f3b7c4552c8ae0dc7"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/21559213665"],
     "cran": ["0.7.0-2"]
   },
   "nanonext": {
