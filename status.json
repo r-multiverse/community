@@ -309,11 +309,10 @@
     ]
   },
   "httpgd": {
-    "success": [false],
-    "published": ["2026-01-05 07:18:20.355 UTC"],
+    "success": [true],
+    "published": ["2026-02-04 07:24:34.401 UTC"],
     "version": ["2.0.4"],
-    "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/21662211744"]
+    "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
   },
   "igraph": {
     "success": [true],
