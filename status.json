@@ -284,7 +284,7 @@
   },
   "healthyr": {
     "success": [false],
-    "published": ["2026-01-05 07:02:20.611 UTC"],
+    "published": ["2026-02-04 07:06:30.424 UTC"],
     "version": ["0.0.0.9000"],
     "remote_hash": ["37a8c7844582bf6dbbc80bf960aa176e2c3e9435"],
     "r_cmd_check": [
@@ -292,27 +292,28 @@
         "check": "WARNING",
         "config": "linux-release-x86_64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/20707610936/job/59441269761"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21661870327/job/62448536700"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/20707610936/job/59441269776"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21661870327/job/62448536701"
       },
       {
         "check": "WARNING",
         "config": "windows-release",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/20707610936/job/59441269752"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21661870327/job/62448536696"
       }
     ]
   },
   "httpgd": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-01-05 07:18:20.355 UTC"],
     "version": ["2.0.4"],
-    "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
+    "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/21662211744"]
   },
   "igraph": {
     "success": [true],
@@ -678,7 +679,7 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-01-05 07:09:48.016 UTC"],
+    "published": ["2026-02-04 07:07:05.286 UTC"],
     "version": ["0.2.0"],
     "remote_hash": ["69f89a9a0cced55a3792eb6dfe1f76e9dd01033c"],
     "r_cmd_check": [
@@ -713,6 +714,7 @@
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/20706703391/job/59439580558"
       }
     ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/21662023149"],
     "dependencies": {
       "nanoarrow": ["geoarrow"],
       "wk": ["geoarrow"]
