@@ -219,6 +219,12 @@
     "version": ["1.4.4"],
     "remote_hash": ["f4d7637ff0574ed9b4591d5f334edbb096ee0abb"]
   },
+  "ecoXCorr": {
+    "success": [true],
+    "published": ["2026-02-05 22:33:27.704 UTC"],
+    "version": ["0.1.0"],
+    "remote_hash": ["f12e78a6c969e4300ef7646f28c6e75ae6fc7548"]
+  },
   "ExpBites": {
     "success": [true],
     "published": ["2026-01-25 08:15:07.259 UTC"],
