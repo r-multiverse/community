@@ -116,6 +116,11 @@
     "branch": "*release"
   },
   {
+    "package": "ecoXCorr",
+    "url": "https://github.com/Nmoiroux/ecoXCorr",
+    "branch": "*release"
+  },
+  {
     "package": "ExpBites",
     "url": "https://github.com/Nmoiroux/ExpBites",
     "branch": "*release"
