@@ -55,6 +55,12 @@
     "branch": "*release"
   },
   {
+    "package": "bedrockbio",
+    "url": "https://github.com/bedrock-bio/bedrock-bio-client",
+    "subdir": "r",
+    "branch": "*release"
+  },
+  {
     "package": "biorecap",
     "url": "https://github.com/stephenturner/biorecap",
     "branch": "*release"
