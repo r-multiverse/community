@@ -732,7 +732,7 @@
   },
   "stantargets": {
     "success": [false],
-    "published": ["2026-02-05 10:01:19.417 UTC"],
+    "published": ["2026-02-06 04:04:58.951 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"],
     "r_cmd_check": [
@@ -740,13 +740,13 @@
         "check": "WARNING",
         "config": "linux-release-x86_64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21706819295/job/62600569006"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21706819295/job/62707679785"
       },
       {
         "check": "ERROR",
         "config": "source",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21706819295/job/62599981906"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21706819295/job/62707400076"
       }
     ],
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]
