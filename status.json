@@ -93,6 +93,15 @@
     "version": ["1.15.0"],
     "remote_hash": ["ce863d7f5b15aa477b09c809c247552e66656d01"]
   },
+  "bedrockbio": {
+    "success": [false],
+    "published": ["2026-02-06 22:26:13.470 UTC"],
+    "version": ["1.1.0"],
+    "remote_hash": ["c24adc9905f06fa3f57b5fe0f11693b586addfce"],
+    "dependencies": {
+      "tidypolars": []
+    }
+  },
   "biorecap": {
     "success": [true],
     "published": ["2026-01-09 15:41:15.894 UTC"],
