@@ -568,10 +568,11 @@
     ]
   },
   "projpred": {
-    "success": [true],
-    "published": ["2026-01-08 09:33:08.762 UTC"],
+    "success": [false],
+    "published": ["2026-02-07 08:34:12.959 UTC"],
     "version": ["2.10.0"],
-    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"]
+    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/21777251855"]
   },
   "prophet": {
     "success": [false],
