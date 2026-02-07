@@ -296,7 +296,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2026-02-06 09:32:44.286 UTC"],
+    "published": ["2026-02-07 03:53:45.198 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
     "dependencies": {
@@ -629,7 +629,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2026-01-08 03:18:02.012 UTC"],
+    "published": ["2026-02-07 03:44:56.246 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "r_cmd_check": [
@@ -637,7 +637,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/20704272621/job/59755059198"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21773584275/job/62825772372"
       }
     ]
   },
@@ -747,7 +747,7 @@
   },
   "stantargets": {
     "success": [false],
-    "published": ["2026-02-06 04:04:58.951 UTC"],
+    "published": ["2026-02-07 03:49:22.743 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"],
     "r_cmd_check": [
@@ -755,13 +755,13 @@
         "check": "WARNING",
         "config": "linux-release-x86_64",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21706819295/job/62707679785"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21706819295/job/62825903491"
       },
       {
         "check": "ERROR",
         "config": "source",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21706819295/job/62707400076"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21706819295/job/62825727379"
       }
     ],
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"]
