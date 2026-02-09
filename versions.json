@@ -163,7 +163,7 @@
   {
     "package": "ecoXCorr",
     "version_current": "0.1.0",
-    "hash_current": "47476a4b1d8ad788e6c6702c9076ad5aa631ec91",
+    "hash_current": "f12b380c98a0f92cfd0ecf240b10da554a66e021",
     "version_highest": "0.1.0",
     "hash_highest": "f12e78a6c969e4300ef7646f28c6e75ae6fc7548"
   },
@@ -316,10 +316,10 @@
   },
   {
     "package": "nanoarrow",
-    "version_current": "0.7.0",
-    "hash_current": "2cfba631b40886f1418a463f3b7c4552c8ae0dc7",
-    "version_highest": "0.7.0",
-    "hash_highest": "2cfba631b40886f1418a463f3b7c4552c8ae0dc7"
+    "version_current": "0.8.0",
+    "hash_current": "a579fbf5d192e85b6249935e117de7d02a6dc4e9",
+    "version_highest": "0.8.0",
+    "hash_highest": "a579fbf5d192e85b6249935e117de7d02a6dc4e9"
   },
   {
     "package": "nanonext",
@@ -498,17 +498,17 @@
   },
   {
     "package": "tarchetypes",
-    "version_current": "0.13.2",
-    "hash_current": "08abe45596507597310e6bc67dae3f8360bd14ee",
-    "version_highest": "0.13.2",
-    "hash_highest": "08abe45596507597310e6bc67dae3f8360bd14ee"
+    "version_current": "0.14.0",
+    "hash_current": "62950e703e63367d8df2326cad9c1fbc1780fc0e",
+    "version_highest": "0.14.0",
+    "hash_highest": "62950e703e63367d8df2326cad9c1fbc1780fc0e"
   },
   {
     "package": "targets",
-    "version_current": "1.11.4",
-    "hash_current": "3e00d3e0abc1675b2bc891a9fa33bbf305576a0b",
-    "version_highest": "1.11.4",
-    "hash_highest": "3e00d3e0abc1675b2bc891a9fa33bbf305576a0b"
+    "version_current": "1.12.0",
+    "hash_current": "e65b01c27bc38f45760e7bb52ef021f1656b9846",
+    "version_highest": "1.12.0",
+    "hash_highest": "e65b01c27bc38f45760e7bb52ef021f1656b9846"
   },
   {
     "package": "targetsketch",
