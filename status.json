@@ -155,35 +155,22 @@
     ]
   },
   "crew": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-02-09 21:02:35.859 UTC"],
     "version": ["1.3.0"],
-    "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"],
-    "synchronization": ["recent"],
-    "dependencies": {
-      "mirai": []
-    }
+    "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"]
   },
   "crew.aws.batch": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-02-08 08:58:28.608 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"],
-    "dependencies": {
-      "crew": [],
-      "mirai": ["crew"]
-    }
+    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"]
   },
   "crew.cluster": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-02-09 21:01:43.178 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"],
-    "synchronization": ["recent"],
-    "dependencies": {
-      "crew": [],
-      "mirai": ["crew"]
-    }
+    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
   },
   "deeptime": {
     "success": [true],
@@ -428,11 +415,10 @@
     "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"]
   },
   "mirai": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-02-09 21:02:10.944 UTC"],
     "version": ["2.5.3"],
-    "remote_hash": ["54a7ab0fee7cd58ca20ec1282762f7ad0be58576"],
-    "synchronization": ["recent"]
+    "remote_hash": ["54a7ab0fee7cd58ca20ec1282762f7ad0be58576"]
   },
   "multitools": {
     "success": [true],
@@ -441,11 +427,10 @@
     "remote_hash": ["c73b933868d8c6884df4220c25779cd0874ec7de"]
   },
   "multiverse.internals": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-02-09 21:02:31.130 UTC"],
     "version": ["1.1.10"],
-    "remote_hash": ["0b6af6eb06221df195c2735dedf83052360a1bc9"],
-    "synchronization": ["recent"]
+    "remote_hash": ["0b6af6eb06221df195c2735dedf83052360a1bc9"]
   },
   "mutagen": {
     "success": [true],
