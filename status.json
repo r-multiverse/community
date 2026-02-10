@@ -217,36 +217,10 @@
     "remote_hash": ["f4d7637ff0574ed9b4591d5f334edbb096ee0abb"]
   },
   "ecoXCorr": {
-    "success": [false],
-    "published": ["2026-02-09 17:59:59.454 UTC"],
-    "version": ["0.1.0"],
-    "remote_hash": ["f12b380c98a0f92cfd0ecf240b10da554a66e021"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "linux-release-x86_64",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21835231008/job/63004859548"
-      },
-      {
-        "check": "ERROR",
-        "config": "macos-release-arm64",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21835231008/job/63004859460"
-      },
-      {
-        "check": "ERROR",
-        "config": "windows-release",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21835231008/job/63004859437"
-      }
-    ],
-    "versions": {
-      "version_current": ["0.1.0"],
-      "hash_current": ["f12b380c98a0f92cfd0ecf240b10da554a66e021"],
-      "version_highest": ["0.1.0"],
-      "hash_highest": ["f12e78a6c969e4300ef7646f28c6e75ae6fc7548"]
-    }
+    "success": [true],
+    "published": ["2026-02-10 14:40:42.834 UTC"],
+    "version": ["0.1.4"],
+    "remote_hash": ["f43adf5addec6c52bf05c88794b25ed64987c5d8"]
   },
   "ExpBites": {
     "success": [true],
