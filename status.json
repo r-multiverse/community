@@ -87,6 +87,7 @@
     "version": ["1.1.0"],
     "remote_hash": ["c24adc9905f06fa3f57b5fe0f11693b586addfce"],
     "dependencies": {
+      "polars": ["tidypolars"],
       "tidypolars": []
     }
   },
@@ -218,9 +219,10 @@
   },
   "ecoXCorr": {
     "success": [false],
-    "published": ["2026-02-10 19:12:16.066 UTC"],
+    "published": ["2026-02-11 18:05:16.482 UTC"],
     "version": ["0.1.4"],
     "remote_hash": ["2363ba28214d0afde744cc7a66e09719ef196814"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/21916968750"],
     "versions": {
       "version_current": ["0.1.4"],
       "hash_current": ["2363ba28214d0afde744cc7a66e09719ef196814"],
@@ -431,10 +433,11 @@
     "remote_hash": ["8f17d0b46b105632d557493b5801348a32779019"]
   },
   "polars": {
-    "success": [true],
-    "published": ["2026-01-21 17:12:24.013 UTC"],
+    "success": [false],
+    "published": ["2026-02-11 18:05:21.931 UTC"],
     "version": ["1.8.0"],
-    "remote_hash": ["99552d9ec454d69119fa22c84e1783803819c1f3"]
+    "remote_hash": ["99552d9ec454d69119fa22c84e1783803819c1f3"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/21916970820"]
   },
   "polars0": {
     "success": [false],
@@ -758,7 +761,10 @@
         "r": "4.5.2",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/21401693853/job/61614673846"
       }
-    ]
+    ],
+    "dependencies": {
+      "polars": []
+    }
   },
   "tidytab": {
     "success": [true],
