@@ -87,7 +87,6 @@
     "version": ["1.1.0"],
     "remote_hash": ["c24adc9905f06fa3f57b5fe0f11693b586addfce"],
     "dependencies": {
-      "polars": ["tidypolars"],
       "tidypolars": []
     }
   },
@@ -218,17 +217,10 @@
     "remote_hash": ["f4d7637ff0574ed9b4591d5f334edbb096ee0abb"]
   },
   "ecoXCorr": {
-    "success": [false],
-    "published": ["2026-02-11 18:05:16.482 UTC"],
-    "version": ["0.1.4"],
-    "remote_hash": ["2363ba28214d0afde744cc7a66e09719ef196814"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/21916968750"],
-    "versions": {
-      "version_current": ["0.1.4"],
-      "hash_current": ["2363ba28214d0afde744cc7a66e09719ef196814"],
-      "version_highest": ["0.1.4"],
-      "hash_highest": ["f43adf5addec6c52bf05c88794b25ed64987c5d8"]
-    }
+    "success": [true],
+    "published": ["2026-02-11 18:19:54.130 UTC"],
+    "version": ["0.1.6"],
+    "remote_hash": ["271d1bc468317504d3ee1608cfc0c96d909bb970"]
   },
   "ExpBites": {
     "success": [true],
@@ -433,11 +425,10 @@
     "remote_hash": ["8f17d0b46b105632d557493b5801348a32779019"]
   },
   "polars": {
-    "success": [false],
-    "published": ["2026-02-11 18:05:21.931 UTC"],
-    "version": ["1.8.0"],
-    "remote_hash": ["99552d9ec454d69119fa22c84e1783803819c1f3"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/21916970820"]
+    "success": [true],
+    "published": ["2026-02-11 18:35:36.295 UTC"],
+    "version": ["1.9.0"],
+    "remote_hash": ["4dacefc1d605db1a27c00c784e71323142cd2e9c"]
   },
   "polars0": {
     "success": [false],
@@ -751,20 +742,29 @@
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2026-01-27 14:56:07.890 UTC"],
+    "published": ["2026-02-11 18:50:23.496 UTC"],
     "version": ["0.16.0"],
     "remote_hash": ["d29609f2a206088e57ccbfeb021017b40b7cf5c0"],
     "r_cmd_check": [
       {
         "check": "ERROR",
+        "config": "linux-release-x86_64",
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21918087904/job/63291108469"
+      },
+      {
+        "check": "ERROR",
+        "config": "macos-release-arm64",
+        "r": "4.5.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21918087904/job/63291108404"
+      },
+      {
+        "check": "ERROR",
         "config": "windows-release",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21401693853/job/61614673846"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21918087904/job/63291108343"
       }
-    ],
-    "dependencies": {
-      "polars": []
-    }
+    ]
   },
   "tidytab": {
     "success": [true],

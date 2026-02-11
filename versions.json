@@ -162,10 +162,10 @@
   },
   {
     "package": "ecoXCorr",
-    "version_current": "0.1.4",
-    "hash_current": "2363ba28214d0afde744cc7a66e09719ef196814",
-    "version_highest": "0.1.4",
-    "hash_highest": "f43adf5addec6c52bf05c88794b25ed64987c5d8"
+    "version_current": "0.1.6",
+    "hash_current": "271d1bc468317504d3ee1608cfc0c96d909bb970",
+    "version_highest": "0.1.6",
+    "hash_highest": "271d1bc468317504d3ee1608cfc0c96d909bb970"
   },
   {
     "package": "ExpBites",
@@ -330,10 +330,10 @@
   },
   {
     "package": "polars",
-    "version_current": "1.8.0",
-    "hash_current": "99552d9ec454d69119fa22c84e1783803819c1f3",
-    "version_highest": "1.8.0",
-    "hash_highest": "99552d9ec454d69119fa22c84e1783803819c1f3"
+    "version_current": "1.9.0",
+    "hash_current": "4dacefc1d605db1a27c00c784e71323142cd2e9c",
+    "version_highest": "1.9.0",
+    "hash_highest": "4dacefc1d605db1a27c00c784e71323142cd2e9c"
   },
   {
     "package": "polars0",
