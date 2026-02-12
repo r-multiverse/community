@@ -218,9 +218,9 @@
   },
   "ecoXCorr": {
     "success": [true],
-    "published": ["2026-02-11 18:19:54.130 UTC"],
-    "version": ["0.1.6"],
-    "remote_hash": ["271d1bc468317504d3ee1608cfc0c96d909bb970"]
+    "published": ["2026-02-12 14:20:12.431 UTC"],
+    "version": ["0.1.8"],
+    "remote_hash": ["24f813f01e09e018114e810fbdf746276bbb2f44"]
   },
   "ExpBites": {
     "success": [true],
