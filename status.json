@@ -83,10 +83,9 @@
   },
   "bedrockbio": {
     "success": [false],
-    "published": ["2026-02-12 11:55:58.265 UTC"],
+    "published": ["2026-02-12 12:02:10.134 UTC"],
     "version": ["1.1.0"],
     "remote_hash": ["c24adc9905f06fa3f57b5fe0f11693b586addfce"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/21945587823"],
     "dependencies": {
       "tidypolars": []
     }
@@ -743,7 +742,7 @@
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2026-02-12 11:55:20.404 UTC"],
+    "published": ["2026-02-12 12:32:33.201 UTC"],
     "version": ["0.17.0"],
     "remote_hash": ["b2f6e1ffdac220081813f26227f10274705f97e7"],
     "r_cmd_check": [
@@ -751,7 +750,7 @@
         "check": "ERROR",
         "config": "windows-release",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21945141637/job/63381119857"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21945141637/job/63385290910"
       }
     ],
     "remotes": ["tidyverse/dplyr"]
