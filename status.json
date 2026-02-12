@@ -83,9 +83,10 @@
   },
   "bedrockbio": {
     "success": [false],
-    "published": ["2026-02-06 22:26:13.470 UTC"],
+    "published": ["2026-02-12 11:55:58.265 UTC"],
     "version": ["1.1.0"],
     "remote_hash": ["c24adc9905f06fa3f57b5fe0f11693b586addfce"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/21945587823"],
     "dependencies": {
       "tidypolars": []
     }
@@ -742,29 +743,18 @@
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2026-02-11 18:50:23.496 UTC"],
-    "version": ["0.16.0"],
-    "remote_hash": ["d29609f2a206088e57ccbfeb021017b40b7cf5c0"],
+    "published": ["2026-02-12 11:55:20.404 UTC"],
+    "version": ["0.17.0"],
+    "remote_hash": ["b2f6e1ffdac220081813f26227f10274705f97e7"],
     "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "linux-release-x86_64",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21918087904/job/63291108469"
-      },
-      {
-        "check": "ERROR",
-        "config": "macos-release-arm64",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21918087904/job/63291108404"
-      },
       {
         "check": "ERROR",
         "config": "windows-release",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21918087904/job/63291108343"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21945141637/job/63381119857"
       }
-    ]
+    ],
+    "remotes": ["tidyverse/dplyr"]
   },
   "tidytab": {
     "success": [true],
