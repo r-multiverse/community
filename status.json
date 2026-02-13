@@ -156,7 +156,7 @@
   },
   "crew": {
     "success": [true],
-    "published": ["2026-02-09 21:02:35.859 UTC"],
+    "published": ["2026-02-13 12:59:51.013 UTC"],
     "version": ["1.3.0"],
     "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"]
   },
@@ -390,9 +390,9 @@
   },
   "mirai": {
     "success": [true],
-    "published": ["2026-02-09 21:02:10.944 UTC"],
-    "version": ["2.5.3"],
-    "remote_hash": ["54a7ab0fee7cd58ca20ec1282762f7ad0be58576"]
+    "published": ["2026-02-13 12:52:20.619 UTC"],
+    "version": ["2.6.0"],
+    "remote_hash": ["5c2e077915161819991f98f7b300234fe3eba59a"]
   },
   "multitools": {
     "success": [true],

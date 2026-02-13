@@ -288,10 +288,10 @@
   },
   {
     "package": "mirai",
-    "version_current": "2.5.3",
-    "hash_current": "54a7ab0fee7cd58ca20ec1282762f7ad0be58576",
-    "version_highest": "2.5.3",
-    "hash_highest": "54a7ab0fee7cd58ca20ec1282762f7ad0be58576"
+    "version_current": "2.6.0",
+    "hash_current": "5c2e077915161819991f98f7b300234fe3eba59a",
+    "version_highest": "2.6.0",
+    "hash_highest": "5c2e077915161819991f98f7b300234fe3eba59a"
   },
   {
     "package": "multitools",
