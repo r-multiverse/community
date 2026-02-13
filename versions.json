@@ -253,10 +253,10 @@
   },
   {
     "package": "later",
-    "version_current": "1.4.5",
-    "hash_current": "44df32274f3f0fc65a069fe099e4f762dece9621",
-    "version_highest": "1.4.5",
-    "hash_highest": "44df32274f3f0fc65a069fe099e4f762dece9621"
+    "version_current": "1.4.6",
+    "hash_current": "72ea12cfac39bde07550e89f63b81a414577816f",
+    "version_highest": "1.4.6",
+    "hash_highest": "72ea12cfac39bde07550e89f63b81a414577816f"
   },
   {
     "package": "litedown",
