@@ -225,10 +225,10 @@
   },
   {
     "package": "igraph",
-    "version_current": "2.2.1",
-    "hash_current": "0f790930c1a348bc7cf12c9dec003cbcce66f0fd",
-    "version_highest": "2.2.1",
-    "hash_highest": "0f790930c1a348bc7cf12c9dec003cbcce66f0fd"
+    "version_current": "2.2.2",
+    "hash_current": "87e5f49183c19ebad059546d3a0f3e6efbc2ca76",
+    "version_highest": "2.2.2",
+    "hash_highest": "87e5f49183c19ebad059546d3a0f3e6efbc2ca76"
   },
   {
     "package": "IMD",
