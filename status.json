@@ -883,9 +883,10 @@
   },
   "wk": {
     "success": [false],
-    "published": ["2026-01-15 08:31:54.644 UTC"],
+    "published": ["2026-02-14 07:49:02.739 UTC"],
     "version": ["0.9.4"],
     "remote_hash": ["03d0d38b68a67166faa1cbd774698c3e033b514c"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/22013744730"],
     "cran": ["0.9.5"]
   },
   "zstdlite": {
