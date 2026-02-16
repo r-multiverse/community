@@ -309,7 +309,7 @@
   },
   "httpgd": {
     "success": [true],
-    "published": ["2026-02-04 07:24:34.401 UTC"],
+    "published": ["2026-02-16 04:47:57.279 UTC"],
     "version": ["2.0.4"],
     "remote_hash": ["dd6ed3a687a2d7327bb28ca46725a0a203eb2a19"]
   },
@@ -402,7 +402,7 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2026-02-15 04:04:28.536 UTC"],
+    "published": ["2026-02-16 04:05:46.618 UTC"],
     "version": ["1.1.10"],
     "remote_hash": ["0b6af6eb06221df195c2735dedf83052360a1bc9"]
   },
@@ -807,9 +807,9 @@
   },
   "unigd": {
     "success": [true],
-    "published": ["2026-01-31 06:27:44.509 UTC"],
-    "version": ["0.1.3"],
-    "remote_hash": ["b6c5181aa1c7c0888b923663b7fe903c6759d86d"]
+    "published": ["2026-02-16 04:38:46.088 UTC"],
+    "version": ["0.2.0"],
+    "remote_hash": ["6312ba12b1c3aa2d85e13673de810b3741a20b54"]
   },
   "vctrs": {
     "success": [true],
