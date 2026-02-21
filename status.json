@@ -217,10 +217,16 @@
     "remote_hash": ["f4d7637ff0574ed9b4591d5f334edbb096ee0abb"]
   },
   "ecoXCorr": {
-    "success": [true],
-    "published": ["2026-02-12 14:20:12.431 UTC"],
+    "success": [false],
+    "published": ["2026-02-21 12:51:11.667 UTC"],
     "version": ["0.1.8"],
-    "remote_hash": ["24f813f01e09e018114e810fbdf746276bbb2f44"]
+    "remote_hash": ["6a09367c9a3841dcf576b8a57c057db97f201389"],
+    "versions": {
+      "version_current": ["0.1.8"],
+      "hash_current": ["6a09367c9a3841dcf576b8a57c057db97f201389"],
+      "version_highest": ["0.1.8"],
+      "hash_highest": ["24f813f01e09e018114e810fbdf746276bbb2f44"]
+    }
   },
   "ExpBites": {
     "success": [true],
