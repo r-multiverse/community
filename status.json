@@ -315,9 +315,9 @@
   },
   "httpgd": {
     "success": [true],
-    "published": ["2026-02-22 19:33:15.642 UTC"],
-    "version": ["2.1.1"],
-    "remote_hash": ["ad91f32c372e17bbbb55b563a8ccfed9980ded9b"]
+    "published": ["2026-02-22 21:32:14.328 UTC"],
+    "version": ["2.1.2"],
+    "remote_hash": ["10caf19182b61667ab6985abb1027918d805f38d"]
   },
   "igraph": {
     "success": [true],
