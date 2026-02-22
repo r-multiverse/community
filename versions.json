@@ -218,10 +218,10 @@
   },
   {
     "package": "httpgd",
-    "version_current": "2.1.2",
-    "hash_current": "10caf19182b61667ab6985abb1027918d805f38d",
-    "version_highest": "2.1.2",
-    "hash_highest": "10caf19182b61667ab6985abb1027918d805f38d"
+    "version_current": "2.1.3",
+    "hash_current": "cfc6a7124208507649893b57d025a52116ffb55b",
+    "version_highest": "2.1.3",
+    "hash_highest": "cfc6a7124208507649893b57d025a52116ffb55b"
   },
   {
     "package": "igraph",
