@@ -800,10 +800,11 @@
     ]
   },
   "tidyterra": {
-    "success": [true],
-    "published": ["2026-01-23 07:39:24.433 UTC"],
+    "success": [false],
+    "published": ["2026-02-22 07:47:35.727 UTC"],
     "version": ["1.0.0"],
-    "remote_hash": ["945ede2f09bb7a77d73932375627b40e9e39aa7d"]
+    "remote_hash": ["945ede2f09bb7a77d73932375627b40e9e39aa7d"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/22273065434"]
   },
   "trelliscope": {
     "success": [true],
