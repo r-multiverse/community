@@ -156,7 +156,7 @@
   },
   "crew": {
     "success": [true],
-    "published": ["2026-02-13 20:49:40.039 UTC"],
+    "published": ["2026-02-24 10:08:13.147 UTC"],
     "version": ["1.3.0"],
     "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"]
   },
@@ -346,9 +346,9 @@
   },
   "later": {
     "success": [true],
-    "published": ["2026-02-13 20:43:06.256 UTC"],
-    "version": ["1.4.6"],
-    "remote_hash": ["72ea12cfac39bde07550e89f63b81a414577816f"]
+    "published": ["2026-02-24 10:01:34.236 UTC"],
+    "version": ["1.4.7"],
+    "remote_hash": ["b1f936422e0b65324c7991091a3e3b7176c273c9"]
   },
   "litedown": {
     "success": [true],
