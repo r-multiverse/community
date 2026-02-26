@@ -66,6 +66,11 @@
     "branch": "*release"
   },
   {
+    "package": "bootstrapper",
+    "url": "https://github.com/VisruthSK/bootstrapper",
+    "branch": "*release"
+  },
+  {
     "package": "bridgestan",
     "url": "https://github.com/roualdes/bridgestan",
     "subdir": "R",
@@ -417,6 +422,11 @@
   {
     "package": "vctrs",
     "url": "https://github.com/r-lib/vctrs",
+    "branch": "*release"
+  },
+  {
+    "package": "voucher",
+    "url": "https://github.com/VisruthSK/voucher",
     "branch": "*release"
   },
   {
