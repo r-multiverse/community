@@ -84,6 +84,13 @@
     "hash_highest": "20dcdd9ea6fbca2a061b123ef56e5f1b94380644"
   },
   {
+    "package": "bootstrapper",
+    "version_current": "1.0.0",
+    "hash_current": "e0ee17327dc861846f340352d7ace3f51447b2c3",
+    "version_highest": "1.0.0",
+    "hash_highest": "e0ee17327dc861846f340352d7ace3f51447b2c3"
+  },
+  {
     "package": "bridgestan",
     "version_current": "2.7.0",
     "hash_current": "ec1d4d319f434d85b07193df2d81736568c42920",
@@ -572,6 +579,13 @@
     "hash_current": "eea0f70989fcc95998ac55856711f1199fdd2e48",
     "version_highest": "0.7.1",
     "hash_highest": "eea0f70989fcc95998ac55856711f1199fdd2e48"
+  },
+  {
+    "package": "voucher",
+    "version_current": "1.0.0",
+    "hash_current": "7add984783b65ae9a957943cf35b147000dc1581",
+    "version_highest": "1.0.0",
+    "hash_highest": "7add984783b65ae9a957943cf35b147000dc1581"
   },
   {
     "package": "weathercan",

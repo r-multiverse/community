@@ -96,6 +96,12 @@
     "version": ["0.2.0"],
     "remote_hash": ["20dcdd9ea6fbca2a061b123ef56e5f1b94380644"]
   },
+  "bootstrapper": {
+    "success": [true],
+    "published": ["2026-02-26 18:11:29.848 UTC"],
+    "version": ["1.0.0"],
+    "remote_hash": ["e0ee17327dc861846f340352d7ace3f51447b2c3"]
+  },
   "bridgestan": {
     "success": [false],
     "published": ["2026-02-06 07:45:32.721 UTC"],
@@ -822,6 +828,12 @@
     "published": ["2026-02-26 09:18:57.040 UTC"],
     "version": ["0.7.1"],
     "remote_hash": ["eea0f70989fcc95998ac55856711f1199fdd2e48"]
+  },
+  "voucher": {
+    "success": [true],
+    "published": ["2026-02-26 18:11:35.535 UTC"],
+    "version": ["1.0.0"],
+    "remote_hash": ["7add984783b65ae9a957943cf35b147000dc1581"]
   },
   "weathercan": {
     "success": [true],
