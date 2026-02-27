@@ -364,7 +364,7 @@
   },
   "loneliness": {
     "success": [false],
-    "published": ["2026-01-28 07:24:18.884 UTC"],
+    "published": ["2026-02-27 07:25:31.950 UTC"],
     "version": ["0.0.0.9000"],
     "remote_hash": ["330d200bf9de4a76ca1e82e3d84a3c5aba946707"],
     "r_cmd_check": [
@@ -386,7 +386,8 @@
         "r": "4.5.2",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/21428962327/job/61704003474"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/22476964076"]
   },
   "loo": {
     "success": [true],
