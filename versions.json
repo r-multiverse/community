@@ -260,10 +260,10 @@
   },
   {
     "package": "later",
-    "version_current": "1.4.7",
-    "hash_current": "b1f936422e0b65324c7991091a3e3b7176c273c9",
-    "version_highest": "1.4.7",
-    "hash_highest": "b1f936422e0b65324c7991091a3e3b7176c273c9"
+    "version_current": "1.4.8",
+    "hash_current": "938684dd177de7b42d4c7e74852fe1e0afb91c8b",
+    "version_highest": "1.4.8",
+    "hash_highest": "938684dd177de7b42d4c7e74852fe1e0afb91c8b"
   },
   {
     "package": "litedown",
@@ -456,10 +456,10 @@
   },
   {
     "package": "saperlipopette",
-    "version_current": "0.1.0",
-    "hash_current": "d128c542b9e967d21a94ac99a815482c30cd4d08",
-    "version_highest": "0.1.0",
-    "hash_highest": "d128c542b9e967d21a94ac99a815482c30cd4d08"
+    "version_current": "0.1.1",
+    "hash_current": "dc4ec9e81fb7f64a4e46502eb5abec89777dc463",
+    "version_highest": "0.1.1",
+    "hash_highest": "dc4ec9e81fb7f64a4e46502eb5abec89777dc463"
   },
   {
     "package": "SBC",
