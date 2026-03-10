@@ -618,7 +618,7 @@
   },
   "SBC": {
     "success": [false],
-    "published": ["2026-03-08 09:36:18.078 UTC"],
+    "published": ["2026-03-10 14:56:02.219 UTC"],
     "version": ["0.3.0.9000"],
     "remote_hash": ["9ddc803105f5350dae6efb4ae2657e89d2a54aa8"],
     "r_cmd_check": [
@@ -646,7 +646,8 @@
         "r": "4.5.2",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/22817625554/job/66187053693"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/22908751267"]
   },
   "secretbase": {
     "success": [true],
