@@ -13,18 +13,17 @@
     "remote_hash": ["9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2"]
   },
   "adbcflightsql": {
-    "success": [false],
-    "published": ["2026-03-10 07:14:17.743 UTC"],
+    "success": [true],
+    "published": ["2026-03-10 11:09:26.582 UTC"],
     "version": ["0.22.0"],
-    "remote_hash": ["9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/22891366905"]
+    "remote_hash": ["9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2"]
   },
   "adbcsnowflake": {
     "success": [false],
-    "published": ["2026-03-10 07:18:34.400 UTC"],
+    "published": ["2026-03-10 11:50:43.312 UTC"],
     "version": ["0.22.0"],
     "remote_hash": ["9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/22891490270"]
+    "synchronization": ["recent"]
   },
   "arrow": {
     "success": [false],
