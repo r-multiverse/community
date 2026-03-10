@@ -463,10 +463,10 @@
   },
   {
     "package": "SBC",
-    "version_current": "0.3.0.9000",
-    "hash_current": "9ddc803105f5350dae6efb4ae2657e89d2a54aa8",
-    "version_highest": "0.3.0.9000",
-    "hash_highest": "9ddc803105f5350dae6efb4ae2657e89d2a54aa8"
+    "version_current": "0.5.0.0",
+    "hash_current": "e40a320c335460851618f7019baf79d39bbedf29",
+    "version_highest": "0.5.0.0",
+    "hash_highest": "e40a320c335460851618f7019baf79d39bbedf29"
   },
   {
     "package": "secretbase",
