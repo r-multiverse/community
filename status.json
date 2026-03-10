@@ -646,8 +646,7 @@
         "r": "4.5.2",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/22908751267/job/66484110373"
       }
-    ],
-    "synchronization": ["recent"]
+    ]
   },
   "secretbase": {
     "success": [true],
