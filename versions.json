@@ -582,10 +582,10 @@
   },
   {
     "package": "voucher",
-    "version_current": "1.0.0",
-    "hash_current": "7add984783b65ae9a957943cf35b147000dc1581",
-    "version_highest": "1.0.0",
-    "hash_highest": "7add984783b65ae9a957943cf35b147000dc1581"
+    "version_current": "1.0.2",
+    "hash_current": "40ec1e988e1f73cae28f38f79d08eac1cf53b2db",
+    "version_highest": "1.0.2",
+    "hash_highest": "40ec1e988e1f73cae28f38f79d08eac1cf53b2db"
   },
   {
     "package": "weathercan",

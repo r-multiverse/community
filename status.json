@@ -799,9 +799,9 @@
   },
   "voucher": {
     "success": [true],
-    "published": ["2026-02-26 18:11:35.535 UTC"],
-    "version": ["1.0.0"],
-    "remote_hash": ["7add984783b65ae9a957943cf35b147000dc1581"]
+    "published": ["2026-03-12 20:38:53.401 UTC"],
+    "version": ["1.0.2"],
+    "remote_hash": ["40ec1e988e1f73cae28f38f79d08eac1cf53b2db"]
   },
   "weathercan": {
     "success": [true],
