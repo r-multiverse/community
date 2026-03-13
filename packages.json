@@ -157,6 +157,11 @@
     "branch": "*release"
   },
   {
+    "package": "ggtypst",
+    "url": "https://github.com/Yousa-Mirage/ggtypst",
+    "branch": "*release"
+  },
+  {
     "package": "glaredb",
     "url": "https://github.com/eitsupi/r-glaredb",
     "branch": "*release"
