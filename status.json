@@ -288,6 +288,13 @@
     "version": ["0.5.2"],
     "remote_hash": ["b1417c45d47dc19898f8b66f9911166c030b12c1"]
   },
+  "ggtypst": {
+    "success": [false],
+    "published": ["2026-03-13 17:02:18.515 UTC"],
+    "version": ["0.1.0"],
+    "remote_hash": ["a075de59066ac2024c07b9c235310fedb4f9a23e"],
+    "synchronization": ["recent"]
+  },
   "glaredb": {
     "success": [true],
     "published": ["2026-03-13 03:57:19.778 UTC"],

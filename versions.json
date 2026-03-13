@@ -210,6 +210,13 @@
     "hash_highest": "b1417c45d47dc19898f8b66f9911166c030b12c1"
   },
   {
+    "package": "ggtypst",
+    "version_current": "0.1.0",
+    "hash_current": "a075de59066ac2024c07b9c235310fedb4f9a23e",
+    "version_highest": "0.1.0",
+    "hash_highest": "a075de59066ac2024c07b9c235310fedb4f9a23e"
+  },
+  {
     "package": "glaredb",
     "version_current": "0.0.5",
     "hash_current": "ff810e8c5a1b7050d84b375b9ef33210102213f0",
