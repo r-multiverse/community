@@ -445,7 +445,7 @@
   },
   "polars": {
     "success": [false],
-    "published": ["2026-03-13 10:02:02.279 UTC"],
+    "published": ["2026-03-14 05:03:51.628 UTC"],
     "version": ["1.9.0"],
     "remote_hash": ["4dacefc1d605db1a27c00c784e71323142cd2e9c"],
     "r_cmd_check": [
@@ -453,10 +453,9 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23043213012/job/66926070395"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23043213012/job/67046367597"
       }
-    ],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/23043213012"]
+    ]
   },
   "polars0": {
     "success": [false],
