@@ -741,7 +741,6 @@
     "version": ["0.17.0"],
     "remote_hash": ["b2f6e1ffdac220081813f26227f10274705f97e7"],
     "remotes": ["tidyverse/dplyr"],
-    "synchronization": ["recent"],
     "dependencies": {
       "polars": []
     }
