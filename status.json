@@ -455,7 +455,8 @@
         "r": "4.5.2",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/23043213012/job/66926070395"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/23043213012"]
   },
   "polars0": {
     "success": [false],
@@ -686,7 +687,7 @@
   },
   "stantargets": {
     "success": [false],
-    "published": ["2026-02-12 04:13:44.464 UTC"],
+    "published": [null],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"],
     "r_cmd_check": [
