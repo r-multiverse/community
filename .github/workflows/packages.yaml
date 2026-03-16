@@ -34,10 +34,10 @@ jobs:
         shell: Rscript {0}
 
       - name: Check out the universe.
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
     
       - name: Check out contributions.
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: '${{ github.repository_owner }}/contributions'
           path: 'contributions'
