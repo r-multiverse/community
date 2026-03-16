@@ -334,7 +334,7 @@
   },
   "igraph": {
     "success": [true],
-    "published": ["2026-02-14 04:28:39.101 UTC"],
+    "published": ["2026-03-16 05:37:17.072 UTC"],
     "version": ["2.2.2"],
     "remote_hash": ["87e5f49183c19ebad059546d3a0f3e6efbc2ca76"]
   },
@@ -445,7 +445,7 @@
   },
   "polars": {
     "success": [false],
-    "published": ["2026-03-15 05:36:20.062 UTC"],
+    "published": ["2026-03-16 05:37:09.648 UTC"],
     "version": ["1.9.0"],
     "remote_hash": ["4dacefc1d605db1a27c00c784e71323142cd2e9c"],
     "r_cmd_check": [
@@ -453,13 +453,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23043213012/job/67107384757"
-      },
-      {
-        "check": "ERROR",
-        "config": "windows-release",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23043213012/job/67107607076"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23043213012/job/67174456571"
       }
     ]
   },
@@ -725,7 +719,7 @@
   },
   "targets": {
     "success": [true],
-    "published": ["2026-02-14 04:41:01.486 UTC"],
+    "published": ["2026-03-16 05:53:37.289 UTC"],
     "version": ["1.12.0"],
     "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"]
   },
