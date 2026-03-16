@@ -34,7 +34,7 @@ jobs:
         shell: Rscript {0}
 
       - name: Check out the universe.
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Record versions.
         run: |
