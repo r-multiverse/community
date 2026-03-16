@@ -219,9 +219,9 @@
   },
   "duckdb": {
     "success": [true],
-    "published": ["2026-03-01 05:35:51.588 UTC"],
-    "version": ["1.4.4"],
-    "remote_hash": ["f4d7637ff0574ed9b4591d5f334edbb096ee0abb"]
+    "published": ["2026-03-16 03:23:22.976 UTC"],
+    "version": ["1.5.0"],
+    "remote_hash": ["3ed87b738e43b178b9cd412d6a03c5305741c49b"]
   },
   "ecoXCorr": {
     "success": [false],
