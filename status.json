@@ -24,11 +24,10 @@
     "remote_hash": ["9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2"]
   },
   "arrow": {
-    "success": [false],
-    "published": ["2026-03-18 09:00:22.190 UTC"],
+    "success": [true],
+    "published": ["2026-03-18 09:32:05.918 UTC"],
     "version": ["23.0.1"],
-    "remote_hash": ["82a374e5f3de5b744f26591e6cd96de6349c76d9"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/23236852249"]
+    "remote_hash": ["82a374e5f3de5b744f26591e6cd96de6349c76d9"]
   },
   "asylum": {
     "success": [false],
@@ -497,11 +496,10 @@
     "remote_hash": ["1e4484cbc84bb090ab0a0a46337c00e2714dc8dd"]
   },
   "posteriordb": {
-    "success": [false],
-    "published": ["2026-03-18 09:00:00.507 UTC"],
+    "success": [true],
+    "published": ["2026-03-18 10:06:02.536 UTC"],
     "version": ["0.3.6"],
-    "remote_hash": ["773fb7cd7447313dc691fd322423a87cb74cd9b7"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/23236844985"]
+    "remote_hash": ["773fb7cd7447313dc691fd322423a87cb74cd9b7"]
   },
   "prism2R": {
     "success": [false],
