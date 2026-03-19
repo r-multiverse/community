@@ -339,6 +339,13 @@
     "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"],
     "cran": ["1.2.2"]
   },
+  "InsectLabelR": {
+    "success": [false],
+    "published": ["2026-03-19 16:14:07.869 UTC"],
+    "version": ["1.0.3"],
+    "remote_hash": ["2aa4947112e572811c53bd5755c3f3db3ece71d7"],
+    "synchronization": ["recent"]
+  },
   "jagstargets": {
     "success": [true],
     "published": ["2026-03-11 11:28:24.536 UTC"],
