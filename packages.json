@@ -187,6 +187,11 @@
     "branch": "*release"
   },
   {
+    "package": "InsectLabelR",
+    "url": "https://github.com/Nmoiroux/InsectLabelR",
+    "branch": "*release"
+  },
+  {
     "package": "jagstargets",
     "url": "https://github.com/ropensci/jagstargets",
     "branch": "*release"
