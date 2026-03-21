@@ -724,10 +724,11 @@
     "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"]
   },
   "targetsketch": {
-    "success": [true],
-    "published": ["2026-03-21 08:24:04.992 UTC"],
+    "success": [false],
+    "published": ["2026-03-21 15:45:10.157 UTC"],
     "version": ["0.0.1"],
-    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"]
+    "remote_hash": ["a199a734b16f91726698a19e5f147f57f79cb2b6"],
+    "synchronization": ["recent"]
   },
   "taxizedb": {
     "success": [true],
