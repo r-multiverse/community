@@ -397,7 +397,7 @@
   },
   "loo": {
     "success": [true],
-    "published": ["2026-02-21 08:24:34.617 UTC"],
+    "published": ["2026-03-23 08:34:43.805 UTC"],
     "version": ["2.9.0"],
     "remote_hash": ["299a4c7af159b08b3be0184744cc1a9615b6a341"]
   },
@@ -594,10 +594,11 @@
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
-    "success": [true],
-    "published": ["2026-02-21 09:38:51.380 UTC"],
+    "success": [false],
+    "published": ["2026-03-23 09:10:21.122 UTC"],
     "version": ["2.32.2"],
-    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
+    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/23429628710"]
   },
   "Rvision": {
     "success": [false],
