@@ -82,13 +82,10 @@
     "remote_hash": ["ce863d7f5b15aa477b09c809c247552e66656d01"]
   },
   "bedrockbio": {
-    "success": [false],
-    "published": ["2026-03-14 08:49:04.426 UTC"],
-    "version": ["1.1.0"],
-    "remote_hash": ["c24adc9905f06fa3f57b5fe0f11693b586addfce"],
-    "dependencies": {
-      "tidypolars": []
-    }
+    "success": [true],
+    "published": ["2026-03-26 04:48:12.989 UTC"],
+    "version": ["1.2.0"],
+    "remote_hash": ["e7b1ad5698d1111eb2b8a4c9a8890c1abe649b02"]
   },
   "biorecap": {
     "success": [true],
