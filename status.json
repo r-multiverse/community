@@ -82,11 +82,10 @@
     "remote_hash": ["ce863d7f5b15aa477b09c809c247552e66656d01"]
   },
   "bedrockbio": {
-    "success": [false],
-    "published": ["2026-03-26 20:40:46.908 UTC"],
-    "version": ["1.2.0"],
-    "remote_hash": ["e7b1ad5698d1111eb2b8a4c9a8890c1abe649b02"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/23616957913"]
+    "success": [true],
+    "published": ["2026-03-26 21:30:13.252 UTC"],
+    "version": ["1.2.1"],
+    "remote_hash": ["9c41f9e3b0df77792fa28f2d79241ff60a2bd6c5"]
   },
   "biorecap": {
     "success": [true],
