@@ -95,7 +95,7 @@
   },
   "bootstrapper": {
     "success": [true],
-    "published": ["2026-02-26 18:11:29.848 UTC"],
+    "published": ["2026-03-28 09:11:14.407 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["e0ee17327dc861846f340352d7ace3f51447b2c3"]
   },
@@ -485,7 +485,7 @@
   },
   "posterior": {
     "success": [true],
-    "published": ["2026-02-27 03:47:52.236 UTC"],
+    "published": ["2026-03-28 09:24:37.773 UTC"],
     "version": ["1.6.1"],
     "remote_hash": ["1e4484cbc84bb090ab0a0a46337c00e2714dc8dd"]
   },
@@ -538,7 +538,6 @@
     "published": ["2026-03-28 09:03:02.259 UTC"],
     "version": ["1.2.2"],
     "remote_hash": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
-    "synchronization": ["recent"],
     "versions": {
       "version_current": ["1.2.2"],
       "hash_current": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
