@@ -535,9 +535,10 @@
   },
   "prophet": {
     "success": [false],
-    "published": ["2026-02-26 09:35:05.538 UTC"],
+    "published": ["2026-03-28 09:03:02.259 UTC"],
     "version": ["1.2.2"],
     "remote_hash": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
+    "synchronization": ["recent"],
     "versions": {
       "version_current": ["1.2.2"],
       "hash_current": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
@@ -776,7 +777,7 @@
   },
   "trelliscope": {
     "success": [true],
-    "published": ["2026-02-26 09:20:55.838 UTC"],
+    "published": ["2026-03-28 08:49:57.828 UTC"],
     "version": ["0.1.14"],
     "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"]
   },
@@ -788,7 +789,7 @@
   },
   "vctrs": {
     "success": [true],
-    "published": ["2026-02-26 09:18:57.040 UTC"],
+    "published": ["2026-03-28 08:52:35.530 UTC"],
     "version": ["0.7.1"],
     "remote_hash": ["eea0f70989fcc95998ac55856711f1199fdd2e48"]
   },
