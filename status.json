@@ -725,10 +725,17 @@
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2026-03-30 18:13:35.134 UTC"],
-    "version": ["0.17.0"],
-    "remote_hash": ["b2f6e1ffdac220081813f26227f10274705f97e7"],
-    "remotes": ["tidyverse/dplyr"]
+    "published": ["2026-03-31 14:53:09.105 UTC"],
+    "version": ["0.18.0"],
+    "remote_hash": ["661a7449cf3910205a26324bd6375329e11e6a81"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "windows-oldrel",
+        "r": "4.5.3",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23803394449/job/69370534258"
+      }
+    ]
   },
   "tidytab": {
     "success": [true],
