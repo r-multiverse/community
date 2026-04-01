@@ -547,7 +547,7 @@
   },
   "prqlr": {
     "success": [true],
-    "published": ["2026-03-02 04:29:51.819 UTC"],
+    "published": ["2026-04-01 05:25:42.546 UTC"],
     "version": ["0.10.1"],
     "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"]
   },
@@ -589,15 +589,15 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2026-03-02 17:43:28.720 UTC"],
+    "published": ["2026-04-01 04:40:46.349 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "r_cmd_check": [
       {
         "check": "ERROR",
         "config": "source",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/21773584275/job/65438592539"
+        "r": "4.5.3",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23832169056/job/69467901370"
       }
     ]
   },
@@ -910,7 +910,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2026-03-02 04:37:43.621 UTC"],
+    "published": ["2026-04-01 05:34:22.625 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
