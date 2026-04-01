@@ -169,10 +169,10 @@
   },
   {
     "package": "ecoXCorr",
-    "version_current": "0.1.9",
-    "hash_current": "bbb1b715317cd213f4da6fea5332415778d3b71e",
-    "version_highest": "0.1.9",
-    "hash_highest": "bbb1b715317cd213f4da6fea5332415778d3b71e"
+    "version_current": "0.2.1",
+    "hash_current": "b83c07027d669e4cca4214b9773f7e270c945cd5",
+    "version_highest": "0.2.1",
+    "hash_highest": "b83c07027d669e4cca4214b9773f7e270c945cd5"
   },
   {
     "package": "ExpBites",
