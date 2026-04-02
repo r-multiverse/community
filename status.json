@@ -360,10 +360,11 @@
     "remote_hash": ["938684dd177de7b42d4c7e74852fe1e0afb91c8b"]
   },
   "litedown": {
-    "success": [true],
-    "published": ["2026-03-03 08:31:58.845 UTC"],
+    "success": [false],
+    "published": ["2026-04-02 08:28:25.309 UTC"],
     "version": ["0.9"],
-    "remote_hash": ["ca3535ac33b0c1a6c57b3e42d3db431f2b794727"]
+    "remote_hash": ["ca3535ac33b0c1a6c57b3e42d3db431f2b794727"],
+    "synchronization": ["recent"]
   },
   "loneliness": {
     "success": [false],
