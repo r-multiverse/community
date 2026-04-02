@@ -127,7 +127,7 @@
   },
   "cli": {
     "success": [true],
-    "published": ["2026-04-01 08:02:36.595 UTC"],
+    "published": ["2026-04-02 04:12:56.782 UTC"],
     "version": ["3.6.5"],
     "remote_hash": ["f8cd002012342fcf9e34940e80b32a4a17ada726"]
   },
@@ -589,7 +589,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2026-04-01 04:40:46.349 UTC"],
+    "published": ["2026-04-02 04:11:40.996 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "r_cmd_check": [
@@ -597,7 +597,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23832169056/job/69467901370"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23832169056/job/69640823830"
       }
     ]
   },
@@ -910,7 +910,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2026-04-01 05:34:22.625 UTC"],
+    "published": ["2026-04-02 04:13:03.750 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
