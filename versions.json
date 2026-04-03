@@ -253,10 +253,10 @@
   },
   {
     "package": "InsectLabelR",
-    "version_current": "1.0.3",
-    "hash_current": "2aa4947112e572811c53bd5755c3f3db3ece71d7",
-    "version_highest": "1.0.3",
-    "hash_highest": "2aa4947112e572811c53bd5755c3f3db3ece71d7"
+    "version_current": "1.0.4",
+    "hash_current": "86f66bbb8401e2ed7c7bd8be562cbfc369e35ec0",
+    "version_highest": "1.0.4",
+    "hash_highest": "86f66bbb8401e2ed7c7bd8be562cbfc369e35ec0"
   },
   {
     "package": "jagstargets",

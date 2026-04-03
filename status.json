@@ -337,9 +337,9 @@
   },
   "InsectLabelR": {
     "success": [true],
-    "published": ["2026-03-19 16:14:07.869 UTC"],
-    "version": ["1.0.3"],
-    "remote_hash": ["2aa4947112e572811c53bd5755c3f3db3ece71d7"]
+    "published": ["2026-04-03 21:38:23.221 UTC"],
+    "version": ["1.0.4"],
+    "remote_hash": ["86f66bbb8401e2ed7c7bd8be562cbfc369e35ec0"]
   },
   "jagstargets": {
     "success": [true],
