@@ -397,6 +397,12 @@
     "version": ["2.9.0"],
     "remote_hash": ["299a4c7af159b08b3be0184744cc1a9615b6a341"]
   },
+  "mfclim": {
+    "success": [true],
+    "published": ["2026-04-03 11:47:27.523 UTC"],
+    "version": ["0.1.0"],
+    "remote_hash": ["55928af5410b00e58f2f43b3d7202075fce63b87"]
+  },
   "milRex": {
     "success": [true],
     "published": ["2026-03-10 12:47:33.048 UTC"],

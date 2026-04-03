@@ -301,6 +301,13 @@
     "hash_highest": "299a4c7af159b08b3be0184744cc1a9615b6a341"
   },
   {
+    "package": "mfclim",
+    "version_current": "0.1.0",
+    "hash_current": "55928af5410b00e58f2f43b3d7202075fce63b87",
+    "version_highest": "0.1.0",
+    "hash_highest": "55928af5410b00e58f2f43b3d7202075fce63b87"
+  },
+  {
     "package": "milRex",
     "version_current": "1.1.0",
     "hash_current": "3a8c6096b0e162445f119fc2dfc46ff41d0089ba",
