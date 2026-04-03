@@ -222,6 +222,11 @@
     "branch": "*release"
   },
   {
+    "package": "mfclim",
+    "url": "https://github.com/Nmoiroux/mfclim",
+    "branch": "*release"
+  },
+  {
     "package": "milRex",
     "url": "https://github.com/datapumpernickel/milRex",
     "branch": "*release"
