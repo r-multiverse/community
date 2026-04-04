@@ -355,7 +355,7 @@
   },
   "later": {
     "success": [true],
-    "published": ["2026-03-05 14:20:01.056 UTC"],
+    "published": ["2026-04-04 08:44:04.266 UTC"],
     "version": ["1.4.8"],
     "remote_hash": ["938684dd177de7b42d4c7e74852fe1e0afb91c8b"]
   },
@@ -621,7 +621,7 @@
   },
   "saperlipopette": {
     "success": [true],
-    "published": ["2026-03-05 14:18:21.019 UTC"],
+    "published": ["2026-04-04 08:38:18.588 UTC"],
     "version": ["0.1.1"],
     "remote_hash": ["dc4ec9e81fb7f64a4e46502eb5abec89777dc463"]
   },
