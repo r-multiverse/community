@@ -292,27 +292,27 @@
   },
   "healthyr": {
     "success": [false],
-    "published": ["2026-03-06 06:41:34.194 UTC"],
+    "published": ["2026-04-05 07:06:55.456 UTC"],
     "version": ["0.0.0.9000"],
     "remote_hash": ["37a8c7844582bf6dbbc80bf960aa176e2c3e9435"],
     "r_cmd_check": [
       {
         "check": "WARNING",
         "config": "linux-release-x86_64",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/22752197504/job/65989172016"
+        "r": "4.5.3",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23996452980/job/69985359382"
       },
       {
         "check": "WARNING",
-        "config": "macos-release-arm64",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/22752197504/job/65989172012"
+        "config": "macos-oldrel-arm64",
+        "r": "4.5.3",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23996452980/job/69985359592"
       },
       {
         "check": "WARNING",
-        "config": "windows-release",
-        "r": "4.5.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/22752197504/job/65989172077"
+        "config": "windows-oldrel",
+        "r": "4.5.3",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23996452980/job/69985359386"
       }
     ]
   },
