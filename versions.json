@@ -435,10 +435,10 @@
   },
   {
     "package": "rlang",
-    "version_current": "1.1.7",
-    "hash_current": "7a519a284f1819f997bdd01840a54ef3451bc530",
-    "version_highest": "1.1.7",
-    "hash_highest": "7a519a284f1819f997bdd01840a54ef3451bc530"
+    "version_current": "1.2.0",
+    "hash_current": "31ca80fc99e20834bacf51f4a392866b2b714195",
+    "version_highest": "1.2.0",
+    "hash_highest": "31ca80fc99e20834bacf51f4a392866b2b714195"
   },
   {
     "package": "rredlist",
