@@ -548,11 +548,10 @@
     ]
   },
   "projpred": {
-    "success": [false],
-    "published": ["2026-04-08 09:11:37.227 UTC"],
+    "success": [true],
+    "published": ["2026-04-08 10:53:33.484 UTC"],
     "version": ["2.10.0"],
-    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/24127512249"]
+    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"]
   },
   "prophet": {
     "success": [false],
@@ -680,10 +679,10 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-04-08 09:24:49.678 UTC"],
+    "published": ["2026-04-08 11:28:43.153 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["7a3ab1c2f9f163aa1194c509924d9de98447f9b4"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/24128070449"],
+    "synchronization": ["recent"],
     "dependencies": {
       "wk": ["geoarrow"]
     }
