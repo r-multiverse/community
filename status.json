@@ -922,7 +922,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2026-04-08 09:15:41.507 UTC"],
+    "published": ["2026-04-08 13:37:20.453 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
