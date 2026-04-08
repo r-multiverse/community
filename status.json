@@ -25,7 +25,7 @@
   },
   "arrow": {
     "success": [true],
-    "published": ["2026-04-07 08:57:32.404 UTC"],
+    "published": ["2026-04-08 04:21:50.280 UTC"],
     "version": ["23.0.1"],
     "remote_hash": ["82a374e5f3de5b744f26591e6cd96de6349c76d9"]
   },
@@ -165,7 +165,7 @@
   },
   "crew.aws.batch": {
     "success": [true],
-    "published": ["2026-04-07 08:34:14.595 UTC"],
+    "published": ["2026-04-08 04:19:35.463 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"]
   },
@@ -324,7 +324,7 @@
   },
   "igraph": {
     "success": [true],
-    "published": ["2026-04-07 08:57:57.982 UTC"],
+    "published": ["2026-04-08 04:25:35.575 UTC"],
     "version": ["2.2.2"],
     "remote_hash": ["87e5f49183c19ebad059546d3a0f3e6efbc2ca76"]
   },
