@@ -682,7 +682,6 @@
     "published": ["2026-04-08 11:28:43.153 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["7a3ab1c2f9f163aa1194c509924d9de98447f9b4"],
-    "synchronization": ["recent"],
     "dependencies": {
       "wk": ["geoarrow"]
     }
