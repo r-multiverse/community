@@ -99,10 +99,10 @@
   },
   {
     "package": "cli",
-    "version_current": "3.6.5",
-    "hash_current": "f8cd002012342fcf9e34940e80b32a4a17ada726",
-    "version_highest": "3.6.5",
-    "hash_highest": "f8cd002012342fcf9e34940e80b32a4a17ada726"
+    "version_current": "3.6.6",
+    "hash_current": "928dad1c230a1da745bfdcc9b59726081a3a5b6e",
+    "version_highest": "3.6.6",
+    "hash_highest": "928dad1c230a1da745bfdcc9b59726081a3a5b6e"
   },
   {
     "package": "cmdstanr",
