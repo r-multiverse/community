@@ -324,9 +324,9 @@
   },
   "igraph": {
     "success": [true],
-    "published": ["2026-04-09 15:54:36.801 UTC"],
-    "version": ["2.2.2"],
-    "remote_hash": ["87e5f49183c19ebad059546d3a0f3e6efbc2ca76"]
+    "published": ["2026-04-10 05:06:04.650 UTC"],
+    "version": ["2.2.3"],
+    "remote_hash": ["3e304c2053d95c2dd38c2e4acaf63b21209638bc"]
   },
   "IMD": {
     "success": [false],
@@ -423,7 +423,7 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2026-04-09 15:47:23.414 UTC"],
+    "published": ["2026-04-10 05:13:46.107 UTC"],
     "version": ["1.1.10"],
     "remote_hash": ["0b6af6eb06221df195c2735dedf83052360a1bc9"]
   },
@@ -713,7 +713,7 @@
   },
   "targets": {
     "success": [true],
-    "published": ["2026-04-09 15:53:28.831 UTC"],
+    "published": ["2026-04-10 05:19:45.670 UTC"],
     "version": ["1.12.0"],
     "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"]
   },
