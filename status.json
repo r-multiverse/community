@@ -233,7 +233,7 @@
   },
   "geoarrow": {
     "success": [false],
-    "published": ["2026-03-11 11:39:36.969 UTC"],
+    "published": ["2026-04-10 09:37:11.542 UTC"],
     "version": ["0.4.1"],
     "remote_hash": ["6997060232b61c77c0ac5dfc7a33bc2688784ac4"],
     "dependencies": {
@@ -435,7 +435,7 @@
   },
   "nanoarrow": {
     "success": [true],
-    "published": ["2026-03-11 11:24:07.950 UTC"],
+    "published": ["2026-04-10 09:33:03.730 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["a579fbf5d192e85b6249935e117de7d02a6dc4e9"]
   },
