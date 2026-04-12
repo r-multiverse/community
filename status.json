@@ -620,10 +620,11 @@
     "remote_hash": ["231039c952f7f884be50b174f8215a8ba0a3dbb6"]
   },
   "saperlipopette": {
-    "success": [true],
-    "published": ["2026-04-09 15:42:39.625 UTC"],
+    "success": [false],
+    "published": ["2026-04-12 09:07:54.526 UTC"],
     "version": ["0.1.1"],
-    "remote_hash": ["dc4ec9e81fb7f64a4e46502eb5abec89777dc463"]
+    "remote_hash": ["dc4ec9e81fb7f64a4e46502eb5abec89777dc463"],
+    "synchronization": ["recent"]
   },
   "SBC": {
     "success": [false],
