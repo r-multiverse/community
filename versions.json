@@ -519,10 +519,10 @@
   },
   {
     "package": "string2path",
-    "version_current": "0.2.2",
-    "hash_current": "64be930c5bbef7e1cc491ccc52c115991113d2ac",
-    "version_highest": "0.2.2",
-    "hash_highest": "64be930c5bbef7e1cc491ccc52c115991113d2ac"
+    "version_current": "0.3.0",
+    "hash_current": "944811f16194e83ac7cf410d41a85261f2b5a434",
+    "version_highest": "0.3.0",
+    "hash_highest": "944811f16194e83ac7cf410d41a85261f2b5a434"
   },
   {
     "package": "tarchetypes",
