@@ -30,11 +30,10 @@
     "remote_hash": ["82a374e5f3de5b744f26591e6cd96de6349c76d9"]
   },
   "asylum": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-03-23 05:37:06.739 UTC"],
     "version": ["1.1.1"],
-    "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"],
-    "cran": ["1.1.2"]
+    "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"]
   },
   "audio.vadwebrtc": {
     "success": [true],
@@ -329,11 +328,10 @@
     "remote_hash": ["3e304c2053d95c2dd38c2e4acaf63b21209638bc"]
   },
   "IMD": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-04-07 08:32:37.311 UTC"],
     "version": ["1.2.1"],
-    "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"],
-    "cran": ["1.2.2"]
+    "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"]
   },
   "InsectLabelR": {
     "success": [true],
@@ -903,8 +901,7 @@
         "r": "4.5.3",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/23133944903/job/67193537071"
       }
-    ],
-    "cran": ["0.9.5"]
+    ]
   },
   "zstdlite": {
     "success": [true],
