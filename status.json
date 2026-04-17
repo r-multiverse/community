@@ -35,10 +35,9 @@
   },
   "arrow": {
     "success": [false],
-    "published": ["2026-04-17 15:10:00.703 UTC"],
+    "published": ["2026-04-17 15:42:24.864 UTC"],
     "version": ["23.0.1"],
     "remote_hash": ["82a374e5f3de5b744f26591e6cd96de6349c76d9"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/24572227741"],
     "cran": ["23.0.1.2"]
   },
   "asylum": {
