@@ -596,10 +596,10 @@
   },
   {
     "package": "vctrs",
-    "version_current": "0.7.2",
-    "hash_current": "d5758d90f5d5c9839697f2542d3d77268622e065",
-    "version_highest": "0.7.2",
-    "hash_highest": "d5758d90f5d5c9839697f2542d3d77268622e065"
+    "version_current": "0.7.3",
+    "hash_current": "d452a02c9f4752f3268431a3ac8aa221dbe4040f",
+    "version_highest": "0.7.3",
+    "hash_highest": "d452a02c9f4752f3268431a3ac8aa221dbe4040f"
   },
   {
     "package": "voucher",
