@@ -721,9 +721,9 @@
   },
   "string2path": {
     "success": [true],
-    "published": ["2026-04-14 12:17:12.556 UTC"],
-    "version": ["0.3.0"],
-    "remote_hash": ["944811f16194e83ac7cf410d41a85261f2b5a434"]
+    "published": ["2026-04-22 17:13:29.805 UTC"],
+    "version": ["0.3.1"],
+    "remote_hash": ["9f56fe2469b30a4dcf58c3a9c9b031bd38e80726"]
   },
   "tarchetypes": {
     "success": [true],
