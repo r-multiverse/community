@@ -299,7 +299,7 @@
   },
   "ggtypst": {
     "success": [true],
-    "published": ["2026-04-09 16:07:18.463 UTC"],
+    "published": ["2026-04-22 14:04:07.101 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["a075de59066ac2024c07b9c235310fedb4f9a23e"]
   },
@@ -466,7 +466,7 @@
   },
   "polars": {
     "success": [true],
-    "published": ["2026-04-07 08:56:05.395 UTC"],
+    "published": ["2026-04-22 13:49:36.335 UTC"],
     "version": ["1.10.0"],
     "remote_hash": ["f5161d93a74bf20316a32912d26e34a09d81a033"]
   },
@@ -634,9 +634,9 @@
   },
   "S7": {
     "success": [true],
-    "published": ["2026-04-07 09:03:17.538 UTC"],
-    "version": ["0.2.1"],
-    "remote_hash": ["231039c952f7f884be50b174f8215a8ba0a3dbb6"]
+    "published": ["2026-04-22 13:27:52.371 UTC"],
+    "version": ["0.2.2"],
+    "remote_hash": ["ec8444afe24182f4a3b585ffbbf17235ed4eedcd"]
   },
   "saperlipopette": {
     "success": [true],

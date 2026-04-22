@@ -470,10 +470,10 @@
   },
   {
     "package": "S7",
-    "version_current": "0.2.1",
-    "hash_current": "231039c952f7f884be50b174f8215a8ba0a3dbb6",
-    "version_highest": "0.2.1",
-    "hash_highest": "231039c952f7f884be50b174f8215a8ba0a3dbb6"
+    "version_current": "0.2.2",
+    "hash_current": "ec8444afe24182f4a3b585ffbbf17235ed4eedcd",
+    "version_highest": "0.2.2",
+    "hash_highest": "ec8444afe24182f4a3b585ffbbf17235ed4eedcd"
   },
   {
     "package": "saperlipopette",
