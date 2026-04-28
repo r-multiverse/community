@@ -336,11 +336,10 @@
     ]
   },
   "httpgd": {
-    "success": [false],
-    "published": ["2026-04-28 12:07:59.134 UTC"],
+    "success": [true],
+    "published": ["2026-04-28 14:26:15.999 UTC"],
     "version": ["2.1.4"],
-    "remote_hash": ["087ebf5bbf46ddc52e107d6a8bb26381177d2e7f"],
-    "synchronization": ["recent"]
+    "remote_hash": ["087ebf5bbf46ddc52e107d6a8bb26381177d2e7f"]
   },
   "igraph": {
     "success": [true],
