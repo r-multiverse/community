@@ -337,7 +337,7 @@
   },
   "httpgd": {
     "success": [true],
-    "published": ["2026-03-29 09:39:47.102 UTC"],
+    "published": ["2026-04-28 09:21:36.051 UTC"],
     "version": ["2.1.4"],
     "remote_hash": ["087ebf5bbf46ddc52e107d6a8bb26381177d2e7f"]
   },
@@ -386,27 +386,21 @@
   },
   "loneliness": {
     "success": [false],
-    "published": ["2026-03-29 07:45:59.704 UTC"],
+    "published": ["2026-04-28 07:47:46.983 UTC"],
     "version": ["0.0.0.9000"],
     "remote_hash": ["330d200bf9de4a76ca1e82e3d84a3c5aba946707"],
     "r_cmd_check": [
       {
         "check": "WARNING",
-        "config": "linux-release-x86_64",
+        "config": "macos-oldrel-arm64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23704322557/job/69053645376"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25040345640/job/73342219606"
       },
       {
         "check": "WARNING",
-        "config": "macos-release-arm64",
+        "config": "windows-oldrel",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23704322557/job/69053645395"
-      },
-      {
-        "check": "WARNING",
-        "config": "windows-release",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23704322557/job/69053645387"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25040345640/job/73342219577"
       }
     ]
   },
