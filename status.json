@@ -700,7 +700,6 @@
       }
     ],
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/25257312025"],
     "dependencies": {
       "targets": ["tarchetypes"]
     }
