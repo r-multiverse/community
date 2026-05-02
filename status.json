@@ -207,7 +207,7 @@
   },
   "demographr": {
     "success": [false],
-    "published": ["2026-03-31 06:19:04.878 UTC"],
+    "published": ["2026-05-02 15:56:14.923 UTC"],
     "version": ["0.0.1"],
     "remote_hash": ["5d73b83f4bd70048d39b6b9c4bffaf02c8aab321"],
     "r_cmd_check": [
@@ -229,7 +229,8 @@
         "r": "4.5.3",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/23783240779/job/69300730142"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/25255815539"]
   },
   "duckdb": {
     "success": [true],
@@ -522,7 +523,7 @@
   },
   "prism2R": {
     "success": [false],
-    "published": ["2026-03-31 04:28:02.868 UTC"],
+    "published": ["2026-05-02 15:56:31.823 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["a70fcff2cc3b3af8ed0e09c086c25f553269ab3b"],
     "r_cmd_check": [
@@ -550,7 +551,8 @@
         "r": "4.5.3",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/23780317923/job/69291455874"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/25255821916"]
   },
   "projpred": {
     "success": [true],
