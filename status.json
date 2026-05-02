@@ -385,11 +385,10 @@
     "remote_hash": ["938684dd177de7b42d4c7e74852fe1e0afb91c8b"]
   },
   "litedown": {
-    "success": [false],
-    "published": ["2026-05-02 08:00:37.114 UTC"],
+    "success": [true],
+    "published": ["2026-05-02 09:21:34.164 UTC"],
     "version": ["0.9"],
-    "remote_hash": ["ca3535ac33b0c1a6c57b3e42d3db431f2b794727"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/25247416633"]
+    "remote_hash": ["ca3535ac33b0c1a6c57b3e42d3db431f2b794727"]
   },
   "loneliness": {
     "success": [false],
