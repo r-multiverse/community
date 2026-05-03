@@ -352,11 +352,10 @@
     "cran": ["1.2.2"]
   },
   "InsectLabelR": {
-    "success": [false],
-    "published": ["2026-05-03 15:57:50.664 UTC"],
+    "success": [true],
+    "published": ["2026-05-03 16:29:42.082 UTC"],
     "version": ["1.0.4"],
-    "remote_hash": ["86f66bbb8401e2ed7c7bd8be562cbfc369e35ec0"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/25283729468"]
+    "remote_hash": ["86f66bbb8401e2ed7c7bd8be562cbfc369e35ec0"]
   },
   "jagstargets": {
     "success": [false],
@@ -412,11 +411,10 @@
     "remote_hash": ["299a4c7af159b08b3be0184744cc1a9615b6a341"]
   },
   "mfclim": {
-    "success": [false],
-    "published": ["2026-05-03 15:54:28.342 UTC"],
+    "success": [true],
+    "published": ["2026-05-03 16:16:35.959 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["55928af5410b00e58f2f43b3d7202075fce63b87"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/25283684648"]
+    "remote_hash": ["55928af5410b00e58f2f43b3d7202075fce63b87"]
   },
   "milRex": {
     "success": [true],
@@ -431,11 +429,10 @@
     "remote_hash": ["0caa3123f19ed454e26e45290c7f28d9234cb990"]
   },
   "multitools": {
-    "success": [false],
-    "published": ["2026-05-03 16:05:25.134 UTC"],
+    "success": [true],
+    "published": ["2026-05-03 16:40:54.187 UTC"],
     "version": ["0.1.1"],
-    "remote_hash": ["c73b933868d8c6884df4220c25779cd0874ec7de"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/25283860655"]
+    "remote_hash": ["c73b933868d8c6884df4220c25779cd0874ec7de"]
   },
   "multiverse.internals": {
     "success": [true],
