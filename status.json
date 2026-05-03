@@ -353,7 +353,7 @@
   },
   "InsectLabelR": {
     "success": [true],
-    "published": ["2026-04-03 21:38:23.221 UTC"],
+    "published": ["2026-05-03 08:53:01.111 UTC"],
     "version": ["1.0.4"],
     "remote_hash": ["86f66bbb8401e2ed7c7bd8be562cbfc369e35ec0"]
   },
@@ -412,7 +412,7 @@
   },
   "mfclim": {
     "success": [true],
-    "published": ["2026-04-03 11:47:27.523 UTC"],
+    "published": ["2026-05-03 08:43:43.019 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["55928af5410b00e58f2f43b3d7202075fce63b87"]
   },
