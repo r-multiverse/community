@@ -424,7 +424,7 @@
   },
   "mirai": {
     "success": [true],
-    "published": ["2026-04-04 12:59:27.252 UTC"],
+    "published": ["2026-05-04 08:29:34.016 UTC"],
     "version": ["2.6.1"],
     "remote_hash": ["0caa3123f19ed454e26e45290c7f28d9234cb990"]
   },
@@ -454,7 +454,7 @@
   },
   "nanonext": {
     "success": [true],
-    "published": ["2026-04-04 12:53:09.720 UTC"],
+    "published": ["2026-05-04 08:33:08.354 UTC"],
     "version": ["1.8.2"],
     "remote_hash": ["82421b6395f82fd8f5ae0d1246edda7c9545916e"]
   },
