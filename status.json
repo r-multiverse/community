@@ -595,18 +595,10 @@
     "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
   "Rvision": {
-    "success": [false],
-    "published": ["2026-04-04 04:02:53.750 UTC"],
+    "success": [true],
+    "published": ["2026-05-04 05:13:59.364 UTC"],
     "version": ["0.8.0"],
-    "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "source",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23832169056/job/69919554943"
-      }
-    ]
+    "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"]
   },
   "rwasm": {
     "success": [true],
