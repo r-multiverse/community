@@ -308,27 +308,21 @@
   },
   "healthyr": {
     "success": [false],
-    "published": ["2026-04-05 07:06:55.456 UTC"],
+    "published": ["2026-05-05 07:04:17.046 UTC"],
     "version": ["0.0.0.9000"],
     "remote_hash": ["37a8c7844582bf6dbbc80bf960aa176e2c3e9435"],
     "r_cmd_check": [
       {
         "check": "WARNING",
-        "config": "linux-release-x86_64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23996452980/job/69985359382"
-      },
-      {
-        "check": "WARNING",
         "config": "macos-oldrel-arm64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23996452980/job/69985359592"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25362355565/job/74365179814"
       },
       {
         "check": "WARNING",
         "config": "windows-oldrel",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/23996452980/job/69985359386"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25362355565/job/74365179841"
       }
     ]
   },
