@@ -89,7 +89,7 @@
   },
   "autometric": {
     "success": [true],
-    "published": ["2026-04-06 06:04:25.443 UTC"],
+    "published": ["2026-05-06 06:21:01.390 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
   },
@@ -590,7 +590,7 @@
   },
   "Rvision": {
     "success": [true],
-    "published": ["2026-05-05 04:46:40.448 UTC"],
+    "published": ["2026-05-06 05:00:52.078 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"]
   },
