@@ -1,7 +1,7 @@
 {
   "adbcbigquery": {
     "success": [false],
-    "published": ["2026-04-07 02:15:50.075 UTC"],
+    "published": ["2026-05-07 05:15:13.891 UTC"],
     "version": ["0.23.0"],
     "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
     "dependencies": {
@@ -10,14 +10,14 @@
   },
   "adbcdrivermanager": {
     "success": [false],
-    "published": ["2026-04-07 02:02:43.464 UTC"],
+    "published": ["2026-05-07 05:11:19.391 UTC"],
     "version": ["0.23.0"],
     "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
     "cran": ["0.23.0-1"]
   },
   "adbcflightsql": {
     "success": [false],
-    "published": ["2026-04-07 02:11:49.246 UTC"],
+    "published": ["2026-05-07 05:12:14.684 UTC"],
     "version": ["0.23.0"],
     "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
     "dependencies": {
@@ -26,7 +26,7 @@
   },
   "adbcsnowflake": {
     "success": [false],
-    "published": ["2026-04-07 02:13:54.775 UTC"],
+    "published": ["2026-05-07 05:16:09.279 UTC"],
     "version": ["0.23.0"],
     "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
     "dependencies": {
@@ -590,7 +590,7 @@
   },
   "Rvision": {
     "success": [true],
-    "published": ["2026-05-06 05:00:52.078 UTC"],
+    "published": ["2026-05-07 05:01:56.319 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"]
   },
