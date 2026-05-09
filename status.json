@@ -139,7 +139,7 @@
   },
   "cli": {
     "success": [true],
-    "published": ["2026-04-09 15:35:02.765 UTC"],
+    "published": ["2026-05-09 08:39:18.733 UTC"],
     "version": ["3.6.6"],
     "remote_hash": ["928dad1c230a1da745bfdcc9b59726081a3a5b6e"]
   },
@@ -177,7 +177,7 @@
   },
   "crew.aws.batch": {
     "success": [true],
-    "published": ["2026-04-09 15:44:22.746 UTC"],
+    "published": ["2026-05-09 08:38:07.062 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"]
   },
@@ -189,7 +189,7 @@
   },
   "deeptime": {
     "success": [true],
-    "published": ["2026-04-09 15:47:43.826 UTC"],
+    "published": ["2026-05-09 08:41:51.982 UTC"],
     "version": ["2.3.1"],
     "remote_hash": ["21d1665c7681de05b1d58236a944e1a08461be79"]
   },
@@ -269,7 +269,7 @@
   },
   "geotargets": {
     "success": [false],
-    "published": ["2026-04-09 15:48:20.688 UTC"],
+    "published": ["2026-05-09 08:47:51.068 UTC"],
     "version": ["0.3.1"],
     "remote_hash": ["719c095fac40cf13466ffbe147664f7d19a84352"],
     "dependencies": {
@@ -278,7 +278,7 @@
   },
   "ggsurveillance": {
     "success": [true],
-    "published": ["2026-04-09 15:45:49.624 UTC"],
+    "published": ["2026-05-09 08:39:14.069 UTC"],
     "version": ["0.5.2"],
     "remote_hash": ["b1417c45d47dc19898f8b66f9911166c030b12c1"]
   },
@@ -556,13 +556,13 @@
   },
   "riem": {
     "success": [true],
-    "published": ["2026-04-09 15:48:47.075 UTC"],
+    "published": ["2026-05-09 08:38:47.700 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["5ad33e8c9bd7200d53fd1f24f1b807624fbf0a33"]
   },
   "rJavaEnv": {
     "success": [true],
-    "published": ["2026-04-09 15:48:38.835 UTC"],
+    "published": ["2026-05-09 08:39:33.430 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["cce4a2bb65d891c3e9ba0194a67451de87a2a3ae"]
   },
@@ -574,7 +574,7 @@
   },
   "rredlist": {
     "success": [true],
-    "published": ["2026-04-09 15:42:33.572 UTC"],
+    "published": ["2026-05-09 08:37:25.532 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
@@ -796,7 +796,7 @@
   },
   "voucher": {
     "success": [true],
-    "published": ["2026-04-09 15:48:12.433 UTC"],
+    "published": ["2026-05-09 08:37:18.194 UTC"],
     "version": ["1.0.2"],
     "remote_hash": ["40ec1e988e1f73cae28f38f79d08eac1cf53b2db"]
   },
