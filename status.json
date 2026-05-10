@@ -5,8 +5,7 @@
     "version": ["0.23.0"],
     "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
     "dependencies": {
-      "adbcdrivermanager": [],
-      "nanoarrow": ["adbcdrivermanager"]
+      "adbcdrivermanager": []
     }
   },
   "adbcdrivermanager": {
@@ -14,10 +13,7 @@
     "published": ["2026-05-07 05:11:19.391 UTC"],
     "version": ["0.23.0"],
     "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
-    "cran": ["0.23.0-1"],
-    "dependencies": {
-      "nanoarrow": []
-    }
+    "cran": ["0.23.0-1"]
   },
   "adbcflightsql": {
     "success": [false],
@@ -25,8 +21,7 @@
     "version": ["0.23.0"],
     "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
     "dependencies": {
-      "adbcdrivermanager": [],
-      "nanoarrow": ["adbcdrivermanager"]
+      "adbcdrivermanager": []
     }
   },
   "adbcsnowflake": {
@@ -35,8 +30,7 @@
     "version": ["0.23.0"],
     "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
     "dependencies": {
-      "adbcdrivermanager": [],
-      "nanoarrow": ["adbcdrivermanager"]
+      "adbcdrivermanager": []
     }
   },
   "arrow": {
@@ -245,13 +239,11 @@
   },
   "geoarrow": {
     "success": [false],
-    "published": ["2026-05-10 08:42:35.923 UTC"],
+    "published": ["2026-05-10 09:14:54.904 UTC"],
     "version": ["0.4.1"],
     "remote_hash": ["6997060232b61c77c0ac5dfc7a33bc2688784ac4"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/25624313675"],
     "cran": ["0.4.2"],
     "dependencies": {
-      "nanoarrow": [],
       "wk": []
     }
   },
@@ -294,13 +286,10 @@
     "remote_hash": ["a075de59066ac2024c07b9c235310fedb4f9a23e"]
   },
   "glaredb": {
-    "success": [false],
-    "published": ["2026-04-12 04:41:07.907 UTC"],
+    "success": [true],
+    "published": ["2026-05-10 09:41:54.867 UTC"],
     "version": ["0.0.5"],
-    "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
-    "dependencies": {
-      "nanoarrow": []
-    }
+    "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"]
   },
   "healthyr": {
     "success": [false],
@@ -434,11 +423,10 @@
     "remote_hash": ["92ab4ab2561dbc094dc2eea27550686b53430fe2"]
   },
   "nanoarrow": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-05-10 09:10:16.210 UTC"],
     "version": ["0.8.0"],
-    "remote_hash": ["a579fbf5d192e85b6249935e117de7d02a6dc4e9"],
-    "synchronization": ["recent"]
+    "remote_hash": ["a579fbf5d192e85b6249935e117de7d02a6dc4e9"]
   },
   "nanonext": {
     "success": [true],
@@ -659,7 +647,6 @@
     "remote_hash": ["7a3ab1c2f9f163aa1194c509924d9de98447f9b4"],
     "dependencies": {
       "geoarrow": [],
-      "nanoarrow": ["geoarrow"],
       "wk": ["geoarrow"]
     }
   },
