@@ -477,10 +477,10 @@
   },
   {
     "package": "saperlipopette",
-    "version_current": "0.1.1",
-    "hash_current": "dc4ec9e81fb7f64a4e46502eb5abec89777dc463",
-    "version_highest": "0.1.1",
-    "hash_highest": "dc4ec9e81fb7f64a4e46502eb5abec89777dc463"
+    "version_current": "1.0.0",
+    "hash_current": "eb09bef3fcb017b5fcd6215acf199d9f528cacfc",
+    "version_highest": "1.0.0",
+    "hash_highest": "eb09bef3fcb017b5fcd6215acf199d9f528cacfc"
   },
   {
     "package": "SBC",

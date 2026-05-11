@@ -430,7 +430,7 @@
   },
   "nanonext": {
     "success": [true],
-    "published": ["2026-05-04 17:47:18.111 UTC"],
+    "published": ["2026-05-11 10:25:43.625 UTC"],
     "version": ["1.9.0"],
     "remote_hash": ["6322bd7fd43a1b3a92c237ca0cd97f52119c3260"]
   },
@@ -598,9 +598,9 @@
   },
   "saperlipopette": {
     "success": [true],
-    "published": ["2026-04-12 09:07:54.526 UTC"],
-    "version": ["0.1.1"],
-    "remote_hash": ["dc4ec9e81fb7f64a4e46502eb5abec89777dc463"]
+    "published": ["2026-05-11 10:48:29.338 UTC"],
+    "version": ["1.0.0"],
+    "remote_hash": ["eb09bef3fcb017b5fcd6215acf199d9f528cacfc"]
   },
   "SBC": {
     "success": [false],
