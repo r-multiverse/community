@@ -442,7 +442,7 @@
   },
   "polars0": {
     "success": [false],
-    "published": ["2026-05-07 09:09:59.595 UTC"],
+    "published": ["2026-05-12 10:02:57.381 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["8972f0106e87e1f02da005613855fe99628d66db"],
     "r_cmd_check": [
@@ -450,19 +450,19 @@
         "check": "ERROR",
         "config": "macos-oldrel-arm64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25486040241/job/74782626303"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25726707691/job/75542166966"
       },
       {
         "check": "ERROR",
         "config": "macos-oldrel-x86_64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25486040241/job/74782625879"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25726707691/job/75542167003"
       },
       {
         "check": "ERROR",
         "config": "windows-oldrel",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25486040241/job/74782625852"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25726707691/job/75542166909"
       }
     ]
   },
@@ -598,7 +598,7 @@
   },
   "saperlipopette": {
     "success": [true],
-    "published": ["2026-05-11 10:48:29.338 UTC"],
+    "published": ["2026-05-12 10:01:39.325 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["eb09bef3fcb017b5fcd6215acf199d9f528cacfc"]
   },
