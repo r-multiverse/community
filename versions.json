@@ -302,10 +302,10 @@
   },
   {
     "package": "mfclim",
-    "version_current": "0.1.0",
-    "hash_current": "55928af5410b00e58f2f43b3d7202075fce63b87",
-    "version_highest": "0.1.0",
-    "hash_highest": "55928af5410b00e58f2f43b3d7202075fce63b87"
+    "version_current": "0.1.1",
+    "hash_current": "9fcdfcedf357040c95125ab9865693ba6ff35e2e",
+    "version_highest": "0.1.1",
+    "hash_highest": "9fcdfcedf357040c95125ab9865693ba6ff35e2e"
   },
   {
     "package": "milRex",
