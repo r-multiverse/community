@@ -221,7 +221,7 @@
   },
   "duckdb": {
     "success": [true],
-    "published": ["2026-04-15 03:18:47.553 UTC"],
+    "published": ["2026-05-15 07:13:46.520 UTC"],
     "version": ["1.5.2"],
     "remote_hash": ["a68494a83c4e6cec56a50db94f55b0699f33752c"]
   },
@@ -831,7 +831,7 @@
   },
   "wk": {
     "success": [false],
-    "published": ["2026-04-15 07:22:04.648 UTC"],
+    "published": ["2026-05-15 07:53:02.276 UTC"],
     "version": ["0.9.4"],
     "remote_hash": ["03d0d38b68a67166faa1cbd774698c3e033b514c"],
     "r_cmd_check": [
