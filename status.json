@@ -195,7 +195,7 @@
   },
   "deeptimedata": {
     "success": [true],
-    "published": ["2026-04-17 06:30:11.349 UTC"],
+    "published": ["2026-05-17 06:55:46.846 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["7f1d9e301bac0d580f93c168328ef2aaad490aca"]
   },
@@ -761,7 +761,7 @@
   },
   "unigd": {
     "success": [true],
-    "published": ["2026-04-17 05:10:47.681 UTC"],
+    "published": ["2026-05-17 05:50:06.375 UTC"],
     "version": ["0.2.0"],
     "remote_hash": ["6312ba12b1c3aa2d85e13673de810b3741a20b54"]
   },
