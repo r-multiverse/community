@@ -473,10 +473,11 @@
     "remote_hash": ["727ac83cb52babb6eb54bdd1ce15f90439626945"]
   },
   "posteriordb": {
-    "success": [true],
-    "published": ["2026-04-17 09:35:53.342 UTC"],
+    "success": [false],
+    "published": ["2026-05-17 09:13:30.982 UTC"],
     "version": ["0.3.6"],
-    "remote_hash": ["773fb7cd7447313dc691fd322423a87cb74cd9b7"]
+    "remote_hash": ["773fb7cd7447313dc691fd322423a87cb74cd9b7"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/25986799427"]
   },
   "prism2R": {
     "success": [false],
@@ -749,13 +750,13 @@
   },
   "tidyterra": {
     "success": [true],
-    "published": ["2026-04-17 15:24:26.743 UTC"],
+    "published": ["2026-05-17 09:30:50.578 UTC"],
     "version": ["1.1.0"],
     "remote_hash": ["d1f847e65f441efc5226c13892968ba59e91a953"]
   },
   "trelliscope": {
     "success": [true],
-    "published": ["2026-04-17 15:20:20.457 UTC"],
+    "published": ["2026-05-17 09:29:16.548 UTC"],
     "version": ["0.1.14"],
     "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"]
   },
@@ -767,7 +768,7 @@
   },
   "vctrs": {
     "success": [true],
-    "published": ["2026-04-17 15:09:24.305 UTC"],
+    "published": ["2026-05-17 09:29:30.864 UTC"],
     "version": ["0.7.3"],
     "remote_hash": ["d452a02c9f4752f3268431a3ac8aa221dbe4040f"]
   },
