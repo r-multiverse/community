@@ -95,7 +95,7 @@
   },
   "bayesplot": {
     "success": [true],
-    "published": ["2026-05-21 10:14:30.506 UTC"],
+    "published": ["2026-05-21 20:05:20.806 UTC"],
     "version": ["1.15.0"],
     "remote_hash": ["ce863d7f5b15aa477b09c809c247552e66656d01"]
   },
@@ -145,7 +145,7 @@
   },
   "cmdstanr": {
     "success": [true],
-    "published": ["2026-05-21 09:52:59.219 UTC"],
+    "published": ["2026-05-21 20:10:18.581 UTC"],
     "version": ["0.9.0"],
     "remote_hash": ["da99e2ba954658bdad63bffb738c4444c33a4e0e"]
   },
@@ -382,7 +382,7 @@
   },
   "loo": {
     "success": [true],
-    "published": ["2026-05-21 10:15:31.404 UTC"],
+    "published": ["2026-05-21 20:04:22.091 UTC"],
     "version": ["2.9.0"],
     "remote_hash": ["299a4c7af159b08b3be0184744cc1a9615b6a341"]
   },
