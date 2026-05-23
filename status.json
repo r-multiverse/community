@@ -113,7 +113,7 @@
   },
   "bootstrapper": {
     "success": [true],
-    "published": ["2026-04-27 08:26:36.595 UTC"],
+    "published": ["2026-05-22 23:44:04.036 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["e0ee17327dc861846f340352d7ace3f51447b2c3"]
   },
@@ -233,7 +233,7 @@
   },
   "ExpBites": {
     "success": [true],
-    "published": ["2026-04-26 09:20:31.805 UTC"],
+    "published": ["2026-05-23 01:00:47.769 UTC"],
     "version": ["0.1.3"],
     "remote_hash": ["6d64099f87c0f238c9630b57003559f01e9a0e79"]
   },
@@ -344,7 +344,7 @@
   },
   "kgp": {
     "success": [true],
-    "published": ["2026-04-25 07:35:08.355 UTC"],
+    "published": ["2026-05-23 01:03:33.148 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["284855372dc1bd76ea3aceb2bd1e69404c237834"]
   },
@@ -697,7 +697,7 @@
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2026-04-26 17:13:43.430 UTC"],
+    "published": ["2026-05-23 00:14:41.463 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["661a7449cf3910205a26324bd6375329e11e6a81"],
     "r_cmd_check": [
@@ -705,7 +705,7 @@
         "check": "ERROR",
         "config": "windows-oldrel",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/24962197566/job/73090876790"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/24962197566/job/77481178542"
       }
     ]
   },
