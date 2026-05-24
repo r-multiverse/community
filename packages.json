@@ -24,6 +24,11 @@
     "branch": "*release"
   },
   {
+    "package": "ahocorasick",
+    "url": "https://github.com/Yousa-Mirage/r-ahocorasick",
+    "branch": "*release"
+  },
+  {
     "package": "arrow",
     "url": "https://github.com/apache/arrow",
     "subdir": "r",
