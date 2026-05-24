@@ -354,6 +354,11 @@
     "branch": "*release"
   },
   {
+    "package": "santoku",
+    "url": "https://github.com/hughjonesd/santoku",
+    "branch": "*release"
+  },
+  {
     "package": "saperlipopette",
     "url": "https://github.com/ropensci-training/saperlipopette",
     "branch": "*release"
