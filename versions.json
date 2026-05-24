@@ -28,6 +28,13 @@
     "hash_highest": "efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"
   },
   {
+    "package": "ahocorasick",
+    "version_current": "0.1.0",
+    "hash_current": "a60d89f29df1fe906b37b801be87a2675c7cd7aa",
+    "version_highest": "0.1.0",
+    "hash_highest": "a60d89f29df1fe906b37b801be87a2675c7cd7aa"
+  },
+  {
     "package": "arrow",
     "version_current": "24.0.0",
     "hash_current": "31b4b6c0a0a7e7c117312d285541a21446675ec6",

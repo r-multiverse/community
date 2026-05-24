@@ -33,6 +33,12 @@
       "adbcdrivermanager": []
     }
   },
+  "ahocorasick": {
+    "success": [true],
+    "published": ["2026-05-24 16:10:52.513 UTC"],
+    "version": ["0.1.0"],
+    "remote_hash": ["a60d89f29df1fe906b37b801be87a2675c7cd7aa"]
+  },
   "arrow": {
     "success": [false],
     "published": ["2026-05-21 11:16:14.648 UTC"],
