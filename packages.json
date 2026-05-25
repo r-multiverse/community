@@ -182,6 +182,11 @@
     "branch": "*release"
   },
   {
+    "package": "ichimoku",
+    "url": "https://github.com/shikokuchuo/ichimoku",
+    "branch": "*release"
+  },
+  {
     "package": "igraph",
     "url": "https://github.com/igraph/rigraph",
     "branch": "*release"
