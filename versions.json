@@ -245,6 +245,13 @@
     "hash_highest": "087ebf5bbf46ddc52e107d6a8bb26381177d2e7f"
   },
   {
+    "package": "ichimoku",
+    "version_current": "1.5.6",
+    "hash_current": "43f02878819ca3a868cfa74513117b9dfc141755",
+    "version_highest": "1.5.6",
+    "hash_highest": "43f02878819ca3a868cfa74513117b9dfc141755"
+  },
+  {
     "package": "igraph",
     "version_current": "2.3.1",
     "hash_current": "c2ce5b1cd3e2f17740657ada5a0db39c449753c1",

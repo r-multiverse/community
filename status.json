@@ -323,6 +323,32 @@
     "version": ["2.1.4"],
     "remote_hash": ["087ebf5bbf46ddc52e107d6a8bb26381177d2e7f"]
   },
+  "ichimoku": {
+    "success": [false],
+    "published": ["2026-05-25 17:15:48.723 UTC"],
+    "version": ["1.5.6"],
+    "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "macos-oldrel-arm64",
+        "r": "4.5.3",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/26411688633/job/77747694513"
+      },
+      {
+        "check": "ERROR",
+        "config": "macos-oldrel-x86_64",
+        "r": "4.5.3",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/26411688633/job/77747694444"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-oldrel",
+        "r": "4.5.3",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/26411688633/job/77747694483"
+      }
+    ]
+  },
   "igraph": {
     "success": [true],
     "published": ["2026-05-10 06:24:20.931 UTC"],
