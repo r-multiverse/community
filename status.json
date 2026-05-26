@@ -468,7 +468,7 @@
   },
   "polars": {
     "success": [true],
-    "published": ["2026-04-26 17:04:02.114 UTC"],
+    "published": ["2026-05-26 06:13:37.266 UTC"],
     "version": ["1.11.0"],
     "remote_hash": ["f5522a2cf863138295d2e5e114de726166e27ecd"]
   },
@@ -684,7 +684,7 @@
   },
   "stantargets": {
     "success": [true],
-    "published": ["2026-05-25 06:03:35.769 UTC"],
+    "published": ["2026-05-26 05:44:49.913 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"]
   },
@@ -719,18 +719,10 @@
     "remote_hash": ["6438f8a6dec45413ee7ef7938e01a672986f3dda"]
   },
   "tidypolars": {
-    "success": [false],
-    "published": ["2026-05-23 00:14:41.463 UTC"],
+    "success": [true],
+    "published": ["2026-05-26 06:23:45.480 UTC"],
     "version": ["0.18.0"],
-    "remote_hash": ["661a7449cf3910205a26324bd6375329e11e6a81"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/24962197566/job/77481178542"
-      }
-    ]
+    "remote_hash": ["661a7449cf3910205a26324bd6375329e11e6a81"]
   },
   "tidytab": {
     "success": [true],
