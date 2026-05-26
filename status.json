@@ -324,30 +324,10 @@
     "remote_hash": ["087ebf5bbf46ddc52e107d6a8bb26381177d2e7f"]
   },
   "ichimoku": {
-    "success": [false],
-    "published": ["2026-05-25 17:15:48.723 UTC"],
-    "version": ["1.5.6"],
-    "remote_hash": ["43f02878819ca3a868cfa74513117b9dfc141755"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/26411688633/job/77747694513"
-      },
-      {
-        "check": "ERROR",
-        "config": "macos-oldrel-x86_64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/26411688633/job/77747694444"
-      },
-      {
-        "check": "ERROR",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/26411688633/job/77747694483"
-      }
-    ]
+    "success": [true],
+    "published": ["2026-05-26 15:10:56.128 UTC"],
+    "version": ["1.5.7"],
+    "remote_hash": ["e96e5bd71301d74f628ffdffc2a06e5b180b2276"]
   },
   "igraph": {
     "success": [true],
@@ -376,7 +356,7 @@
   },
   "kgp": {
     "success": [true],
-    "published": ["2026-05-25 08:16:05.448 UTC"],
+    "published": ["2026-05-26 10:37:29.178 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["284855372dc1bd76ea3aceb2bd1e69404c237834"]
   },
