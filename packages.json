@@ -162,6 +162,11 @@
     "branch": "*release"
   },
   {
+    "package": "ggmagnify",
+    "url": "https://github.com/hughjonesd/ggmagnify",
+    "branch": "*release"
+  },
+  {
     "package": "ggsurveillance",
     "url": "https://github.com/biostats-dev/ggsurveillance/",
     "branch": "*release"
@@ -283,6 +288,11 @@
     "branch": "*release"
   },
   {
+    "package": "onetime",
+    "url": "https://github.com/hughjonesd/onetime",
+    "branch": "*release"
+  },
+  {
     "package": "polars",
     "url": "https://github.com/pola-rs/r-polars",
     "branch": "*release"
@@ -329,6 +339,11 @@
     "branch": "*release"
   },
   {
+    "package": "rcheology",
+    "url": "https://github.com/hughjonesd/rcheology",
+    "branch": "*release"
+  },
+  {
     "package": "riem",
     "url": "https://github.com/ropensci/riem",
     "branch": "*release"
@@ -341,6 +356,16 @@
   {
     "package": "rlang",
     "url": "https://github.com/r-lib/rlang",
+    "branch": "*release"
+  },
+  {
+    "package": "Rmlx",
+    "url": "https://github.com/hughjonesd/Rmlx",
+    "branch": "*release"
+  },
+  {
+    "package": "RmlxStats",
+    "url": "https://github.com/hughjonesd/RmlxStats",
     "branch": "*release"
   },
   {
@@ -452,6 +477,11 @@
   {
     "package": "trelliscope",
     "url": "https://github.com/trelliscope/trelliscope",
+    "branch": "*release"
+  },
+  {
+    "package": "truelies",
+    "url": "https://github.com/hughjonesd/truelies",
     "branch": "*release"
   },
   {
