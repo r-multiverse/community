@@ -125,21 +125,21 @@
   },
   "bridgestan": {
     "success": [false],
-    "published": ["2026-05-22 14:58:20.601 UTC"],
-    "version": ["2.7.0"],
-    "remote_hash": ["ec1d4d319f434d85b07193df2d81736568c42920"],
+    "published": ["2026-05-26 20:11:02.776 UTC"],
+    "version": ["2.8.0"],
+    "remote_hash": ["d2c499a7a85c9069f5b73b05d5ee2e9b8661a3e3"],
     "r_cmd_check": [
       {
         "check": "ERROR",
         "config": "macos-oldrel-arm64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25482872642/job/77405459326"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/26472089760/job/77948687739"
       },
       {
         "check": "ERROR",
         "config": "windows-oldrel",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25482872642/job/77405459416"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/26472089760/job/77948687702"
       }
     ]
   },
