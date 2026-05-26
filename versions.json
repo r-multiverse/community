@@ -168,6 +168,13 @@
     "hash_highest": "5d73b83f4bd70048d39b6b9c4bffaf02c8aab321"
   },
   {
+    "package": "doctest",
+    "version_current": "0.4.0",
+    "hash_current": "ef97b06623b2a07b9ae5cb7ddb16f35993786578",
+    "version_highest": "0.4.0",
+    "hash_highest": "ef97b06623b2a07b9ae5cb7ddb16f35993786578"
+  },
+  {
     "package": "duckdb",
     "version_current": "1.5.2",
     "hash_current": "a68494a83c4e6cec56a50db94f55b0699f33752c",
@@ -243,6 +250,13 @@
     "hash_current": "087ebf5bbf46ddc52e107d6a8bb26381177d2e7f",
     "version_highest": "2.1.4",
     "hash_highest": "087ebf5bbf46ddc52e107d6a8bb26381177d2e7f"
+  },
+  {
+    "package": "huxtable",
+    "version_current": "5.8.0",
+    "hash_current": "affacfb24067439cf2277cfe7bc8a0dd88c41222",
+    "version_highest": "5.8.0",
+    "hash_highest": "affacfb24067439cf2277cfe7bc8a0dd88c41222"
   },
   {
     "package": "ichimoku",

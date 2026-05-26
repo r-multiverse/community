@@ -225,6 +225,12 @@
       }
     ]
   },
+  "doctest": {
+    "success": [true],
+    "published": ["2026-05-26 18:03:59.280 UTC"],
+    "version": ["0.4.0"],
+    "remote_hash": ["ef97b06623b2a07b9ae5cb7ddb16f35993786578"]
+  },
   "duckdb": {
     "success": [true],
     "published": ["2026-05-15 07:13:46.520 UTC"],
@@ -322,6 +328,12 @@
     "published": ["2026-04-28 16:04:10.078 UTC"],
     "version": ["2.1.4"],
     "remote_hash": ["087ebf5bbf46ddc52e107d6a8bb26381177d2e7f"]
+  },
+  "huxtable": {
+    "success": [true],
+    "published": ["2026-05-26 18:08:06.329 UTC"],
+    "version": ["5.8.0"],
+    "remote_hash": ["affacfb24067439cf2277cfe7bc8a0dd88c41222"]
   },
   "ichimoku": {
     "success": [true],
