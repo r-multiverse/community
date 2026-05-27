@@ -217,6 +217,13 @@
     "hash_highest": "719c095fac40cf13466ffbe147664f7d19a84352"
   },
   {
+    "package": "ggmagnify",
+    "version_current": "0.4.2",
+    "hash_current": "1eda21aba4f717d0c3525dbafe44670d4f091e54",
+    "version_highest": "0.4.2",
+    "hash_highest": "1eda21aba4f717d0c3525dbafe44670d4f091e54"
+  },
+  {
     "package": "ggsurveillance",
     "version_current": "0.5.2",
     "hash_current": "b1417c45d47dc19898f8b66f9911166c030b12c1",
@@ -385,6 +392,13 @@
     "hash_highest": "6322bd7fd43a1b3a92c237ca0cd97f52119c3260"
   },
   {
+    "package": "onetime",
+    "version_current": "0.2.0",
+    "hash_current": "e36294db9b20ec964487b251fd76306c890d3891",
+    "version_highest": "0.2.0",
+    "hash_highest": "e36294db9b20ec964487b251fd76306c890d3891"
+  },
+  {
     "package": "polars",
     "version_current": "1.11.0",
     "hash_current": "f5522a2cf863138295d2e5e114de726166e27ecd",
@@ -448,6 +462,13 @@
     "hash_highest": "f2ec247b6f31473f88a4b86e03a2349a4cfe3f1c"
   },
   {
+    "package": "rcheology",
+    "version_current": "4.6.0.0",
+    "hash_current": "80c262a426bdbd0e0375b1ddc976ae151749e64d",
+    "version_highest": "4.6.0.0",
+    "hash_highest": "80c262a426bdbd0e0375b1ddc976ae151749e64d"
+  },
+  {
     "package": "riem",
     "version_current": "1.0.0",
     "hash_current": "5ad33e8c9bd7200d53fd1f24f1b807624fbf0a33",
@@ -467,6 +488,20 @@
     "hash_current": "31ca80fc99e20834bacf51f4a392866b2b714195",
     "version_highest": "1.2.0",
     "hash_highest": "31ca80fc99e20834bacf51f4a392866b2b714195"
+  },
+  {
+    "package": "Rmlx",
+    "version_current": "0.4.0",
+    "hash_current": "3cbc7a9ee26575c5ab7b716a19787e6a651d97fb",
+    "version_highest": "0.4.0",
+    "hash_highest": "3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"
+  },
+  {
+    "package": "RmlxStats",
+    "version_current": "0.3.0",
+    "hash_current": "36963b9c305b2487d6f93264c34d1c37bd0d5ea5",
+    "version_highest": "0.3.0",
+    "hash_highest": "36963b9c305b2487d6f93264c34d1c37bd0d5ea5"
   },
   {
     "package": "rredlist",
@@ -621,6 +656,13 @@
     "hash_current": "99dfb29c0057680ecf92ed2b061dd833cfd667f8",
     "version_highest": "0.1.14",
     "hash_highest": "99dfb29c0057680ecf92ed2b061dd833cfd667f8"
+  },
+  {
+    "package": "truelies",
+    "version_current": "0.2.1",
+    "hash_current": "4a0b41cde2d32c28662645c1b8780192e57400a2",
+    "version_highest": "0.2.1",
+    "hash_highest": "4a0b41cde2d32c28662645c1b8780192e57400a2"
   },
   {
     "package": "unigd",
