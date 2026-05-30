@@ -29,10 +29,10 @@
   },
   {
     "package": "ahocorasick",
-    "version_current": "0.1.0",
-    "hash_current": "a60d89f29df1fe906b37b801be87a2675c7cd7aa",
-    "version_highest": "0.1.0",
-    "hash_highest": "a60d89f29df1fe906b37b801be87a2675c7cd7aa"
+    "version_current": "0.2.0",
+    "hash_current": "439ab7172c40b946b6811ffa7327ada58ab46d19",
+    "version_highest": "0.2.0",
+    "hash_highest": "439ab7172c40b946b6811ffa7327ada58ab46d19"
   },
   {
     "package": "arrow",
@@ -127,10 +127,10 @@
   },
   {
     "package": "crew",
-    "version_current": "1.3.0",
-    "hash_current": "47ae3f0d52298862f5a127f2009843323fd3206d",
-    "version_highest": "1.3.0",
-    "hash_highest": "47ae3f0d52298862f5a127f2009843323fd3206d"
+    "version_current": "1.3.1",
+    "hash_current": "c26bdeaea4a08a9081da86e14ccdc93f1b41e429",
+    "version_highest": "1.3.1",
+    "hash_highest": "c26bdeaea4a08a9081da86e14ccdc93f1b41e429"
   },
   {
     "package": "crew.aws.batch",

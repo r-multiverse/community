@@ -35,9 +35,9 @@
   },
   "ahocorasick": {
     "success": [true],
-    "published": ["2026-05-24 16:10:52.513 UTC"],
-    "version": ["0.1.0"],
-    "remote_hash": ["a60d89f29df1fe906b37b801be87a2675c7cd7aa"]
+    "published": ["2026-05-29 17:02:39.421 UTC"],
+    "version": ["0.2.0"],
+    "remote_hash": ["439ab7172c40b946b6811ffa7327ada58ab46d19"]
   },
   "arrow": {
     "success": [false],
@@ -177,19 +177,19 @@
   },
   "crew": {
     "success": [true],
-    "published": ["2026-05-22 13:43:41.936 UTC"],
-    "version": ["1.3.0"],
-    "remote_hash": ["47ae3f0d52298862f5a127f2009843323fd3206d"]
+    "published": ["2026-05-29 19:48:39.104 UTC"],
+    "version": ["1.3.1"],
+    "remote_hash": ["c26bdeaea4a08a9081da86e14ccdc93f1b41e429"]
   },
   "crew.aws.batch": {
     "success": [true],
-    "published": ["2026-05-22 13:04:28.967 UTC"],
+    "published": ["2026-05-29 20:05:11.323 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"]
   },
   "crew.cluster": {
     "success": [true],
-    "published": ["2026-05-22 17:16:59.500 UTC"],
+    "published": ["2026-05-29 20:06:52.476 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
   },
@@ -617,7 +617,7 @@
   },
   "RmlxStats": {
     "success": [false],
-    "published": ["2026-05-28 05:55:59.013 UTC"],
+    "published": ["2026-05-29 05:56:08.947 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["36963b9c305b2487d6f93264c34d1c37bd0d5ea5"],
     "remotes": ["hughjonesd/Rmlx"]
