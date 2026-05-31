@@ -238,11 +238,10 @@
     "remote_hash": ["a68494a83c4e6cec56a50db94f55b0699f33752c"]
   },
   "ecoXCorr": {
-    "success": [false],
-    "published": ["2026-05-31 06:23:58.036 UTC"],
+    "success": [true],
+    "published": ["2026-05-31 06:41:47.039 UTC"],
     "version": ["0.2.2"],
-    "remote_hash": ["0936697d8620330696c4e99310e4018be970f244"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/26705288428"]
+    "remote_hash": ["0936697d8620330696c4e99310e4018be970f244"]
   },
   "ExpBites": {
     "success": [true],
@@ -351,9 +350,9 @@
   },
   "igraph": {
     "success": [true],
-    "published": ["2026-05-10 06:24:20.931 UTC"],
-    "version": ["2.3.1"],
-    "remote_hash": ["c2ce5b1cd3e2f17740657ada5a0db39c449753c1"]
+    "published": ["2026-05-31 07:51:25.071 UTC"],
+    "version": ["2.3.2"],
+    "remote_hash": ["5e71f04b0cbf06c0421fa8fc44f2e296d660ad02"]
   },
   "IMD": {
     "success": [false],
@@ -444,7 +443,7 @@
   },
   "multiverse.internals": {
     "success": [true],
-    "published": ["2026-05-22 12:39:33.309 UTC"],
+    "published": ["2026-05-31 08:12:03.711 UTC"],
     "version": ["1.1.10"],
     "remote_hash": ["0b6af6eb06221df195c2735dedf83052360a1bc9"]
   },
@@ -687,7 +686,7 @@
   },
   "secretbase": {
     "success": [true],
-    "published": ["2026-05-22 20:10:45.681 UTC"],
+    "published": ["2026-05-31 07:43:33.895 UTC"],
     "version": ["1.2.2"],
     "remote_hash": ["49ffdb242808beb875cc84b3da06227d40785cac"]
   },
@@ -721,13 +720,13 @@
   },
   "tarchetypes": {
     "success": [true],
-    "published": ["2026-05-22 20:09:04.101 UTC"],
+    "published": ["2026-05-31 07:36:43.759 UTC"],
     "version": ["0.14.1"],
     "remote_hash": ["020909b152e81f5891242672a3c2ef42312cfc2b"]
   },
   "targets": {
     "success": [true],
-    "published": ["2026-05-22 12:39:45.723 UTC"],
+    "published": ["2026-05-31 08:17:08.226 UTC"],
     "version": ["1.12.0"],
     "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"]
   },
