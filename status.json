@@ -238,10 +238,11 @@
     "remote_hash": ["a68494a83c4e6cec56a50db94f55b0699f33752c"]
   },
   "ecoXCorr": {
-    "success": [true],
-    "published": ["2026-05-22 20:04:14.641 UTC"],
+    "success": [false],
+    "published": ["2026-05-31 06:23:58.036 UTC"],
     "version": ["0.2.2"],
-    "remote_hash": ["0936697d8620330696c4e99310e4018be970f244"]
+    "remote_hash": ["0936697d8620330696c4e99310e4018be970f244"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/26705288428"]
   },
   "ExpBites": {
     "success": [true],
@@ -369,7 +370,7 @@
   },
   "jagstargets": {
     "success": [true],
-    "published": ["2026-05-22 20:01:27.828 UTC"],
+    "published": ["2026-05-31 06:22:22.936 UTC"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
   },
