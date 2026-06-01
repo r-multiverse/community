@@ -387,7 +387,7 @@
   },
   "litedown": {
     "success": [true],
-    "published": ["2026-05-22 19:41:12.098 UTC"],
+    "published": ["2026-06-01 10:13:25.835 UTC"],
     "version": ["0.9"],
     "remote_hash": ["ca3535ac33b0c1a6c57b3e42d3db431f2b794727"]
   },
@@ -517,7 +517,7 @@
   },
   "prism2R": {
     "success": [false],
-    "published": ["2026-06-01 07:17:32.128 UTC"],
+    "published": ["2026-06-01 07:33:48.247 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["a70fcff2cc3b3af8ed0e09c086c25f553269ab3b"],
     "r_cmd_check": [
@@ -525,16 +525,15 @@
         "check": "ERROR",
         "config": "macos-oldrel-arm64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25255821916/job/77443545217"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/26740797592/job/78804472152"
       },
       {
         "check": "ERROR",
         "config": "windows-oldrel",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25255821916/job/77443545008"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/26740797592/job/78804472006"
       }
-    ],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/26740797592"]
+    ]
   },
   "projpred": {
     "success": [true],
