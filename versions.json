@@ -351,10 +351,10 @@
   },
   {
     "package": "mirai",
-    "version_current": "2.7.0",
-    "hash_current": "a88d0e09e7c8dac4a206fea3c91497d1ba416401",
-    "version_highest": "2.7.0",
-    "hash_highest": "a88d0e09e7c8dac4a206fea3c91497d1ba416401"
+    "version_current": "2.7.1",
+    "hash_current": "653d376becb84578078c9f2f1206571e7b6aada0",
+    "version_highest": "2.7.1",
+    "hash_highest": "653d376becb84578078c9f2f1206571e7b6aada0"
   },
   {
     "package": "multitools",
@@ -386,10 +386,10 @@
   },
   {
     "package": "nanonext",
-    "version_current": "1.9.0",
-    "hash_current": "6322bd7fd43a1b3a92c237ca0cd97f52119c3260",
-    "version_highest": "1.9.0",
-    "hash_highest": "6322bd7fd43a1b3a92c237ca0cd97f52119c3260"
+    "version_current": "1.9.1",
+    "hash_current": "24f78b2c0c4eb526a69132ce1da914b4d4e98799",
+    "version_highest": "1.9.1",
+    "hash_highest": "24f78b2c0c4eb526a69132ce1da914b4d4e98799"
   },
   {
     "package": "onetime",
