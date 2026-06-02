@@ -1,7 +1,7 @@
 {
   "adbcbigquery": {
     "success": [false],
-    "published": ["2026-05-07 05:15:13.891 UTC"],
+    "published": ["2026-06-02 20:16:25.062 UTC"],
     "version": ["0.23.0"],
     "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
     "dependencies": {
@@ -17,7 +17,7 @@
   },
   "adbcflightsql": {
     "success": [false],
-    "published": ["2026-05-07 05:12:14.684 UTC"],
+    "published": ["2026-06-02 20:16:37.158 UTC"],
     "version": ["0.23.0"],
     "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
     "dependencies": {
@@ -26,7 +26,7 @@
   },
   "adbcsnowflake": {
     "success": [false],
-    "published": ["2026-05-07 05:16:09.279 UTC"],
+    "published": ["2026-06-02 20:16:27.696 UTC"],
     "version": ["0.23.0"],
     "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
     "dependencies": {
@@ -233,7 +233,7 @@
   },
   "duckdb": {
     "success": [true],
-    "published": ["2026-05-15 07:13:46.520 UTC"],
+    "published": ["2026-06-02 20:10:25.098 UTC"],
     "version": ["1.5.2"],
     "remote_hash": ["a68494a83c4e6cec56a50db94f55b0699f33752c"]
   },
@@ -306,7 +306,7 @@
   },
   "glaredb": {
     "success": [true],
-    "published": ["2026-05-12 05:17:56.936 UTC"],
+    "published": ["2026-06-02 20:11:14.125 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"]
   },
@@ -493,7 +493,7 @@
   },
   "polars0": {
     "success": [false],
-    "published": ["2026-05-12 10:02:57.381 UTC"],
+    "published": ["2026-06-02 20:09:49.838 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["8972f0106e87e1f02da005613855fe99628d66db"],
     "r_cmd_check": [
@@ -501,19 +501,19 @@
         "check": "ERROR",
         "config": "macos-oldrel-arm64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25726707691/job/75542166966"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25726707691/job/79161971615"
       },
       {
         "check": "ERROR",
         "config": "macos-oldrel-x86_64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25726707691/job/75542167003"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25726707691/job/79161971226"
       },
       {
         "check": "ERROR",
         "config": "windows-oldrel",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25726707691/job/75542166909"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25726707691/job/79161970925"
       }
     ]
   },
@@ -557,7 +557,7 @@
   },
   "prophet": {
     "success": [false],
-    "published": ["2026-05-07 09:06:24.089 UTC"],
+    "published": ["2026-06-02 20:18:47.351 UTC"],
     "version": ["1.2.2"],
     "remote_hash": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
     "r_cmd_check": [
@@ -565,19 +565,19 @@
         "check": "ERROR",
         "config": "macos-oldrel-arm64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25485325182/job/74780371161"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25485325182/job/79163289958"
       },
       {
         "check": "ERROR",
         "config": "macos-oldrel-x86_64",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25485325182/job/74780371167"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25485325182/job/79163290355"
       },
       {
         "check": "ERROR",
         "config": "windows-oldrel",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25485325182/job/74780371162"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/25485325182/job/79163290542"
       }
     ],
     "versions": {
@@ -706,7 +706,7 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-05-08 09:34:51.634 UTC"],
+    "published": ["2026-06-02 20:15:19.855 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["7a3ab1c2f9f163aa1194c509924d9de98447f9b4"],
     "dependencies": {
