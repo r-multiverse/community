@@ -201,7 +201,7 @@
   },
   "deeptimedata": {
     "success": [true],
-    "published": ["2026-05-17 06:55:46.846 UTC"],
+    "published": ["2026-06-02 17:37:26.137 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["7f1d9e301bac0d580f93c168328ef2aaad490aca"]
   },
@@ -525,7 +525,7 @@
   },
   "posteriordb": {
     "success": [true],
-    "published": ["2026-05-17 10:18:48.499 UTC"],
+    "published": ["2026-06-02 16:56:02.246 UTC"],
     "version": ["0.3.6"],
     "remote_hash": ["773fb7cd7447313dc691fd322423a87cb74cd9b7"]
   },
@@ -790,13 +790,13 @@
   },
   "tidyterra": {
     "success": [true],
-    "published": ["2026-05-17 09:30:50.578 UTC"],
+    "published": ["2026-06-02 17:02:50.302 UTC"],
     "version": ["1.1.0"],
     "remote_hash": ["d1f847e65f441efc5226c13892968ba59e91a953"]
   },
   "trelliscope": {
     "success": [true],
-    "published": ["2026-05-17 09:29:16.548 UTC"],
+    "published": ["2026-06-02 17:03:17.832 UTC"],
     "version": ["0.1.14"],
     "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"]
   },
@@ -808,13 +808,13 @@
   },
   "unigd": {
     "success": [true],
-    "published": ["2026-05-17 05:50:06.375 UTC"],
+    "published": ["2026-06-02 17:52:52.750 UTC"],
     "version": ["0.2.0"],
     "remote_hash": ["6312ba12b1c3aa2d85e13673de810b3741a20b54"]
   },
   "vctrs": {
     "success": [true],
-    "published": ["2026-05-17 09:29:30.864 UTC"],
+    "published": ["2026-06-02 17:03:02.157 UTC"],
     "version": ["0.7.3"],
     "remote_hash": ["d452a02c9f4752f3268431a3ac8aa221dbe4040f"]
   },
