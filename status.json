@@ -363,7 +363,7 @@
   },
   "InsectLabelR": {
     "success": [true],
-    "published": ["2026-05-22 18:34:27.510 UTC"],
+    "published": ["2026-06-02 09:12:18.684 UTC"],
     "version": ["1.0.4"],
     "remote_hash": ["86f66bbb8401e2ed7c7bd8be562cbfc369e35ec0"]
   },
@@ -437,7 +437,7 @@
   },
   "multitools": {
     "success": [true],
-    "published": ["2026-05-22 18:29:38.398 UTC"],
+    "published": ["2026-06-02 08:40:37.535 UTC"],
     "version": ["0.1.1"],
     "remote_hash": ["c73b933868d8c6884df4220c25779cd0874ec7de"]
   },
