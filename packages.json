@@ -277,6 +277,11 @@
     "branch": "*release"
   },
   {
+    "package": "mypaintr",
+    "url": "https://github.com/hughjonesd/mypaintr",
+    "branch": "*release"
+  },
+  {
     "package": "nanoarrow",
     "url": "https://github.com/apache/arrow-nanoarrow",
     "subdir": "r",
