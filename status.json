@@ -251,10 +251,9 @@
   },
   "geoarrow": {
     "success": [false],
-    "published": ["2026-05-22 12:15:04.140 UTC"],
-    "version": ["0.4.1"],
-    "remote_hash": ["6997060232b61c77c0ac5dfc7a33bc2688784ac4"],
-    "cran": ["0.4.2"],
+    "published": ["2026-06-04 17:12:20.262 UTC"],
+    "version": ["0.4.3"],
+    "remote_hash": ["9c305a06f6bd68f6f0d3565cb8971bcedb04a579"],
     "dependencies": {
       "wk": []
     }
@@ -466,6 +465,12 @@
     "published": ["2026-05-22 14:52:15.601 UTC"],
     "version": ["0.5.0"],
     "remote_hash": ["92ab4ab2561dbc094dc2eea27550686b53430fe2"]
+  },
+  "mypaintr": {
+    "success": [true],
+    "published": ["2026-06-04 17:13:51.019 UTC"],
+    "version": ["0.1.0"],
+    "remote_hash": ["2c3a19834f6c8792b76ca0c5c3bcfb75deb822f9"]
   },
   "nanoarrow": {
     "success": [true],
@@ -706,11 +711,10 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-06-02 20:15:19.855 UTC"],
+    "published": ["2026-06-04 18:19:18.187 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["7a3ab1c2f9f163aa1194c509924d9de98447f9b4"],
     "dependencies": {
-      "geoarrow": [],
       "wk": ["geoarrow"]
     }
   },

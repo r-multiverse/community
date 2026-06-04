@@ -197,10 +197,10 @@
   },
   {
     "package": "geoarrow",
-    "version_current": "0.4.1",
-    "hash_current": "6997060232b61c77c0ac5dfc7a33bc2688784ac4",
-    "version_highest": "0.4.1",
-    "hash_highest": "6997060232b61c77c0ac5dfc7a33bc2688784ac4"
+    "version_current": "0.4.3",
+    "hash_current": "9c305a06f6bd68f6f0d3565cb8971bcedb04a579",
+    "version_highest": "0.4.3",
+    "hash_highest": "9c305a06f6bd68f6f0d3565cb8971bcedb04a579"
   },
   {
     "package": "geographr",
@@ -376,6 +376,13 @@
     "hash_current": "92ab4ab2561dbc094dc2eea27550686b53430fe2",
     "version_highest": "0.5.0",
     "hash_highest": "92ab4ab2561dbc094dc2eea27550686b53430fe2"
+  },
+  {
+    "package": "mypaintr",
+    "version_current": "0.1.0",
+    "hash_current": "2c3a19834f6c8792b76ca0c5c3bcfb75deb822f9",
+    "version_highest": "0.1.0",
+    "hash_highest": "2c3a19834f6c8792b76ca0c5c3bcfb75deb822f9"
   },
   {
     "package": "nanoarrow",
