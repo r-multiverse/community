@@ -468,7 +468,7 @@
   },
   "mypaintr": {
     "success": [true],
-    "published": ["2026-06-04 17:13:51.019 UTC"],
+    "published": ["2026-06-05 06:06:25.976 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["2c3a19834f6c8792b76ca0c5c3bcfb75deb822f9"]
   },
@@ -711,9 +711,10 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-06-04 18:19:18.187 UTC"],
+    "published": ["2026-06-05 06:47:18.292 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["7a3ab1c2f9f163aa1194c509924d9de98447f9b4"],
+    "synchronization": ["recent"],
     "dependencies": {
       "wk": ["geoarrow"]
     }
