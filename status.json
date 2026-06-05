@@ -95,7 +95,7 @@
   },
   "autometric": {
     "success": [true],
-    "published": ["2026-05-22 16:13:46.336 UTC"],
+    "published": ["2026-06-05 09:33:15.418 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
   },
@@ -714,7 +714,6 @@
     "published": ["2026-06-05 06:47:18.292 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["7a3ab1c2f9f163aa1194c509924d9de98447f9b4"],
-    "synchronization": ["recent"],
     "dependencies": {
       "wk": ["geoarrow"]
     }
