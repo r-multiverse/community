@@ -145,7 +145,7 @@
   },
   "cli": {
     "success": [true],
-    "published": ["2026-05-22 13:03:42.502 UTC"],
+    "published": ["2026-06-08 07:32:48.822 UTC"],
     "version": ["3.6.6"],
     "remote_hash": ["928dad1c230a1da745bfdcc9b59726081a3a5b6e"]
   },
@@ -195,7 +195,7 @@
   },
   "deeptime": {
     "success": [true],
-    "published": ["2026-05-22 13:04:25.710 UTC"],
+    "published": ["2026-06-08 07:39:04.996 UTC"],
     "version": ["2.3.1"],
     "remote_hash": ["21d1665c7681de05b1d58236a944e1a08461be79"]
   },
@@ -280,7 +280,7 @@
   },
   "geotargets": {
     "success": [true],
-    "published": ["2026-05-22 13:03:09.865 UTC"],
+    "published": ["2026-06-08 07:30:29.230 UTC"],
     "version": ["0.3.1"],
     "remote_hash": ["719c095fac40cf13466ffbe147664f7d19a84352"]
   },
@@ -293,7 +293,7 @@
   },
   "ggsurveillance": {
     "success": [true],
-    "published": ["2026-05-22 13:04:08.904 UTC"],
+    "published": ["2026-06-08 07:36:00.601 UTC"],
     "version": ["0.5.2"],
     "remote_hash": ["b1417c45d47dc19898f8b66f9911166c030b12c1"]
   },
@@ -612,13 +612,13 @@
   },
   "riem": {
     "success": [true],
-    "published": ["2026-05-22 13:04:07.779 UTC"],
+    "published": ["2026-06-08 07:33:39.555 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["5ad33e8c9bd7200d53fd1f24f1b807624fbf0a33"]
   },
   "rJavaEnv": {
     "success": [true],
-    "published": ["2026-05-22 13:04:00.068 UTC"],
+    "published": ["2026-06-08 07:33:33.730 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["cce4a2bb65d891c3e9ba0194a67451de87a2a3ae"]
   },
@@ -643,7 +643,7 @@
   },
   "rredlist": {
     "success": [true],
-    "published": ["2026-05-22 13:04:28.607 UTC"],
+    "published": ["2026-06-08 07:35:23.811 UTC"],
     "version": ["1.1.1"],
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
@@ -655,7 +655,7 @@
   },
   "Rvision": {
     "success": [true],
-    "published": ["2026-06-07 06:05:25.125 UTC"],
+    "published": ["2026-06-08 06:21:40.601 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"]
   },
@@ -824,7 +824,7 @@
   },
   "voucher": {
     "success": [true],
-    "published": ["2026-05-22 13:04:12.941 UTC"],
+    "published": ["2026-06-08 07:34:09.183 UTC"],
     "version": ["1.0.2"],
     "remote_hash": ["40ec1e988e1f73cae28f38f79d08eac1cf53b2db"]
   },
