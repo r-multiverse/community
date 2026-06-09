@@ -145,7 +145,7 @@
   },
   "cli": {
     "success": [true],
-    "published": ["2026-06-08 07:32:48.822 UTC"],
+    "published": ["2026-06-09 06:04:16.752 UTC"],
     "version": ["3.6.6"],
     "remote_hash": ["928dad1c230a1da745bfdcc9b59726081a3a5b6e"]
   },
@@ -195,7 +195,7 @@
   },
   "deeptime": {
     "success": [true],
-    "published": ["2026-06-08 07:39:04.996 UTC"],
+    "published": ["2026-06-09 05:51:30.664 UTC"],
     "version": ["2.3.1"],
     "remote_hash": ["21d1665c7681de05b1d58236a944e1a08461be79"]
   },
@@ -280,7 +280,7 @@
   },
   "geotargets": {
     "success": [true],
-    "published": ["2026-06-08 07:30:29.230 UTC"],
+    "published": ["2026-06-09 05:51:44.792 UTC"],
     "version": ["0.3.1"],
     "remote_hash": ["719c095fac40cf13466ffbe147664f7d19a84352"]
   },
@@ -474,7 +474,7 @@
   },
   "nanoarrow": {
     "success": [true],
-    "published": ["2026-05-22 12:15:46.530 UTC"],
+    "published": ["2026-06-09 07:08:33.105 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["a579fbf5d192e85b6249935e117de7d02a6dc4e9"]
   },
