@@ -101,7 +101,7 @@
   },
   "bayesplot": {
     "success": [true],
-    "published": ["2026-05-21 20:05:20.806 UTC"],
+    "published": ["2026-06-10 12:12:31.888 UTC"],
     "version": ["1.15.0"],
     "remote_hash": ["ce863d7f5b15aa477b09c809c247552e66656d01"]
   },
@@ -151,7 +151,7 @@
   },
   "cmdstanr": {
     "success": [true],
-    "published": ["2026-05-21 20:10:18.581 UTC"],
+    "published": ["2026-06-10 12:08:36.165 UTC"],
     "version": ["0.9.0"],
     "remote_hash": ["da99e2ba954658bdad63bffb738c4444c33a4e0e"]
   },
@@ -368,7 +368,7 @@
   },
   "jagstargets": {
     "success": [true],
-    "published": ["2026-05-31 06:22:22.936 UTC"],
+    "published": ["2026-06-10 12:08:33.148 UTC"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
   },
@@ -412,7 +412,7 @@
   },
   "loo": {
     "success": [true],
-    "published": ["2026-05-21 20:04:22.091 UTC"],
+    "published": ["2026-06-10 12:10:56.970 UTC"],
     "version": ["2.9.0"],
     "remote_hash": ["299a4c7af159b08b3be0184744cc1a9615b6a341"]
   },
@@ -524,9 +524,9 @@
   },
   "posterior": {
     "success": [true],
-    "published": ["2026-05-22 05:51:38.680 UTC"],
-    "version": ["1.7.0"],
-    "remote_hash": ["727ac83cb52babb6eb54bdd1ce15f90439626945"]
+    "published": ["2026-06-10 12:00:55.710 UTC"],
+    "version": ["1.7.1"],
+    "remote_hash": ["540cc15f7f3a81913f2a02a0ac04700e0d352a20"]
   },
   "posteriordb": {
     "success": [true],
@@ -648,10 +648,11 @@
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
-    "success": [true],
-    "published": ["2026-06-02 12:57:51.615 UTC"],
+    "success": [false],
+    "published": ["2026-06-10 12:02:01.858 UTC"],
     "version": ["2.32.2"],
-    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
+    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/27274755464"]
   },
   "Rvision": {
     "success": [true],
@@ -685,7 +686,7 @@
   },
   "SBC": {
     "success": [false],
-    "published": ["2026-05-22 19:45:16.680 UTC"],
+    "published": ["2026-06-10 12:01:52.283 UTC"],
     "version": ["0.5.0.0"],
     "remote_hash": ["e40a320c335460851618f7019baf79d39bbedf29"],
     "r_cmd_check": [
@@ -701,7 +702,8 @@
         "r": "4.5.3",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/26218521749/job/77450560912"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/27274747274"]
   },
   "secretbase": {
     "success": [true],
