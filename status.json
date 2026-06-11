@@ -492,9 +492,9 @@
   },
   "polars": {
     "success": [true],
-    "published": ["2026-05-26 06:13:37.266 UTC"],
-    "version": ["1.11.0"],
-    "remote_hash": ["f5522a2cf863138295d2e5e114de726166e27ecd"]
+    "published": ["2026-06-11 15:06:31.539 UTC"],
+    "version": ["1.12.0"],
+    "remote_hash": ["00e26415e5648cb61e029af39af65fa686a736c8"]
   },
   "polars0": {
     "success": [false],
@@ -762,7 +762,7 @@
   },
   "tidypolars": {
     "success": [true],
-    "published": ["2026-05-26 06:23:45.480 UTC"],
+    "published": ["2026-06-11 15:16:06.604 UTC"],
     "version": ["0.18.0"],
     "remote_hash": ["661a7449cf3910205a26324bd6375329e11e6a81"]
   },
