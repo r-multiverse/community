@@ -305,7 +305,7 @@
   },
   "glaredb": {
     "success": [true],
-    "published": ["2026-06-10 06:13:46.773 UTC"],
+    "published": ["2026-06-11 06:32:18.299 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"]
   },
@@ -679,7 +679,7 @@
   },
   "saperlipopette": {
     "success": [true],
-    "published": ["2026-05-22 10:27:56.395 UTC"],
+    "published": ["2026-06-11 06:50:06.673 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["eb09bef3fcb017b5fcd6215acf199d9f528cacfc"]
   },
@@ -909,7 +909,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2026-06-10 19:11:14.961 UTC"],
+    "published": ["2026-06-11 06:21:34.437 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
