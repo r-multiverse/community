@@ -418,7 +418,7 @@
   },
   "mfclim": {
     "success": [true],
-    "published": ["2026-05-22 09:36:09.020 UTC"],
+    "published": ["2026-06-12 06:32:19.940 UTC"],
     "version": ["0.1.1"],
     "remote_hash": ["9fcdfcedf357040c95125ab9865693ba6ff35e2e"]
   },
@@ -909,7 +909,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2026-06-11 06:21:34.437 UTC"],
+    "published": ["2026-06-12 06:17:10.657 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
