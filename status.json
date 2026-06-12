@@ -343,7 +343,7 @@
   },
   "ichimoku": {
     "success": [true],
-    "published": ["2026-06-01 17:24:54.908 UTC"],
+    "published": ["2026-06-12 15:12:47.296 UTC"],
     "version": ["1.5.7"],
     "remote_hash": ["e96e5bd71301d74f628ffdffc2a06e5b180b2276"]
   },
@@ -368,7 +368,7 @@
   },
   "jagstargets": {
     "success": [true],
-    "published": ["2026-06-10 12:08:33.148 UTC"],
+    "published": ["2026-06-12 15:09:40.877 UTC"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"]
   },
@@ -705,9 +705,9 @@
   },
   "secretbase": {
     "success": [true],
-    "published": ["2026-05-31 07:43:33.895 UTC"],
-    "version": ["1.2.2"],
-    "remote_hash": ["49ffdb242808beb875cc84b3da06227d40785cac"]
+    "published": ["2026-06-12 15:00:55.609 UTC"],
+    "version": ["1.3.0"],
+    "remote_hash": ["f010c1fb4c0107a2ba4bbe5601c4b3bcb76b9c50"]
   },
   "sedonadb": {
     "success": [false],
@@ -738,13 +738,13 @@
   },
   "tarchetypes": {
     "success": [true],
-    "published": ["2026-05-31 07:36:43.759 UTC"],
+    "published": ["2026-06-12 15:11:10.542 UTC"],
     "version": ["0.14.1"],
     "remote_hash": ["020909b152e81f5891242672a3c2ef42312cfc2b"]
   },
   "targets": {
     "success": [true],
-    "published": ["2026-05-31 08:17:08.226 UTC"],
+    "published": ["2026-06-12 15:15:18.861 UTC"],
     "version": ["1.12.0"],
     "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"]
   },
