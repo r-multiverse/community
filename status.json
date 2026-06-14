@@ -233,7 +233,7 @@
   },
   "duckdb": {
     "success": [true],
-    "published": ["2026-06-02 20:10:25.098 UTC"],
+    "published": ["2026-06-14 12:10:46.624 UTC"],
     "version": ["1.5.2"],
     "remote_hash": ["a68494a83c4e6cec56a50db94f55b0699f33752c"]
   },
