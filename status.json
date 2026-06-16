@@ -201,7 +201,7 @@
   },
   "deeptimedata": {
     "success": [true],
-    "published": ["2026-06-02 17:37:26.137 UTC"],
+    "published": ["2026-06-16 10:39:12.864 UTC"],
     "version": ["1.0.0"],
     "remote_hash": ["7f1d9e301bac0d580f93c168328ef2aaad490aca"]
   },
@@ -330,10 +330,13 @@
     ]
   },
   "httpgd": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-05-28 06:06:27.808 UTC"],
     "version": ["2.1.4"],
-    "remote_hash": ["087ebf5bbf46ddc52e107d6a8bb26381177d2e7f"]
+    "remote_hash": ["087ebf5bbf46ddc52e107d6a8bb26381177d2e7f"],
+    "dependencies": {
+      "unigd": []
+    }
   },
   "huxtable": {
     "success": [true],
@@ -530,7 +533,7 @@
   },
   "posteriordb": {
     "success": [true],
-    "published": ["2026-06-02 16:56:02.246 UTC"],
+    "published": ["2026-06-16 08:28:43.367 UTC"],
     "version": ["0.3.6"],
     "remote_hash": ["773fb7cd7447313dc691fd322423a87cb74cd9b7"]
   },
@@ -794,13 +797,13 @@
   },
   "tidyterra": {
     "success": [true],
-    "published": ["2026-06-02 17:02:50.302 UTC"],
+    "published": ["2026-06-16 08:07:09.589 UTC"],
     "version": ["1.1.0"],
     "remote_hash": ["d1f847e65f441efc5226c13892968ba59e91a953"]
   },
   "trelliscope": {
     "success": [true],
-    "published": ["2026-06-02 17:03:17.832 UTC"],
+    "published": ["2026-06-16 08:11:28.140 UTC"],
     "version": ["0.1.14"],
     "remote_hash": ["99dfb29c0057680ecf92ed2b061dd833cfd667f8"]
   },
@@ -811,14 +814,15 @@
     "remote_hash": ["4a0b41cde2d32c28662645c1b8780192e57400a2"]
   },
   "unigd": {
-    "success": [true],
-    "published": ["2026-06-02 17:52:52.750 UTC"],
+    "success": [false],
+    "published": ["2026-06-16 11:39:44.246 UTC"],
     "version": ["0.2.0"],
-    "remote_hash": ["6312ba12b1c3aa2d85e13673de810b3741a20b54"]
+    "remote_hash": ["6312ba12b1c3aa2d85e13673de810b3741a20b54"],
+    "synchronization": ["recent"]
   },
   "vctrs": {
     "success": [true],
-    "published": ["2026-06-02 17:03:02.157 UTC"],
+    "published": ["2026-06-16 08:08:45.296 UTC"],
     "version": ["0.7.3"],
     "remote_hash": ["d452a02c9f4752f3268431a3ac8aa221dbe4040f"]
   },
