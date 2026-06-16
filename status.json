@@ -330,13 +330,10 @@
     ]
   },
   "httpgd": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-05-28 06:06:27.808 UTC"],
     "version": ["2.1.4"],
-    "remote_hash": ["087ebf5bbf46ddc52e107d6a8bb26381177d2e7f"],
-    "dependencies": {
-      "unigd": []
-    }
+    "remote_hash": ["087ebf5bbf46ddc52e107d6a8bb26381177d2e7f"]
   },
   "huxtable": {
     "success": [true],
@@ -814,11 +811,10 @@
     "remote_hash": ["4a0b41cde2d32c28662645c1b8780192e57400a2"]
   },
   "unigd": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-06-16 11:39:44.246 UTC"],
     "version": ["0.2.0"],
-    "remote_hash": ["6312ba12b1c3aa2d85e13673de810b3741a20b54"],
-    "synchronization": ["recent"]
+    "remote_hash": ["6312ba12b1c3aa2d85e13673de810b3741a20b54"]
   },
   "vctrs": {
     "success": [true],
