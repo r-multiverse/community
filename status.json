@@ -794,9 +794,9 @@
   },
   "tidyterra": {
     "success": [true],
-    "published": ["2026-06-16 08:07:09.589 UTC"],
-    "version": ["1.1.0"],
-    "remote_hash": ["d1f847e65f441efc5226c13892968ba59e91a953"]
+    "published": ["2026-06-17 12:11:48.500 UTC"],
+    "version": ["1.2.0"],
+    "remote_hash": ["371cb7060969b5bfb439494190166ca8022dcfca"]
   },
   "trelliscope": {
     "success": [true],
