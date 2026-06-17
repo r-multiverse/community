@@ -829,10 +829,24 @@
     "remote_hash": ["40ec1e988e1f73cae28f38f79d08eac1cf53b2db"]
   },
   "weathercan": {
-    "success": [true],
-    "published": ["2026-06-06 07:08:52.739 UTC"],
-    "version": ["0.7.8"],
-    "remote_hash": ["ae9a0e72e50caaf41823a21a1603cf23a6ece331"]
+    "success": [false],
+    "published": ["2026-06-17 15:11:28.493 UTC"],
+    "version": ["1.0.0"],
+    "remote_hash": ["a92156e7f91d027224fa62df797327ae1397b97d"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "macos-oldrel-arm64",
+        "r": "4.5.3",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/27698609879/job/81929767792"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-oldrel",
+        "r": "4.5.3",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/27698609879/job/81929767811"
+      }
+    ]
   },
   "webchem": {
     "success": [true],
