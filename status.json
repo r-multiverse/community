@@ -41,7 +41,7 @@
   },
   "arrow": {
     "success": [false],
-    "published": ["2026-06-20 10:17:19.644 UTC"],
+    "published": ["2026-06-20 11:21:50.255 UTC"],
     "version": ["24.0.0"],
     "remote_hash": ["31b4b6c0a0a7e7c117312d285541a21446675ec6"],
     "r_cmd_check": [
@@ -49,10 +49,9 @@
         "check": "ERROR",
         "config": "windows-oldrel",
         "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/26220375199/job/79075379529"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/27868138728/job/82475906011"
       }
-    ],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/27868138728"]
+    ]
   },
   "asylum": {
     "success": [false],
