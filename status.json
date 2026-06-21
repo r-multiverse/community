@@ -106,10 +106,13 @@
     "remote_hash": ["ce863d7f5b15aa477b09c809c247552e66656d01"]
   },
   "bedrockbio": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-05-24 02:49:26.631 UTC"],
     "version": ["1.4.0"],
-    "remote_hash": ["b955cc1d9fb5d8fb23b6436c20699bf7b7672718"]
+    "remote_hash": ["b955cc1d9fb5d8fb23b6436c20699bf7b7672718"],
+    "dependencies": {
+      "duckdb": []
+    }
   },
   "biorecap": {
     "success": [true],
@@ -232,10 +235,11 @@
     "remote_hash": ["ef97b06623b2a07b9ae5cb7ddb16f35993786578"]
   },
   "duckdb": {
-    "success": [true],
-    "published": ["2026-06-14 12:10:46.624 UTC"],
+    "success": [false],
+    "published": ["2026-06-21 06:11:11.197 UTC"],
     "version": ["1.5.2"],
-    "remote_hash": ["a68494a83c4e6cec56a50db94f55b0699f33752c"]
+    "remote_hash": ["a68494a83c4e6cec56a50db94f55b0699f33752c"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/27895604440"]
   },
   "ecoXCorr": {
     "success": [true],
