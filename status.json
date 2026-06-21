@@ -731,11 +731,10 @@
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"]
   },
   "string2path": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-06-21 10:49:52.914 UTC"],
     "version": ["0.3.1"],
-    "remote_hash": ["9f56fe2469b30a4dcf58c3a9c9b031bd38e80726"],
-    "synchronization": ["recent"]
+    "remote_hash": ["9f56fe2469b30a4dcf58c3a9c9b031bd38e80726"]
   },
   "tarchetypes": {
     "success": [true],
