@@ -118,10 +118,11 @@
     "remote_hash": ["20dcdd9ea6fbca2a061b123ef56e5f1b94380644"]
   },
   "bootstrapper": {
-    "success": [true],
-    "published": ["2026-05-27 07:34:44.430 UTC"],
-    "version": ["1.0.0"],
-    "remote_hash": ["e0ee17327dc861846f340352d7ace3f51447b2c3"]
+    "success": [false],
+    "published": ["2026-06-24 10:36:41.732 UTC"],
+    "version": ["1.1.0"],
+    "remote_hash": ["6053274c28d41be184215dcd88720a597d0a1167"],
+    "remotes": ["lorenzwalthert/touchstone"]
   },
   "bridgestan": {
     "success": [false],
