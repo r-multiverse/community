@@ -741,9 +741,10 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-06-05 06:47:18.292 UTC"],
+    "published": ["2026-06-25 05:07:06.533 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["7a3ab1c2f9f163aa1194c509924d9de98447f9b4"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/28148219508"],
     "dependencies": {
       "wk": ["geoarrow"]
     }
