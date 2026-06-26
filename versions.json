@@ -330,10 +330,10 @@
   },
   {
     "package": "loo",
-    "version_current": "2.9.0",
-    "hash_current": "299a4c7af159b08b3be0184744cc1a9615b6a341",
-    "version_highest": "2.9.0",
-    "hash_highest": "299a4c7af159b08b3be0184744cc1a9615b6a341"
+    "version_current": "2.10.0",
+    "hash_current": "1d6f5859ddf8792ce01d4a8f259c88d247b4ebb9",
+    "version_highest": "2.10.0",
+    "hash_highest": "1d6f5859ddf8792ce01d4a8f259c88d247b4ebb9"
   },
   {
     "package": "mfclim",

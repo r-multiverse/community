@@ -439,9 +439,9 @@
   },
   "loo": {
     "success": [true],
-    "published": ["2026-06-10 12:10:56.970 UTC"],
-    "version": ["2.9.0"],
-    "remote_hash": ["299a4c7af159b08b3be0184744cc1a9615b6a341"]
+    "published": ["2026-06-26 20:49:41.335 UTC"],
+    "version": ["2.10.0"],
+    "remote_hash": ["1d6f5859ddf8792ce01d4a8f259c88d247b4ebb9"]
   },
   "mfclim": {
     "success": [true],
@@ -586,7 +586,7 @@
   },
   "projpred": {
     "success": [true],
-    "published": ["2026-06-07 09:34:59.795 UTC"],
+    "published": ["2026-06-26 21:05:44.301 UTC"],
     "version": ["2.10.0"],
     "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"]
   },
@@ -678,10 +678,11 @@
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
-    "success": [true],
-    "published": ["2026-06-23 21:47:42.114 UTC"],
+    "success": [false],
+    "published": ["2026-06-26 20:50:14.895 UTC"],
     "version": ["2.32.2"],
-    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
+    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/28264506268"]
   },
   "Rvision": {
     "success": [true],
