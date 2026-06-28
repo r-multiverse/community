@@ -733,6 +733,12 @@
       }
     ]
   },
+  "sdplyr": {
+    "success": [true],
+    "published": ["2026-06-28 05:26:13.387 UTC"],
+    "version": ["0.4.0"],
+    "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"]
+  },
   "secretbase": {
     "success": [true],
     "published": ["2026-06-23 20:54:37.460 UTC"],
@@ -747,6 +753,12 @@
     "dependencies": {
       "wk": ["geoarrow"]
     }
+  },
+  "sedonafns": {
+    "success": [true],
+    "published": ["2026-06-28 05:29:09.082 UTC"],
+    "version": ["0.4.0"],
+    "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"]
   },
   "shinystan": {
     "success": [true],
