@@ -734,10 +734,13 @@
     ]
   },
   "sdplyr": {
-    "success": [true],
-    "published": ["2026-06-28 05:26:13.387 UTC"],
+    "success": [false],
+    "published": ["2026-06-28 07:08:14.681 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"]
+    "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
+    "dependencies": {
+      "wk": ["sedonadb"]
+    }
   },
   "secretbase": {
     "success": [true],
