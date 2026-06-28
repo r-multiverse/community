@@ -414,6 +414,12 @@
     "branch": "*release"
   },
   {
+    "package": "sdplyr",
+    "url": "https://github.com/apache/sedona-db",
+    "subdir": "r/sdplyr",
+    "branch": "*release"
+  },
+  {
     "package": "secretbase",
     "url": "https://github.com/shikokuchuo/secretbase",
     "branch": "*release"
@@ -422,6 +428,12 @@
     "package": "sedonadb",
     "url": "https://github.com/apache/sedona-db",
     "subdir": "r/sedonadb",
+    "branch": "*release"
+  },
+  {
+    "package": "sedonafns",
+    "url": "https://github.com/apache/sedona-db",
+    "subdir": "r/sedonafns",
     "branch": "*release"
   },
   {
