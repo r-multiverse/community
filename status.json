@@ -107,9 +107,9 @@
   },
   "bedrockbio": {
     "success": [true],
-    "published": ["2026-07-01 09:10:28.726 UTC"],
-    "version": ["1.4.0"],
-    "remote_hash": ["b955cc1d9fb5d8fb23b6436c20699bf7b7672718"]
+    "published": ["2026-07-02 15:20:54.808 UTC"],
+    "version": ["2.0.0"],
+    "remote_hash": ["5b2e43628012d945a34d0fa725a448d9c476c1e2"]
   },
   "biorecap": {
     "success": [true],

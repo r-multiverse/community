@@ -78,10 +78,10 @@
   },
   {
     "package": "bedrockbio",
-    "version_current": "1.4.0",
-    "hash_current": "b955cc1d9fb5d8fb23b6436c20699bf7b7672718",
-    "version_highest": "1.4.0",
-    "hash_highest": "b955cc1d9fb5d8fb23b6436c20699bf7b7672718"
+    "version_current": "2.0.0",
+    "hash_current": "5b2e43628012d945a34d0fa725a448d9c476c1e2",
+    "version_highest": "2.0.0",
+    "hash_highest": "5b2e43628012d945a34d0fa725a448d9c476c1e2"
   },
   {
     "package": "biorecap",
