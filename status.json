@@ -457,7 +457,7 @@
   },
   "mirai": {
     "success": [true],
-    "published": ["2026-07-02 10:03:45.367 UTC"],
+    "published": ["2026-07-03 10:10:14.644 UTC"],
     "version": ["2.7.1"],
     "remote_hash": ["653d376becb84578078c9f2f1206571e7b6aada0"]
   },
@@ -665,7 +665,7 @@
   },
   "Rvision": {
     "success": [true],
-    "published": ["2026-07-03 05:14:21.642 UTC"],
+    "published": ["2026-07-03 09:34:57.512 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"]
   },
@@ -965,7 +965,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2026-07-03 05:14:10.908 UTC"],
+    "published": ["2026-07-03 11:23:33.848 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
