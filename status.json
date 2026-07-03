@@ -107,7 +107,7 @@
   },
   "bedrockbio": {
     "success": [true],
-    "published": ["2026-07-02 15:20:54.808 UTC"],
+    "published": ["2026-07-03 04:38:29.944 UTC"],
     "version": ["2.0.0"],
     "remote_hash": ["5b2e43628012d945a34d0fa725a448d9c476c1e2"]
   },
@@ -234,9 +234,9 @@
   },
   "duckdb": {
     "success": [true],
-    "published": ["2026-07-01 10:42:16.588 UTC"],
-    "version": ["1.5.4"],
-    "remote_hash": ["ca650bf1ebdadd0982a7fc74ff56a75aadf30ba2"]
+    "published": ["2026-07-03 04:30:20.311 UTC"],
+    "version": ["1.5.4.2"],
+    "remote_hash": ["c95f1b0681c21e91f8210a86b0a763dd42d324ac"]
   },
   "ecoXCorr": {
     "success": [true],
