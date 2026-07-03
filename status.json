@@ -62,7 +62,7 @@
   },
   "audio.vadwebrtc": {
     "success": [true],
-    "published": ["2026-07-02 05:32:10.951 UTC"],
+    "published": ["2026-07-03 05:14:35.839 UTC"],
     "version": ["0.2"],
     "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"]
   },
@@ -309,7 +309,7 @@
   },
   "glaredb": {
     "success": [true],
-    "published": ["2026-07-02 05:42:27.069 UTC"],
+    "published": ["2026-07-03 05:25:26.628 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"]
   },
@@ -498,7 +498,7 @@
   },
   "mypaintr": {
     "success": [true],
-    "published": ["2026-07-02 05:33:31.375 UTC"],
+    "published": ["2026-07-03 05:15:38.262 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["2c3a19834f6c8792b76ca0c5c3bcfb75deb822f9"]
   },
@@ -640,13 +640,13 @@
   },
   "Rmlx": {
     "success": [true],
-    "published": ["2026-07-02 07:05:07.750 UTC"],
+    "published": ["2026-07-03 06:45:50.740 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"]
   },
   "RmlxStats": {
     "success": [false],
-    "published": ["2026-07-02 05:32:37.273 UTC"],
+    "published": ["2026-07-03 05:15:16.135 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["36963b9c305b2487d6f93264c34d1c37bd0d5ea5"],
     "remotes": ["hughjonesd/Rmlx"]
@@ -665,7 +665,7 @@
   },
   "Rvision": {
     "success": [true],
-    "published": ["2026-07-02 05:32:05.344 UTC"],
+    "published": ["2026-07-03 05:14:21.642 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"]
   },
@@ -751,7 +751,7 @@
   },
   "stantargets": {
     "success": [true],
-    "published": ["2026-07-02 05:32:51.926 UTC"],
+    "published": ["2026-07-03 05:14:36.851 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"]
   },
@@ -965,7 +965,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2026-07-02 05:31:49.654 UTC"],
+    "published": ["2026-07-03 05:14:10.908 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
