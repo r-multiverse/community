@@ -795,10 +795,24 @@
     "remote_hash": ["6438f8a6dec45413ee7ef7938e01a672986f3dda"]
   },
   "tidypolars": {
-    "success": [true],
-    "published": ["2026-07-04 12:00:03.237 UTC"],
-    "version": ["0.18.0"],
-    "remote_hash": ["661a7449cf3910205a26324bd6375329e11e6a81"]
+    "success": [false],
+    "published": ["2026-07-04 15:13:05.546 UTC"],
+    "version": ["0.19.0"],
+    "remote_hash": ["e79dda50194dfd00a43d66afedd57072cab2ef54"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "macos-oldrel-arm64",
+        "r": "4.5.3",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28710188935/job/85142620983"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-oldrel",
+        "r": "4.5.3",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28710188935/job/85142620958"
+      }
+    ]
   },
   "tidytab": {
     "success": [true],
