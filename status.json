@@ -521,11 +521,10 @@
     "remote_hash": ["e36294db9b20ec964487b251fd76306c890d3891"]
   },
   "polars": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-07-04 11:49:15.493 UTC"],
     "version": ["1.13.0"],
-    "remote_hash": ["9515c7eab52990c006341da3b9d36b14196a1939"],
-    "synchronization": ["recent"]
+    "remote_hash": ["9515c7eab52990c006341da3b9d36b14196a1939"]
   },
   "polars0": {
     "success": [false],
@@ -796,22 +795,10 @@
     "remote_hash": ["6438f8a6dec45413ee7ef7938e01a672986f3dda"]
   },
   "tidypolars": {
-    "success": [false],
-    "published": ["2026-07-04 11:50:47.931 UTC"],
+    "success": [true],
+    "published": ["2026-07-04 12:00:03.237 UTC"],
     "version": ["0.18.0"],
-    "remote_hash": ["661a7449cf3910205a26324bd6375329e11e6a81"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506356984/job/84496371176"
-      }
-    ],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/28705288930"],
-    "dependencies": {
-      "polars": []
-    }
+    "remote_hash": ["661a7449cf3910205a26324bd6375329e11e6a81"]
   },
   "tidytab": {
     "success": [true],
