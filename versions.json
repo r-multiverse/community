@@ -407,10 +407,10 @@
   },
   {
     "package": "polars",
-    "version_current": "1.12.0",
-    "hash_current": "00e26415e5648cb61e029af39af65fa686a736c8",
-    "version_highest": "1.12.0",
-    "hash_highest": "00e26415e5648cb61e029af39af65fa686a736c8"
+    "version_current": "1.13.0",
+    "hash_current": "9515c7eab52990c006341da3b9d36b14196a1939",
+    "version_highest": "1.13.0",
+    "hash_highest": "9515c7eab52990c006341da3b9d36b14196a1939"
   },
   {
     "package": "polars0",
