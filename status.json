@@ -639,21 +639,17 @@
     "remote_hash": ["31ca80fc99e20834bacf51f4a392866b2b714195"]
   },
   "Rmlx": {
-    "success": [false],
-    "published": ["2026-07-05 12:00:23.361 UTC"],
+    "success": [true],
+    "published": ["2026-07-05 13:27:07.438 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/28740037024"]
+    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"]
   },
   "RmlxStats": {
     "success": [false],
     "published": ["2026-07-03 05:15:16.135 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["36963b9c305b2487d6f93264c34d1c37bd0d5ea5"],
-    "remotes": ["hughjonesd/Rmlx"],
-    "dependencies": {
-      "Rmlx": []
-    }
+    "remotes": ["hughjonesd/Rmlx"]
   },
   "rredlist": {
     "success": [true],
@@ -662,15 +658,14 @@
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
-    "success": [false],
-    "published": ["2026-07-05 12:00:00.710 UTC"],
+    "success": [true],
+    "published": ["2026-07-05 12:51:33.456 UTC"],
     "version": ["2.32.2"],
-    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/28740031457"]
+    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
   "Rvision": {
     "success": [true],
-    "published": ["2026-07-04 05:09:21.253 UTC"],
+    "published": ["2026-07-05 13:46:45.543 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"]
   },
@@ -756,7 +751,7 @@
   },
   "stantargets": {
     "success": [true],
-    "published": ["2026-07-04 05:10:33.063 UTC"],
+    "published": ["2026-07-05 13:52:53.693 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"]
   },
@@ -976,7 +971,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2026-07-05 11:57:31.710 UTC"],
+    "published": ["2026-07-05 13:53:37.448 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
