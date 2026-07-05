@@ -62,7 +62,7 @@
   },
   "audio.vadwebrtc": {
     "success": [true],
-    "published": ["2026-07-03 05:14:35.839 UTC"],
+    "published": ["2026-07-05 12:10:03.946 UTC"],
     "version": ["0.2"],
     "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"]
   },
@@ -146,7 +146,7 @@
   },
   "cli": {
     "success": [true],
-    "published": ["2026-07-01 09:15:40.552 UTC"],
+    "published": ["2026-07-05 12:11:00.523 UTC"],
     "version": ["3.6.6"],
     "remote_hash": ["928dad1c230a1da745bfdcc9b59726081a3a5b6e"]
   },
@@ -492,7 +492,7 @@
   },
   "mutagen": {
     "success": [true],
-    "published": ["2026-07-01 09:30:45.464 UTC"],
+    "published": ["2026-07-05 12:12:21.687 UTC"],
     "version": ["0.5.0"],
     "remote_hash": ["92ab4ab2561dbc094dc2eea27550686b53430fe2"]
   },
@@ -639,17 +639,21 @@
     "remote_hash": ["31ca80fc99e20834bacf51f4a392866b2b714195"]
   },
   "Rmlx": {
-    "success": [true],
-    "published": ["2026-07-03 06:45:50.740 UTC"],
+    "success": [false],
+    "published": ["2026-07-05 12:00:23.361 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"]
+    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/28740037024"]
   },
   "RmlxStats": {
     "success": [false],
     "published": ["2026-07-03 05:15:16.135 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["36963b9c305b2487d6f93264c34d1c37bd0d5ea5"],
-    "remotes": ["hughjonesd/Rmlx"]
+    "remotes": ["hughjonesd/Rmlx"],
+    "dependencies": {
+      "Rmlx": []
+    }
   },
   "rredlist": {
     "success": [true],
@@ -658,10 +662,11 @@
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
-    "success": [true],
-    "published": ["2026-07-01 10:13:33.315 UTC"],
+    "success": [false],
+    "published": ["2026-07-05 12:00:00.710 UTC"],
     "version": ["2.32.2"],
-    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
+    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/28740031457"]
   },
   "Rvision": {
     "success": [true],
@@ -971,7 +976,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2026-07-05 05:38:19.288 UTC"],
+    "published": ["2026-07-05 11:57:31.710 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
