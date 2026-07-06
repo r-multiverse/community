@@ -99,10 +99,10 @@
   },
   {
     "package": "bridgestan",
-    "version_current": "2.8.0",
-    "hash_current": "d2c499a7a85c9069f5b73b05d5ee2e9b8661a3e3",
-    "version_highest": "2.8.0",
-    "hash_highest": "d2c499a7a85c9069f5b73b05d5ee2e9b8661a3e3"
+    "version_current": "2.9.0",
+    "hash_current": "49e248f351d4dac18d7fd154dbc3a0ab39c5de10",
+    "version_highest": "2.9.0",
+    "hash_highest": "49e248f351d4dac18d7fd154dbc3a0ab39c5de10"
   },
   {
     "package": "cli",
