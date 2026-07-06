@@ -301,6 +301,13 @@
     "hash_highest": "fef92d0d74f6e9832459ce4bee69396bca21fd3f"
   },
   {
+    "package": "jiebaRS",
+    "version_current": "0.1.0",
+    "hash_current": "9662148258aab601804f55bdb4f23164703cc809",
+    "version_highest": "0.1.0",
+    "hash_highest": "9662148258aab601804f55bdb4f23164703cc809"
+  },
+  {
     "package": "kgp",
     "version_current": "1.1.1",
     "hash_current": "284855372dc1bd76ea3aceb2bd1e69404c237834",

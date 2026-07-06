@@ -422,8 +422,10 @@
     }
   },
   "jiebaRS": {
-    "success": [false],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/28822633974"]
+    "success": [true],
+    "published": ["2026-07-06 21:09:00.364 UTC"],
+    "version": ["0.1.0"],
+    "remote_hash": ["9662148258aab601804f55bdb4f23164703cc809"]
   },
   "kgp": {
     "success": [true],
