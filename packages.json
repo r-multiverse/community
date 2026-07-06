@@ -222,6 +222,11 @@
     "branch": "*release"
   },
   {
+    "package": "jiebaRS",
+    "url": "https://github.com/Yousa-Mirage/jiebaRS",
+    "branch": "*release"
+  },
+  {
     "package": "kgp",
     "url": "https://github.com/stephenturner/kgp",
     "branch": "*release"
