@@ -421,6 +421,10 @@
       "igraph": ["targets", "tarchetypes"]
     }
   },
+  "jiebaRS": {
+    "success": [false],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/28822633974"]
+  },
   "kgp": {
     "success": [true],
     "published": ["2026-07-01 09:19:47.744 UTC"],
