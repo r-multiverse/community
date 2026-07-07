@@ -62,7 +62,7 @@
   },
   "audio.vadwebrtc": {
     "success": [true],
-    "published": ["2026-07-06 06:06:27.028 UTC"],
+    "published": ["2026-07-07 05:41:44.303 UTC"],
     "version": ["0.2"],
     "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"]
   },
@@ -668,7 +668,7 @@
   },
   "Rmlx": {
     "success": [true],
-    "published": ["2026-07-06 06:08:41.433 UTC"],
+    "published": ["2026-07-07 05:41:30.220 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"]
   },
@@ -693,7 +693,7 @@
   },
   "Rvision": {
     "success": [true],
-    "published": ["2026-07-06 05:56:52.040 UTC"],
+    "published": ["2026-07-07 05:37:12.792 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"]
   },
@@ -779,7 +779,7 @@
   },
   "stantargets": {
     "success": [true],
-    "published": ["2026-07-06 06:00:41.683 UTC"],
+    "published": ["2026-07-07 05:39:50.663 UTC"],
     "version": ["0.1.2"],
     "remote_hash": ["638326106594be70c5f851c767349e4192740771"]
   },
@@ -1007,7 +1007,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2026-07-06 05:58:52.015 UTC"],
+    "published": ["2026-07-07 05:39:51.976 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
