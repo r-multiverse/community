@@ -693,7 +693,7 @@
   },
   "Rvision": {
     "success": [true],
-    "published": ["2026-07-07 05:37:12.792 UTC"],
+    "published": ["2026-07-08 04:48:47.243 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"]
   },
@@ -1011,7 +1011,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2026-07-07 05:39:51.976 UTC"],
+    "published": ["2026-07-08 04:51:17.755 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
