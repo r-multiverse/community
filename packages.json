@@ -167,6 +167,26 @@
     "branch": "*release"
   },
   {
+    "package": "ggseg",
+    "url": "https://github.com/ggsegverse/ggseg",
+    "branch": "*release"
+  },
+  {
+    "package": "ggseg.formats",
+    "url": "https://github.com/ggsegverse/ggseg.formats",
+    "branch": "*release"
+  },
+  {
+    "package": "ggseg.meshes",
+    "url": "https://github.com/ggsegverse/ggseg.meshes",
+    "branch": "*release"
+  },
+  {
+    "package": "ggseg3d",
+    "url": "https://github.com/ggsegverse/ggseg3d",
+    "branch": "*release"
+  },
+  {
     "package": "ggsurveillance",
     "url": "https://github.com/biostats-dev/ggsurveillance/",
     "branch": "*release"
