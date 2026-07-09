@@ -309,6 +309,30 @@
     "remote_hash": ["1eda21aba4f717d0c3525dbafe44670d4f091e54"],
     "remotes": ["thomasp85/ggforce"]
   },
+  "ggseg": {
+    "success": [true],
+    "published": ["2026-07-09 19:54:08.957 UTC"],
+    "version": ["2.2.1"],
+    "remote_hash": ["39749d9b57f6e2d8ab7f30f4d10653ee61a4032f"]
+  },
+  "ggseg.formats": {
+    "success": [true],
+    "published": ["2026-07-09 19:33:44.165 UTC"],
+    "version": ["0.0.4"],
+    "remote_hash": ["193ca3c76ed61992266a31c60727c337a969cd66"]
+  },
+  "ggseg.meshes": {
+    "success": [true],
+    "published": ["2026-07-09 19:33:17.750 UTC"],
+    "version": ["0.0.1"],
+    "remote_hash": ["964f1f59d9b224c31b7a67994007ac3024263962"]
+  },
+  "ggseg3d": {
+    "success": [true],
+    "published": ["2026-07-09 19:33:48.766 UTC"],
+    "version": ["2.1.2"],
+    "remote_hash": ["bba4f5eb148f51f1ea88452c0af723b2da7f9989"]
+  },
   "ggsurveillance": {
     "success": [true],
     "published": ["2026-07-06 13:15:40.704 UTC"],
