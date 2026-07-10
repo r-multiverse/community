@@ -192,7 +192,7 @@
   },
   "crew": {
     "success": [true],
-    "published": ["2026-07-09 23:14:48.079 UTC"],
+    "published": ["2026-07-10 05:38:50.055 UTC"],
     "version": ["1.3.1"],
     "remote_hash": ["c26bdeaea4a08a9081da86e14ccdc93f1b41e429"]
   },
@@ -385,7 +385,7 @@
   },
   "ichimoku": {
     "success": [true],
-    "published": ["2026-07-09 23:17:08.174 UTC"],
+    "published": ["2026-07-10 05:39:22.061 UTC"],
     "version": ["1.5.7"],
     "remote_hash": ["e96e5bd71301d74f628ffdffc2a06e5b180b2276"]
   },
