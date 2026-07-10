@@ -40,18 +40,10 @@
     "remote_hash": ["439ab7172c40b946b6811ffa7327ada58ab46d19"]
   },
   "arrow": {
-    "success": [false],
-    "published": ["2026-07-06 13:36:47.400 UTC"],
-    "version": ["24.0.0"],
-    "remote_hash": ["31b4b6c0a0a7e7c117312d285541a21446675ec6"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793570573/job/85379661077"
-      }
-    ]
+    "success": [true],
+    "published": ["2026-07-10 10:37:49.740 UTC"],
+    "version": ["25.0.0"],
+    "remote_hash": ["59bea6ec485e7fe351d1aa6753f964f6a6bc353a"]
   },
   "asylum": {
     "success": [false],
