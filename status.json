@@ -202,9 +202,9 @@
   },
   "deeptime": {
     "success": [true],
-    "published": ["2026-07-06 13:23:19.282 UTC"],
-    "version": ["2.3.1"],
-    "remote_hash": ["21d1665c7681de05b1d58236a944e1a08461be79"]
+    "published": ["2026-07-10 16:16:42.217 UTC"],
+    "version": ["2.4.0"],
+    "remote_hash": ["e78aa6e25cda2dcaecd72a37a8e74ad979c8e058"]
   },
   "deeptimedata": {
     "success": [true],
