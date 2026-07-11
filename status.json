@@ -202,7 +202,7 @@
   },
   "deeptime": {
     "success": [true],
-    "published": ["2026-07-10 16:16:42.217 UTC"],
+    "published": ["2026-07-11 09:18:47.611 UTC"],
     "version": ["2.4.0"],
     "remote_hash": ["e78aa6e25cda2dcaecd72a37a8e74ad979c8e058"]
   },
@@ -1027,7 +1027,7 @@
   },
   "zstdlite": {
     "success": [true],
-    "published": ["2026-07-08 04:51:17.755 UTC"],
+    "published": ["2026-07-08 04:51:17.750 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
   }
