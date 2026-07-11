@@ -457,9 +457,9 @@
   },
   "litedown": {
     "success": [true],
-    "published": ["2026-07-01 09:13:39.305 UTC"],
-    "version": ["0.9"],
-    "remote_hash": ["ca3535ac33b0c1a6c57b3e42d3db431f2b794727"]
+    "published": ["2026-07-11 14:20:38.380 UTC"],
+    "version": ["0.10"],
+    "remote_hash": ["0cc8f6c7d73f2bef34faa30f32bd8634103fdb48"]
   },
   "loneliness": {
     "success": [false],
