@@ -1,37 +1,27 @@
 {
   "adbcbigquery": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-07-01 09:22:09.098 UTC"],
     "version": ["0.23.0"],
-    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
-    "dependencies": {
-      "adbcdrivermanager": []
-    }
+    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"]
   },
   "adbcdrivermanager": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-07-01 09:15:51.368 UTC"],
     "version": ["0.23.0"],
-    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
-    "cran": ["0.23.0-1"]
+    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"]
   },
   "adbcflightsql": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-07-01 09:20:59.329 UTC"],
     "version": ["0.23.0"],
-    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
-    "dependencies": {
-      "adbcdrivermanager": []
-    }
+    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"]
   },
   "adbcsnowflake": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-07-01 09:25:46.957 UTC"],
     "version": ["0.23.0"],
-    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
-    "dependencies": {
-      "adbcdrivermanager": []
-    }
+    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"]
   },
   "ahocorasick": {
     "success": [true],
@@ -40,23 +30,38 @@
     "remote_hash": ["439ab7172c40b946b6811ffa7327ada58ab46d19"]
   },
   "arrow": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-07-10 10:37:49.740 UTC"],
     "version": ["25.0.0"],
-    "remote_hash": ["59bea6ec485e7fe351d1aa6753f964f6a6bc353a"]
+    "remote_hash": ["59bea6ec485e7fe351d1aa6753f964f6a6bc353a"],
+    "r_cmd_check": [
+      {
+        "check": "WARNING",
+        "config": "macos-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/29085374671/job/86338901625"
+      }
+    ]
   },
   "asylum": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-07-01 09:15:13.520 UTC"],
     "version": ["1.1.1"],
-    "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"],
-    "cran": ["1.1.2"]
+    "remote_hash": ["22064dd0822e007ef78cd29e9a118beb09e76da4"]
   },
   "audio.vadwebrtc": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-07-07 05:41:44.303 UTC"],
     "version": ["0.2"],
-    "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"]
+    "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"],
+    "r_cmd_check": [
+      {
+        "check": "WARNING",
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28740089905/job/85544396066"
+      }
+    ]
   },
   "audio.whisper": {
     "success": [false],
@@ -66,21 +71,21 @@
     "r_cmd_check": [
       {
         "check": "WARNING",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506278780/job/84496192011"
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506278780/job/84496191991"
       },
       {
         "check": "ERROR",
-        "config": "macos-oldrel-x86_64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506278780/job/84496192009"
+        "config": "macos-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506278780/job/84496191996"
       },
       {
         "check": "WARNING",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506278780/job/84496191979"
+        "config": "windows-release",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506278780/job/84496192200"
       }
     ],
     "remotes": ["bnosac/audio.vadwebrtc"]
@@ -111,15 +116,21 @@
     "r_cmd_check": [
       {
         "check": "ERROR",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793574169/job/85378949485"
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793574169/job/85378949441"
       },
       {
         "check": "ERROR",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793574169/job/85378949460"
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793574169/job/85378949459"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-release",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793574169/job/85378949478"
       }
     ]
   },
@@ -138,15 +149,21 @@
     "r_cmd_check": [
       {
         "check": "ERROR",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28806321831/job/85423681372"
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28806321831/job/85423681261"
       },
       {
         "check": "ERROR",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28806321831/job/85423681424"
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28806321831/job/85423681330"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-release",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28806321831/job/85423681328"
       }
     ]
   },
@@ -170,15 +187,15 @@
     "r_cmd_check": [
       {
         "check": "WARNING",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506313551/job/84496091556"
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506313551/job/84496091538"
       },
       {
         "check": "WARNING",
-        "config": "macos-oldrel-x86_64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506313551/job/84496091555"
+        "config": "macos-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506313551/job/84496091537"
       }
     ]
   },
@@ -220,15 +237,21 @@
     "r_cmd_check": [
       {
         "check": "WARNING",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506325320/job/84496232992"
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506325320/job/84496233132"
       },
       {
         "check": "WARNING",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506325320/job/84496233064"
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506325320/job/84496233060"
+      },
+      {
+        "check": "WARNING",
+        "config": "windows-release",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506325320/job/84496233115"
       }
     ]
   },
@@ -273,15 +296,21 @@
     "r_cmd_check": [
       {
         "check": "WARNING",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793587574/job/85379324314"
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793587574/job/85379324350"
       },
       {
         "check": "WARNING",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793587574/job/85379324365"
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793587574/job/85379324291"
+      },
+      {
+        "check": "WARNING",
+        "config": "windows-release",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793587574/job/85379324367"
       }
     ]
   },
@@ -338,10 +367,24 @@
     "remote_hash": ["a075de59066ac2024c07b9c235310fedb4f9a23e"]
   },
   "glaredb": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-07-03 05:25:26.628 UTC"],
     "version": ["0.0.5"],
-    "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"]
+    "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
+    "r_cmd_check": [
+      {
+        "check": "WARNING",
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506376907/job/84933714821"
+      },
+      {
+        "check": "WARNING",
+        "config": "macos-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506376907/job/84933714595"
+      }
+    ]
   },
   "healthyr": {
     "success": [false],
@@ -351,15 +394,21 @@
     "r_cmd_check": [
       {
         "check": "WARNING",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506348567/job/84496330174"
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506348567/job/84496330155"
       },
       {
         "check": "WARNING",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506348567/job/84496330165"
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506348567/job/84496330170"
+      },
+      {
+        "check": "WARNING",
+        "config": "windows-release",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506348567/job/84496330268"
       }
     ]
   },
@@ -389,38 +438,41 @@
     "r_cmd_check": [
       {
         "check": "ERROR",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793598289/job/85380028007"
+        "config": "linux-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793598289/job/85380027943"
       },
       {
         "check": "ERROR",
-        "config": "macos-oldrel-x86_64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793598289/job/85380027951"
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793598289/job/85380027944"
       },
       {
         "check": "ERROR",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793598289/job/85380027917"
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793598289/job/85380028098"
+      },
+      {
+        "check": "ERROR",
+        "config": "macos-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793598289/job/85380028112"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-release",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793598289/job/85380027925"
       }
     ]
   },
   "IMD": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-07-06 13:14:17.901 UTC"],
     "version": ["1.2.1"],
-    "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793567004/job/85378977624"
-      }
-    ],
-    "cran": ["1.2.2"]
+    "remote_hash": ["8cc26c4f70bf6e07c47bab089c7bad18c864223c"]
   },
   "InsectLabelR": {
     "success": [true],
@@ -469,15 +521,21 @@
     "r_cmd_check": [
       {
         "check": "WARNING",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506228196/job/84495910177"
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506228196/job/84495910302"
       },
       {
         "check": "WARNING",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506228196/job/84495910270"
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506228196/job/84495910233"
+      },
+      {
+        "check": "WARNING",
+        "config": "windows-release",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506228196/job/84495910245"
       }
     ]
   },
@@ -519,15 +577,21 @@
     "r_cmd_check": [
       {
         "check": "ERROR",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/29056491027/job/86249464612"
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/29056491027/job/86249464592"
       },
       {
         "check": "ERROR",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/29056491027/job/86249464525"
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/29056491027/job/86249464497"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-release",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/29056491027/job/86249464567"
       }
     ],
     "dependencies": {
@@ -565,10 +629,24 @@
     "remote_hash": ["e36294db9b20ec964487b251fd76306c890d3891"]
   },
   "polars": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-07-06 13:28:03.243 UTC"],
     "version": ["1.13.0"],
-    "remote_hash": ["9515c7eab52990c006341da3b9d36b14196a1939"]
+    "remote_hash": ["9515c7eab52990c006341da3b9d36b14196a1939"],
+    "r_cmd_check": [
+      {
+        "check": "WARNING",
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793606325/job/85379537804"
+      },
+      {
+        "check": "WARNING",
+        "config": "macos-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793606325/job/85379537862"
+      }
+    ]
   },
   "polars0": {
     "success": [false],
@@ -578,21 +656,33 @@
     "r_cmd_check": [
       {
         "check": "ERROR",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506398371/job/84496689365"
+        "config": "linux-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506398371/job/84496689356"
       },
       {
         "check": "ERROR",
-        "config": "macos-oldrel-x86_64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506398371/job/84496689480"
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506398371/job/84496689339"
       },
       {
         "check": "ERROR",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506398371/job/84496689405"
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506398371/job/84496689372"
+      },
+      {
+        "check": "ERROR",
+        "config": "macos-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506398371/job/84496689358"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-release",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506398371/job/84496689355"
       }
     ]
   },
@@ -616,15 +706,27 @@
     "r_cmd_check": [
       {
         "check": "ERROR",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506410862/job/84496444287"
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506410862/job/84496444316"
       },
       {
         "check": "ERROR",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506410862/job/84496444250"
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506410862/job/84496444265"
+      },
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506410862/job/84495872652"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-release",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506410862/job/84496444290"
       }
     ]
   },
@@ -647,10 +749,24 @@
     }
   },
   "prqlr": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-07-01 09:22:42.256 UTC"],
     "version": ["0.10.1"],
-    "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"]
+    "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"],
+    "r_cmd_check": [
+      {
+        "check": "WARNING",
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506385245/job/84496480825"
+      },
+      {
+        "check": "WARNING",
+        "config": "macos-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506385245/job/84496480796"
+      }
+    ]
   },
   "qqman": {
     "success": [true],
@@ -683,17 +799,42 @@
     "remote_hash": ["ce8a147b712c425fa4eb1d351e621d07ce6e423b"]
   },
   "Rmlx": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-07-07 05:41:30.220 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"]
+    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"],
+    "r_cmd_check": [
+      {
+        "check": "WARNING",
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28740037024/job/85544413490"
+      }
+    ]
   },
   "RmlxStats": {
     "success": [false],
     "published": ["2026-07-03 05:15:16.135 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["36963b9c305b2487d6f93264c34d1c37bd0d5ea5"],
-    "remotes": ["hughjonesd/Rmlx"]
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506234638/job/84933704703"
+      },
+      {
+        "check": "WARNING",
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506234638/job/84933705281"
+      }
+    ],
+    "remotes": ["hughjonesd/Rmlx"],
+    "dependencies": {
+      "Rmlx": []
+    }
   },
   "rredlist": {
     "success": [true],
@@ -708,10 +849,18 @@
     "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
   "Rvision": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-07-08 04:48:47.243 UTC"],
     "version": ["0.8.0"],
-    "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"]
+    "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28742789813/job/85789396258"
+      }
+    ]
   },
   "rwasm": {
     "success": [true],
@@ -745,15 +894,27 @@
     "r_cmd_check": [
       {
         "check": "ERROR",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506338098/job/84505956105"
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506338098/job/84505956088"
       },
       {
         "check": "ERROR",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506338098/job/84505956099"
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506338098/job/84505956095"
+      },
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506338098/job/84495655390"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-release",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506338098/job/84505956103"
       }
     ]
   },
@@ -847,20 +1008,9 @@
     "published": ["2026-07-06 13:21:51.408 UTC"],
     "version": ["0.19.0"],
     "remote_hash": ["e79dda50194dfd00a43d66afedd57072cab2ef54"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793627708/job/85379091347"
-      },
-      {
-        "check": "ERROR",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793627708/job/85379091323"
-      }
-    ]
+    "dependencies": {
+      "polars": []
+    }
   },
   "tidytab": {
     "success": [true],
@@ -876,31 +1026,35 @@
     "r_cmd_check": [
       {
         "check": "WARNING",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793631049/job/85379153125"
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793631049/job/85379153052"
       },
       {
         "check": "WARNING",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793631049/job/85379153248"
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793631049/job/85379152970"
+      },
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793631049/job/85378432179"
+      },
+      {
+        "check": "WARNING",
+        "config": "windows-release",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793631049/job/85379153220"
       }
     ]
   },
   "tidyterra": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-07-06 13:25:40.174 UTC"],
     "version": ["1.2.0"],
-    "remote_hash": ["371cb7060969b5bfb439494190166ca8022dcfca"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793632865/job/85379337328"
-      }
-    ]
+    "remote_hash": ["371cb7060969b5bfb439494190166ca8022dcfca"]
   },
   "trelliscope": {
     "success": [true],
@@ -940,15 +1094,21 @@
     "r_cmd_check": [
       {
         "check": "ERROR",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793637992/job/85379161858"
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793637992/job/85379161873"
       },
       {
         "check": "ERROR",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793637992/job/85379161881"
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793637992/job/85379161853"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-release",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28793637992/job/85379161904"
       }
     ]
   },
@@ -966,15 +1126,21 @@
     "r_cmd_check": [
       {
         "check": "WARNING",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506329393/job/84496272021"
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506329393/job/84496272130"
       },
       {
         "check": "WARNING",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506329393/job/84496272052"
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506329393/job/84496272051"
+      },
+      {
+        "check": "WARNING",
+        "config": "windows-release",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506329393/job/84496272045"
       }
     ]
   },
@@ -986,15 +1152,21 @@
     "r_cmd_check": [
       {
         "check": "WARNING",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506393431/job/84496435440"
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506393431/job/84496435582"
       },
       {
         "check": "WARNING",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506393431/job/84496435516"
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506393431/job/84496435559"
+      },
+      {
+        "check": "WARNING",
+        "config": "windows-release",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506393431/job/84496435469"
       }
     ]
   },
@@ -1006,29 +1178,48 @@
     "r_cmd_check": [
       {
         "check": "ERROR",
-        "config": "macos-oldrel-arm64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506220444/job/84495884340"
+        "config": "linux-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506220444/job/84495884186"
       },
       {
         "check": "ERROR",
-        "config": "macos-oldrel-x86_64",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506220444/job/84495884314"
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506220444/job/84495884234"
       },
       {
         "check": "ERROR",
-        "config": "windows-oldrel",
-        "r": "4.5.3",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506220444/job/84495884152"
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506220444/job/84495884291"
+      },
+      {
+        "check": "ERROR",
+        "config": "macos-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506220444/job/84495884400"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-release",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28506220444/job/84495884156"
       }
-    ],
-    "cran": ["0.9.5"]
+    ]
   },
   "zstdlite": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-07-08 04:51:17.750 UTC"],
     "version": ["0.2.6"],
-    "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"]
+    "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28742976805/job/85789690498"
+      }
+    ]
   }
 }
