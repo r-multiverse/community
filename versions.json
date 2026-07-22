@@ -105,6 +105,13 @@
     "hash_highest": "49e248f351d4dac18d7fd154dbc3a0ab39c5de10"
   },
   {
+    "package": "californiaalw",
+    "version_current": "0.1.0",
+    "hash_current": "34529f9aa4641e3dae7acc1e27281526e5b0907a",
+    "version_highest": "0.1.0",
+    "hash_highest": "34529f9aa4641e3dae7acc1e27281526e5b0907a"
+  },
+  {
     "package": "cli",
     "version_current": "3.6.6",
     "hash_current": "928dad1c230a1da745bfdcc9b59726081a3a5b6e",
