@@ -302,10 +302,10 @@
   },
   {
     "package": "igraph",
-    "version_current": "2.3.2",
-    "hash_current": "5e71f04b0cbf06c0421fa8fc44f2e296d660ad02",
-    "version_highest": "2.3.2",
-    "hash_highest": "5e71f04b0cbf06c0421fa8fc44f2e296d660ad02"
+    "version_current": "2.3.3",
+    "hash_current": "a1b77d04e27b676e88c306db883f71ecd625b912",
+    "version_highest": "2.3.3",
+    "hash_highest": "a1b77d04e27b676e88c306db883f71ecd625b912"
   },
   {
     "package": "IMD",
@@ -330,10 +330,10 @@
   },
   {
     "package": "jiebaRS",
-    "version_current": "0.1.0",
-    "hash_current": "9662148258aab601804f55bdb4f23164703cc809",
-    "version_highest": "0.1.0",
-    "hash_highest": "9662148258aab601804f55bdb4f23164703cc809"
+    "version_current": "0.2.0",
+    "hash_current": "fb3938cbbf5dd12e60d70f17c973ad59330ff741",
+    "version_highest": "0.2.0",
+    "hash_highest": "fb3938cbbf5dd12e60d70f17c973ad59330ff741"
   },
   {
     "package": "kgp",
@@ -386,10 +386,10 @@
   },
   {
     "package": "mirai",
-    "version_current": "2.7.1",
-    "hash_current": "653d376becb84578078c9f2f1206571e7b6aada0",
-    "version_highest": "2.7.1",
-    "hash_highest": "653d376becb84578078c9f2f1206571e7b6aada0"
+    "version_current": "2.7.2",
+    "hash_current": "8f185a64352259e69689299f8e63c2b8140d29df",
+    "version_highest": "2.7.2",
+    "hash_highest": "8f185a64352259e69689299f8e63c2b8140d29df"
   },
   {
     "package": "multitools",
@@ -505,10 +505,10 @@
   },
   {
     "package": "rcheology",
-    "version_current": "4.6.0.0",
-    "hash_current": "80c262a426bdbd0e0375b1ddc976ae151749e64d",
-    "version_highest": "4.6.0.0",
-    "hash_highest": "80c262a426bdbd0e0375b1ddc976ae151749e64d"
+    "version_current": "4.6.1.0",
+    "hash_current": "12527ceae89b6a348a1c42b01f91afe456ae25f4",
+    "version_highest": "4.6.1.0",
+    "hash_highest": "12527ceae89b6a348a1c42b01f91afe456ae25f4"
   },
   {
     "package": "riem",
