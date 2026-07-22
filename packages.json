@@ -82,6 +82,11 @@
     "branch": "*release"
   },
   {
+    "package": "californiaalw",
+    "url": "https://github.com/asafichaki/californiaalw",
+    "branch": "*release"
+  },
+  {
     "package": "cli",
     "url": "https://github.com/r-lib/cli",
     "branch": "*release"
