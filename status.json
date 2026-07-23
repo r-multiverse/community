@@ -60,11 +60,10 @@
     ]
   },
   "ascribe": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-07-23 10:35:21.733 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["1bfd635960589d7f58c988cbe0d8300cc968b3e8"],
-    "synchronization": ["recent"]
+    "remote_hash": ["1bfd635960589d7f58c988cbe0d8300cc968b3e8"]
   },
   "asylum": {
     "success": [false],
