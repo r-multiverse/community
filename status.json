@@ -59,6 +59,13 @@
       }
     ]
   },
+  "ascribe": {
+    "success": [false],
+    "published": ["2026-07-23 10:35:21.733 UTC"],
+    "version": ["0.1.0"],
+    "remote_hash": ["1bfd635960589d7f58c988cbe0d8300cc968b3e8"],
+    "synchronization": ["recent"]
+  },
   "asylum": {
     "success": [false],
     "published": ["2026-07-01 09:15:13.520 UTC"],

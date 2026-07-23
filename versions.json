@@ -42,6 +42,13 @@
     "hash_highest": "59bea6ec485e7fe351d1aa6753f964f6a6bc353a"
   },
   {
+    "package": "ascribe",
+    "version_current": "0.1.0",
+    "hash_current": "1bfd635960589d7f58c988cbe0d8300cc968b3e8",
+    "version_highest": "0.1.0",
+    "hash_highest": "1bfd635960589d7f58c988cbe0d8300cc968b3e8"
+  },
+  {
     "package": "asylum",
     "version_current": "1.1.1",
     "hash_current": "22064dd0822e007ef78cd29e9a118beb09e76da4",
