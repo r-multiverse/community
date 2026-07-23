@@ -35,6 +35,11 @@
     "branch": "*release"
   },
   {
+    "package": "ascribe",
+    "url": "https://github.com/VisruthSK/ascribe",
+    "branch": "*release"
+  },
+  {
     "package": "asylum",
     "url": "https://github.com/humaniverse/asylum",
     "branch": "*release"
