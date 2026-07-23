@@ -120,13 +120,10 @@
     "remote_hash": ["ce863d7f5b15aa477b09c809c247552e66656d01"]
   },
   "bedrockbio": {
-    "success": [false],
-    "published": ["2026-07-03 04:38:29.944 UTC"],
+    "success": [true],
+    "published": ["2026-07-23 06:31:15.973 UTC"],
     "version": ["2.0.0"],
-    "remote_hash": ["5b2e43628012d945a34d0fa725a448d9c476c1e2"],
-    "dependencies": {
-      "duckdb": []
-    }
+    "remote_hash": ["5b2e43628012d945a34d0fa725a448d9c476c1e2"]
   },
   "biorecap": {
     "success": [false],
@@ -288,11 +285,10 @@
     "remote_hash": ["ef97b06623b2a07b9ae5cb7ddb16f35993786578"]
   },
   "duckdb": {
-    "success": [false],
-    "published": ["2026-07-03 04:30:20.311 UTC"],
-    "version": ["1.5.4.2"],
-    "remote_hash": ["c95f1b0681c21e91f8210a86b0a763dd42d324ac"],
-    "cran": ["1.5.4.3"]
+    "success": [true],
+    "published": ["2026-07-23 06:24:04.289 UTC"],
+    "version": ["1.5.4.3"],
+    "remote_hash": ["44bfb31e651c1c87724d272982229eb7780bc41f"]
   },
   "ecoXCorr": {
     "success": [true],
