@@ -705,11 +705,10 @@
     ]
   },
   "projpred": {
-    "success": [false],
-    "published": ["2026-07-24 18:27:26.016 UTC"],
+    "success": [true],
+    "published": ["2026-07-24 19:13:25.954 UTC"],
     "version": ["2.10.0"],
-    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/30116961331"]
+    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"]
   },
   "prophet": {
     "success": [false],
@@ -818,11 +817,10 @@
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
-    "success": [false],
-    "published": ["2026-07-24 18:27:35.848 UTC"],
+    "success": [true],
+    "published": ["2026-07-24 19:26:03.970 UTC"],
     "version": ["2.32.2"],
-    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/30116962844"]
+    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
   "Rvision": {
     "success": [false],
