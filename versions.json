@@ -8,17 +8,17 @@
   },
   {
     "package": "adbcdrivermanager",
-    "version_current": "0.23.0",
-    "hash_current": "efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e",
-    "version_highest": "0.23.0",
-    "hash_highest": "efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"
+    "version_current": "0.24.0",
+    "hash_current": "a3f81c6feb1133ba80600ac32e6d7c0b0b407e18",
+    "version_highest": "0.24.0",
+    "hash_highest": "a3f81c6feb1133ba80600ac32e6d7c0b0b407e18"
   },
   {
     "package": "adbcflightsql",
-    "version_current": "0.23.0",
-    "hash_current": "efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e",
-    "version_highest": "0.23.0",
-    "hash_highest": "efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"
+    "version_current": "0.24.0",
+    "hash_current": "a3f81c6feb1133ba80600ac32e6d7c0b0b407e18",
+    "version_highest": "0.24.0",
+    "hash_highest": "a3f81c6feb1133ba80600ac32e6d7c0b0b407e18"
   },
   {
     "package": "adbcsnowflake",
@@ -190,10 +190,10 @@
   },
   {
     "package": "duckdb",
-    "version_current": "1.5.4.3",
-    "hash_current": "44bfb31e651c1c87724d272982229eb7780bc41f",
-    "version_highest": "1.5.4.3",
-    "hash_highest": "44bfb31e651c1c87724d272982229eb7780bc41f"
+    "version_current": "1.5.5",
+    "hash_current": "7930f8602ef8cd37cd4903f4c92aeef0edb29eab",
+    "version_highest": "1.5.5",
+    "hash_highest": "7930f8602ef8cd37cd4903f4c92aeef0edb29eab"
   },
   {
     "package": "ecoXCorr",
