@@ -1,7 +1,7 @@
 {
   "adbcbigquery": {
     "success": [false],
-    "published": ["2026-07-28 01:49:23.059 UTC"],
+    "published": ["2026-07-28 04:53:01.582 UTC"],
     "version": ["0.23.0"],
     "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
     "dependencies": {
