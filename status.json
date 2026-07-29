@@ -226,19 +226,19 @@
   },
   "crew": {
     "success": [true],
-    "published": ["2026-07-20 11:49:59.186 UTC"],
-    "version": ["1.3.1"],
-    "remote_hash": ["c26bdeaea4a08a9081da86e14ccdc93f1b41e429"]
+    "published": ["2026-07-29 21:50:19.188 UTC"],
+    "version": ["1.3.2"],
+    "remote_hash": ["6dcabe223e4555f383f16d1ff2e442cd1dbe9b82"]
   },
   "crew.aws.batch": {
     "success": [true],
-    "published": ["2026-07-06 13:11:58.599 UTC"],
+    "published": ["2026-07-29 21:58:05.793 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"]
   },
   "crew.cluster": {
     "success": [true],
-    "published": ["2026-07-09 23:15:05.892 UTC"],
+    "published": ["2026-07-29 21:57:55.016 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
   },
@@ -282,9 +282,9 @@
   },
   "doctest": {
     "success": [true],
-    "published": ["2026-07-06 13:11:25.693 UTC"],
-    "version": ["0.4.0"],
-    "remote_hash": ["ef97b06623b2a07b9ae5cb7ddb16f35993786578"]
+    "published": ["2026-07-29 21:50:16.035 UTC"],
+    "version": ["0.4.1"],
+    "remote_hash": ["7c66bdbe6352d8339cf977f3a3d40d7c0af9a475"]
   },
   "duckdb": {
     "success": [true],

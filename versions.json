@@ -141,10 +141,10 @@
   },
   {
     "package": "crew",
-    "version_current": "1.3.1",
-    "hash_current": "c26bdeaea4a08a9081da86e14ccdc93f1b41e429",
-    "version_highest": "1.3.1",
-    "hash_highest": "c26bdeaea4a08a9081da86e14ccdc93f1b41e429"
+    "version_current": "1.3.2",
+    "hash_current": "6dcabe223e4555f383f16d1ff2e442cd1dbe9b82",
+    "version_highest": "1.3.2",
+    "hash_highest": "6dcabe223e4555f383f16d1ff2e442cd1dbe9b82"
   },
   {
     "package": "crew.aws.batch",
@@ -183,10 +183,10 @@
   },
   {
     "package": "doctest",
-    "version_current": "0.4.0",
-    "hash_current": "ef97b06623b2a07b9ae5cb7ddb16f35993786578",
-    "version_highest": "0.4.0",
-    "hash_highest": "ef97b06623b2a07b9ae5cb7ddb16f35993786578"
+    "version_current": "0.4.1",
+    "hash_current": "7c66bdbe6352d8339cf977f3a3d40d7c0af9a475",
+    "version_highest": "0.4.1",
+    "hash_highest": "7c66bdbe6352d8339cf977f3a3d40d7c0af9a475"
   },
   {
     "package": "duckdb",
