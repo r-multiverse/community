@@ -10,7 +10,7 @@
   },
   "adbcdrivermanager": {
     "success": [false],
-    "published": ["2026-07-30 04:36:21.390 UTC"],
+    "published": ["2026-07-30 08:32:36.819 UTC"],
     "version": ["0.24.0"],
     "remote_hash": ["a3f81c6feb1133ba80600ac32e6d7c0b0b407e18"],
     "dependencies": {
@@ -43,7 +43,7 @@
   },
   "arrow": {
     "success": [false],
-    "published": ["2026-07-30 04:48:42.609 UTC"],
+    "published": ["2026-07-30 08:47:35.726 UTC"],
     "version": ["25.0.0"],
     "remote_hash": ["59bea6ec485e7fe351d1aa6753f964f6a6bc353a"],
     "r_cmd_check": [
@@ -51,7 +51,7 @@
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30500681697/job/90780212431"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30524611525/job/90813999593"
       }
     ]
   },
@@ -906,7 +906,7 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-07-30 04:58:06.907 UTC"],
+    "published": ["2026-07-30 09:28:01.407 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
     "dependencies": {
