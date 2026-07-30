@@ -1,27 +1,15 @@
 [
   {
-    "package": "adbcbigquery",
-    "url": "https://github.com/apache/arrow-adbc",
-    "subdir": "r/adbcbigquery",
-    "branch": "*release"
-  },
-  {
     "package": "adbcdrivermanager",
     "url": "https://github.com/apache/arrow-adbc",
-    "subdir": "r/adbcdrivermanager",
-    "branch": "*release"
+    "branch": "*release",
+    "subdir": "r/adbcdrivermanager"
   },
   {
     "package": "adbcflightsql",
     "url": "https://github.com/apache/arrow-adbc",
-    "subdir": "r/adbcflightsql",
-    "branch": "*release"
-  },
-  {
-    "package": "adbcsnowflake",
-    "url": "https://github.com/apache/arrow-adbc",
-    "subdir": "r/adbcsnowflake",
-    "branch": "*release"
+    "branch": "*release",
+    "subdir": "r/adbcflightsql"
   },
   {
     "package": "ahocorasick",
@@ -31,8 +19,8 @@
   {
     "package": "arrow",
     "url": "https://github.com/apache/arrow",
-    "subdir": "r",
-    "branch": "*release"
+    "branch": "*release",
+    "subdir": "r"
   },
   {
     "package": "ascribe",
@@ -67,8 +55,8 @@
   {
     "package": "bedrockbio",
     "url": "https://github.com/bedrock-bio/bedrock-bio-client",
-    "subdir": "r",
-    "branch": "*release"
+    "branch": "*release",
+    "subdir": "r"
   },
   {
     "package": "biorecap",
@@ -83,8 +71,8 @@
   {
     "package": "bridgestan",
     "url": "https://github.com/roualdes/bridgestan",
-    "subdir": "R",
-    "branch": "*release"
+    "branch": "*release",
+    "subdir": "R"
   },
   {
     "package": "californiaalw",
@@ -319,8 +307,8 @@
   {
     "package": "nanoarrow",
     "url": "https://github.com/apache/arrow-nanoarrow",
-    "subdir": "r",
-    "branch": "*release"
+    "branch": "*release",
+    "subdir": "r"
   },
   {
     "package": "nanonext",
@@ -365,8 +353,8 @@
   {
     "package": "prophet",
     "url": "https://github.com/facebook/prophet",
-    "subdir": "R",
-    "branch": "*release"
+    "branch": "*release",
+    "subdir": "R"
   },
   {
     "package": "prqlr",
@@ -451,8 +439,8 @@
   {
     "package": "sdplyr",
     "url": "https://github.com/apache/sedona-db",
-    "subdir": "r/sdplyr",
-    "branch": "*release"
+    "branch": "*release",
+    "subdir": "r/sdplyr"
   },
   {
     "package": "secretbase",
@@ -462,14 +450,14 @@
   {
     "package": "sedonadb",
     "url": "https://github.com/apache/sedona-db",
-    "subdir": "r/sedonadb",
-    "branch": "*release"
+    "branch": "*release",
+    "subdir": "r/sedonadb"
   },
   {
     "package": "sedonafns",
     "url": "https://github.com/apache/sedona-db",
-    "subdir": "r/sedonafns",
-    "branch": "*release"
+    "branch": "*release",
+    "subdir": "r/sedonafns"
   },
   {
     "package": "shinystan",
