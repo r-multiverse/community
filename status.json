@@ -122,13 +122,10 @@
     "remote_hash": ["ce863d7f5b15aa477b09c809c247552e66656d01"]
   },
   "bedrockbio": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-07-28 03:01:27.788 UTC"],
     "version": ["2.0.0"],
-    "remote_hash": ["5b2e43628012d945a34d0fa725a448d9c476c1e2"],
-    "dependencies": {
-      "duckdb": []
-    }
+    "remote_hash": ["5b2e43628012d945a34d0fa725a448d9c476c1e2"]
   },
   "biorecap": {
     "success": [false],
@@ -290,11 +287,10 @@
     "remote_hash": ["7c66bdbe6352d8339cf977f3a3d40d7c0af9a475"]
   },
   "duckdb": {
-    "success": [false],
-    "published": ["2026-07-29 23:50:03.683 UTC"],
+    "success": [true],
+    "published": ["2026-07-30 01:24:35.947 UTC"],
     "version": ["1.5.5"],
-    "remote_hash": ["7930f8602ef8cd37cd4903f4c92aeef0edb29eab"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/30500755109"]
+    "remote_hash": ["7930f8602ef8cd37cd4903f4c92aeef0edb29eab"]
   },
   "ecoXCorr": {
     "success": [true],
@@ -817,11 +813,10 @@
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
-    "success": [false],
-    "published": ["2026-07-29 23:52:55.265 UTC"],
+    "success": [true],
+    "published": ["2026-07-30 01:01:29.275 UTC"],
     "version": ["2.32.2"],
-    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/30500908686"]
+    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
   "Rvision": {
     "success": [false],
@@ -900,7 +895,6 @@
     "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
     "dependencies": {
       "nanoarrow": ["sedonadb"],
-      "sedonadb": [],
       "wk": ["sedonadb"]
     }
   },
@@ -912,10 +906,9 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-07-29 23:53:58.680 UTC"],
+    "published": ["2026-07-30 01:01:58.586 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/30500967705"],
     "dependencies": {
       "nanoarrow": ["geoarrow"],
       "wk": ["geoarrow"]
