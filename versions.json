@@ -1,12 +1,5 @@
 [
   {
-    "package": "adbcbigquery",
-    "version_current": "0.23.0",
-    "hash_current": "efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e",
-    "version_highest": "0.23.0",
-    "hash_highest": "efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"
-  },
-  {
     "package": "adbcdrivermanager",
     "version_current": "0.24.0",
     "hash_current": "a3f81c6feb1133ba80600ac32e6d7c0b0b407e18",
@@ -19,13 +12,6 @@
     "hash_current": "a3f81c6feb1133ba80600ac32e6d7c0b0b407e18",
     "version_highest": "0.24.0",
     "hash_highest": "a3f81c6feb1133ba80600ac32e6d7c0b0b407e18"
-  },
-  {
-    "package": "adbcsnowflake",
-    "version_current": "0.23.0",
-    "hash_current": "efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e",
-    "version_highest": "0.23.0",
-    "hash_highest": "efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"
   },
   {
     "package": "ahocorasick",

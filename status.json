@@ -1,13 +1,4 @@
 {
-  "adbcbigquery": {
-    "success": [false],
-    "published": ["2026-07-28 04:53:01.582 UTC"],
-    "version": ["0.23.0"],
-    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
-    "dependencies": {
-      "nanoarrow": ["adbcdrivermanager"]
-    }
-  },
   "adbcdrivermanager": {
     "success": [false],
     "published": ["2026-07-30 08:32:36.819 UTC"],
@@ -22,15 +13,6 @@
     "published": ["2026-07-28 01:34:37.813 UTC"],
     "version": ["0.24.0"],
     "remote_hash": ["a3f81c6feb1133ba80600ac32e6d7c0b0b407e18"],
-    "dependencies": {
-      "nanoarrow": ["adbcdrivermanager"]
-    }
-  },
-  "adbcsnowflake": {
-    "success": [false],
-    "published": ["2026-07-28 01:36:44.137 UTC"],
-    "version": ["0.23.0"],
-    "remote_hash": ["efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e"],
     "dependencies": {
       "nanoarrow": ["adbcdrivermanager"]
     }
@@ -906,7 +888,7 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-07-30 09:28:01.407 UTC"],
+    "published": ["2026-07-30 14:59:53.628 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
     "dependencies": {
