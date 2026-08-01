@@ -690,12 +690,12 @@
   },
   "prophet": {
     "success": [false],
-    "published": ["2026-07-06 13:27:23.209 UTC"],
+    "published": ["2026-08-01 08:15:39.743 UTC"],
     "version": ["1.2.2"],
-    "remote_hash": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
+    "remote_hash": ["abf69a215604afcaa7ecb4359f592d13bf6dea9f"],
     "versions": {
       "version_current": ["1.2.2"],
-      "hash_current": ["c01a23a2f53b3126b1ce1857c346817f75e1b377"],
+      "hash_current": ["abf69a215604afcaa7ecb4359f592d13bf6dea9f"],
       "version_highest": ["1.2.2"],
       "hash_highest": ["2cdb2cb98d756c06ecf1476e7f353ece13ed0149"]
     }
