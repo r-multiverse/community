@@ -823,10 +823,10 @@
   },
   "rstanarm": {
     "success": [false],
-    "published": ["2026-08-01 12:58:07.852 UTC"],
+    "published": ["2026-08-01 15:31:39.513 UTC"],
     "version": ["2.32.2"],
     "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/30700750389"]
+    "synchronization": ["recent"]
   },
   "Rvision": {
     "success": [false],
@@ -905,7 +905,6 @@
     "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
     "dependencies": {
       "nanoarrow": ["sedonadb"],
-      "sedonadb": [],
       "wk": ["sedonadb"]
     }
   },
@@ -917,10 +916,9 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-08-01 12:58:23.898 UTC"],
+    "published": ["2026-08-01 14:55:49.992 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/30700758548"],
     "dependencies": {
       "nanoarrow": ["geoarrow"],
       "wk": ["geoarrow"]
