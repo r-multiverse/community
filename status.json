@@ -279,10 +279,17 @@
   },
   "duckdb": {
     "success": [false],
-    "published": ["2026-08-01 12:58:11.046 UTC"],
+    "published": ["2026-08-01 16:30:30.154 UTC"],
     "version": ["1.5.5"],
     "remote_hash": ["7930f8602ef8cd37cd4903f4c92aeef0edb29eab"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/30700754015"]
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "windows-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30700754015/job/91373886427"
+      }
+    ]
   },
   "ecoXCorr": {
     "success": [true],
@@ -822,11 +829,10 @@
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-08-01 15:31:39.513 UTC"],
     "version": ["2.32.2"],
-    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
-    "synchronization": ["recent"]
+    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
   "Rvision": {
     "success": [false],
