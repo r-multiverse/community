@@ -52,7 +52,7 @@
   },
   "audio.vadwebrtc": {
     "success": [false],
-    "published": ["2026-08-02 04:58:37.207 UTC"],
+    "published": ["2026-08-03 05:05:10.694 UTC"],
     "version": ["0.2"],
     "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"],
     "r_cmd_check": [
@@ -60,13 +60,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30700759361/job/91456881987"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30700759361/job/91599585369"
       },
       {
         "check": "WARNING",
         "config": "windows-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30700759361/job/91456881890"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30700759361/job/91599585390"
       }
     ]
   },
@@ -922,7 +922,7 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-08-02 05:16:22.878 UTC"],
+    "published": ["2026-08-03 05:26:29.694 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
     "dependencies": {
