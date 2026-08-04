@@ -785,19 +785,10 @@
     "remote_hash": ["ce8a147b712c425fa4eb1d351e621d07ce6e423b"]
   },
   "Rmlx": {
-    "success": [false],
-    "published": ["2026-08-04 09:02:33.834 UTC"],
+    "success": [true],
+    "published": ["2026-08-04 10:43:35.197 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"],
-    "r_cmd_check": [
-      {
-        "check": "WARNING",
-        "config": "macos-release-arm64",
-        "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/28740037024/job/85544413490"
-      }
-    ],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/30894519752"]
+    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"]
   },
   "RmlxStats": {
     "success": [false],
@@ -818,10 +809,7 @@
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/30608163226/job/91456824724"
       }
     ],
-    "remotes": ["hughjonesd/Rmlx"],
-    "dependencies": {
-      "Rmlx": []
-    }
+    "remotes": ["hughjonesd/Rmlx"]
   },
   "rredlist": {
     "success": [true],
