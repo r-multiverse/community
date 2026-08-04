@@ -786,7 +786,7 @@
   },
   "Rmlx": {
     "success": [false],
-    "published": ["2026-07-07 05:41:30.220 UTC"],
+    "published": ["2026-08-04 09:02:33.834 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"],
     "r_cmd_check": [
@@ -796,7 +796,8 @@
         "r": "4.6.1",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/28740037024/job/85544413490"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/30894519752"]
   },
   "RmlxStats": {
     "success": [false],
