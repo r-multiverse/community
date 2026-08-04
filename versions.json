@@ -428,10 +428,10 @@
   },
   {
     "package": "nanonext",
-    "version_current": "1.10.1",
-    "hash_current": "faeea71a951a48f89a8e4629b73640ce3ebeeb44",
-    "version_highest": "1.10.1",
-    "hash_highest": "faeea71a951a48f89a8e4629b73640ce3ebeeb44"
+    "version_current": "1.10.2",
+    "hash_current": "c3f70b25ce86551613c12aa4a124e919380fcb12",
+    "version_highest": "1.10.2",
+    "hash_highest": "c3f70b25ce86551613c12aa4a124e919380fcb12"
   },
   {
     "package": "onetime",

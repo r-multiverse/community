@@ -217,7 +217,7 @@
   },
   "crew": {
     "success": [true],
-    "published": ["2026-07-29 21:50:19.188 UTC"],
+    "published": ["2026-08-04 17:51:19.085 UTC"],
     "version": ["1.3.2"],
     "remote_hash": ["6dcabe223e4555f383f16d1ff2e442cd1dbe9b82"]
   },
@@ -229,7 +229,7 @@
   },
   "crew.cluster": {
     "success": [true],
-    "published": ["2026-07-29 21:57:55.016 UTC"],
+    "published": ["2026-08-04 17:48:19.282 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
   },
@@ -454,7 +454,7 @@
   },
   "ichimoku": {
     "success": [true],
-    "published": ["2026-07-20 11:52:14.270 UTC"],
+    "published": ["2026-08-04 17:49:51.548 UTC"],
     "version": ["1.5.7"],
     "remote_hash": ["e96e5bd71301d74f628ffdffc2a06e5b180b2276"]
   },
@@ -564,7 +564,7 @@
   },
   "mirai": {
     "success": [true],
-    "published": ["2026-07-20 11:42:08.612 UTC"],
+    "published": ["2026-08-04 17:47:01.855 UTC"],
     "version": ["2.7.2"],
     "remote_hash": ["8f185a64352259e69689299f8e63c2b8140d29df"]
   },
@@ -576,9 +576,29 @@
   },
   "multiverse.internals": {
     "success": [false],
-    "published": ["2026-07-17 05:27:28.858 UTC"],
+    "published": ["2026-08-04 17:47:31.170 UTC"],
     "version": ["1.1.10"],
     "remote_hash": ["0b6af6eb06221df195c2735dedf83052360a1bc9"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30934999808/job/92079655660"
+      },
+      {
+        "check": "ERROR",
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30934999808/job/92079656230"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30934999808/job/92079655845"
+      }
+    ],
     "dependencies": {
       "igraph": []
     }
@@ -604,9 +624,9 @@
   },
   "nanonext": {
     "success": [true],
-    "published": ["2026-08-01 13:12:53.289 UTC"],
-    "version": ["1.10.1"],
-    "remote_hash": ["faeea71a951a48f89a8e4629b73640ce3ebeeb44"]
+    "published": ["2026-08-04 17:39:15.201 UTC"],
+    "version": ["1.10.2"],
+    "remote_hash": ["c3f70b25ce86551613c12aa4a124e919380fcb12"]
   },
   "onetime": {
     "success": [true],
