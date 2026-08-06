@@ -360,13 +360,13 @@
   },
   "ggtypst": {
     "success": [true],
-    "published": ["2026-08-05 07:46:38.707 UTC"],
+    "published": ["2026-08-06 04:49:26.698 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["a075de59066ac2024c07b9c235310fedb4f9a23e"]
   },
   "glaredb": {
     "success": [false],
-    "published": ["2026-08-05 04:55:02.108 UTC"],
+    "published": ["2026-08-06 04:55:07.082 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
     "r_cmd_check": [
@@ -374,13 +374,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30950985896/job/92209603460"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30950985896/job/92521563298"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30950985896/job/92209603476"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30950985896/job/92521563306"
       }
     ]
   },
@@ -457,7 +457,7 @@
   },
   "jagstargets": {
     "success": [false],
-    "published": ["2026-08-05 07:38:52.249 UTC"],
+    "published": ["2026-08-06 04:45:41.219 UTC"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"],
     "dependencies": {
@@ -775,7 +775,7 @@
   },
   "Rmlx": {
     "success": [true],
-    "published": ["2026-08-05 05:45:32.071 UTC"],
+    "published": ["2026-08-06 05:47:06.316 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"]
   },
@@ -899,7 +899,7 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-08-05 05:03:57.321 UTC"],
+    "published": ["2026-08-06 05:05:54.316 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
     "dependencies": {
@@ -920,7 +920,7 @@
   },
   "stantargets": {
     "success": [false],
-    "published": ["2026-07-07 17:25:21.654 UTC"],
+    "published": ["2026-08-06 07:41:24.500 UTC"],
     "version": ["0.1.3"],
     "remote_hash": ["1a1e0feedeae5437fe45f34d26b3d180576f3f18"],
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
