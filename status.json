@@ -814,7 +814,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2026-08-07 04:44:21.069 UTC"],
+    "published": ["2026-08-08 03:12:56.621 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "r_cmd_check": [
@@ -822,7 +822,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/31148155007/job/92772010531"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/31148155007/job/93050050163"
       }
     ]
   },
@@ -920,7 +920,7 @@
   },
   "stantargets": {
     "success": [false],
-    "published": ["2026-08-07 04:12:49.852 UTC"],
+    "published": ["2026-08-08 03:14:20.529 UTC"],
     "version": ["0.1.3"],
     "remote_hash": ["1a1e0feedeae5437fe45f34d26b3d180576f3f18"],
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
@@ -1201,7 +1201,7 @@
   },
   "zstdlite": {
     "success": [false],
-    "published": ["2026-08-07 05:14:57.375 UTC"],
+    "published": ["2026-08-08 03:14:29.776 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"],
     "r_cmd_check": [
@@ -1209,7 +1209,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/31149795735/job/92776942507"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/31149795735/job/93050253040"
       }
     ]
   }
