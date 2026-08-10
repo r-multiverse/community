@@ -19,15 +19,15 @@
   },
   "arrow": {
     "success": [false],
-    "published": ["2026-08-01 13:56:26.907 UTC"],
-    "version": ["25.0.0"],
-    "remote_hash": ["59bea6ec485e7fe351d1aa6753f964f6a6bc353a"],
+    "published": ["2026-08-10 07:35:16.055 UTC"],
+    "version": ["25.0.1"],
+    "remote_hash": ["beccec0d0c451b7aa3e4530416ac431b3c035c69"],
     "r_cmd_check": [
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30700747806/job/91371889080"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/31364807354/job/93382285894"
       }
     ]
   },
