@@ -483,10 +483,18 @@
     "remote_hash": ["938684dd177de7b42d4c7e74852fe1e0afb91c8b"]
   },
   "litedown": {
-    "success": [true],
-    "published": ["2026-07-11 14:20:38.380 UTC"],
+    "success": [false],
+    "published": ["2026-08-10 06:00:25.517 UTC"],
     "version": ["0.10"],
-    "remote_hash": ["0cc8f6c7d73f2bef34faa30f32bd8634103fdb48"]
+    "remote_hash": ["0cc8f6c7d73f2bef34faa30f32bd8634103fdb48"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/31360062071/job/93367625045"
+      }
+    ]
   },
   "loneliness": {
     "success": [false],
