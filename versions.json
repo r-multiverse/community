@@ -582,10 +582,10 @@
   },
   {
     "package": "santoku",
-    "version_current": "1.2.1",
-    "hash_current": "da7bdc3a652b3de9fff85615fedacc24c82b788d",
-    "version_highest": "1.2.1",
-    "hash_highest": "da7bdc3a652b3de9fff85615fedacc24c82b788d"
+    "version_current": "2.0.0",
+    "hash_current": "f2c468d566c429729435802e6a3fa3fe9f27976f",
+    "version_highest": "2.0.0",
+    "hash_highest": "f2c468d566c429729435802e6a3fa3fe9f27976f"
   },
   {
     "package": "saperlipopette",
