@@ -617,10 +617,10 @@
   },
   {
     "package": "sedonadb",
-    "version_current": "0.4.0",
-    "hash_current": "b6f66a887eb77ab638b49eddd1aaaa6aebf353cd",
-    "version_highest": "0.4.0",
-    "hash_highest": "b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"
+    "version_current": "0.4.1",
+    "hash_current": "c9e41f8478856edcb3a995ecd3b2a8a91aa8f81e",
+    "version_highest": "0.4.1",
+    "hash_highest": "c9e41f8478856edcb3a995ecd3b2a8a91aa8f81e"
   },
   {
     "package": "sedonafns",
