@@ -152,10 +152,11 @@
     ]
   },
   "californiaalw": {
-    "success": [true],
-    "published": ["2026-07-22 20:18:18.782 UTC"],
+    "success": [false],
+    "published": ["2026-08-21 05:01:44.210 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["34529f9aa4641e3dae7acc1e27281526e5b0907a"]
+    "remote_hash": ["34529f9aa4641e3dae7acc1e27281526e5b0907a"],
+    "synchronization": ["recent"]
   },
   "cli": {
     "success": [true],
