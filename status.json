@@ -892,10 +892,32 @@
   },
   "sdplyr": {
     "success": [false],
-    "published": ["2026-08-05 07:36:55.444 UTC"],
-    "version": ["0.4.0"],
-    "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
+    "published": ["2026-08-21 22:23:57.450 UTC"],
+    "version": ["0.4.1"],
+    "remote_hash": ["c9e41f8478856edcb3a995ecd3b2a8a91aa8f81e"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/32532189281/job/96927233251"
+      },
+      {
+        "check": "ERROR",
+        "config": "macos-release-arm64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/32532189281/job/96927233218"
+      },
+      {
+        "check": "ERROR",
+        "config": "windows-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/32532189281/job/96927233407"
+      }
+    ],
     "dependencies": {
+      "sedonadb": [],
+      "sedonafns": [],
       "wk": ["sedonadb"]
     }
   },
@@ -907,18 +929,27 @@
   },
   "sedonadb": {
     "success": [false],
-    "published": ["2026-08-06 05:05:54.316 UTC"],
+    "published": ["2026-08-21 22:07:51.220 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/32531629418"],
     "dependencies": {
       "wk": ["geoarrow"]
     }
   },
   "sedonafns": {
-    "success": [true],
-    "published": ["2026-07-31 05:57:47.974 UTC"],
-    "version": ["0.4.0"],
-    "remote_hash": ["b6f66a887eb77ab638b49eddd1aaaa6aebf353cd"]
+    "success": [false],
+    "published": ["2026-08-21 22:14:31.786 UTC"],
+    "version": ["0.4.1"],
+    "remote_hash": ["c9e41f8478856edcb3a995ecd3b2a8a91aa8f81e"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "source",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/32531635165/job/96924703938"
+      }
+    ]
   },
   "shinystan": {
     "success": [true],
