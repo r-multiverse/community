@@ -29,10 +29,10 @@
   },
   {
     "package": "ascribe",
-    "version_current": "0.1.1",
-    "hash_current": "aa24b931646b1c22c927e254f9b98cefd17ca690",
-    "version_highest": "0.1.1",
-    "hash_highest": "aa24b931646b1c22c927e254f9b98cefd17ca690"
+    "version_current": "0.2.0",
+    "hash_current": "0f435da873bc46c75fd3fa2e46376e9155517965",
+    "version_highest": "0.2.0",
+    "hash_highest": "0f435da873bc46c75fd3fa2e46376e9155517965"
   },
   {
     "package": "asylum",

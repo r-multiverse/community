@@ -33,9 +33,9 @@
   },
   "ascribe": {
     "success": [true],
-    "published": ["2026-08-02 21:41:36.845 UTC"],
-    "version": ["0.1.1"],
-    "remote_hash": ["aa24b931646b1c22c927e254f9b98cefd17ca690"]
+    "published": ["2026-08-23 11:08:29.348 UTC"],
+    "version": ["0.2.0"],
+    "remote_hash": ["0f435da873bc46c75fd3fa2e46376e9155517965"]
   },
   "asylum": {
     "success": [false],
