@@ -524,7 +524,7 @@
   },
   "loo": {
     "success": [true],
-    "published": ["2026-07-24 18:26:23.335 UTC"],
+    "published": ["2026-08-23 04:52:47.618 UTC"],
     "version": ["2.10.1"],
     "remote_hash": ["df27ade95093db66cebf19d55530439386ac1a97"]
   },
@@ -714,10 +714,11 @@
     ]
   },
   "projpred": {
-    "success": [true],
-    "published": ["2026-07-24 19:13:25.954 UTC"],
+    "success": [false],
+    "published": ["2026-08-23 04:45:07.617 UTC"],
     "version": ["2.10.0"],
-    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"]
+    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/32618623349"]
   },
   "prophet": {
     "success": [false],
