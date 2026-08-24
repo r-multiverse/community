@@ -611,6 +611,12 @@
     "version": ["0.2.0"],
     "remote_hash": ["e36294db9b20ec964487b251fd76306c890d3891"]
   },
+  "permittimelines": {
+    "success": [true],
+    "published": ["2026-08-24 13:43:59.621 UTC"],
+    "version": ["0.1.1"],
+    "remote_hash": ["569fe0c4bdcc230c45f97360ce136bb0d877772f"]
+  },
   "polars": {
     "success": [false],
     "published": ["2026-08-03 10:25:25.676 UTC"],

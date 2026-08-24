@@ -441,6 +441,13 @@
     "hash_highest": "e36294db9b20ec964487b251fd76306c890d3891"
   },
   {
+    "package": "permittimelines",
+    "version_current": "0.1.1",
+    "hash_current": "569fe0c4bdcc230c45f97360ce136bb0d877772f",
+    "version_highest": "0.1.1",
+    "hash_highest": "569fe0c4bdcc230c45f97360ce136bb0d877772f"
+  },
+  {
     "package": "polars",
     "version_current": "1.14.0",
     "hash_current": "c4feac96133c25e4d4927ca684efdc3c376b60b2",
