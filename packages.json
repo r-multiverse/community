@@ -321,6 +321,11 @@
     "branch": "*release"
   },
   {
+    "package": "permittimelines",
+    "url": "https://github.com/asafichaki/permittimelines",
+    "branch": "*release"
+  },
+  {
     "package": "polars",
     "url": "https://github.com/pola-rs/r-polars",
     "branch": "*release"
