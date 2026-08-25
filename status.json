@@ -98,11 +98,10 @@
     "remote_hash": ["36e98ae76feb34de0783d6505f7f2a17e972fe23"]
   },
   "bayesplot": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-08-25 19:04:18.500 UTC"],
     "version": ["1.16.0"],
-    "remote_hash": ["ba7344cb7f0b91bd8300ff019f42be61590503c1"],
-    "synchronization": ["recent"]
+    "remote_hash": ["ba7344cb7f0b91bd8300ff019f42be61590503c1"]
   },
   "bedrockbio": {
     "success": [false],
@@ -828,7 +827,6 @@
     "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
     "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/32887544980"],
     "dependencies": {
-      "bayesplot": ["shinystan"],
       "shinystan": []
     }
   },
@@ -946,10 +944,7 @@
     "published": ["2026-08-25 19:05:30.846 UTC"],
     "version": ["2.7.0"],
     "remote_hash": ["2036992879e7b1a7357340372f943303429da2b8"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/32887547791"],
-    "dependencies": {
-      "bayesplot": []
-    }
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/32887547791"]
   },
   "stantargets": {
     "success": [false],
