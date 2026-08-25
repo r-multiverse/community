@@ -64,10 +64,10 @@
   },
   {
     "package": "bayesplot",
-    "version_current": "1.15.0",
-    "hash_current": "ce863d7f5b15aa477b09c809c247552e66656d01",
-    "version_highest": "1.15.0",
-    "hash_highest": "ce863d7f5b15aa477b09c809c247552e66656d01"
+    "version_current": "1.16.0",
+    "hash_current": "ba7344cb7f0b91bd8300ff019f42be61590503c1",
+    "version_highest": "1.16.0",
+    "hash_highest": "ba7344cb7f0b91bd8300ff019f42be61590503c1"
   },
   {
     "package": "bedrockbio",
