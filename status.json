@@ -466,9 +466,9 @@
   },
   "jiebaRS": {
     "success": [true],
-    "published": ["2026-08-22 02:37:40.321 UTC"],
-    "version": ["0.2.0"],
-    "remote_hash": ["fb3938cbbf5dd12e60d70f17c973ad59330ff741"]
+    "published": ["2026-08-26 12:19:13.565 UTC"],
+    "version": ["0.3.0"],
+    "remote_hash": ["753cd1165d2506a8b13aa147f63ae6ffc47ef186"]
   },
   "kgp": {
     "success": [true],

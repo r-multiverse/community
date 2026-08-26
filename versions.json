@@ -330,10 +330,10 @@
   },
   {
     "package": "jiebaRS",
-    "version_current": "0.2.0",
-    "hash_current": "fb3938cbbf5dd12e60d70f17c973ad59330ff741",
-    "version_highest": "0.2.0",
-    "hash_highest": "fb3938cbbf5dd12e60d70f17c973ad59330ff741"
+    "version_current": "0.3.0",
+    "hash_current": "753cd1165d2506a8b13aa147f63ae6ffc47ef186",
+    "version_highest": "0.3.0",
+    "hash_highest": "753cd1165d2506a8b13aa147f63ae6ffc47ef186"
   },
   {
     "package": "kgp",
