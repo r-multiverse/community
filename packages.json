@@ -80,6 +80,11 @@
     "branch": "*release"
   },
   {
+    "package": "cidian",
+    "url": "https://github.com/Yousa-Mirage/r-cidian",
+    "branch": "*release"
+  },
+  {
     "package": "cli",
     "url": "https://github.com/r-lib/cli",
     "branch": "*release"
