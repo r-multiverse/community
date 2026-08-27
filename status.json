@@ -7,7 +7,7 @@
   },
   "adbcflightsql": {
     "success": [true],
-    "published": ["2026-07-28 01:34:37.813 UTC"],
+    "published": ["2026-08-27 11:57:10.683 UTC"],
     "version": ["0.24.0"],
     "remote_hash": ["a3f81c6feb1133ba80600ac32e6d7c0b0b407e18"]
   },
@@ -105,7 +105,7 @@
   },
   "bedrockbio": {
     "success": [false],
-    "published": ["2026-07-28 03:01:27.788 UTC"],
+    "published": ["2026-08-27 11:52:52.362 UTC"],
     "version": ["2.0.0"],
     "remote_hash": ["5b2e43628012d945a34d0fa725a448d9c476c1e2"],
     "dependencies": {
