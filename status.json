@@ -616,24 +616,10 @@
     "remote_hash": ["569fe0c4bdcc230c45f97360ce136bb0d877772f"]
   },
   "polars": {
-    "success": [false],
-    "published": ["2026-08-03 10:25:25.676 UTC"],
-    "version": ["1.14.0"],
-    "remote_hash": ["c4feac96133c25e4d4927ca684efdc3c376b60b2"],
-    "r_cmd_check": [
-      {
-        "check": "WARNING",
-        "config": "macos-release-arm64",
-        "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30802681187/job/91652239483"
-      },
-      {
-        "check": "WARNING",
-        "config": "macos-release-x86_64",
-        "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30802681187/job/91652239475"
-      }
-    ]
+    "success": [true],
+    "published": ["2026-09-01 13:34:27.697 UTC"],
+    "version": ["1.15.0"],
+    "remote_hash": ["db00fc7f9386707ead0e0d9256c19d2472ee8c23"]
   },
   "polars0": {
     "success": [false],
@@ -990,7 +976,7 @@
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2026-08-03 11:29:30.299 UTC"],
+    "published": ["2026-09-01 14:04:58.943 UTC"],
     "version": ["0.19.0"],
     "remote_hash": ["e79dda50194dfd00a43d66afedd57072cab2ef54"],
     "r_cmd_check": [
@@ -998,24 +984,21 @@
         "check": "ERROR",
         "config": "linux-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30805629882/job/91661042056"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/33514407063/job/99879137281"
       },
       {
         "check": "ERROR",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30805629882/job/91661042020"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/33514407063/job/99879137269"
       },
       {
         "check": "ERROR",
         "config": "windows-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30805629882/job/91661042034"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/33514407063/job/99879137158"
       }
-    ],
-    "dependencies": {
-      "polars": []
-    }
+    ]
   },
   "tidytab": {
     "success": [true],
