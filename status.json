@@ -269,8 +269,7 @@
         "r": "4.6.1",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/30700754015/job/91456898014"
       }
-    ],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/33759139585"]
+    ]
   },
   "ecoXCorr": {
     "success": [true],
@@ -418,13 +417,10 @@
     ]
   },
   "httpgd": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-08-30 07:57:30.584 UTC"],
     "version": ["2.1.4"],
-    "remote_hash": ["087ebf5bbf46ddc52e107d6a8bb26381177d2e7f"],
-    "dependencies": {
-      "unigd": []
-    }
+    "remote_hash": ["087ebf5bbf46ddc52e107d6a8bb26381177d2e7f"]
   },
   "huxtable": {
     "success": [true],
@@ -721,7 +717,7 @@
   },
   "prqlr": {
     "success": [false],
-    "published": ["2026-08-02 04:56:30.371 UTC"],
+    "published": ["2026-09-03 18:20:06.563 UTC"],
     "version": ["0.10.1"],
     "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"],
     "r_cmd_check": [
@@ -729,13 +725,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30607649628/job/91456825730"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/33788675480/job/100761193261"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/30607649628/job/91456825557"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/33788675480/job/100761193277"
       }
     ]
   },
@@ -1063,11 +1059,10 @@
     "remote_hash": ["4a0b41cde2d32c28662645c1b8780192e57400a2"]
   },
   "unigd": {
-    "success": [false],
+    "success": [true],
     "published": ["2026-09-03 14:51:33.358 UTC"],
     "version": ["0.2.0"],
-    "remote_hash": ["6312ba12b1c3aa2d85e13673de810b3741a20b54"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/33756441484"]
+    "remote_hash": ["6312ba12b1c3aa2d85e13673de810b3741a20b54"]
   },
   "vctrs": {
     "success": [true],
