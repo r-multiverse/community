@@ -215,7 +215,7 @@
   },
   "deeptime": {
     "success": [true],
-    "published": ["2026-08-09 06:09:10.526 UTC"],
+    "published": ["2026-09-08 09:06:40.118 UTC"],
     "version": ["2.4.0"],
     "remote_hash": ["e78aa6e25cda2dcaecd72a37a8e74ad979c8e058"]
   },
@@ -773,7 +773,7 @@
   },
   "RmlxStats": {
     "success": [false],
-    "published": ["2026-09-07 06:27:41.733 UTC"],
+    "published": ["2026-09-08 06:17:40.529 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["36963b9c305b2487d6f93264c34d1c37bd0d5ea5"],
     "r_cmd_check": [
@@ -781,13 +781,13 @@
         "check": "ERROR",
         "config": "linux-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/34027345776/job/101643313535"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/34027345776/job/101956927948"
       },
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/34027345776/job/101643315388"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/34027345776/job/101956928909"
       }
     ],
     "remotes": ["hughjonesd/Rmlx"]
