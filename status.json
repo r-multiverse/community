@@ -758,11 +758,10 @@
     "remote_hash": ["ce8a147b712c425fa4eb1d351e621d07ce6e423b"]
   },
   "Rmlx": {
-    "success": [false],
-    "published": ["2026-09-12 16:24:44.092 UTC"],
+    "success": [true],
+    "published": ["2026-09-12 17:45:33.059 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/34705129097"]
+    "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"]
   },
   "RmlxStats": {
     "success": [false],
@@ -783,10 +782,7 @@
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/34027345776/job/101956928909"
       }
     ],
-    "remotes": ["hughjonesd/Rmlx"],
-    "dependencies": {
-      "Rmlx": []
-    }
+    "remotes": ["hughjonesd/Rmlx"]
   },
   "rredlist": {
     "success": [true],
