@@ -46,7 +46,7 @@
   },
   "audio.vadwebrtc": {
     "success": [false],
-    "published": ["2026-09-14 06:50:50.869 UTC"],
+    "published": ["2026-09-15 06:26:15.515 UTC"],
     "version": ["0.2"],
     "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"],
     "r_cmd_check": [
@@ -54,13 +54,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/34769384187/job/103882431277"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/34769384187/job/104276174173"
       },
       {
         "check": "WARNING",
         "config": "windows-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/34769384187/job/103882431155"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/34769384187/job/104276173798"
       }
     ]
   },
@@ -573,7 +573,7 @@
   },
   "mypaintr": {
     "success": [true],
-    "published": ["2026-09-14 11:47:14.582 UTC"],
+    "published": ["2026-09-15 06:31:43.085 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["2c3a19834f6c8792b76ca0c5c3bcfb75deb822f9"]
   },
@@ -938,7 +938,7 @@
   },
   "targets": {
     "success": [false],
-    "published": ["2026-08-16 03:17:57.079 UTC"],
+    "published": ["2026-09-15 07:00:57.625 UTC"],
     "version": ["1.12.0"],
     "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"],
     "dependencies": {
@@ -1199,7 +1199,7 @@
   },
   "zstdlite": {
     "success": [false],
-    "published": ["2026-09-14 06:46:25.734 UTC"],
+    "published": ["2026-09-15 06:26:47.595 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"],
     "r_cmd_check": [
@@ -1207,7 +1207,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/34814618535/job/103882684010"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/34814618535/job/104276053439"
       }
     ]
   }
