@@ -430,9 +430,9 @@
   },
   "huxtable": {
     "success": [true],
-    "published": ["2026-09-04 09:08:32.934 UTC"],
-    "version": ["5.8.0"],
-    "remote_hash": ["affacfb24067439cf2277cfe7bc8a0dd88c41222"]
+    "published": ["2026-09-15 14:08:17.769 UTC"],
+    "version": ["6.0.1"],
+    "remote_hash": ["3e4f4206260637b1b5349f897243d8a2351a77da"]
   },
   "ichimoku": {
     "success": [true],
