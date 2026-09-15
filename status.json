@@ -291,7 +291,7 @@
   },
   "geoarrow": {
     "success": [false],
-    "published": ["2026-09-03 13:06:42.211 UTC"],
+    "published": ["2026-09-15 10:44:21.490 UTC"],
     "version": ["0.4.3"],
     "remote_hash": ["9c305a06f6bd68f6f0d3565cb8971bcedb04a579"],
     "dependencies": {
@@ -348,7 +348,7 @@
   },
   "ggseg.formats": {
     "success": [true],
-    "published": ["2026-09-07 09:09:03.898 UTC"],
+    "published": ["2026-09-15 11:36:09.345 UTC"],
     "version": ["0.0.4"],
     "remote_hash": ["193ca3c76ed61992266a31c60727c337a969cd66"]
   },
@@ -824,7 +824,7 @@
   },
   "santoku": {
     "success": [true],
-    "published": ["2026-08-16 04:54:46.033 UTC"],
+    "published": ["2026-09-15 08:42:57.357 UTC"],
     "version": ["2.0.0"],
     "remote_hash": ["f2c468d566c429729435802e6a3fa3fe9f27976f"]
   },
