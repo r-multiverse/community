@@ -209,7 +209,7 @@
   },
   "crew.aws.batch": {
     "success": [true],
-    "published": ["2026-09-03 21:00:33.868 UTC"],
+    "published": ["2026-09-16 11:20:20.105 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"]
   },
@@ -378,7 +378,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2026-09-05 06:16:00.654 UTC"],
+    "published": ["2026-09-16 11:35:10.694 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
     "r_cmd_check": [
@@ -386,13 +386,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/33747895612/job/101259594361"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/35089521006/job/104773607472"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/33747895612/job/101259594147"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/35089521006/job/104773607582"
       }
     ]
   },
@@ -490,7 +490,7 @@
   },
   "later": {
     "success": [true],
-    "published": ["2026-09-03 12:45:39.163 UTC"],
+    "published": ["2026-09-16 10:47:05.167 UTC"],
     "version": ["1.4.8"],
     "remote_hash": ["938684dd177de7b42d4c7e74852fe1e0afb91c8b"]
   },
@@ -573,7 +573,7 @@
   },
   "mypaintr": {
     "success": [true],
-    "published": ["2026-09-15 06:31:43.085 UTC"],
+    "published": ["2026-09-16 06:27:55.782 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["2c3a19834f6c8792b76ca0c5c3bcfb75deb822f9"]
   },
@@ -792,7 +792,7 @@
   },
   "rstanarm": {
     "success": [true],
-    "published": ["2026-08-25 20:10:23.572 UTC"],
+    "published": ["2026-09-16 10:40:07.250 UTC"],
     "version": ["2.32.2"],
     "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
   },
@@ -1199,7 +1199,7 @@
   },
   "zstdlite": {
     "success": [false],
-    "published": ["2026-09-15 06:26:47.595 UTC"],
+    "published": ["2026-09-16 06:24:46.621 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"],
     "r_cmd_check": [
@@ -1207,7 +1207,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/34814618535/job/104276053439"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/34814618535/job/104688219405"
       }
     ]
   }
