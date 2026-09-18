@@ -203,7 +203,7 @@
   },
   "crew": {
     "success": [true],
-    "published": ["2026-09-03 20:49:20.279 UTC"],
+    "published": ["2026-09-18 10:57:02.321 UTC"],
     "version": ["1.3.3"],
     "remote_hash": ["f44dc5f5364ca498d2329c82984f92e8cfdfe625"]
   },
@@ -378,7 +378,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2026-09-17 06:38:54.112 UTC"],
+    "published": ["2026-09-18 06:29:41.003 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
     "r_cmd_check": [
@@ -386,13 +386,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/35089521006/job/105099517786"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/35089521006/job/105502091677"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/35089521006/job/105099517378"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/35089521006/job/105502091959"
       }
     ]
   },
@@ -735,7 +735,7 @@
   },
   "rcheology": {
     "success": [true],
-    "published": ["2026-08-19 05:18:05.565 UTC"],
+    "published": ["2026-09-18 09:01:22.546 UTC"],
     "version": ["4.6.1.0"],
     "remote_hash": ["12527ceae89b6a348a1c42b01f91afe456ae25f4"]
   },
