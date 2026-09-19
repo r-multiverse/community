@@ -171,7 +171,7 @@
   },
   "cli": {
     "success": [true],
-    "published": ["2026-09-03 10:46:00.928 UTC"],
+    "published": ["2026-09-19 10:22:01.470 UTC"],
     "version": ["3.6.6"],
     "remote_hash": ["928dad1c230a1da745bfdcc9b59726081a3a5b6e"]
   },
@@ -202,22 +202,31 @@
     ]
   },
   "crew": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-09-18 10:57:02.321 UTC"],
     "version": ["1.3.3"],
-    "remote_hash": ["f44dc5f5364ca498d2329c82984f92e8cfdfe625"]
+    "remote_hash": ["f44dc5f5364ca498d2329c82984f92e8cfdfe625"],
+    "dependencies": {
+      "nanonext": ["mirai"]
+    }
   },
   "crew.aws.batch": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-09-16 11:20:20.105 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"]
+    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"],
+    "dependencies": {
+      "nanonext": ["crew"]
+    }
   },
   "crew.cluster": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-09-03 20:57:20.638 UTC"],
     "version": ["0.4.0"],
-    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
+    "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"],
+    "dependencies": {
+      "nanonext": ["crew"]
+    }
   },
   "deeptime": {
     "success": [true],
@@ -265,7 +274,7 @@
   },
   "duckdb": {
     "success": [false],
-    "published": ["2026-09-03 20:50:29.075 UTC"],
+    "published": ["2026-09-19 10:45:37.562 UTC"],
     "version": ["1.5.5"],
     "remote_hash": ["7930f8602ef8cd37cd4903f4c92aeef0edb29eab"],
     "r_cmd_check": [
@@ -275,7 +284,8 @@
         "r": "4.6.1",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/33759139585/job/100799490612"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/35438254817"]
   },
   "ecoXCorr": {
     "success": [true],
@@ -435,10 +445,13 @@
     "remote_hash": ["3e4f4206260637b1b5349f897243d8a2351a77da"]
   },
   "ichimoku": {
-    "success": [true],
-    "published": ["2026-09-03 12:23:59.608 UTC"],
+    "success": [false],
+    "published": ["2026-09-19 10:33:37.009 UTC"],
     "version": ["1.5.7"],
-    "remote_hash": ["e96e5bd71301d74f628ffdffc2a06e5b180b2276"]
+    "remote_hash": ["e96e5bd71301d74f628ffdffc2a06e5b180b2276"],
+    "dependencies": {
+      "nanonext": ["mirai"]
+    }
   },
   "igraph": {
     "success": [false],
@@ -545,10 +558,13 @@
     "remote_hash": ["3a8c6096b0e162445f119fc2dfc46ff41d0089ba"]
   },
   "mirai": {
-    "success": [true],
+    "success": [false],
     "published": ["2026-09-03 12:17:40.747 UTC"],
     "version": ["2.7.2"],
-    "remote_hash": ["8f185a64352259e69689299f8e63c2b8140d29df"]
+    "remote_hash": ["8f185a64352259e69689299f8e63c2b8140d29df"],
+    "dependencies": {
+      "nanonext": []
+    }
   },
   "multitools": {
     "success": [true],
@@ -562,7 +578,8 @@
     "version": ["1.1.10"],
     "remote_hash": ["0b6af6eb06221df195c2735dedf83052360a1bc9"],
     "dependencies": {
-      "igraph": []
+      "igraph": [],
+      "nanonext": []
     }
   },
   "mutagen": {
@@ -584,10 +601,11 @@
     "remote_hash": ["9fad80292360d0f3978264c11ba865ccc94020d8"]
   },
   "nanonext": {
-    "success": [true],
-    "published": ["2026-09-12 15:00:45.079 UTC"],
+    "success": [false],
+    "published": ["2026-09-19 11:13:32.322 UTC"],
     "version": ["1.10.2"],
-    "remote_hash": ["c3f70b25ce86551613c12aa4a124e919380fcb12"]
+    "remote_hash": ["c3f70b25ce86551613c12aa4a124e919380fcb12"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/35439512022"]
   },
   "onetime": {
     "success": [true],
