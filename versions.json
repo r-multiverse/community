@@ -295,10 +295,10 @@
   },
   {
     "package": "huxtable",
-    "version_current": "6.0.1",
-    "hash_current": "3e4f4206260637b1b5349f897243d8a2351a77da",
-    "version_highest": "6.0.1",
-    "hash_highest": "3e4f4206260637b1b5349f897243d8a2351a77da"
+    "version_current": "6.0.2",
+    "hash_current": "ee0503d6db49cc8cf266304ec99c881ea09fe861",
+    "version_highest": "6.0.2",
+    "hash_highest": "ee0503d6db49cc8cf266304ec99c881ea09fe861"
   },
   {
     "package": "ichimoku",
