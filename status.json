@@ -33,7 +33,7 @@
   },
   "ascribe": {
     "success": [true],
-    "published": ["2026-08-23 11:08:29.348 UTC"],
+    "published": ["2026-09-22 09:00:37.276 UTC"],
     "version": ["0.2.0"],
     "remote_hash": ["0f435da873bc46c75fd3fa2e46376e9155517965"]
   },
@@ -215,7 +215,7 @@
   },
   "crew.cluster": {
     "success": [true],
-    "published": ["2026-09-03 20:57:20.638 UTC"],
+    "published": ["2026-09-22 10:54:20.930 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["355fedb93ab83745444cb2a5ec87457e0f230528"]
   },
@@ -442,7 +442,7 @@
   },
   "igraph": {
     "success": [false],
-    "published": ["2026-09-07 06:10:29.154 UTC"],
+    "published": ["2026-09-22 11:27:36.884 UTC"],
     "version": ["2.3.3"],
     "remote_hash": ["a1b77d04e27b676e88c306db883f71ecd625b912"],
     "r_cmd_check": [
@@ -450,7 +450,7 @@
         "check": "WARNING",
         "config": "windows-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/34088282167/job/101637963172"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/35719691155/job/106722011222"
       }
     ]
   },
@@ -528,7 +528,7 @@
   },
   "loo": {
     "success": [true],
-    "published": ["2026-08-23 04:52:47.618 UTC"],
+    "published": ["2026-09-22 08:49:10.651 UTC"],
     "version": ["2.10.1"],
     "remote_hash": ["df27ade95093db66cebf19d55530439386ac1a97"]
   },
@@ -691,7 +691,7 @@
   },
   "projpred": {
     "success": [true],
-    "published": ["2026-08-23 05:29:06.421 UTC"],
+    "published": ["2026-09-22 09:33:55.213 UTC"],
     "version": ["2.10.0"],
     "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"]
   },
