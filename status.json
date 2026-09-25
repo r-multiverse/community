@@ -436,7 +436,7 @@
   },
   "ichimoku": {
     "success": [true],
-    "published": ["2026-09-24 16:05:19.082 UTC"],
+    "published": ["2026-09-25 19:19:37.842 UTC"],
     "version": ["1.5.7"],
     "remote_hash": ["e96e5bd71301d74f628ffdffc2a06e5b180b2276"]
   },
@@ -469,7 +469,7 @@
   },
   "jagstargets": {
     "success": [false],
-    "published": ["2026-09-04 09:34:16.677 UTC"],
+    "published": ["2026-09-25 19:19:10.217 UTC"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"],
     "dependencies": {
@@ -898,9 +898,9 @@
   },
   "secretbase": {
     "success": [true],
-    "published": ["2026-09-04 14:22:24.236 UTC"],
-    "version": ["1.3.0"],
-    "remote_hash": ["f010c1fb4c0107a2ba4bbe5601c4b3bcb76b9c50"]
+    "published": ["2026-09-25 19:08:37.470 UTC"],
+    "version": ["1.3.1"],
+    "remote_hash": ["3f12f270f6a670e1fba4984a59bff08e3c06bcd5"]
   },
   "sedonadb": {
     "success": [false],
@@ -933,7 +933,7 @@
   },
   "stantargets": {
     "success": [false],
-    "published": ["2026-09-05 08:55:26.549 UTC"],
+    "published": ["2026-09-25 19:20:06.907 UTC"],
     "version": ["0.1.3"],
     "remote_hash": ["1a1e0feedeae5437fe45f34d26b3d180576f3f18"],
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
@@ -949,7 +949,7 @@
   },
   "tarchetypes": {
     "success": [false],
-    "published": ["2026-09-04 09:06:30.668 UTC"],
+    "published": ["2026-09-25 19:20:28.303 UTC"],
     "version": ["0.14.1"],
     "remote_hash": ["020909b152e81f5891242672a3c2ef42312cfc2b"],
     "dependencies": {
@@ -958,7 +958,7 @@
   },
   "targets": {
     "success": [false],
-    "published": ["2026-09-15 07:00:57.625 UTC"],
+    "published": ["2026-09-25 19:24:59.832 UTC"],
     "version": ["1.12.0"],
     "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"],
     "dependencies": {
