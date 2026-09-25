@@ -478,7 +478,7 @@
   },
   "jiebaRS": {
     "success": [true],
-    "published": ["2026-08-26 12:19:13.565 UTC"],
+    "published": ["2026-09-25 12:03:20.062 UTC"],
     "version": ["0.3.0"],
     "remote_hash": ["753cd1165d2506a8b13aa147f63ae6ffc47ef186"]
   },
@@ -496,7 +496,7 @@
   },
   "litedown": {
     "success": [true],
-    "published": ["2026-08-26 18:33:42.809 UTC"],
+    "published": ["2026-09-25 12:03:04.865 UTC"],
     "version": ["0.11"],
     "remote_hash": ["2728086ff2a412a86eda6ecd31b26185e53af540"]
   },
