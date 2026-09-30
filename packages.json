@@ -382,6 +382,11 @@
     "branch": "*release"
   },
   {
+    "package": "retroglyph",
+    "url": "https://github.com/wlandau/retroglyph",
+    "branch": "*release"
+  },
+  {
     "package": "riem",
     "url": "https://github.com/ropensci/riem",
     "branch": "*release"
