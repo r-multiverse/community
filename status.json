@@ -104,13 +104,10 @@
     "remote_hash": ["ba7344cb7f0b91bd8300ff019f42be61590503c1"]
   },
   "bedrockbio": {
-    "success": [false],
-    "published": ["2026-09-26 06:36:36.960 UTC"],
+    "success": [true],
+    "published": ["2026-10-01 02:10:42.865 UTC"],
     "version": ["2.0.0"],
-    "remote_hash": ["5b2e43628012d945a34d0fa725a448d9c476c1e2"],
-    "dependencies": {
-      "duckdb": []
-    }
+    "remote_hash": ["5b2e43628012d945a34d0fa725a448d9c476c1e2"]
   },
   "biorecap": {
     "success": [true],
@@ -264,18 +261,10 @@
     "remote_hash": ["7c66bdbe6352d8339cf977f3a3d40d7c0af9a475"]
   },
   "duckdb": {
-    "success": [false],
-    "published": ["2026-09-19 12:07:13.825 UTC"],
-    "version": ["1.5.5"],
-    "remote_hash": ["7930f8602ef8cd37cd4903f4c92aeef0edb29eab"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "windows-release-arm64",
-        "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/35438254817/job/105887737192"
-      }
-    ]
+    "success": [true],
+    "published": ["2026-10-01 02:01:58.632 UTC"],
+    "version": ["1.5.6"],
+    "remote_hash": ["f1f818b29aa8292f1623dae09b25264f93ad71c0"]
   },
   "ecoXCorr": {
     "success": [true],
@@ -725,9 +714,9 @@
   },
   "projpred": {
     "success": [true],
-    "published": ["2026-09-22 09:33:55.213 UTC"],
-    "version": ["2.10.0"],
-    "remote_hash": ["4ba5b1e34d232c75732e81fc6cafdb40b5727cc2"]
+    "published": ["2026-10-01 01:08:10.101 UTC"],
+    "version": ["2.11.0"],
+    "remote_hash": ["545b4668eb1e815971a2fb1da5932e9042f5a98d"]
   },
   "prophet": {
     "success": [false],
@@ -772,6 +761,23 @@
     "published": ["2026-09-18 09:01:22.546 UTC"],
     "version": ["4.6.1.0"],
     "remote_hash": ["12527ceae89b6a348a1c42b01f91afe456ae25f4"]
+  },
+  "retroglyph": {
+    "success": [false],
+    "published": ["2026-10-01 00:41:58.696 UTC"],
+    "version": ["0.0.7"],
+    "remote_hash": ["3a5cc55d246cee94d68d7b027f0426092544e371"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "linux-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/36795953857/job/110160660175"
+      }
+    ],
+    "dependencies": {
+      "igraph": []
+    }
   },
   "riem": {
     "success": [true],
