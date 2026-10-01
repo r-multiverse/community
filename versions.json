@@ -526,10 +526,10 @@
   },
   {
     "package": "retroglyph",
-    "version_current": "0.0.7",
-    "hash_current": "3a5cc55d246cee94d68d7b027f0426092544e371",
-    "version_highest": "0.0.7",
-    "hash_highest": "3a5cc55d246cee94d68d7b027f0426092544e371"
+    "version_current": "0.0.8",
+    "hash_current": "08530e03089d8f8772090cb4512d183f9b1c4951",
+    "version_highest": "0.0.8",
+    "hash_highest": "08530e03089d8f8772090cb4512d183f9b1c4951"
   },
   {
     "package": "riem",

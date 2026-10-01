@@ -764,15 +764,15 @@
   },
   "retroglyph": {
     "success": [false],
-    "published": ["2026-10-01 00:41:58.696 UTC"],
-    "version": ["0.0.7"],
-    "remote_hash": ["3a5cc55d246cee94d68d7b027f0426092544e371"],
+    "published": ["2026-10-01 19:38:58.753 UTC"],
+    "version": ["0.0.8"],
+    "remote_hash": ["08530e03089d8f8772090cb4512d183f9b1c4951"],
     "r_cmd_check": [
       {
         "check": "ERROR",
         "config": "linux-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/36795953857/job/110160660175"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/36914448302/job/110546786970"
       }
     ],
     "dependencies": {
