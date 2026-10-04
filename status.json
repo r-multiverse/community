@@ -89,8 +89,7 @@
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/37209909285/job/111459585571"
       }
     ],
-    "remotes": ["bnosac/audio.vadwebrtc"],
-    "synchronization": ["recent"]
+    "remotes": ["bnosac/audio.vadwebrtc"]
   },
   "autometric": {
     "success": [true],
@@ -312,8 +311,7 @@
         "r": "4.6.1",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/37209898826/job/111459840007"
       }
-    ],
-    "synchronization": ["recent"]
+    ]
   },
   "geotargets": {
     "success": [false],
