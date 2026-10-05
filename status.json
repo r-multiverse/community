@@ -361,7 +361,7 @@
   },
   "ggtypst": {
     "success": [true],
-    "published": ["2026-10-04 13:22:30.709 UTC"],
+    "published": ["2026-10-05 07:30:30.773 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["a075de59066ac2024c07b9c235310fedb4f9a23e"]
   },
@@ -720,12 +720,12 @@
   },
   "prophet": {
     "success": [false],
-    "published": ["2026-09-30 09:51:24.460 UTC"],
+    "published": ["2026-10-05 07:48:09.944 UTC"],
     "version": ["1.2.2"],
-    "remote_hash": ["abf69a215604afcaa7ecb4359f592d13bf6dea9f"],
+    "remote_hash": ["f57c4e13a29d18f927f2516f04990a3540711694"],
     "versions": {
       "version_current": ["1.2.2"],
-      "hash_current": ["abf69a215604afcaa7ecb4359f592d13bf6dea9f"],
+      "hash_current": ["f57c4e13a29d18f927f2516f04990a3540711694"],
       "version_highest": ["1.2.2"],
       "hash_highest": ["2cdb2cb98d756c06ecf1476e7f353ece13ed0149"]
     }
