@@ -624,10 +624,10 @@
   },
   {
     "package": "sdplyr",
-    "version_current": "0.4.1",
-    "hash_current": "c9e41f8478856edcb3a995ecd3b2a8a91aa8f81e",
-    "version_highest": "0.4.1",
-    "hash_highest": "c9e41f8478856edcb3a995ecd3b2a8a91aa8f81e"
+    "version_current": "0.4.1.9000",
+    "hash_current": "751453f04cd6e09842adf3073b2b3dac7d1777bc",
+    "version_highest": "0.4.1.9000",
+    "hash_highest": "751453f04cd6e09842adf3073b2b3dac7d1777bc"
   },
   {
     "package": "secretbase",
@@ -638,17 +638,17 @@
   },
   {
     "package": "sedonadb",
-    "version_current": "0.4.1",
-    "hash_current": "c9e41f8478856edcb3a995ecd3b2a8a91aa8f81e",
-    "version_highest": "0.4.1",
-    "hash_highest": "c9e41f8478856edcb3a995ecd3b2a8a91aa8f81e"
+    "version_current": "0.4.1.9000",
+    "hash_current": "751453f04cd6e09842adf3073b2b3dac7d1777bc",
+    "version_highest": "0.4.1.9000",
+    "hash_highest": "751453f04cd6e09842adf3073b2b3dac7d1777bc"
   },
   {
     "package": "sedonafns",
-    "version_current": "0.4.1",
-    "hash_current": "c9e41f8478856edcb3a995ecd3b2a8a91aa8f81e",
-    "version_highest": "0.4.1",
-    "hash_highest": "c9e41f8478856edcb3a995ecd3b2a8a91aa8f81e"
+    "version_current": "0.4.1.9000",
+    "hash_current": "751453f04cd6e09842adf3073b2b3dac7d1777bc",
+    "version_highest": "0.4.1.9000",
+    "hash_highest": "751453f04cd6e09842adf3073b2b3dac7d1777bc"
   },
   {
     "package": "shinystan",
