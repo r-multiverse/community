@@ -22,10 +22,10 @@
   },
   {
     "package": "arrow",
-    "version_current": "25.0.1",
-    "hash_current": "beccec0d0c451b7aa3e4530416ac431b3c035c69",
-    "version_highest": "25.0.1",
-    "hash_highest": "beccec0d0c451b7aa3e4530416ac431b3c035c69"
+    "version_current": "26.0.0",
+    "hash_current": "446167169a0dc547e00e1bc29f417a40c0ca267a",
+    "version_highest": "26.0.0",
+    "hash_highest": "446167169a0dc547e00e1bc29f417a40c0ca267a"
   },
   {
     "package": "ascribe",
