@@ -85,10 +85,10 @@
   },
   {
     "package": "bootstrapper",
-    "version_current": "1.1.0",
-    "hash_current": "6053274c28d41be184215dcd88720a597d0a1167",
-    "version_highest": "1.1.0",
-    "hash_highest": "6053274c28d41be184215dcd88720a597d0a1167"
+    "version_current": "1.1.2",
+    "hash_current": "6a2e58001854ec4514e575929497ce9e4fb5dedb",
+    "version_highest": "1.1.2",
+    "hash_highest": "6a2e58001854ec4514e575929497ce9e4fb5dedb"
   },
   {
     "package": "bridgestan",
