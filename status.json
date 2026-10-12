@@ -337,7 +337,7 @@
   },
   "ggseg": {
     "success": [true],
-    "published": ["2026-09-12 16:45:06.543 UTC"],
+    "published": ["2026-10-12 13:35:10.921 UTC"],
     "version": ["2.2.1"],
     "remote_hash": ["39749d9b57f6e2d8ab7f30f4d10653ee61a4032f"]
   },
@@ -738,7 +738,7 @@
   },
   "prqlr": {
     "success": [false],
-    "published": ["2026-10-11 11:00:22.490 UTC"],
+    "published": ["2026-10-12 07:51:02.931 UTC"],
     "version": ["0.10.1"],
     "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"],
     "r_cmd_check": [
@@ -746,13 +746,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/38133332895/job/114452598358"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/38133332895/job/114711445668"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/38133332895/job/114452598272"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/38133332895/job/114711445621"
       }
     ]
   },
@@ -797,7 +797,7 @@
   },
   "Rmlx": {
     "success": [true],
-    "published": ["2026-09-14 08:04:53.434 UTC"],
+    "published": ["2026-10-12 15:06:57.841 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"]
   },
@@ -836,7 +836,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2026-09-12 06:11:52.888 UTC"],
+    "published": ["2026-10-12 08:08:14.707 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "r_cmd_check": [
@@ -844,7 +844,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/34321144255/job/103509542446"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/38221446025/job/114718507121"
       }
     ]
   },
