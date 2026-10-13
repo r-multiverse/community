@@ -1,7 +1,7 @@
 {
   "adbcdrivermanager": {
     "success": [true],
-    "published": ["2026-09-13 16:27:04.519 UTC"],
+    "published": ["2026-10-13 13:14:26.144 UTC"],
     "version": ["0.24.0"],
     "remote_hash": ["a3f81c6feb1133ba80600ac32e6d7c0b0b407e18"]
   },
@@ -52,7 +52,7 @@
   },
   "audio.vadwebrtc": {
     "success": [false],
-    "published": ["2026-09-15 06:26:15.515 UTC"],
+    "published": ["2026-10-13 13:58:28.470 UTC"],
     "version": ["0.2"],
     "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"],
     "r_cmd_check": [
@@ -60,13 +60,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/34769384187/job/104276174173"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/38404231833/job/115321400483"
       },
       {
         "check": "WARNING",
         "config": "windows-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/34769384187/job/104276173798"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/38404231833/job/115321400336"
       }
     ]
   },
@@ -473,9 +473,9 @@
   },
   "jiebaRS": {
     "success": [true],
-    "published": ["2026-09-25 12:03:20.062 UTC"],
-    "version": ["0.3.0"],
-    "remote_hash": ["753cd1165d2506a8b13aa147f63ae6ffc47ef186"]
+    "published": ["2026-10-13 12:44:00.759 UTC"],
+    "version": ["0.3.1"],
+    "remote_hash": ["49a9cc41844af070d2cf187f9c884b5394ea21e2"]
   },
   "kgp": {
     "success": [true],
