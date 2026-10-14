@@ -1156,9 +1156,9 @@
   },
   "webchem": {
     "success": [true],
-    "published": ["2026-10-04 09:45:07.176 UTC"],
-    "version": ["1.3.1"],
-    "remote_hash": ["2131a4e718996f16467be458fd7378116523414d"]
+    "published": ["2026-10-14 14:33:14.476 UTC"],
+    "version": ["2.0.0"],
+    "remote_hash": ["8aad05ea57c3e928ee3f1aa363e7660009fb9cb4"]
   },
   "webseq": {
     "success": [false],
