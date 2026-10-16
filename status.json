@@ -442,18 +442,17 @@
   },
   "igraph": {
     "success": [false],
-    "published": ["2026-09-22 11:27:36.884 UTC"],
-    "version": ["2.3.3"],
-    "remote_hash": ["a1b77d04e27b676e88c306db883f71ecd625b912"],
+    "published": ["2026-10-16 02:05:04.377 UTC"],
+    "version": ["2.3.4"],
+    "remote_hash": ["fe3538b925b9898953b717e6de819be518bcf8ea"],
     "r_cmd_check": [
       {
         "check": "WARNING",
         "config": "windows-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/35719691155/job/106722011222"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/38836457505/job/116769364627"
       }
-    ],
-    "cran": ["2.3.4"]
+    ]
   },
   "IMD": {
     "success": [false],
@@ -559,29 +558,9 @@
   },
   "multiverse.internals": {
     "success": [false],
-    "published": ["2026-09-23 18:04:47.358 UTC"],
+    "published": ["2026-10-16 02:13:13.802 UTC"],
     "version": ["1.1.10"],
     "remote_hash": ["0b6af6eb06221df195c2735dedf83052360a1bc9"],
-    "r_cmd_check": [
-      {
-        "check": "ERROR",
-        "config": "linux-release-x86_64",
-        "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/35898957008/job/107311305000"
-      },
-      {
-        "check": "ERROR",
-        "config": "macos-release-arm64",
-        "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/35898957008/job/107311304947"
-      },
-      {
-        "check": "ERROR",
-        "config": "windows-release-x86_64",
-        "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/35898957008/job/107311305060"
-      }
-    ],
     "dependencies": {
       "igraph": []
     }
@@ -594,7 +573,7 @@
   },
   "mypaintr": {
     "success": [true],
-    "published": ["2026-10-15 06:18:42.078 UTC"],
+    "published": ["2026-10-16 06:09:49.655 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["2c3a19834f6c8792b76ca0c5c3bcfb75deb822f9"]
   },
@@ -776,7 +755,7 @@
   },
   "retroglyph": {
     "success": [false],
-    "published": ["2026-10-02 19:02:39.694 UTC"],
+    "published": ["2026-10-16 02:15:01.197 UTC"],
     "version": ["0.0.9"],
     "remote_hash": ["aa3cf134c14dd7d9d7cd0c570881ed0c610904ff"],
     "dependencies": {
@@ -1014,7 +993,7 @@
   },
   "targets": {
     "success": [false],
-    "published": ["2026-09-25 19:24:59.832 UTC"],
+    "published": ["2026-10-16 02:21:27.392 UTC"],
     "version": ["1.12.0"],
     "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"],
     "dependencies": {
