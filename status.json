@@ -749,7 +749,7 @@
   },
   "rcheology": {
     "success": [true],
-    "published": ["2026-09-18 09:01:22.546 UTC"],
+    "published": ["2026-10-18 08:29:22.605 UTC"],
     "version": ["4.6.1.0"],
     "remote_hash": ["12527ceae89b6a348a1c42b01f91afe456ae25f4"]
   },
@@ -1246,7 +1246,7 @@
   },
   "zstdlite": {
     "success": [false],
-    "published": ["2026-10-17 05:56:44.901 UTC"],
+    "published": ["2026-10-18 06:20:18.184 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"],
     "r_cmd_check": [
@@ -1254,7 +1254,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/39007901402/job/117324077149"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/39007901402/job/117604308685"
       }
     ]
   }
