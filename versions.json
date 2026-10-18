@@ -456,10 +456,10 @@
   },
   {
     "package": "polars",
-    "version_current": "1.16.0",
-    "hash_current": "3c8a18829fa2ea2a306db4d468a867b1ed76c754",
-    "version_highest": "1.16.0",
-    "hash_highest": "3c8a18829fa2ea2a306db4d468a867b1ed76c754"
+    "version_current": "2.0.0",
+    "hash_current": "16a15fc222c84900c7e626ba875c127f52800afe",
+    "version_highest": "2.0.0",
+    "hash_highest": "16a15fc222c84900c7e626ba875c127f52800afe"
   },
   {
     "package": "polars0",

@@ -603,9 +603,9 @@
   },
   "polars": {
     "success": [true],
-    "published": ["2026-10-13 09:27:46.542 UTC"],
-    "version": ["1.16.0"],
-    "remote_hash": ["3c8a18829fa2ea2a306db4d468a867b1ed76c754"]
+    "published": ["2026-10-18 15:15:22.190 UTC"],
+    "version": ["2.0.0"],
+    "remote_hash": ["16a15fc222c84900c7e626ba875c127f52800afe"]
   },
   "polars0": {
     "success": [false],
@@ -1017,7 +1017,7 @@
   },
   "tidypolars": {
     "success": [false],
-    "published": ["2026-10-13 09:26:42.072 UTC"],
+    "published": ["2026-10-18 16:24:03.046 UTC"],
     "version": ["0.19.0"],
     "remote_hash": ["e79dda50194dfd00a43d66afedd57072cab2ef54"],
     "r_cmd_check": [
@@ -1025,19 +1025,19 @@
         "check": "ERROR",
         "config": "linux-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/38374295228/job/115220038932"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/39139822220/job/117712685210"
       },
       {
         "check": "ERROR",
         "config": "macos-release-arm64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/38374295228/job/115220039059"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/39139822220/job/117712685151"
       },
       {
         "check": "ERROR",
         "config": "windows-release-x86_64",
         "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/38374295228/job/115220038892"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/39139822220/job/117712685237"
       }
     ]
   },
