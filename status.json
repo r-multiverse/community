@@ -769,10 +769,18 @@
     "remote_hash": ["5ad33e8c9bd7200d53fd1f24f1b807624fbf0a33"]
   },
   "rJavaEnv": {
-    "success": [true],
-    "published": ["2026-09-29 08:01:31.298 UTC"],
-    "version": ["0.3.0"],
-    "remote_hash": ["cce4a2bb65d891c3e9ba0194a67451de87a2a3ae"]
+    "success": [false],
+    "published": ["2026-10-20 19:48:40.819 UTC"],
+    "version": ["0.4.0"],
+    "remote_hash": ["c2c19b1138605e70e7f2bb007b3e0c01897ef466"],
+    "r_cmd_check": [
+      {
+        "check": "ERROR",
+        "config": "windows-release-x86_64",
+        "r": "4.6.1",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/39485183887/job/118845441191"
+      }
+    ]
   },
   "rlang": {
     "success": [true],

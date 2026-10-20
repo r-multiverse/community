@@ -540,10 +540,10 @@
   },
   {
     "package": "rJavaEnv",
-    "version_current": "0.3.0",
-    "hash_current": "cce4a2bb65d891c3e9ba0194a67451de87a2a3ae",
-    "version_highest": "0.3.0",
-    "hash_highest": "cce4a2bb65d891c3e9ba0194a67451de87a2a3ae"
+    "version_current": "0.4.0",
+    "hash_current": "c2c19b1138605e70e7f2bb007b3e0c01897ef466",
+    "version_highest": "0.4.0",
+    "hash_highest": "c2c19b1138605e70e7f2bb007b3e0c01897ef466"
   },
   {
     "package": "rlang",
