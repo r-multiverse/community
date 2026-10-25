@@ -183,10 +183,10 @@
   },
   {
     "package": "duckdb",
-    "version_current": "1.5.6",
-    "hash_current": "f1f818b29aa8292f1623dae09b25264f93ad71c0",
-    "version_highest": "1.5.6",
-    "hash_highest": "f1f818b29aa8292f1623dae09b25264f93ad71c0"
+    "version_current": "2.0.0",
+    "hash_current": "0f355370617dc3669fa1ca170753fd8b8ace5a41",
+    "version_highest": "2.0.0",
+    "hash_highest": "0f355370617dc3669fa1ca170753fd8b8ace5a41"
   },
   {
     "package": "ecoXCorr",

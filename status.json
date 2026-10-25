@@ -115,7 +115,7 @@
   },
   "bedrockbio": {
     "success": [true],
-    "published": ["2026-10-01 02:10:42.865 UTC"],
+    "published": ["2026-10-25 08:22:31.430 UTC"],
     "version": ["2.0.0"],
     "remote_hash": ["5b2e43628012d945a34d0fa725a448d9c476c1e2"]
   },
@@ -272,9 +272,9 @@
   },
   "duckdb": {
     "success": [true],
-    "published": ["2026-10-01 08:30:00.782 UTC"],
-    "version": ["1.5.6"],
-    "remote_hash": ["f1f818b29aa8292f1623dae09b25264f93ad71c0"]
+    "published": ["2026-10-25 08:15:25.526 UTC"],
+    "version": ["2.0.0"],
+    "remote_hash": ["0f355370617dc3669fa1ca170753fd8b8ace5a41"]
   },
   "ecoXCorr": {
     "success": [true],
@@ -496,7 +496,7 @@
   },
   "litedown": {
     "success": [true],
-    "published": ["2026-09-25 12:03:04.865 UTC"],
+    "published": ["2026-10-25 11:39:49.223 UTC"],
     "version": ["0.11"],
     "remote_hash": ["2728086ff2a412a86eda6ecd31b26185e53af540"]
   },
