@@ -436,7 +436,7 @@
   },
   "ichimoku": {
     "success": [true],
-    "published": ["2026-09-25 19:19:37.842 UTC"],
+    "published": ["2026-10-25 12:12:49.740 UTC"],
     "version": ["1.5.7"],
     "remote_hash": ["e96e5bd71301d74f628ffdffc2a06e5b180b2276"]
   },
@@ -469,7 +469,7 @@
   },
   "jagstargets": {
     "success": [false],
-    "published": ["2026-09-25 19:19:10.217 UTC"],
+    "published": ["2026-10-25 12:16:10.664 UTC"],
     "version": ["1.2.3"],
     "remote_hash": ["fef92d0d74f6e9832459ce4bee69396bca21fd3f"],
     "dependencies": {
@@ -910,7 +910,7 @@
   },
   "secretbase": {
     "success": [true],
-    "published": ["2026-09-25 19:08:37.470 UTC"],
+    "published": ["2026-10-25 12:05:38.453 UTC"],
     "version": ["1.3.1"],
     "remote_hash": ["3f12f270f6a670e1fba4984a59bff08e3c06bcd5"]
   },
@@ -976,7 +976,7 @@
   },
   "stantargets": {
     "success": [false],
-    "published": ["2026-09-25 19:20:06.907 UTC"],
+    "published": ["2026-10-25 12:18:31.279 UTC"],
     "version": ["0.1.3"],
     "remote_hash": ["1a1e0feedeae5437fe45f34d26b3d180576f3f18"],
     "remotes": ["hyunjimoon/SBC", "stan-dev/cmdstanr"],
@@ -992,7 +992,7 @@
   },
   "tarchetypes": {
     "success": [false],
-    "published": ["2026-09-25 19:20:28.303 UTC"],
+    "published": ["2026-10-25 12:15:25.805 UTC"],
     "version": ["0.14.1"],
     "remote_hash": ["020909b152e81f5891242672a3c2ef42312cfc2b"],
     "dependencies": {
