@@ -1,19 +1,15 @@
 {
   "adbcdrivermanager": {
-    "success": [false],
-    "published": ["2026-10-13 13:14:26.144 UTC"],
-    "version": ["0.24.0"],
-    "remote_hash": ["a3f81c6feb1133ba80600ac32e6d7c0b0b407e18"],
-    "cran": ["0.24.0-3"]
+    "success": [true],
+    "published": ["2026-10-26 07:05:00.319 UTC"],
+    "version": ["0.25.0"],
+    "remote_hash": ["1f9f5540dbcb695c540dfcdafeea421c7d94adb1"]
   },
   "adbcflightsql": {
-    "success": [false],
-    "published": ["2026-09-26 06:43:53.134 UTC"],
-    "version": ["0.24.0"],
-    "remote_hash": ["a3f81c6feb1133ba80600ac32e6d7c0b0b407e18"],
-    "dependencies": {
-      "adbcdrivermanager": []
-    }
+    "success": [true],
+    "published": ["2026-10-26 07:40:59.651 UTC"],
+    "version": ["0.25.0"],
+    "remote_hash": ["1f9f5540dbcb695c540dfcdafeea421c7d94adb1"]
   },
   "ahocorasick": {
     "success": [true],
@@ -127,7 +123,7 @@
   },
   "bootstrapper": {
     "success": [false],
-    "published": ["2026-10-10 23:01:43.519 UTC"],
+    "published": ["2026-10-26 12:14:12.204 UTC"],
     "version": ["1.1.2"],
     "remote_hash": ["6a2e58001854ec4514e575929497ce9e4fb5dedb"],
     "remotes": ["lorenzwalthert/touchstone"]
@@ -272,7 +268,7 @@
   },
   "duckdb": {
     "success": [true],
-    "published": ["2026-10-25 08:15:25.526 UTC"],
+    "published": ["2026-10-26 07:45:05.119 UTC"],
     "version": ["2.0.0"],
     "remote_hash": ["0f355370617dc3669fa1ca170753fd8b8ace5a41"]
   },

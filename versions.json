@@ -1,17 +1,17 @@
 [
   {
     "package": "adbcdrivermanager",
-    "version_current": "0.24.0",
-    "hash_current": "a3f81c6feb1133ba80600ac32e6d7c0b0b407e18",
-    "version_highest": "0.24.0",
-    "hash_highest": "a3f81c6feb1133ba80600ac32e6d7c0b0b407e18"
+    "version_current": "0.25.0",
+    "hash_current": "1f9f5540dbcb695c540dfcdafeea421c7d94adb1",
+    "version_highest": "0.25.0",
+    "hash_highest": "1f9f5540dbcb695c540dfcdafeea421c7d94adb1"
   },
   {
     "package": "adbcflightsql",
-    "version_current": "0.24.0",
-    "hash_current": "a3f81c6feb1133ba80600ac32e6d7c0b0b407e18",
-    "version_highest": "0.24.0",
-    "hash_highest": "a3f81c6feb1133ba80600ac32e6d7c0b0b407e18"
+    "version_current": "0.25.0",
+    "hash_current": "1f9f5540dbcb695c540dfcdafeea421c7d94adb1",
+    "version_highest": "0.25.0",
+    "hash_highest": "1f9f5540dbcb695c540dfcdafeea421c7d94adb1"
   },
   {
     "package": "ahocorasick",
