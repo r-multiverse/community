@@ -262,13 +262,13 @@
   },
   "doctest": {
     "success": [true],
-    "published": ["2026-09-27 10:48:50.174 UTC"],
+    "published": ["2026-10-27 10:25:53.500 UTC"],
     "version": ["0.4.1"],
     "remote_hash": ["7c66bdbe6352d8339cf977f3a3d40d7c0af9a475"]
   },
   "duckdb": {
     "success": [true],
-    "published": ["2026-10-26 07:45:05.119 UTC"],
+    "published": ["2026-10-27 07:38:57.279 UTC"],
     "version": ["2.0.0"],
     "remote_hash": ["0f355370617dc3669fa1ca170753fd8b8ace5a41"]
   },
