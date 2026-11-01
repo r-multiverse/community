@@ -759,9 +759,9 @@
   },
   "rcheology": {
     "success": [true],
-    "published": ["2026-10-18 08:29:22.605 UTC"],
-    "version": ["4.6.1.0"],
-    "remote_hash": ["12527ceae89b6a348a1c42b01f91afe456ae25f4"]
+    "published": ["2026-11-01 12:28:56.551 UTC"],
+    "version": ["4.6.2.0"],
+    "remote_hash": ["4bc3bd32536e1e6150fa43895dd6a0e38f443ba6"]
   },
   "retroglyph": {
     "success": [false],
@@ -980,7 +980,7 @@
   },
   "shinystan": {
     "success": [true],
-    "published": ["2026-10-10 14:38:08.487 UTC"],
+    "published": ["2026-11-01 10:16:36.499 UTC"],
     "version": ["2.7.0"],
     "remote_hash": ["2036992879e7b1a7357340372f943303429da2b8"]
   },

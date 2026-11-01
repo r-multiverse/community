@@ -519,10 +519,10 @@
   },
   {
     "package": "rcheology",
-    "version_current": "4.6.1.0",
-    "hash_current": "12527ceae89b6a348a1c42b01f91afe456ae25f4",
-    "version_highest": "4.6.1.0",
-    "hash_highest": "12527ceae89b6a348a1c42b01f91afe456ae25f4"
+    "version_current": "4.6.2.0",
+    "hash_current": "4bc3bd32536e1e6150fa43895dd6a0e38f443ba6",
+    "version_highest": "4.6.2.0",
+    "hash_highest": "4bc3bd32536e1e6150fa43895dd6a0e38f443ba6"
   },
   {
     "package": "retroglyph",
