@@ -358,10 +358,10 @@
   },
   {
     "package": "litedown",
-    "version_current": "0.11",
-    "hash_current": "2728086ff2a412a86eda6ecd31b26185e53af540",
-    "version_highest": "0.11",
-    "hash_highest": "2728086ff2a412a86eda6ecd31b26185e53af540"
+    "version_current": "1.0",
+    "hash_current": "a214cd5ac21cb47ed9debfe16fd5393bdb16172f",
+    "version_highest": "1.0",
+    "hash_highest": "a214cd5ac21cb47ed9debfe16fd5393bdb16172f"
   },
   {
     "package": "loneliness",
@@ -393,10 +393,10 @@
   },
   {
     "package": "mirai",
-    "version_current": "2.7.3",
-    "hash_current": "47b276d076f3d5197492e7d6d44d7180c757c8ec",
-    "version_highest": "2.7.3",
-    "hash_highest": "47b276d076f3d5197492e7d6d44d7180c757c8ec"
+    "version_current": "2.7.4",
+    "hash_current": "26103e04185c5456c3298001580bea09093412c6",
+    "version_highest": "2.7.4",
+    "hash_highest": "26103e04185c5456c3298001580bea09093412c6"
   },
   {
     "package": "multitools",
