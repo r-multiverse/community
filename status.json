@@ -792,15 +792,15 @@
   },
   "RmlxStats": {
     "success": [false],
-    "published": ["2026-11-04 09:03:04.509 UTC"],
-    "version": ["0.4.0"],
-    "remote_hash": ["aeddfd2cf670ba36ffa678611710fbd0eac3c69e"],
+    "published": ["2026-11-04 17:16:19.698 UTC"],
+    "version": ["0.4.1"],
+    "remote_hash": ["b853f90b6f3adca80c10b83de4f3badabfda3946"],
     "r_cmd_check": [
       {
         "check": "ERROR",
         "config": "linux-release-x86_64",
         "r": "4.6.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/41740689327/job/126455956174"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/41861493761/job/126688179398"
       }
     ],
     "remotes": ["hughjonesd/Rmlx"]
