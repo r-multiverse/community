@@ -561,10 +561,10 @@
   },
   {
     "package": "RmlxStats",
-    "version_current": "0.3.0",
-    "hash_current": "36963b9c305b2487d6f93264c34d1c37bd0d5ea5",
-    "version_highest": "0.3.0",
-    "hash_highest": "36963b9c305b2487d6f93264c34d1c37bd0d5ea5"
+    "version_current": "0.4.0",
+    "hash_current": "aeddfd2cf670ba36ffa678611710fbd0eac3c69e",
+    "version_highest": "0.4.0",
+    "hash_highest": "aeddfd2cf670ba36ffa678611710fbd0eac3c69e"
   },
   {
     "package": "rredlist",
