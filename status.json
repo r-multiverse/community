@@ -1059,11 +1059,10 @@
     ]
   },
   "tidyterra": {
-    "success": [false],
-    "published": ["2026-11-06 21:12:32.769 UTC"],
-    "version": ["1.3.0"],
-    "remote_hash": ["983e5375b6e149bc587a4399df94b1574280dbac"],
-    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/42294676728"]
+    "success": [true],
+    "published": ["2026-11-06 21:46:30.721 UTC"],
+    "version": ["1.3.1"],
+    "remote_hash": ["874c882477968dc5fb7af55c543f2c49d7ddaf04"]
   },
   "trelliscope": {
     "success": [true],
