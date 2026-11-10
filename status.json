@@ -148,7 +148,7 @@
   },
   "cidian": {
     "success": [false],
-    "published": ["2026-10-11 15:37:08.328 UTC"],
+    "published": ["2026-11-10 14:52:17.424 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["97e2bd39dbb62fa2921b2cf56a1e7a4ff56f476a"],
     "versions": {
@@ -719,21 +719,21 @@
   },
   "prqlr": {
     "success": [false],
-    "published": ["2026-10-12 07:51:02.931 UTC"],
+    "published": ["2026-11-10 15:18:04.413 UTC"],
     "version": ["0.10.1"],
     "remote_hash": ["85d9fa32cf35a189942953a873a5351b1fae2516"],
     "r_cmd_check": [
       {
         "check": "WARNING",
         "config": "macos-release-arm64",
-        "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/38133332895/job/114711445668"
+        "r": "4.6.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/42835630267/job/129899239073"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
-        "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/38133332895/job/114711445621"
+        "r": "4.6.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/42835630267/job/129899239067"
       }
     ]
   },
