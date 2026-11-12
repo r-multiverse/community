@@ -786,7 +786,7 @@
   },
   "Rmlx": {
     "success": [false],
-    "published": ["2026-11-11 14:25:30.687 UTC"],
+    "published": ["2026-11-12 08:52:42.477 UTC"],
     "version": ["0.4.0"],
     "remote_hash": ["3cbc7a9ee26575c5ab7b716a19787e6a651d97fb"],
     "r_cmd_check": [
@@ -794,7 +794,7 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/43027199069/job/130551866756"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/43027199069/job/131070245713"
       }
     ]
   },
