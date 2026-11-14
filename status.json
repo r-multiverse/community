@@ -38,7 +38,7 @@
   },
   "audio.vadwebrtc": {
     "success": [false],
-    "published": ["2026-11-13 08:35:04.154 UTC"],
+    "published": ["2026-11-14 07:53:34.812 UTC"],
     "version": ["0.2"],
     "remote_hash": ["c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba"],
     "r_cmd_check": [
@@ -46,13 +46,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/43234625928/job/131778566585"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/43234625928/job/132381072969"
       },
       {
         "check": "WARNING",
         "config": "windows-release-arm64",
         "r": "4.6.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/43234625928/job/131778566777"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/43234625928/job/132381073126"
       }
     ]
   },
@@ -569,7 +569,7 @@
   },
   "mypaintr": {
     "success": [true],
-    "published": ["2026-11-13 14:18:13.486 UTC"],
+    "published": ["2026-11-14 07:57:16.345 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["2c3a19834f6c8792b76ca0c5c3bcfb75deb822f9"]
   },
@@ -830,15 +830,15 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2026-10-15 06:12:31.486 UTC"],
+    "published": ["2026-11-14 08:14:40.841 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "r_cmd_check": [
       {
         "check": "ERROR",
         "config": "source",
-        "r": "4.6.1",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/38221446025/job/116275902011"
+        "r": "4.6.2",
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/43574527903/job/132385844605"
       }
     ]
   },
@@ -856,7 +856,7 @@
   },
   "santoku": {
     "success": [true],
-    "published": ["2026-10-15 09:00:47.039 UTC"],
+    "published": ["2026-11-14 10:39:34.549 UTC"],
     "version": ["2.0.0"],
     "remote_hash": ["f2c468d566c429729435802e6a3fa3fe9f27976f"]
   },
