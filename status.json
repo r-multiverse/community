@@ -272,7 +272,7 @@
   },
   "geoarrow": {
     "success": [false],
-    "published": ["2026-10-15 10:19:06.365 UTC"],
+    "published": ["2026-11-14 12:13:02.737 UTC"],
     "version": ["0.4.3"],
     "remote_hash": ["9c305a06f6bd68f6f0d3565cb8971bcedb04a579"],
     "cran": ["0.4.4"],
@@ -330,7 +330,7 @@
   },
   "ggseg.formats": {
     "success": [true],
-    "published": ["2026-10-15 10:58:29.006 UTC"],
+    "published": ["2026-11-14 12:43:36.069 UTC"],
     "version": ["0.0.4"],
     "remote_hash": ["193ca3c76ed61992266a31c60727c337a969cd66"]
   },
