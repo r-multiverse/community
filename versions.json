@@ -505,10 +505,10 @@
   },
   {
     "package": "prqlr",
-    "version_current": "0.10.1",
-    "hash_current": "85d9fa32cf35a189942953a873a5351b1fae2516",
-    "version_highest": "0.10.1",
-    "hash_highest": "85d9fa32cf35a189942953a873a5351b1fae2516"
+    "version_current": "0.10.2",
+    "hash_current": "d9f266e33c8c5833e8224c6436a18e95fb811654",
+    "version_highest": "0.10.2",
+    "hash_highest": "d9f266e33c8c5833e8224c6436a18e95fb811654"
   },
   {
     "package": "qqman",
