@@ -197,10 +197,11 @@
     "remote_hash": ["f44dc5f5364ca498d2329c82984f92e8cfdfe625"]
   },
   "crew.aws.batch": {
-    "success": [true],
-    "published": ["2026-10-16 10:19:21.624 UTC"],
+    "success": [false],
+    "published": ["2026-11-16 17:37:03.703 UTC"],
     "version": ["0.1.0"],
-    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"]
+    "remote_hash": ["a25665729eb1d63b2f77049de78e3754ffd4c062"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/43919677541"]
   },
   "crew.cluster": {
     "success": [true],
@@ -336,7 +337,7 @@
   },
   "ggseg.meshes": {
     "success": [true],
-    "published": ["2026-10-17 11:24:57.772 UTC"],
+    "published": ["2026-11-16 13:44:42.026 UTC"],
     "version": ["0.0.1"],
     "remote_hash": ["964f1f59d9b224c31b7a67994007ac3024263962"]
   },
@@ -424,7 +425,7 @@
   },
   "igraph": {
     "success": [false],
-    "published": ["2026-10-16 02:05:04.377 UTC"],
+    "published": ["2026-11-16 17:36:17.421 UTC"],
     "version": ["2.3.4"],
     "remote_hash": ["fe3538b925b9898953b717e6de819be518bcf8ea"],
     "r_cmd_check": [
@@ -434,7 +435,8 @@
         "r": "4.6.1",
         "url": "https://github.com/r-universe/r-multiverse/actions/runs/38836457505/job/116769364627"
       }
-    ]
+    ],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/43919065945"]
   },
   "IMD": {
     "success": [false],
@@ -472,7 +474,7 @@
   },
   "later": {
     "success": [true],
-    "published": ["2026-10-16 09:57:58.144 UTC"],
+    "published": ["2026-11-16 19:13:45.936 UTC"],
     "version": ["1.4.8"],
     "remote_hash": ["938684dd177de7b42d4c7e74852fe1e0afb91c8b"]
   },
@@ -737,7 +739,7 @@
   },
   "retroglyph": {
     "success": [false],
-    "published": ["2026-10-16 02:15:01.197 UTC"],
+    "published": ["2026-11-16 17:29:00.828 UTC"],
     "version": ["0.0.9"],
     "remote_hash": ["aa3cf134c14dd7d9d7cd0c570881ed0c610904ff"],
     "dependencies": {
@@ -809,10 +811,11 @@
     "remote_hash": ["f09b449f960607542d7fc1db39156fa6b3ccf81e"]
   },
   "rstanarm": {
-    "success": [true],
-    "published": ["2026-10-16 10:48:59.153 UTC"],
+    "success": [false],
+    "published": ["2026-11-16 18:03:02.125 UTC"],
     "version": ["2.32.2"],
-    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"]
+    "remote_hash": ["aabb521eeb7a53eadc7178ec2ffb8f1e11e8c242"],
+    "synchronization": ["https://github.com/r-universe/r-multiverse/actions/runs/43923965012"]
   },
   "Rvision": {
     "success": [false],
@@ -988,7 +991,7 @@
   },
   "targets": {
     "success": [false],
-    "published": ["2026-10-16 02:21:27.392 UTC"],
+    "published": ["2026-11-16 18:07:41.710 UTC"],
     "version": ["1.12.0"],
     "remote_hash": ["e65b01c27bc38f45760e7bb52ef021f1656b9846"],
     "dependencies": {
