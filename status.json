@@ -816,7 +816,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2026-11-14 08:14:40.841 UTC"],
+    "published": ["2026-11-16 08:20:09.974 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "r_cmd_check": [
@@ -824,7 +824,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.6.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/43574527903/job/132385844605"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/43574527903/job/133172668741"
       }
     ]
   },
