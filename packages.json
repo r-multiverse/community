@@ -480,6 +480,12 @@
     "branch": "*release"
   },
   {
+    "package": "stanli",
+    "url": "https://github.com/seantalts/stanli",
+    "branch": "*release",
+    "subdir": "r"
+  },
+  {
     "package": "stantargets",
     "url": "https://github.com/ropensci/stantargets",
     "branch": "*release"
