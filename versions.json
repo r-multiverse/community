@@ -658,6 +658,13 @@
     "hash_highest": "2036992879e7b1a7357340372f943303429da2b8"
   },
   {
+    "package": "stanli",
+    "version_current": "0.28.0",
+    "hash_current": "1e0a66ffbcbed2a66b1aefcb8ea5524356634e5f",
+    "version_highest": "0.28.0",
+    "hash_highest": "1e0a66ffbcbed2a66b1aefcb8ea5524356634e5f"
+  },
+  {
     "package": "stantargets",
     "version_current": "0.1.3",
     "hash_current": "1a1e0feedeae5437fe45f34d26b3d180576f3f18",
