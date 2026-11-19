@@ -943,9 +943,9 @@
   },
   "stanli": {
     "success": [true],
-    "published": ["2026-11-18 15:53:47.448 UTC"],
-    "version": ["0.28.0"],
-    "remote_hash": ["1e0a66ffbcbed2a66b1aefcb8ea5524356634e5f"]
+    "published": ["2026-11-19 00:10:24.940 UTC"],
+    "version": ["0.28.1"],
+    "remote_hash": ["6537b0ba3c7088a696861e86e2d70943ed7e9fc1"]
   },
   "stantargets": {
     "success": [false],
