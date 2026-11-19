@@ -142,7 +142,7 @@
   },
   "californiaalw": {
     "success": [true],
-    "published": ["2026-10-20 08:22:53.663 UTC"],
+    "published": ["2026-11-19 11:28:23.766 UTC"],
     "version": ["0.1.0"],
     "remote_hash": ["34529f9aa4641e3dae7acc1e27281526e5b0907a"]
   },
@@ -357,7 +357,7 @@
   },
   "glaredb": {
     "success": [false],
-    "published": ["2026-11-18 15:01:57.118 UTC"],
+    "published": ["2026-11-19 09:20:58.552 UTC"],
     "version": ["0.0.5"],
     "remote_hash": ["ff810e8c5a1b7050d84b375b9ef33210102213f0"],
     "r_cmd_check": [
@@ -365,13 +365,13 @@
         "check": "WARNING",
         "config": "macos-release-arm64",
         "r": "4.6.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/44320010467/job/134859271405"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/44320010467/job/135455401105"
       },
       {
         "check": "WARNING",
         "config": "macos-release-x86_64",
         "r": "4.6.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/44320010467/job/134859271383"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/44320010467/job/135455401498"
       }
     ]
   },
@@ -1075,7 +1075,7 @@
   },
   "vctrs": {
     "success": [true],
-    "published": ["2026-10-20 10:45:26.591 UTC"],
+    "published": ["2026-11-19 13:19:08.316 UTC"],
     "version": ["0.7.3"],
     "remote_hash": ["d452a02c9f4752f3268431a3ac8aa221dbe4040f"]
   },
@@ -1216,7 +1216,7 @@
   },
   "zstdlite": {
     "success": [false],
-    "published": ["2026-11-18 09:00:51.336 UTC"],
+    "published": ["2026-11-19 09:07:04.138 UTC"],
     "version": ["0.2.6"],
     "remote_hash": ["585458ccbe36eaa179d8b30f04f1e3a91dc6b993"],
     "r_cmd_check": [
@@ -1224,7 +1224,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.6.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/44271479736/job/134689116280"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/44271479736/job/135453135649"
       }
     ]
   }
