@@ -659,10 +659,10 @@
   },
   {
     "package": "stanli",
-    "version_current": "0.28.1",
-    "hash_current": "6537b0ba3c7088a696861e86e2d70943ed7e9fc1",
-    "version_highest": "0.28.1",
-    "hash_highest": "6537b0ba3c7088a696861e86e2d70943ed7e9fc1"
+    "version_current": "0.29.0",
+    "hash_current": "29602320eb084eed320faa10216a3f915c163440",
+    "version_highest": "0.29.0",
+    "hash_highest": "29602320eb084eed320faa10216a3f915c163440"
   },
   {
     "package": "stantargets",
@@ -687,10 +687,10 @@
   },
   {
     "package": "targets",
-    "version_current": "1.12.0",
-    "hash_current": "e65b01c27bc38f45760e7bb52ef021f1656b9846",
-    "version_highest": "1.12.0",
-    "hash_highest": "e65b01c27bc38f45760e7bb52ef021f1656b9846"
+    "version_current": "1.12.1",
+    "hash_current": "6862e81e1e42b592f89d1103d2c76a0295ae5a1e",
+    "version_highest": "1.12.1",
+    "hash_highest": "6862e81e1e42b592f89d1103d2c76a0295ae5a1e"
   },
   {
     "package": "targetsketch",
