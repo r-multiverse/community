@@ -64,10 +64,10 @@
   },
   {
     "package": "bayesplot",
-    "version_current": "1.16.0",
-    "hash_current": "ba7344cb7f0b91bd8300ff019f42be61590503c1",
-    "version_highest": "1.16.0",
-    "hash_highest": "ba7344cb7f0b91bd8300ff019f42be61590503c1"
+    "version_current": "1.17.0",
+    "hash_current": "d80dcd37283ccf4cf42214dc911fc5dc92641065",
+    "version_highest": "1.17.0",
+    "hash_highest": "d80dcd37283ccf4cf42214dc911fc5dc92641065"
   },
   {
     "package": "bedrockbio",
@@ -659,10 +659,10 @@
   },
   {
     "package": "stanli",
-    "version_current": "0.29.0",
-    "hash_current": "29602320eb084eed320faa10216a3f915c163440",
-    "version_highest": "0.29.0",
-    "hash_highest": "29602320eb084eed320faa10216a3f915c163440"
+    "version_current": "0.30.0",
+    "hash_current": "9d3ce47d94d24636f3637d6aa26bda9ecf0f2236",
+    "version_highest": "0.30.0",
+    "hash_highest": "9d3ce47d94d24636f3637d6aa26bda9ecf0f2236"
   },
   {
     "package": "stantargets",
