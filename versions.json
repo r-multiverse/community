@@ -267,10 +267,10 @@
   },
   {
     "package": "ggtypst",
-    "version_current": "0.1.0",
-    "hash_current": "a075de59066ac2024c07b9c235310fedb4f9a23e",
-    "version_highest": "0.1.0",
-    "hash_highest": "a075de59066ac2024c07b9c235310fedb4f9a23e"
+    "version_current": "0.2.0",
+    "hash_current": "347b32993403d3e703d9d7a6ee126b8103d29e00",
+    "version_highest": "0.2.0",
+    "hash_highest": "347b32993403d3e703d9d7a6ee126b8103d29e00"
   },
   {
     "package": "glaredb",
