@@ -254,7 +254,7 @@
   },
   "duckdb": {
     "success": [true],
-    "published": ["2026-11-25 07:54:10.325 UTC"],
+    "published": ["2026-11-25 14:43:41.427 UTC"],
     "version": ["2.0.1"],
     "remote_hash": ["9daa54168089a57fd43633f17ae352c6afa4d599"]
   },
@@ -983,9 +983,9 @@
   },
   "stanli": {
     "success": [true],
-    "published": ["2026-11-24 01:32:45.257 UTC"],
-    "version": ["0.31.0"],
-    "remote_hash": ["f29a7cfc808ee5a5d7d14884ab4b85931eee156f"]
+    "published": ["2026-11-25 18:54:21.115 UTC"],
+    "version": ["0.32.0"],
+    "remote_hash": ["058d63dc4af4fbe0f0670f8693b744626017ec80"]
   },
   "stantargets": {
     "success": [false],
