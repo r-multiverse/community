@@ -15,10 +15,10 @@
   },
   {
     "package": "ahocorasick",
-    "version_current": "0.2.0",
-    "hash_current": "439ab7172c40b946b6811ffa7327ada58ab46d19",
-    "version_highest": "0.2.0",
-    "hash_highest": "439ab7172c40b946b6811ffa7327ada58ab46d19"
+    "version_current": "0.3.0",
+    "hash_current": "5fa58f6ff19959a3c9421f02cedecec7ce0bb78a",
+    "version_highest": "0.3.0",
+    "hash_highest": "5fa58f6ff19959a3c9421f02cedecec7ce0bb78a"
   },
   {
     "package": "arrow",
@@ -267,10 +267,10 @@
   },
   {
     "package": "ggtypst",
-    "version_current": "0.2.0",
-    "hash_current": "347b32993403d3e703d9d7a6ee126b8103d29e00",
-    "version_highest": "0.2.0",
-    "hash_highest": "347b32993403d3e703d9d7a6ee126b8103d29e00"
+    "version_current": "0.2.1",
+    "hash_current": "5a68af6650b7d8d0d7db7a516b76f6456ef9cf1b",
+    "version_highest": "0.2.1",
+    "hash_highest": "5a68af6650b7d8d0d7db7a516b76f6456ef9cf1b"
   },
   {
     "package": "glaredb",

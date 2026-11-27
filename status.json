@@ -13,9 +13,9 @@
   },
   "ahocorasick": {
     "success": [true],
-    "published": ["2026-11-03 12:02:59.769 UTC"],
-    "version": ["0.2.0"],
-    "remote_hash": ["439ab7172c40b946b6811ffa7327ada58ab46d19"]
+    "published": ["2026-11-27 14:39:56.334 UTC"],
+    "version": ["0.3.0"],
+    "remote_hash": ["5fa58f6ff19959a3c9421f02cedecec7ce0bb78a"]
   },
   "arrow": {
     "success": [true],
@@ -377,9 +377,9 @@
   },
   "ggtypst": {
     "success": [true],
-    "published": ["2026-11-24 19:53:05.341 UTC"],
-    "version": ["0.2.0"],
-    "remote_hash": ["347b32993403d3e703d9d7a6ee126b8103d29e00"]
+    "published": ["2026-11-27 16:43:24.780 UTC"],
+    "version": ["0.2.1"],
+    "remote_hash": ["5a68af6650b7d8d0d7db7a516b76f6456ef9cf1b"]
   },
   "glaredb": {
     "success": [false],
@@ -836,7 +836,7 @@
   },
   "Rvision": {
     "success": [false],
-    "published": ["2026-11-26 10:00:36.913 UTC"],
+    "published": ["2026-11-27 09:57:26.311 UTC"],
     "version": ["0.8.0"],
     "remote_hash": ["972627f8aac8a0eb95f8b166e316cb9b0ee5930c"],
     "r_cmd_check": [
@@ -844,7 +844,7 @@
         "check": "ERROR",
         "config": "source",
         "r": "4.6.2",
-        "url": "https://github.com/r-universe/r-multiverse/actions/runs/45796656888/job/139829085659"
+        "url": "https://github.com/r-universe/r-multiverse/actions/runs/45796656888/job/140433150481"
       }
     ]
   },
